@@ -3,5 +3,9 @@ pre-push        text eol=lf
 setup.sh        text eol=lf
 *.sh            text eol=lf
 
+# Giu LF cho config files de tranh warning CRLF tren Windows
+.gitattributes  text eol=lf
+.gitignore      text eol=lf
+
 # Auto cho cac file con lai
 *               text=auto
