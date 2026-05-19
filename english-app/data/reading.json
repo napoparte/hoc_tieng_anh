@@ -1,0 +1,158 @@
+{
+  "beginner": [
+    {
+      "title": "My Family",
+      "text": "I have a small family. My mother is a teacher. My father works in an office. I have one brother and one sister. We live in a house near the school. Every evening, we eat dinner together and talk about our day.",
+      "vocab": [
+        { "en": "family", "vi": "gia đình" },
+        { "en": "mother", "vi": "mẹ" },
+        { "en": "father", "vi": "bố" },
+        { "en": "brother", "vi": "anh/em trai" },
+        { "en": "sister", "vi": "chị/em gái" },
+        { "en": "house", "vi": "ngôi nhà" },
+        { "en": "school", "vi": "trường học" },
+        { "en": "dinner", "vi": "bữa tối" }
+      ],
+      "questions": [
+        { "q": "How many siblings does the writer have?", "opts": ["One", "Two", "Three", "None"], "ans": 1, "exp": "The text says one brother and one sister — two siblings." },
+        { "q": "What does the mother do?", "opts": ["Doctor", "Teacher", "Driver", "Chef"], "ans": 1, "exp": "\"My mother is a teacher.\"" }
+      ]
+    },
+    {
+      "title": "A Day at School",
+      "text": "I wake up at six o'clock. I brush my teeth and eat breakfast. I go to school at seven. I study English, math, and science. I eat lunch with my friends. I come home at four in the afternoon.",
+      "vocab": [
+        { "en": "wake up", "vi": "thức dậy" },
+        { "en": "breakfast", "vi": "bữa sáng" },
+        { "en": "study", "vi": "học" },
+        { "en": "lunch", "vi": "bữa trưa" },
+        { "en": "friends", "vi": "bạn bè" },
+        { "en": "afternoon", "vi": "buổi chiều" }
+      ],
+      "questions": [
+        { "q": "What time does the writer go to school?", "opts": ["Six", "Seven", "Four", "Eight"], "ans": 1, "exp": "\"I go to school at seven.\"" },
+        { "q": "Who does the writer eat lunch with?", "opts": ["Family", "Teachers", "Friends", "Alone"], "ans": 2, "exp": "\"I eat lunch with my friends.\"" }
+      ]
+    },
+    {
+      "title": "My Pet Cat",
+      "text": "I have a cat. Her name is Luna. She is white and black. Luna likes to sleep on my bed. She drinks milk and eats fish. Every morning, Luna sits by the window and watches the birds.",
+      "vocab": [
+        { "en": "cat", "vi": "con mèo" },
+        { "en": "sleep", "vi": "ngủ" },
+        { "en": "milk", "vi": "sữa" },
+        { "en": "fish", "vi": "cá" },
+        { "en": "window", "vi": "cửa sổ" },
+        { "en": "birds", "vi": "chim" }
+      ],
+      "questions": [
+        { "q": "What is the cat's name?", "opts": ["Lucy", "Luna", "Lisa", "Lily"], "ans": 1, "exp": "\"Her name is Luna.\"" },
+        { "q": "What does Luna watch in the morning?", "opts": ["TV", "Birds", "Cars", "Fish"], "ans": 1, "exp": "She watches the birds by the window." }
+      ]
+    }
+  ],
+  "elementary": [
+    {
+      "title": "A Rainy Day",
+      "text": "Yesterday the weather was terrible. It was cloudy and windy all morning. At noon, it started to rain heavily. I forgot my umbrella, so I got wet on the way home. In the evening, the storm stopped and the sky became clear again.",
+      "vocab": [
+        { "en": "weather", "vi": "thời tiết" },
+        { "en": "cloudy", "vi": "nhiều mây" },
+        { "en": "windy", "vi": "có gió" },
+        { "en": "umbrella", "vi": "ô / dù" },
+        { "en": "storm", "vi": "bão / giông" },
+        { "en": "clear", "vi": "trong xanh (trời)" }
+      ],
+      "questions": [
+        { "q": "Why did the writer get wet?", "opts": ["Lost shoes", "Forgot umbrella", "Missed the bus", "Closed the window"], "ans": 1, "exp": "\"I forgot my umbrella.\"" },
+        { "q": "When did the rain start?", "opts": ["Morning", "Noon", "Evening", "Night"], "ans": 1, "exp": "\"At noon, it started to rain.\"" }
+      ]
+    },
+    {
+      "title": "Shopping for Clothes",
+      "text": "Last Saturday I went to the shopping mall with my cousin. I wanted to buy a new jacket because winter is coming. I tried on three different sizes. The medium size fit me perfectly. The shop gave a twenty percent discount, so I saved a lot of money.",
+      "vocab": [
+        { "en": "shopping mall", "vi": "trung tâm thương mại" },
+        { "en": "jacket", "vi": "áo khoác" },
+        { "en": "size", "vi": "cỡ / kích cỡ" },
+        { "en": "discount", "vi": "giảm giá" },
+        { "en": "fit", "vi": "vừa vặn" },
+        { "en": "save", "vi": "tiết kiệm" }
+      ],
+      "questions": [
+        { "q": "Which size fit the writer?", "opts": ["Small", "Medium", "Large", "Extra large"], "ans": 1, "exp": "\"The medium size fit me perfectly.\"" },
+        { "q": "Why did the writer want a jacket?", "opts": ["Summer trip", "Winter is coming", "School uniform", "Birthday gift"], "ans": 1, "exp": "\"Winter is coming.\"" }
+      ]
+    }
+  ],
+  "intermediate": [
+    {
+      "title": "Working from Home",
+      "text": "Since 2020, many employees have started working from home. This arrangement saves commuting time and reduces stress for some people. However, it can be difficult to separate work life from personal life. Successful remote workers often create a dedicated workspace and follow a strict daily schedule.",
+      "vocab": [
+        { "en": "employees", "vi": "nhân viên" },
+        { "en": "commuting", "vi": "đi làm hàng ngày" },
+        { "en": "arrangement", "vi": "sắp xếp / chế độ" },
+        { "en": "dedicated", "vi": "dành riêng" },
+        { "en": "workspace", "vi": "không gian làm việc" },
+        { "en": "schedule", "vi": "lịch trình" }
+      ],
+      "questions": [
+        { "q": "What is one benefit mentioned?", "opts": ["Higher salary", "Saves commuting time", "Free housing", "More meetings"], "ans": 1, "exp": "The passage mentions saving commuting time." },
+        { "q": "What do successful remote workers often create?", "opts": ["A garden", "A dedicated workspace", "A new company", "A long vacation"], "ans": 1, "exp": "They create a dedicated workspace." }
+      ]
+    },
+    {
+      "title": "Protecting the Environment",
+      "text": "Climate change is one of the greatest challenges of our time. Governments and companies must invest in renewable energy and reduce carbon emissions. Individuals can also help by recycling, using public transport, and buying sustainable products. Small actions, when multiplied by millions of people, can make a significant difference.",
+      "vocab": [
+        { "en": "climate change", "vi": "biến đổi khí hậu" },
+        { "en": "renewable", "vi": "có thể tái tạo" },
+        { "en": "emissions", "vi": "khí thải" },
+        { "en": "recycling", "vi": "tái chế" },
+        { "en": "sustainable", "vi": "bền vững" },
+        { "en": "significant", "vi": "đáng kể" }
+      ],
+      "questions": [
+        { "q": "What should companies invest in?", "opts": ["Coal plants", "Renewable energy", "Plastic bags", "Private jets"], "ans": 1, "exp": "Invest in renewable energy." },
+        { "q": "The passage suggests individual actions can be:", "opts": ["Useless", "Illegal", "Significant when combined", "Too expensive"], "ans": 2, "exp": "Small actions multiplied can make a difference." }
+      ]
+    }
+  ],
+  "upper": [
+    {
+      "title": "The Value of Peer Review",
+      "text": "In academic publishing, peer review remains a cornerstone of quality control. Before a research paper appears in a reputable journal, independent experts evaluate its methodology, data, and conclusions. Although the process is time-consuming and occasionally criticized for bias, it helps prevent flawed studies from influencing public policy and clinical practice.",
+      "vocab": [
+        { "en": "peer review", "vi": "phản biện đồng nghiệp" },
+        { "en": "methodology", "vi": "phương pháp luận" },
+        { "en": "reputable", "vi": "uy tín" },
+        { "en": "flawed", "vi": "có sai sót" },
+        { "en": "clinical", "vi": "lâm sàng" },
+        { "en": "cornerstone", "vi": "nền tảng" }
+      ],
+      "questions": [
+        { "q": "Who evaluates the paper before publication?", "opts": ["Students", "Independent experts", "Politicians", "Patients"], "ans": 1, "exp": "Independent experts conduct peer review." },
+        { "q": "A criticism of peer review mentioned is that it can be:", "opts": ["Too fast", "Biased at times", "Unnecessary", "Free"], "ans": 1, "exp": "It is occasionally criticized for bias." }
+      ]
+    }
+  ],
+  "advanced": [
+    {
+      "title": "Ethics in Artificial Intelligence",
+      "text": "As artificial intelligence systems become more autonomous, ethicists warn that transparency and accountability must keep pace. Algorithms trained on biased data can perpetuate discrimination in hiring, lending, and law enforcement. Regulators in several countries are drafting legislation that requires companies to document how high-risk AI models reach their decisions, albeit implementation remains uneven across industries.",
+      "vocab": [
+        { "en": "autonomous", "vi": "tự động / tự vận hành" },
+        { "en": "accountability", "vi": "trách nhiệm giải trình" },
+        { "en": "perpetuate", "vi": "duy trì / làm trầm trọng thêm" },
+        { "en": "discrimination", "vi": "phân biệt đối xử" },
+        { "en": "legislation", "vi": "pháp luật / luật pháp" },
+        { "en": "albeit", "vi": "mặc dù / tuy rằng" }
+      ],
+      "questions": [
+        { "q": "Biased training data can lead to discrimination in:", "opts": ["Sports only", "Hiring and lending", "Cooking", "Music"], "ans": 1, "exp": "Examples include hiring, lending, and law enforcement." },
+        { "q": "\"Albeit\" in the last sentence introduces:", "opts": ["A cause", "A contrast", "A definition", "A list"], "ans": 1, "exp": "\"Albeit\" = although — contrast with uneven implementation." }
+      ]
+    }
+  ]
+}

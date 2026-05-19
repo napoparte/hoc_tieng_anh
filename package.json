@@ -1,0 +1,11 @@
+{
+  "name": "english-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build-obfuscate.js"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^4.1.1"
+  }
+}

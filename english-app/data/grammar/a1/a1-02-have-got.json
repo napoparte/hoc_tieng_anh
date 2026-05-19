@@ -1,0 +1,697 @@
+{
+  "beginner": [
+    {
+      "icon": "🟢",
+      "title": "Have Got",
+      "level": "A1",
+      "badge": "🌱 A1",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Khi nào dùng HAVE GOT</div>\nDùng <b>have got</b> để nói về:<br>\n• <b>Sở hữu:</b> I've got a new phone. She's got a dog.<br>\n• <b>Mối quan hệ:</b> He's got two sisters. We've got a great teacher.<br>\n• <b>Đặc điểm / ngoại hình:</b> She's got blue eyes. He's got short hair.<br>\n• <b>Bệnh tật / triệu chứng:</b> I've got a headache. She's got a cold.<br>\n⚠️ <b>Have got = Have</b> (cùng nghĩa sở hữu) nhưng have got phổ biến hơn trong tiếng Anh Anh (British English).</div>\n\n<div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Công thức đầy đủ</div>\n<table style=\"width:100%;font-size:12px;border-collapse:collapse\">\n<tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Chủ ngữ</th><th style=\"padding:4px 8px;text-align:left\">Khẳng định</th><th style=\"padding:4px 8px;text-align:left\">Rút gọn</th><th style=\"padding:4px 8px;text-align:left\">Phủ định</th><th style=\"padding:4px 8px;text-align:left\">Câu hỏi</th></tr>\n<tr><td style=\"padding:4px 8px\">I / You / We / They</td><td style=\"padding:4px 8px\">have got</td><td style=\"padding:4px 8px\">I've got</td><td style=\"padding:4px 8px\">have not got / haven't got</td><td style=\"padding:4px 8px\">Have you got…?</td></tr>\n<tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">He / She / It</td><td style=\"padding:4px 8px\">has got</td><td style=\"padding:4px 8px\">He's got</td><td style=\"padding:4px 8px\">has not got / hasn't got</td><td style=\"padding:4px 8px\">Has she got…?</td></tr>\n</table></div>\n\n<div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">✅ Trả lời ngắn (Short answers)</div>\n<b>Have you got a pen?</b> – Yes, I <b>have</b>. / No, I <b>haven't</b>.<br>\n<b>Has she got a car?</b> – Yes, she <b>has</b>. / No, she <b>hasn't</b>.<br>\n⚠️ Không nói: ~~Yes, I've got.~~ → Phải nói: Yes, I <b>have</b>.</div>\n\n<div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">🔄 Have got vs Have (American English)</div>\n• British: <b>I've got</b> a car. → American: <b>I have</b> a car.<br>\n• British: <b>Have you got</b> time? → American: <b>Do you have</b> time?<br>\n• Cả hai đều đúng trong tiếng Anh hiện đại. Trong bài thi quốc tế, chấp nhận cả hai.</div>\n\n<div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Lỗi thường gặp</div>\n❌ <s>She have got a dog.</s> → ✅ She <b>has</b> got a dog.<br>\n❌ <s>Has she got? Yes, she's got.</s> → ✅ Yes, she <b>has</b>.<br>\n❌ <s>I haven't got no money.</s> → ✅ I <b>haven't got any</b> money.<br>\n❌ <s>Do you have got a pen?</s> → ✅ <b>Have</b> you got a pen?<br>\n❌ <s>He haves got blue eyes.</s> → ✅ He <b>has</b> got blue eyes.</div>\n\n<div class=\"ex-sent\">I'<b>ve got</b> two brothers and one sister.<span>Tôi có hai anh và một em gái.</span></div>\n<div class=\"ex-sent\"><b>Has</b> she <b>got</b> a car? – No, she <b>hasn't</b>.<span>Cô ấy có xe không? – Không.</span></div>\n<div class=\"ex-sent\">He'<b>s got</b> short brown hair and green eyes.<span>Anh ấy có tóc nâu ngắn và mắt xanh.</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "She ___ got a beautiful garden.",
+          "opts": "has,have,is,are",
+          "ans": "A",
+          "exp": "He/She/It → has got"
+        },
+        {
+          "type": "mc",
+          "q": "___ you got a minute? I need to ask you something.",
+          "opts": "Have,Has,Do,Are",
+          "ans": "A",
+          "exp": "You → Have you got…?"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ got any milk left. We need to buy some.",
+          "opts": "haven't,hasn't,don't,isn't",
+          "ans": "A",
+          "exp": "They → haven't got (phủ định)"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ got a new job at a big company in the city.",
+          "opts": "has,have,is,does",
+          "ans": "A",
+          "exp": "He → has got"
+        },
+        {
+          "type": "mc",
+          "q": "Have you got a pen? – Yes, I ___.",
+          "opts": "have,has,do,am",
+          "ans": "A",
+          "exp": "Short answer: Yes, I have. (không dùng I've got)"
+        },
+        {
+          "type": "mc",
+          "q": "My sister ___ got long dark hair and brown eyes.",
+          "opts": "has,have,is,are",
+          "ans": "A",
+          "exp": "My sister = She → has got"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ got enough chairs for all the guests tonight.",
+          "opts": "haven't,hasn't,aren't,don't",
+          "ans": "A",
+          "exp": "We → haven't got"
+        },
+        {
+          "type": "mc",
+          "q": "___ your parents got a big house?",
+          "opts": "Have,Has,Do,Are",
+          "ans": "A",
+          "exp": "Your parents (= they) → Have they got…?"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ got a terrible headache. I need some medicine.",
+          "opts": "have,has,am,do",
+          "ans": "A",
+          "exp": "I → have got"
+        },
+        {
+          "type": "mc",
+          "q": "Has the hotel got a swimming pool? – Yes, it ___.",
+          "opts": "has,have,does,is",
+          "ans": "A",
+          "exp": "Short answer: Yes, it has."
+        },
+        {
+          "type": "mc",
+          "q": "She ___ got three cats and a dog at home.",
+          "opts": "has,have,is,are",
+          "ans": "A",
+          "exp": "She → has got"
+        },
+        {
+          "type": "mc",
+          "q": "___ he got a driving licence yet?",
+          "opts": "Has,Have,Does,Is",
+          "ans": "A",
+          "exp": "He → Has he got…?"
+        },
+        {
+          "type": "mc",
+          "q": "We've got ___ new neighbours. They moved in last week.",
+          "opts": "some,any,no,much",
+          "ans": "A",
+          "exp": "Khẳng định → some"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ got any cash on me. Can I pay by card?",
+          "opts": "haven't,hasn't,don't,aren't",
+          "ans": "A",
+          "exp": "I → haven't got (phủ định)"
+        },
+        {
+          "type": "mc",
+          "q": "The baby ___ got beautiful blue eyes like her mother.",
+          "opts": "has,have,is,got",
+          "ans": "A",
+          "exp": "The baby = It/She → has got"
+        },
+        {
+          "type": "mc",
+          "q": "___ the school got a sports hall?",
+          "opts": "Has,Have,Does,Is",
+          "ans": "A",
+          "exp": "The school (= it) → Has it got…?"
+        },
+        {
+          "type": "tf",
+          "q": "He have got a new bicycle. → Correct or Wrong?",
+          "ans": "Wrong – correct: He <b>has</b> got a new bicycle",
+          "exp": "He/She/It → has got (không phải have got)"
+        },
+        {
+          "type": "tf",
+          "q": "Have you got any brothers or sisters? → Correct or Wrong?",
+          "ans": "Correct",
+          "exp": "You → Have you got…? ✔"
+        },
+        {
+          "type": "tf",
+          "q": "Yes, I've got. → Correct or Wrong?",
+          "ans": "Wrong – correct: Yes, I <b>have</b>.",
+          "exp": "Short answer không dùng rút gọn 've got"
+        },
+        {
+          "type": "tf",
+          "q": "She hasn't got any money in her purse. → Correct or Wrong?",
+          "ans": "Correct",
+          "exp": "She → hasn't got + any ✔"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ got a great idea for the project!",
+          "ans": "have",
+          "exp": "I → have got"
+        },
+        {
+          "type": "fill",
+          "q": "___ she got a spare key to the flat?",
+          "ans": "Has",
+          "exp": "She → Has she got…?"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ got a meeting this afternoon, so he can't join us.",
+          "ans": "has",
+          "exp": "He → has got"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ got enough time to finish everything before the deadline.",
+          "ans": "haven't",
+          "exp": "We → haven't got (phủ định)"
+        },
+        {
+          "type": "fill",
+          "q": "Have you got a dictionary? – No, I ___.",
+          "ans": "haven't",
+          "exp": "Short answer: No, I haven't."
+        },
+        {
+          "type": "fill",
+          "q": "My parents ___ got a lovely cottage by the sea.",
+          "ans": "have",
+          "exp": "My parents (= they) → have got"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ got beautiful long hair that reaches her waist.",
+          "ans": "has",
+          "exp": "She → has got"
+        },
+        {
+          "type": "fill",
+          "q": "The flat ___ got three bedrooms and a large balcony.",
+          "ans": "has",
+          "exp": "The flat (= it) → has got"
+        },
+        {
+          "type": "fill",
+          "q": "___ your brother got a job yet?",
+          "ans": "Has",
+          "exp": "Your brother (= he) → Has he got…?"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ got any idea what she's talking about.",
+          "ans": "haven't",
+          "exp": "haven't got any = I don't know at all"
+        },
+        {
+          "type": "fill",
+          "q": "Has the town got a good market? – Yes, it ___.",
+          "ans": "has",
+          "exp": "Short answer: Yes, it has."
+        },
+        {
+          "type": "fill",
+          "q": "They ___ got two children — a boy and a girl.",
+          "ans": "have",
+          "exp": "They → have got"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ got short black hair and dark brown eyes.",
+          "ans": "has",
+          "exp": "He → has got (describing appearance)"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ got a new coffee machine in the office. Everyone loves it.",
+          "ans": "have",
+          "exp": "We → have got"
+        },
+        {
+          "type": "fill",
+          "q": "___ you got a moment? I need your advice about something.",
+          "ans": "Have",
+          "exp": "You → Have you got…?"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ got a cold, so she isn't coming to school today.",
+          "ans": "has",
+          "exp": "has got = illness"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ got any pets. Their flat doesn't allow animals.",
+          "ans": "haven't",
+          "exp": "haven't got any = zero"
+        },
+        {
+          "type": "fill",
+          "q": "My grandmother ___ got a huge collection of old photographs.",
+          "ans": "has",
+          "exp": "My grandmother = She → has got"
+        },
+        {
+          "type": "fill",
+          "q": "___ the hotel got free Wi-Fi for guests?",
+          "ans": "Has",
+          "exp": "The hotel (= it) → Has it got…?"
+        },
+        {
+          "type": "fill",
+          "q": "I've got ___ good news and some bad news. Which do you want first?",
+          "ans": "some",
+          "exp": "Khẳng định với danh từ không đếm được → some"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "She has got two cats and a small dog",
+            "extra": [
+              "got",
+              "cats",
+              "small"
+            ]
+          },
+          {
+            "words": "Have you got a moment I need your help",
+            "extra": [
+              "got",
+              "moment",
+              "need"
+            ]
+          },
+          {
+            "words": "He has got short dark hair and brown eyes",
+            "extra": [
+              "got",
+              "short",
+              "brown"
+            ]
+          },
+          {
+            "words": "We haven't got enough chairs for all the guests",
+            "extra": [
+              "haven't",
+              "enough",
+              "guests"
+            ]
+          },
+          {
+            "words": "Has your sister got a driving licence yet",
+            "extra": [
+              "sister",
+              "got",
+              "licence"
+            ]
+          },
+          {
+            "words": "I have got a terrible headache today",
+            "extra": [
+              "got",
+              "terrible",
+              "headache"
+            ]
+          },
+          {
+            "words": "They have got a lovely house near the park",
+            "extra": [
+              "got",
+              "lovely",
+              "park"
+            ]
+          },
+          {
+            "words": "Has the school got a swimming pool",
+            "extra": [
+              "school",
+              "got",
+              "swimming"
+            ]
+          },
+          {
+            "words": "She hasn't got any money left in her purse",
+            "extra": [
+              "hasn't",
+              "money",
+              "purse"
+            ]
+          },
+          {
+            "words": "Have you got any brothers or sisters",
+            "extra": [
+              "got",
+              "brothers",
+              "sisters"
+            ]
+          },
+          {
+            "words": "My parents have got a cottage by the sea",
+            "extra": [
+              "parents",
+              "got",
+              "cottage"
+            ]
+          },
+          {
+            "words": "He has got a new job at a big company",
+            "extra": [
+              "got",
+              "new",
+              "company"
+            ]
+          },
+          {
+            "words": "The flat has got three bedrooms and a large balcony",
+            "extra": [
+              "got",
+              "bedrooms",
+              "balcony"
+            ]
+          },
+          {
+            "words": "I haven't got a clue what she is talking about",
+            "extra": [
+              "haven't",
+              "clue",
+              "talking"
+            ]
+          },
+          {
+            "words": "Has the restaurant got a vegetarian menu",
+            "extra": [
+              "restaurant",
+              "got",
+              "vegetarian"
+            ]
+          },
+          {
+            "words": "We have got some great news to share with you",
+            "extra": [
+              "got",
+              "great",
+              "share"
+            ]
+          },
+          {
+            "words": "Has he got a moment to speak with me",
+            "extra": [
+              "got",
+              "moment",
+              "speak"
+            ]
+          },
+          {
+            "words": "She has got beautiful green eyes like her mother",
+            "extra": [
+              "got",
+              "beautiful",
+              "mother"
+            ]
+          },
+          {
+            "words": "They haven't got any pets because their flat does not allow animals",
+            "extra": [
+              "haven't",
+              "pets",
+              "animals"
+            ]
+          },
+          {
+            "words": "Have you got the time I have left my watch at home",
+            "extra": [
+              "got",
+              "time",
+              "watch"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Hi! My name is Mia. I {{1}} a big family. My mum {{2}} three sisters, so I {{3}} three aunts. My dad {{4}} two brothers. I {{5}} one younger brother called Tom. Tom {{6}} dark curly hair and he {{7}} freckles on his nose. Our house {{8}} a big garden where we grow vegetables. We {{9}} two cats and a rabbit. The rabbit {{10}} very long ears and a white tail. {{11}} you got any pets at home?",
+            "blanks": {
+              "1": "have got",
+              "2": "has got",
+              "3": "have got",
+              "4": "has got",
+              "5": "have got",
+              "6": "has got",
+              "7": "has got",
+              "8": "has got",
+              "9": "have got",
+              "10": "has got",
+              "11": "Have"
+            },
+            "wordbank": [
+              "have",
+              "has",
+              "haven't",
+              "hasn't",
+              "got",
+              "any",
+              "some",
+              "big",
+              "dark",
+              "long",
+              "cat",
+              "pet",
+              "brother",
+              "sister",
+              "garden",
+              "hair",
+              "ear",
+              "tail",
+              "freckle",
+              "rabbit"
+            ]
+          },
+          {
+            "text": "I {{1}} a new smartphone but it {{2}} a case, so I need to buy one. The phone {{3}} an excellent camera — it {{4}} three lenses on the back. It {{5}} face recognition too, which is very convenient. However, it {{6}} a headphone jack, which is a problem for me because I {{7}} wireless earphones. My friend Sam {{8}} the same phone and she loves it. She says the battery {{9}} great life and {{10}} any serious problems. I am happy with my purchase but I wish it {{11}} a longer warranty.",
+            "blanks": {
+              "1": "have got",
+              "2": "hasn't got",
+              "3": "has got",
+              "4": "has got",
+              "5": "has got",
+              "6": "hasn't got",
+              "7": "haven't got",
+              "8": "has got",
+              "9": "has got",
+              "10": "hasn't got",
+              "11": "had got"
+            },
+            "wordbank": [
+              "have",
+              "has",
+              "haven't",
+              "hasn't",
+              "got",
+              "any",
+              "some",
+              "camera",
+              "lens",
+              "battery",
+              "warranty",
+              "problem",
+              "case",
+              "earphone",
+              "jack",
+              "recognition",
+              "purchase",
+              "friend",
+              "phone",
+              "life"
+            ]
+          },
+          {
+            "text": "The town of Millbrook is small but charming. It {{1}} a beautiful old church in the centre. The church {{2}} a tall tower that you can see from miles away. The town {{3}} two supermarkets and a weekly market on Saturdays. It {{4}} a cinema or a theatre, unfortunately. However, it {{5}} a wonderful community centre. The centre {{6}} a gym, a café and a library. The library {{7}} thousands of books and it {{8}} free Wi-Fi for visitors. The park {{9}} a lake where people go fishing. The local school {{10}} excellent sports facilities. The town {{11}} much nightlife, but most residents say they love the peace and quiet.",
+            "blanks": {
+              "1": "has got",
+              "2": "has got",
+              "3": "has got",
+              "4": "hasn't got",
+              "5": "has got",
+              "6": "has got",
+              "7": "has got",
+              "8": "has got",
+              "9": "has got",
+              "10": "has got",
+              "11": "hasn't got"
+            },
+            "wordbank": [
+              "have",
+              "has",
+              "haven't",
+              "hasn't",
+              "got",
+              "any",
+              "some",
+              "church",
+              "tower",
+              "market",
+              "cinema",
+              "library",
+              "gym",
+              "café",
+              "park",
+              "lake",
+              "school",
+              "nightlife",
+              "facility",
+              "community"
+            ]
+          },
+          {
+            "text": "My best friend Leo is very interesting. He {{1}} a passion for cooking and {{2}} over two hundred cookbooks at home. He {{3}} a large kitchen with professional equipment. He {{4}} a food blog too, which is very popular. He {{5}} thousands of followers online. He {{6}} a part-time job at a restaurant on weekends. The restaurant {{7}} a Michelin star, so the standards are very high. Leo says he {{8}} a dream to open his own café one day. He {{9}} already found the perfect location. I {{10}} a very lucky friend because he always cooks for me. We both {{11}} the same taste in food, which makes things easy!",
+            "blanks": {
+              "1": "has got",
+              "2": "has got",
+              "3": "has got",
+              "4": "has got",
+              "5": "has got",
+              "6": "has got",
+              "7": "has got",
+              "8": "has got",
+              "9": "has got",
+              "10": "have got",
+              "11": "have got"
+            },
+            "wordbank": [
+              "have",
+              "has",
+              "haven't",
+              "hasn't",
+              "got",
+              "any",
+              "some",
+              "passion",
+              "cookbook",
+              "kitchen",
+              "blog",
+              "follower",
+              "restaurant",
+              "star",
+              "dream",
+              "location",
+              "café",
+              "standard",
+              "equipment",
+              "taste"
+            ]
+          },
+          {
+            "text": "The new sports centre in our neighbourhood {{1}} something for everyone. It {{2}} an Olympic-size swimming pool and four tennis courts. The gym {{3}} the latest equipment and very helpful staff. However, it {{4}} a car park, which is a problem for many visitors. The café inside {{5}} healthy food and smoothies. It {{6}} a children's area where kids can play safely. The centre {{7}} classes for all ages — yoga, dance, and martial arts. I {{8}} a monthly membership and I love it. My sister {{9}} hers yet because she {{10}} enough money at the moment. She {{11}} a part-time job, so hopefully she can join soon.",
+            "blanks": {
+              "1": "has got",
+              "2": "has got",
+              "3": "has got",
+              "4": "hasn't got",
+              "5": "has got",
+              "6": "has got",
+              "7": "has got",
+              "8": "have got",
+              "9": "hasn't got",
+              "10": "hasn't got",
+              "11": "has got"
+            },
+            "wordbank": [
+              "have",
+              "has",
+              "haven't",
+              "hasn't",
+              "got",
+              "any",
+              "some",
+              "pool",
+              "court",
+              "equipment",
+              "staff",
+              "park",
+              "café",
+              "membership",
+              "class",
+              "yoga",
+              "dance",
+              "money",
+              "sister",
+              "centre"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Viết về bản thân: bạn có gì (đồ vật, thú cưng, gia đình)?",
+          "grammar_focus": "have got / has got – khẳng định",
+          "hint_words": [
+            "I've got",
+            "My mum has got",
+            "We've got",
+            "a dog",
+            "two brothers",
+            "a small room"
+          ],
+          "min_words": 30,
+          "example": "I've got a small but cosy room. I've got a laptop and lots of books. My family has got a dog called Max. We've got a garden where Max loves to play."
+        },
+        {
+          "vi": "Hỏi và trả lời về những thứ bạn không có (phủ định) hoặc đặt câu hỏi về người khác.",
+          "grammar_focus": "haven't got / hasn't got / Have you got…?",
+          "hint_words": [
+            "I haven't got",
+            "She hasn't got",
+            "Have you got",
+            "Has he got",
+            "any money",
+            "a driving licence"
+          ],
+          "min_words": 30,
+          "example": "I haven't got a car, so I always take the bus. My friend Tom hasn't got a mobile phone — he prefers books! Have you got a moment to talk? Has she got a spare key?"
+        },
+        {
+          "vi": "Mô tả ngoại hình của một người bạn biết dùng have got.",
+          "grammar_focus": "has got for describing appearance",
+          "hint_words": [
+            "has got",
+            "long hair",
+            "blue eyes",
+            "a big smile",
+            "freckles",
+            "curly hair"
+          ],
+          "min_words": 30,
+          "example": "My best friend Ana has got long dark hair and big brown eyes. She has got a warm smile that makes everyone feel welcome. She hasn't got any brothers or sisters, but she has got lots of friends."
+        },
+        {
+          "vi": "Viết về ngôi nhà hoặc thành phố của bạn dùng have got.",
+          "grammar_focus": "has got for places and features",
+          "hint_words": [
+            "My city has got",
+            "Our house has got",
+            "It hasn't got",
+            "a park",
+            "a swimming pool",
+            "two bedrooms"
+          ],
+          "min_words": 35,
+          "example": "My city has got a beautiful old cathedral and a large river. It has got lots of cafés and restaurants. Unfortunately, it hasn't got a big airport. Our house has got three bedrooms and a small garden."
+        },
+        {
+          "vi": "Viết đoạn hội thoại ngắn hỏi và trả lời về sở hữu dùng Have got.",
+          "grammar_focus": "Questions and short answers with have got",
+          "hint_words": [
+            "Have you got",
+            "Yes I have",
+            "No I haven't",
+            "Has she got",
+            "Has your school got"
+          ],
+          "min_words": 30,
+          "example": "A: Have you got a pen I can borrow?\nB: Yes, I have. Here you go.\nA: Has your sister got a car?\nB: No, she hasn't. She goes everywhere by bike.\nA: Have you got any plans this weekend?\nB: No, I haven't. Why?"
+        }
+      ]
+    }
+  ]
+}

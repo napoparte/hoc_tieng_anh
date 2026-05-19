@@ -1,0 +1,1963 @@
+{
+  "elementary": [
+    {
+      "icon": "🚀",
+      "title": "A2 Will vs be going to: Future",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Dự đoán (Predictions)</div>• <b>Will:</b> Dự đoán dựa trên ý kiến cá nhân (I think he'll win).<br>• <b>Be going to:</b> Dự đoán dựa trên bằng chứng hiện tại (Look at the clouds! It's going to rain).</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Quyết định (Decisions)</div>• <b>Will:</b> Quyết định ngay tại thời điểm nói (I'll buy some bread).<br>• <b>Be going to:</b> Dự định đã có từ trước (I'm going to visit my mother next month).</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Công thức</div><b>Will:</b> S + will + V (infinitive)<br><b>Be going to:</b> S + am/is/are + going to + V (infinitive)</div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "A: We don't have any bread. B: Really? I ___ some from the shop then.",
+          "opts": "'ll get,'m going to get,will to get,get",
+          "ans": "A",
+          "exp": "Instant decision -> will"
+        },
+        {
+          "type": "mc",
+          "q": "A: Why do you need to borrow my suitcase? B: Because I ___ my mother next month.",
+          "opts": "'m going to visit,'ll visit,going to visit,visit",
+          "ans": "A",
+          "exp": "Prior plan -> be going to"
+        },
+        {
+          "type": "mc",
+          "q": "I'm really cold. I ___ the heating on.",
+          "opts": "'ll turn,'m going to turn,going to turn,turn",
+          "ans": "A",
+          "exp": "Instant decision -> will"
+        },
+        {
+          "type": "mc",
+          "q": "Look at those black clouds! It ___ rain.",
+          "opts": "is going to,will,is going,going to",
+          "ans": "A",
+          "exp": "Prediction based on evidence -> be going to"
+        },
+        {
+          "type": "mc",
+          "q": "I think she ___ a great doctor one day.",
+          "opts": "will be,is going to be,is being,be",
+          "ans": "A",
+          "exp": "Prediction based on opinion -> will"
+        },
+        {
+          "type": "mc",
+          "q": "A: Did you remember to buy the tickets? B: Oh no! I ___ them now.",
+          "opts": "'ll buy,'m going to buy,will to buy,buy",
+          "ans": "A",
+          "exp": "Instant decision -> will"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ a party next Saturday. Do you want to come?",
+          "opts": "are going to have,will have,have,having",
+          "ans": "A",
+          "exp": "Prior plan -> be going to"
+        },
+        {
+          "type": "mc",
+          "q": "Watch out! You ___ that vase!",
+          "opts": "are going to break,will break,break,breaking",
+          "ans": "A",
+          "exp": "Evidence -> be going to"
+        },
+        {
+          "type": "mc",
+          "q": "I'm sure you ___ the exam. You studied hard.",
+          "opts": "will pass,are going to pass,pass,passing",
+          "ans": "A",
+          "exp": "Opinion -> will"
+        },
+        {
+          "type": "mc",
+          "q": "A: The phone is ringing. B: I ___ it!",
+          "opts": "'ll get,'m going to get,get,getting",
+          "ans": "A",
+          "exp": "Instant decision -> will"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ to London tomorrow. I have the tickets.",
+          "opts": "am going to travel,will travel,travel,travelling",
+          "ans": "A",
+          "exp": "Prior plan -> be going to"
+        },
+        {
+          "type": "mc",
+          "q": "I think it ___ tomorrow.",
+          "opts": "will snow,is going to snow,snows,snowing",
+          "ans": "A",
+          "exp": "Opinion -> will"
+        },
+        {
+          "type": "mc",
+          "q": "A: I can't do this exercise. B: Don't worry, I ___ you.",
+          "opts": "'ll help,'m going to help,help,helping",
+          "ans": "A",
+          "exp": "Instant decision/Offer -> will"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ a new car next month. We've already saved the money.",
+          "opts": "are going to buy,will buy,buy,buying",
+          "ans": "A",
+          "exp": "Prior plan -> be going to"
+        },
+        {
+          "type": "mc",
+          "q": "I'm thirsty. I ___ some water.",
+          "opts": "'ll have,'m going to have,have,having",
+          "ans": "A",
+          "exp": "Instant decision -> will"
+        },
+        {
+          "type": "mc",
+          "q": "Look! That car ___ that tree!",
+          "opts": "is going to hit,will hit,hits,hitting",
+          "ans": "A",
+          "exp": "Evidence -> be going to"
+        },
+        {
+          "type": "mc",
+          "q": "I promise I ___ anyone your secret.",
+          "opts": "won't tell,am not going to tell,don't tell,not tell",
+          "ans": "A",
+          "exp": "Promise -> will"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ a new house soon. They are looking at some today.",
+          "opts": "are going to buy,will buy,buy,buying",
+          "ans": "A",
+          "exp": "Intention -> be going to"
+        },
+        {
+          "type": "mc",
+          "q": "I think the weather ___ nice at the weekend.",
+          "opts": "will be,is going to be,is,being",
+          "ans": "A",
+          "exp": "Opinion -> will"
+        },
+        {
+          "type": "mc",
+          "q": "A: What would you like to eat? B: I ___ a sandwich, please.",
+          "opts": "'ll have,'m going to have,have,having",
+          "ans": "A",
+          "exp": "Instant decision -> will"
+        },
+        {
+          "type": "fill",
+          "q": "A: We don't have any bread. B: Really? I ___ (get) some from the shop then.",
+          "ans": "will get",
+          "exp": "Instant decision"
+        },
+        {
+          "type": "fill",
+          "q": "A: Why do you need to borrow my suitcase? B: Because I ___ (visit) my mother next month.",
+          "ans": "am going to visit",
+          "exp": "Prior plan"
+        },
+        {
+          "type": "fill",
+          "q": "I'm really cold. I ___ (turn) the heating on.",
+          "ans": "will turn",
+          "exp": "Instant decision"
+        },
+        {
+          "type": "fill",
+          "q": "Look at those black clouds! It ___ (rain).",
+          "ans": "is going to rain",
+          "exp": "Evidence"
+        },
+        {
+          "type": "fill",
+          "q": "I think she ___ (be) a great doctor one day.",
+          "ans": "will be",
+          "exp": "Opinion"
+        },
+        {
+          "type": "fill",
+          "q": "A: Did you remember to buy the tickets? B: Oh no! I ___ (buy) them now.",
+          "ans": "will buy",
+          "exp": "Instant decision"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (have) a party next Saturday.",
+          "ans": "are going to have",
+          "exp": "Prior plan"
+        },
+        {
+          "type": "fill",
+          "q": "Watch out! You ___ (break) that vase!",
+          "ans": "are going to break",
+          "exp": "Evidence"
+        },
+        {
+          "type": "fill",
+          "q": "I'm sure you ___ (pass) the exam.",
+          "ans": "will pass",
+          "exp": "Opinion"
+        },
+        {
+          "type": "fill",
+          "q": "A: The phone is ringing. B: I ___ (get) it!",
+          "ans": "will get",
+          "exp": "Instant decision"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (travel) to London tomorrow.",
+          "ans": "am going to travel",
+          "exp": "Prior plan"
+        },
+        {
+          "type": "fill",
+          "q": "I think it ___ (snow) tomorrow.",
+          "ans": "will snow",
+          "exp": "Opinion"
+        },
+        {
+          "type": "fill",
+          "q": "A: I can't do this exercise. B: Don't worry, I ___ (help) you.",
+          "ans": "will help",
+          "exp": "Offer"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (buy) a new car next month.",
+          "ans": "are going to buy",
+          "exp": "Prior plan"
+        },
+        {
+          "type": "fill",
+          "q": "I'm thirsty. I ___ (have) some water.",
+          "ans": "will have",
+          "exp": "Instant decision"
+        },
+        {
+          "type": "fill",
+          "q": "Look! That car ___ (hit) that tree!",
+          "ans": "is going to hit",
+          "exp": "Evidence"
+        },
+        {
+          "type": "fill",
+          "q": "I promise I ___ (not/tell) anyone your secret.",
+          "ans": "won't tell",
+          "exp": "Promise"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (buy) a new house soon.",
+          "ans": "are going to buy",
+          "exp": "Intention"
+        },
+        {
+          "type": "fill",
+          "q": "I think the weather ___ (be) nice at the weekend.",
+          "ans": "will be",
+          "exp": "Opinion"
+        },
+        {
+          "type": "fill",
+          "q": "A: What would you like to eat? B: I ___ (have) a sandwich, please.",
+          "ans": "will have",
+          "exp": "Instant decision"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "I will get some bread then",
+            "extra": [
+              "going",
+              "was"
+            ]
+          },
+          {
+            "words": "I am going to visit my mother",
+            "extra": [
+              "will",
+              "were"
+            ]
+          },
+          {
+            "words": "I will turn the heating on",
+            "extra": [
+              "going",
+              "was"
+            ]
+          },
+          {
+            "words": "It is going to rain soon",
+            "extra": [
+              "will",
+              "does"
+            ]
+          },
+          {
+            "words": "I think she will be a doctor",
+            "extra": [
+              "going",
+              "was"
+            ]
+          },
+          {
+            "words": "I will buy the tickets now",
+            "extra": [
+              "going",
+              "does"
+            ]
+          },
+          {
+            "words": "We are going to have a party",
+            "extra": [
+              "will",
+              "is"
+            ]
+          },
+          {
+            "words": "You are going to break that vase",
+            "extra": [
+              "will",
+              "been"
+            ]
+          },
+          {
+            "words": "I am sure you will pass",
+            "extra": [
+              "going",
+              "has"
+            ]
+          },
+          {
+            "words": "I will get the phone now",
+            "extra": [
+              "going",
+              "was"
+            ]
+          },
+          {
+            "words": "I am going to travel to London",
+            "extra": [
+              "will",
+              "did"
+            ]
+          },
+          {
+            "words": "I think it will snow tomorrow",
+            "extra": [
+              "going",
+              "were"
+            ]
+          },
+          {
+            "words": "I will help you with that",
+            "extra": [
+              "going",
+              "is"
+            ]
+          },
+          {
+            "words": "We are going to buy a car",
+            "extra": [
+              "will",
+              "does"
+            ]
+          },
+          {
+            "words": "I will have some water please",
+            "extra": [
+              "going",
+              "are"
+            ]
+          },
+          {
+            "words": "That car is going to hit the tree",
+            "extra": [
+              "will",
+              "are"
+            ]
+          },
+          {
+            "words": "I won't tell anyone your secret",
+            "extra": [
+              "going",
+              "were"
+            ]
+          },
+          {
+            "words": "They are going to buy a house",
+            "extra": [
+              "will",
+              "has"
+            ]
+          },
+          {
+            "words": "The weather will be nice tomorrow",
+            "extra": [
+              "going",
+              "being"
+            ]
+          },
+          {
+            "words": "I will have a sandwich please",
+            "extra": [
+              "going",
+              "are"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Next summer, my family and I {{1}} (travel) to Japan. We {{2}} (stay) in Tokyo for a week. I think it {{3}} (be) an amazing trip. My sister {{4}} (study) Japanese before we go. We {{5}} (visit) many temples. I {{6}} (buy) a new camera for the trip. If it's too expensive, I {{7}} (not/buy) it. We {{8}} (eat) a lot of sushi. I'm sure we {{9}} (have) a great time. I {{10}} (take) many photos.",
+            "blanks": {
+              "1": "are going to travel",
+              "2": "are going to stay",
+              "3": "will be",
+              "4": "is going to study",
+              "5": "are going to visit",
+              "6": "am going to buy",
+              "7": "won't buy",
+              "8": "are going to eat",
+              "9": "will have",
+              "10": "am going to take"
+            },
+            "wordbank": [
+              "travel",
+              "stay",
+              "be",
+              "study",
+              "visit",
+              "buy",
+              "not/buy",
+              "eat",
+              "have",
+              "take",
+              "run",
+              "sleep",
+              "jump",
+              "sing"
+            ]
+          },
+          {
+            "text": "A: What {{1}} (you/do) this weekend? B: I {{2}} (clean) my apartment. It's very dirty. A: I {{3}} (help) you if you want. B: That's kind! Then we {{4}} (go) to the cinema. A: Good idea. I think the new movie {{5}} (be) very good. B: I {{6}} (check) the showtimes online now. A: Wait, I {{7}} (call) my brother too. He {{8}} (love) that movie. B: Great! I {{9}} (buy) the tickets later. A: We {{10}} (have) a fun day!",
+            "blanks": {
+              "1": "are you going to do",
+              "2": "am going to clean",
+              "3": "will help",
+              "4": "can go",
+              "5": "will be",
+              "6": "will check",
+              "7": "will call",
+              "8": "will love",
+              "9": "am going to buy",
+              "10": "will have"
+            },
+            "wordbank": [
+              "do",
+              "clean",
+              "help",
+              "go",
+              "be",
+              "check",
+              "call",
+              "love",
+              "buy",
+              "have",
+              "make",
+              "take",
+              "see",
+              "hear"
+            ]
+          },
+          {
+            "text": "Look at the sky! It {{1}} (be) a beautiful day. I {{2}} (go) for a walk in the park. I {{3}} (not/take) my umbrella because I'm sure it {{4}} (not/rain). My friend Sarah {{5}} (meet) me there at 2 PM. We {{6}} (play) tennis. After that, we {{7}} (have) ice cream. I think we {{8}} (be) very tired. I {{9}} (go) to bed early tonight. Tomorrow {{10}} (be) Monday again.",
+            "blanks": {
+              "1": "is going to be",
+              "2": "am going to go",
+              "3": "won't take",
+              "4": "won't rain",
+              "5": "is going to meet",
+              "6": "are going to play",
+              "7": "are going to have",
+              "8": "will be",
+              "9": "am going to go",
+              "10": "will be"
+            },
+            "wordbank": [
+              "be",
+              "go",
+              "take",
+              "rain",
+              "meet",
+              "play",
+              "have",
+              "be",
+              "go",
+              "be",
+              "run",
+              "jump",
+              "sing",
+              "dance"
+            ]
+          },
+          {
+            "text": "In the future, I think people {{1}} (live) on Mars. Robots {{2}} (do) all the housework. We {{3}} (not/drive) cars anymore. Instead, we {{4}} (fly) small planes. Life {{5}} (be) very different. I {{6}} (be) a scientist. I {{7}} (study) space. My children {{8}} (go) to school on the moon. I hope the world {{9}} (be) a peaceful place. We {{10}} (protect) the environment.",
+            "blanks": {
+              "1": "will live",
+              "2": "will do",
+              "3": "won't drive",
+              "4": "will fly",
+              "5": "will be",
+              "6": "am going to be",
+              "7": "am going to study",
+              "8": "will go",
+              "9": "will be",
+              "10": "will protect"
+            },
+            "wordbank": [
+              "live",
+              "do",
+              "drive",
+              "fly",
+              "be",
+              "be",
+              "study",
+              "go",
+              "be",
+              "protect",
+              "eat",
+              "sleep",
+              "run",
+              "jump"
+            ]
+          },
+          {
+            "text": "I {{1}} (start) a new job next Monday. I {{2}} (work) in a big office. I {{3}} (meet) my new boss at 9 AM. I think I {{4}} (be) a bit nervous. I {{5}} (wear) my best suit. My wife {{6}} (drive) me to the station. I {{7}} (not/be) late. I {{8}} (learn) many new things. I'm sure I {{9}} (enjoy) it. This job {{10}} (change) my life.",
+            "blanks": {
+              "1": "am going to start",
+              "2": "am going to work",
+              "3": "am going to meet",
+              "4": "will be",
+              "5": "am going to wear",
+              "6": "is going to drive",
+              "7": "won't be",
+              "8": "am going to learn",
+              "9": "will enjoy",
+              "10": "will change"
+            },
+            "wordbank": [
+              "start",
+              "work",
+              "meet",
+              "be",
+              "wear",
+              "drive",
+              "be",
+              "learn",
+              "enjoy",
+              "change",
+              "buy",
+              "sell",
+              "take",
+              "give"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy kể về kế hoạch của bạn cho kỳ nghỉ lễ sắp tới (bạn định đi đâu, đi cùng ai, bạn sẽ tham gia những hoạt động gì và bạn mong đợi điều gì nhất).",
+          "grammar_focus": "Will vs Be going to",
+          "hint_words": [
+            "next holiday",
+            "am going to visit",
+            "travel with",
+            "will probably",
+            "plan to",
+            "stay at",
+            "look forward to",
+            "excited"
+          ],
+          "min_words": 30,
+          "example": "Next holiday, I am going to visit my grandparents in the countryside with my younger brother. We plan to stay there for a week and I will probably help them with the gardening and cooking. I am really looking forward to this trip because I want to enjoy the fresh air and quiet atmosphere."
+        },
+        {
+          "vi": "Hãy đưa ra những dự đoán của bạn về cuộc sống trong 20 năm tới (con người sẽ sống như thế nào, công nghệ sẽ thay đổi ra sao và bạn nghĩ mình sẽ làm gì lúc đó).",
+          "grammar_focus": "Will vs Be going to",
+          "hint_words": [
+            "in 20 years",
+            "will change",
+            "robots will",
+            "people will live",
+            "technology",
+            "I think",
+            "future",
+            "different"
+          ],
+          "min_words": 30,
+          "example": "In 20 years, I think our lives will change completely because technology will be much more advanced than it is today. Robots will probably do most of the housework and people will live in smart houses that can control everything automatically. I believe I will be a successful manager by then."
+        },
+        {
+          "vi": "Hãy mô tả một dự định quan trọng mà bạn muốn thực hiện trong năm nay (đó là gì, tại sao bạn muốn làm điều đó và bạn sẽ bắt đầu như thế nào).",
+          "grammar_focus": "Will vs Be going to",
+          "hint_words": [
+            "this year",
+            "am going to learn",
+            "important goal",
+            "because",
+            "start by",
+            "improve",
+            "skills",
+            "plan"
+          ],
+          "min_words": 30,
+          "example": "This year, I am going to learn a new language, specifically Spanish, because I want to travel to South America in the future. I will start by joining an online course and practicing every day for at least thirty minutes. This is an important goal for me to improve my communication skills."
+        },
+        {
+          "vi": "Hãy tưởng tượng bạn vừa trúng một giải thưởng lớn (bạn sẽ làm gì với số tiền đó, bạn sẽ mua gì và cuộc sống của bạn sẽ thay đổi như thế nào).",
+          "grammar_focus": "Will vs Be going to",
+          "hint_words": [
+            "win a prize",
+            "will buy",
+            "am going to travel",
+            "money",
+            "change my life",
+            "help others",
+            "future",
+            "happy"
+          ],
+          "min_words": 30,
+          "example": "If I win a big prize, I will buy a new house for my parents and I am going to travel around the world to explore different cultures. This money will change my life significantly because I will also use a part of it to help poor children in my hometown. I will be very happy."
+        },
+        {
+          "vi": "Hãy kể về một quyết định nhanh chóng mà bạn vừa thực hiện hôm nay (tình huống đó là gì, bạn đã quyết định làm gì và kết quả ra sao).",
+          "grammar_focus": "Will vs Be going to",
+          "hint_words": [
+            "today",
+            "suddenly",
+            "decided",
+            "will",
+            "because",
+            "situation",
+            "result",
+            "quick decision"
+          ],
+          "min_words": 30,
+          "example": "Today, I suddenly realized that I didn't have anything for dinner, so I decided I will go to the supermarket right after work. I bought some fresh vegetables and chicken to cook a healthy meal for myself. This quick decision helped me avoid eating fast food and I felt much better."
+        }
+      ]
+    },
+    {
+      "icon": "📅",
+      "title": "A2 Present continuous for future arrangements",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Cách dùng</div>Dùng để nói về các <b>kế hoạch đã được sắp xếp cụ thể</b> (thường là với người khác, đã chốt thời gian và địa điểm).<br>• <i>Example:</i> I'm meeting Sally at 7. (Chúng tôi đã hẹn nhau).</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">🔗 Dấu hiệu nhận biết</div>Thường đi kèm các trạng từ chỉ thời gian tương lai: <b>tomorrow, next week, at 8 PM...</b></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Phân biệt với 'Be going to'</div>• <b>Present Continuous:</b> Nhấn mạnh vào sự sắp xếp (Arrangement).<br>• <b>Be going to:</b> Nhấn mạnh vào dự định (Intention).</div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "I ___ Sally at 7 PM tonight. We agreed yesterday.",
+          "opts": "'m meeting,'ll meet,meet,meeting",
+          "ans": "A",
+          "exp": "Arrangement -> Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ to New York tomorrow morning. I have the ticket.",
+          "opts": "'m flying,'ll fly,fly,flying",
+          "ans": "A",
+          "exp": "Arrangement (ticket) -> Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ married next July. Everything is booked.",
+          "opts": "are getting,will get,get,getting",
+          "ans": "A",
+          "exp": "Arrangement -> Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ the dentist after class. I have an appointment.",
+          "opts": "'m seeing,'ll see,see,seeing",
+          "ans": "A",
+          "exp": "Arrangement (appointment) -> Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "What time ___ you ___ tomorrow?",
+          "opts": "are / leaving,will / leave,do / leave,leaving",
+          "ans": "A",
+          "exp": "Future arrangement question"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ the 6:50 train tomorrow morning.",
+          "opts": "'m taking,'ll take,take,taking",
+          "ans": "A",
+          "exp": "Arrangement -> Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ for a drink with Jessica this evening.",
+          "opts": "'m going,'ll go,go,going",
+          "ans": "A",
+          "exp": "Arrangement -> Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ her friends from the reading club tomorrow.",
+          "opts": "is meeting,will meet,meets,meeting",
+          "ans": "A",
+          "exp": "Arrangement -> Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ dinner at that new restaurant on Friday.",
+          "opts": "are having,will have,have,having",
+          "ans": "A",
+          "exp": "Arrangement -> Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ tennis with Jack next Saturday.",
+          "opts": "'m playing,'ll play,play,playing",
+          "ans": "A",
+          "exp": "Arrangement -> Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ to Paris next week.",
+          "opts": "are travelling,will travel,travel,travelling",
+          "ans": "A",
+          "exp": "Arrangement -> Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ a presentation at 10 AM tomorrow.",
+          "opts": "'m giving,'ll give,give,giving",
+          "ans": "A",
+          "exp": "Arrangement -> Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "___ you ___ anything this weekend?",
+          "opts": "Are / doing,Will / do,Do / do,Doing",
+          "ans": "A",
+          "exp": "Future arrangement question"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ a meeting with the manager on Monday.",
+          "opts": "are having,will have,have,having",
+          "ans": "A",
+          "exp": "Arrangement -> Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ to the concert tonight.",
+          "opts": "is going,will go,goes,going",
+          "ans": "A",
+          "exp": "Arrangement -> Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ my hair cut tomorrow afternoon.",
+          "opts": "'m having,'ll have,have,having",
+          "ans": "A",
+          "exp": "Arrangement -> Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ a party for his birthday on Saturday.",
+          "opts": "are throwing,will throw,throw,throwing",
+          "ans": "A",
+          "exp": "Arrangement -> Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ my grandparents this Sunday.",
+          "opts": "'m visiting,'ll visit,visit,visiting",
+          "ans": "A",
+          "exp": "Arrangement -> Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "What ___ you ___ for dinner tonight?",
+          "opts": "are / cooking,will / cook,do / cook,cooking",
+          "ans": "A",
+          "exp": "Future arrangement question"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ to the beach tomorrow morning.",
+          "opts": "are driving,will drive,drive,driving",
+          "ans": "A",
+          "exp": "Arrangement -> Present Continuous"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (meet) Sally at 7 PM tonight.",
+          "ans": "am meeting",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (fly) to New York tomorrow morning.",
+          "ans": "am flying",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (get) married next July.",
+          "ans": "are getting",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (see) the dentist after class.",
+          "ans": "am seeing",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "What time ___ you ___ (leave) tomorrow?",
+          "ans": "are / leaving",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (take) the 6:50 train tomorrow morning.",
+          "ans": "am taking",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (go) for a drink with Jessica this evening.",
+          "ans": "am going",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (meet) her friends tomorrow.",
+          "ans": "is meeting",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (have) dinner at that new restaurant on Friday.",
+          "ans": "are having",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (play) tennis with Jack next Saturday.",
+          "ans": "am playing",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (travel) to Paris next week.",
+          "ans": "are travelling",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (give) a presentation at 10 AM tomorrow.",
+          "ans": "am giving",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "___ you ___ (do) anything this weekend?",
+          "ans": "Are / doing",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (have) a meeting with the manager on Monday.",
+          "ans": "are having",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (go) to the concert tonight.",
+          "ans": "is going",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (have) my hair cut tomorrow afternoon.",
+          "ans": "am having",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (throw) a party for his birthday on Saturday.",
+          "ans": "are throwing",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (visit) my grandparents this Sunday.",
+          "ans": "am visiting",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "What ___ you ___ (cook) for dinner tonight?",
+          "ans": "are / cooking",
+          "exp": "Arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (drive) to the beach tomorrow morning.",
+          "ans": "are driving",
+          "exp": "Arrangement"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "I am meeting Sally at 7 PM",
+            "extra": [
+              "will",
+              "were"
+            ]
+          },
+          {
+            "words": "I am flying to New York tomorrow",
+            "extra": [
+              "will",
+              "do"
+            ]
+          },
+          {
+            "words": "We are getting married next July",
+            "extra": [
+              "will",
+              "does"
+            ]
+          },
+          {
+            "words": "I am seeing the dentist after class",
+            "extra": [
+              "will",
+              "was"
+            ]
+          },
+          {
+            "words": "What time are you leaving tomorrow ?",
+            "extra": [
+              "will",
+              "going"
+            ]
+          },
+          {
+            "words": "I am taking the 6:50 train tomorrow",
+            "extra": [
+              "will",
+              "were"
+            ]
+          },
+          {
+            "words": "I am going for a drink tonight",
+            "extra": [
+              "will",
+              "does"
+            ]
+          },
+          {
+            "words": "She is meeting her friends tomorrow",
+            "extra": [
+              "will",
+              "does"
+            ]
+          },
+          {
+            "words": "We are having dinner on Friday",
+            "extra": [
+              "will",
+              "is"
+            ]
+          },
+          {
+            "words": "I am playing tennis next Saturday",
+            "extra": [
+              "will",
+              "has"
+            ]
+          },
+          {
+            "words": "They are travelling to Paris next week",
+            "extra": [
+              "will",
+              "been"
+            ]
+          },
+          {
+            "words": "I am giving a presentation tomorrow",
+            "extra": [
+              "will",
+              "were"
+            ]
+          },
+          {
+            "words": "Are you doing anything this weekend ?",
+            "extra": [
+              "will",
+              "was"
+            ]
+          },
+          {
+            "words": "We are having a meeting on Monday",
+            "extra": [
+              "will",
+              "have"
+            ]
+          },
+          {
+            "words": "She is going to the concert tonight",
+            "extra": [
+              "will",
+              "does"
+            ]
+          },
+          {
+            "words": "I am having my hair cut tomorrow",
+            "extra": [
+              "will",
+              "was"
+            ]
+          },
+          {
+            "words": "They are throwing a party on Saturday",
+            "extra": [
+              "will",
+              "did"
+            ]
+          },
+          {
+            "words": "I am visiting my grandparents this Sunday",
+            "extra": [
+              "will",
+              "has"
+            ]
+          },
+          {
+            "words": "What are you cooking for dinner ?",
+            "extra": [
+              "will",
+              "have"
+            ]
+          },
+          {
+            "words": "We are driving to the beach tomorrow",
+            "extra": [
+              "will",
+              "been"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "My schedule for next week is very busy. On Monday, I {{1}} (meet) my boss at 9 AM. On Tuesday, I {{2}} (fly) to Berlin for a conference. I {{3}} (stay) in a hotel near the airport. On Wednesday, I {{4}} (give) a speech about our new project. My colleague, John, {{5}} (join) me for lunch. On Thursday, we {{6}} (visit) our local office. I {{7}} (return) home on Friday evening. My wife {{8}} (pick) me up from the station. On Saturday, we {{9}} (have) dinner with our neighbors. We {{10}} (celebrate) their anniversary.",
+            "blanks": {
+              "1": "am meeting",
+              "2": "am flying",
+              "3": "am staying",
+              "4": "am giving",
+              "5": "is joining",
+              "6": "are visiting",
+              "7": "am returning",
+              "8": "is picking",
+              "9": "are having",
+              "10": "are celebrating"
+            },
+            "wordbank": [
+              "meet",
+              "fly",
+              "stay",
+              "give",
+              "join",
+              "visit",
+              "return",
+              "pick",
+              "have",
+              "celebrate",
+              "run",
+              "jump",
+              "sing",
+              "dance"
+            ]
+          },
+          {
+            "text": "A: What {{1}} (you/do) tonight? B: I {{2}} (go) to the theater with Sarah. A: What time {{3}} (it/start)? B: At 7:30. We {{4}} (meet) outside the theater at 7:15. A: {{5}} (you/have) dinner before the show? B: No, we {{6}} (eat) afterwards. We {{7}} (go) to that Italian restaurant. A: That sounds nice. I {{8}} (stay) at home tonight. I {{9}} (finish) my book. B: Okay, I {{10}} (call) you tomorrow.",
+            "blanks": {
+              "1": "are you doing",
+              "2": "am going",
+              "3": "does it start",
+              "4": "are meeting",
+              "5": "Are you having",
+              "6": "are eating",
+              "7": "are going",
+              "8": "am staying",
+              "9": "am finishing",
+              "10": "will call"
+            },
+            "wordbank": [
+              "do",
+              "go",
+              "start",
+              "meet",
+              "have",
+              "eat",
+              "go",
+              "stay",
+              "finish",
+              "call",
+              "take",
+              "make",
+              "see",
+              "hear"
+            ]
+          },
+          {
+            "text": "Next weekend {{1}} (be) very exciting. My friends and I {{2}} (go) camping. We {{3}} (leave) on Friday afternoon. We {{4}} (drive) to the mountains. My friend Tom {{5}} (bring) the tent. We {{6}} (spend) two nights there. On Saturday morning, we {{7}} (go) hiking. We {{8}} (cook) our food over a fire. We {{9}} (return) on Sunday evening. I {{10}} (take) many photos of the scenery.",
+            "blanks": {
+              "1": "is going to be",
+              "2": "are going",
+              "3": "are leaving",
+              "4": "are driving",
+              "5": "is bringing",
+              "6": "are spending",
+              "7": "are going",
+              "8": "are cooking",
+              "9": "are returning",
+              "10": "am taking"
+            },
+            "wordbank": [
+              "be",
+              "go",
+              "leave",
+              "drive",
+              "bring",
+              "spend",
+              "go",
+              "cook",
+              "return",
+              "take",
+              "run",
+              "jump",
+              "sing",
+              "dance"
+            ]
+          },
+          {
+            "text": "I {{1}} (have) a very busy day tomorrow. First, I {{2}} (see) the doctor at 8 AM. Then, I {{3}} (meet) a client for coffee. At noon, I {{4}} (have) lunch with my sister. We {{5}} (discuss) our holiday plans. In the afternoon, I {{6}} (go) to the gym. I {{7}} (play) squash with a friend at 5 PM. In the evening, I {{8}} (attend) a cooking class. I {{9}} (learn) how to make sushi. I {{10}} (get) home around 9 PM.",
+            "blanks": {
+              "1": "am having",
+              "2": "am seeing",
+              "3": "am meeting",
+              "4": "am having",
+              "5": "are discussing",
+              "6": "am going",
+              "7": "am playing",
+              "8": "am attending",
+              "9": "am learning",
+              "10": "am getting"
+            },
+            "wordbank": [
+              "have",
+              "see",
+              "meet",
+              "have",
+              "discuss",
+              "go",
+              "play",
+              "attend",
+              "learn",
+              "get",
+              "run",
+              "jump",
+              "sing",
+              "dance"
+            ]
+          },
+          {
+            "text": "Our company {{1}} (organize) a big event next month. We {{2}} (invite) over 200 guests. The event {{3}} (take) place in a luxury hotel. We {{4}} (have) a gala dinner on the first night. Several famous speakers {{5}} (give) presentations. We {{6}} (provide) transport for all the guests. My team {{7}} (manage) the registration desk. We {{8}} (work) very hard to make it a success. I {{9}} (meet) the hotel manager tomorrow to finalize the details. We {{10}} (start) the preparations early.",
+            "blanks": {
+              "1": "is organizing",
+              "2": "are inviting",
+              "3": "is taking",
+              "4": "are having",
+              "5": "are giving",
+              "6": "are providing",
+              "7": "is managing",
+              "8": "are working",
+              "9": "am meeting",
+              "10": "are starting"
+            },
+            "wordbank": [
+              "organize",
+              "invite",
+              "take",
+              "have",
+              "give",
+              "provide",
+              "manage",
+              "work",
+              "meet",
+              "start",
+              "run",
+              "jump",
+              "sing",
+              "dance"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy mô tả lịch trình của bạn cho ngày mai (bạn có những cuộc hẹn nào, bạn sẽ gặp ai, ở đâu và lúc mấy giờ).",
+          "grammar_focus": "Present Continuous for Future",
+          "hint_words": [
+            "tomorrow",
+            "am meeting",
+            "at 9 AM",
+            "have an appointment",
+            "seeing",
+            "going to",
+            "busy day",
+            "schedule"
+          ],
+          "min_words": 30,
+          "example": "Tomorrow is going to be a very busy day for me because I am meeting my new client at 9 AM in a coffee shop downtown. After that, I am seeing my dentist for a check-up at 11 AM and then I am having lunch with my colleagues at noon."
+        },
+        {
+          "vi": "Hãy kể về một sự kiện hoặc bữa tiệc mà bạn đã lên kế hoạch cùng bạn bè vào cuối tuần này (đó là sự kiện gì, các bạn đã chuẩn bị những gì và bạn mong đợi điều gì).",
+          "grammar_focus": "Present Continuous for Future",
+          "hint_words": [
+            "this weekend",
+            "are having a party",
+            "meeting at",
+            "organized",
+            "bringing",
+            "excited",
+            "friends",
+            "celebrating"
+          ],
+          "min_words": 30,
+          "example": "This weekend, my friends and I are having a small party to celebrate my best friend's birthday at his house. We are meeting at 6 PM and I am bringing some snacks and drinks while another friend is organizing the music and games. I am very excited about it."
+        },
+        {
+          "vi": "Hãy mô tả một chuyến đi công tác hoặc một chuyến du lịch mà bạn đã đặt vé và lên kế hoạch chi tiết (bạn sẽ đi đâu, bằng phương tiện gì và bạn sẽ ở đó bao lâu).",
+          "grammar_focus": "Present Continuous for Future",
+          "hint_words": [
+            "next week",
+            "am flying to",
+            "staying at",
+            "have the tickets",
+            "travelling by",
+            "duration",
+            "planned",
+            "business trip"
+          ],
+          "min_words": 30,
+          "example": "Next week, I am flying to Singapore for a three-day business trip and I am staying at a hotel near the city center. I already have the flight tickets and I am travelling by taxi from the airport to my hotel. I have planned several meetings with our partners there."
+        },
+        {
+          "vi": "Hãy kể về một buổi tối hẹn hò hoặc gặp gỡ người thân mà bạn đã chốt thời gian và địa điểm (bạn sẽ làm gì, gặp ai và không khí bạn mong đợi ra sao).",
+          "grammar_focus": "Present Continuous for Future",
+          "hint_words": [
+            "tonight",
+            "am going out",
+            "meeting my family",
+            "at a restaurant",
+            "dinner",
+            "looking forward to",
+            "atmosphere",
+            "together"
+          ],
+          "min_words": 30,
+          "example": "Tonight, I am going out for dinner with my family at a traditional Vietnamese restaurant to celebrate my mother's promotion. We are meeting there at 7 PM and I am really looking forward to spending quality time together in a warm and cozy atmosphere."
+        },
+        {
+          "vi": "Hãy mô tả một khóa học hoặc một hoạt động ngoại khóa mà bạn sẽ bắt đầu tham gia vào tuần tới (đó là hoạt động gì, diễn ra ở đâu và bạn hy vọng học được gì).",
+          "grammar_focus": "Present Continuous for Future",
+          "hint_words": [
+            "next Monday",
+            "am starting",
+            "course",
+            "at the center",
+            "learning",
+            "hope to",
+            "improve",
+            "skills"
+          ],
+          "min_words": 30,
+          "example": "Next Monday, I am starting a new photography course at the local community center and I am attending classes every Monday and Wednesday evening. I hope to learn how to take professional photos and improve my editing skills. I am very enthusiastic about this new hobby."
+        }
+      ]
+    },
+    {
+      "icon": "📚",
+      "title": "A2 Review of all verb tenses A2",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Tổng hợp các thì A2</div>• <b>Present Simple:</b> Thói quen, sự thật hiển nhiên.<br>• <b>Present Continuous:</b> Đang diễn ra, kế hoạch tương lai.<br>• <b>Past Simple:</b> Đã kết thúc trong quá khứ.<br>• <b>Past Continuous:</b> Đang diễn ra tại một thời điểm trong quá khứ.<br>• <b>Present Perfect:</b> Kinh nghiệm, hành động vừa mới xảy ra.<br>• <b>Future (Will/Be going to):</b> Dự đoán, dự định.</div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "A: What ___? B: I'm a teacher.",
+          "opts": "do you do,did you do,are you doing,have you done",
+          "ans": "A",
+          "exp": "Present simple for occupation"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ at the moment. I'm looking for a job.",
+          "opts": "am not working,don't work,haven't worked,didn't work",
+          "ans": "A",
+          "exp": "Present continuous for temporary situation"
+        },
+        {
+          "type": "mc",
+          "q": "How many people ___ to the party last Saturday?",
+          "opts": "went,have gone,were going,go",
+          "ans": "A",
+          "exp": "Past simple for completed action"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ at home last night while they were at the party.",
+          "opts": "stayed,was staying,have stayed,stay",
+          "ans": "A",
+          "exp": "Past simple for completed action"
+        },
+        {
+          "type": "mc",
+          "q": "What ___ tonight? Do you have any plans?",
+          "opts": "are you cooking,will you cook,do you cook,did you cook",
+          "ans": "A",
+          "exp": "Present continuous for future arrangement"
+        },
+        {
+          "type": "mc",
+          "q": "I don't know yet. I ___ what's in the fridge.",
+          "opts": "'ll check,'m going to check,check,checking",
+          "ans": "A",
+          "exp": "Instant decision -> will"
+        },
+        {
+          "type": "mc",
+          "q": "John ___ very strangely these days.",
+          "opts": "is behaving,behaves,has behaved,behaved",
+          "ans": "A",
+          "exp": "Present continuous for temporary behavior"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ him later to see if he's alright.",
+          "opts": "'m calling,'ll call,call,calling",
+          "ans": "A",
+          "exp": "Future arrangement/intention"
+        },
+        {
+          "type": "mc",
+          "q": "A: Are you going to eat that cake? B: No, I'm full. A: I ___ it then.",
+          "opts": "'ll eat,'m going to eat,eat,eating",
+          "ans": "A",
+          "exp": "Instant decision -> will"
+        },
+        {
+          "type": "mc",
+          "q": "___ the contract for Mr. Scott yet?",
+          "opts": "Have you written,Did you write,Do you write,Are you writing",
+          "ans": "A",
+          "exp": "Present perfect with 'yet'"
+        },
+        {
+          "type": "mc",
+          "q": "Yes, I ___ it last night.",
+          "opts": "did,have done,was doing,do",
+          "ans": "A",
+          "exp": "Past simple with 'last night'"
+        },
+        {
+          "type": "mc",
+          "q": "___ in bed when I called you yesterday?",
+          "opts": "Were you,Have you been,Were you being,Are you",
+          "ans": "A",
+          "exp": "Past simple of be"
+        },
+        {
+          "type": "mc",
+          "q": "No, I ___ on the computer.",
+          "opts": "was working,worked,have worked,work",
+          "ans": "A",
+          "exp": "Past continuous for action in progress"
+        },
+        {
+          "type": "mc",
+          "q": "Who ___ the next election in your opinion?",
+          "opts": "will win,wins,is winning,has won",
+          "ans": "A",
+          "exp": "Prediction based on opinion -> will"
+        },
+        {
+          "type": "mc",
+          "q": "I have no idea, but I ___ this time.",
+          "opts": "am going to vote,will vote,vote,voting",
+          "ans": "A",
+          "exp": "Intention -> be going to"
+        },
+        {
+          "type": "mc",
+          "q": "When ___ the composition?",
+          "opts": "did you finish,have you finished,were you finishing,do you finish",
+          "ans": "A",
+          "exp": "Past simple for specific time"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ it yesterday while I was travelling home.",
+          "opts": "did,have done,was doing,do",
+          "ans": "A",
+          "exp": "Past simple with 'yesterday'"
+        },
+        {
+          "type": "mc",
+          "q": "What time ___ work?",
+          "opts": "do you finish,are you finishing,did you finish,have you finished",
+          "ans": "A",
+          "exp": "Present simple for schedule"
+        },
+        {
+          "type": "mc",
+          "q": "At 6. Ok, then I ___ you at 6:15.",
+          "opts": "'ll call,'m going to call,call,calling",
+          "ans": "A",
+          "exp": "Instant decision -> will"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ to Paris three times in my life.",
+          "opts": "have been,was,am,go",
+          "ans": "A",
+          "exp": "Present perfect for experience"
+        },
+        {
+          "type": "fill",
+          "q": "A: What ___ (you/do)? B: I'm a teacher.",
+          "ans": "do you do",
+          "exp": "Present simple"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (not/work) at the moment.",
+          "ans": "am not working",
+          "exp": "Present continuous"
+        },
+        {
+          "type": "fill",
+          "q": "How many people ___ (go) to the party last Saturday?",
+          "ans": "went",
+          "exp": "Past simple"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (stay) at home last night.",
+          "ans": "stayed",
+          "exp": "Past simple"
+        },
+        {
+          "type": "fill",
+          "q": "What ___ (you/cook) tonight?",
+          "ans": "are you cooking",
+          "exp": "Present continuous for future"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (check) what's in the fridge now.",
+          "ans": "will check",
+          "exp": "Instant decision"
+        },
+        {
+          "type": "fill",
+          "q": "John ___ (behave) very strangely these days.",
+          "ans": "is behaving",
+          "exp": "Present continuous"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (call) him later.",
+          "ans": "am calling",
+          "exp": "Future arrangement"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (eat) it then.",
+          "ans": "will eat",
+          "exp": "Instant decision"
+        },
+        {
+          "type": "fill",
+          "q": "___ (you/write) the contract yet?",
+          "ans": "Have you written",
+          "exp": "Present perfect"
+        },
+        {
+          "type": "fill",
+          "q": "Yes, I ___ (do) it last night.",
+          "ans": "did",
+          "exp": "Past simple"
+        },
+        {
+          "type": "fill",
+          "q": "___ (you/be) in bed when I called?",
+          "ans": "Were you",
+          "exp": "Past simple"
+        },
+        {
+          "type": "fill",
+          "q": "No, I ___ (work) on the computer.",
+          "ans": "was working",
+          "exp": "Past continuous"
+        },
+        {
+          "type": "fill",
+          "q": "Who ___ (win) the next election?",
+          "ans": "will win",
+          "exp": "Prediction"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (vote) this time.",
+          "ans": "am going to vote",
+          "exp": "Intention"
+        },
+        {
+          "type": "fill",
+          "q": "When ___ (you/finish) the composition?",
+          "ans": "did you finish",
+          "exp": "Past simple"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (do) it yesterday.",
+          "ans": "did",
+          "exp": "Past simple"
+        },
+        {
+          "type": "fill",
+          "q": "What time ___ (you/finish) work?",
+          "ans": "do you finish",
+          "exp": "Present simple"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (call) you at 6:15.",
+          "ans": "will call",
+          "exp": "Instant decision"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (never/be) to Paris.",
+          "ans": "have never been",
+          "exp": "Present perfect"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "What do you do for a living ?",
+            "extra": [
+              "doing",
+              "will"
+            ]
+          },
+          {
+            "words": "I am not working at the moment",
+            "extra": [
+              "work",
+              "was"
+            ]
+          },
+          {
+            "words": "How many people went to the party ?",
+            "extra": [
+              "go",
+              "being"
+            ]
+          },
+          {
+            "words": "I stayed at home last night",
+            "extra": [
+              "staying",
+              "going"
+            ]
+          },
+          {
+            "words": "What are you cooking for dinner tonight ?",
+            "extra": [
+              "will",
+              "was"
+            ]
+          },
+          {
+            "words": "I will check what is in the fridge",
+            "extra": [
+              "going",
+              "been"
+            ]
+          },
+          {
+            "words": "John is behaving very strangely these days",
+            "extra": [
+              "behaves",
+              "are"
+            ]
+          },
+          {
+            "words": "I am calling him later today",
+            "extra": [
+              "will",
+              "is"
+            ]
+          },
+          {
+            "words": "I will eat the cake then",
+            "extra": [
+              "going",
+              "does"
+            ]
+          },
+          {
+            "words": "Have you written the contract yet ?",
+            "extra": [
+              "did",
+              "being"
+            ]
+          },
+          {
+            "words": "I did it late last night",
+            "extra": [
+              "have",
+              "being"
+            ]
+          },
+          {
+            "words": "Were you in bed when I called ?",
+            "extra": [
+              "have",
+              "did"
+            ]
+          },
+          {
+            "words": "I was working on the computer",
+            "extra": [
+              "worked",
+              "did"
+            ]
+          },
+          {
+            "words": "Who will win the next election ?",
+            "extra": [
+              "going",
+              "being"
+            ]
+          },
+          {
+            "words": "I am going to vote this time",
+            "extra": [
+              "will",
+              "are"
+            ]
+          },
+          {
+            "words": "When did you finish the composition ?",
+            "extra": [
+              "have",
+              "were"
+            ]
+          },
+          {
+            "words": "I did it yesterday afternoon",
+            "extra": [
+              "done",
+              "being"
+            ]
+          },
+          {
+            "words": "What time do you finish work ?",
+            "extra": [
+              "are",
+              "were"
+            ]
+          },
+          {
+            "words": "I will call you at six fifteen",
+            "extra": [
+              "going",
+              "have"
+            ]
+          },
+          {
+            "words": "I have never been to Paris before",
+            "extra": [
+              "was",
+              "do"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "I {{1}} (be) a student at the moment. I {{2}} (study) English for three years. Last year, I {{3}} (go) to London for a summer course. While I {{4}} (stay) there, I {{5}} (meet) many people from different countries. We {{6}} (have) a great time together. Next year, I {{7}} (apply) for a university in the USA. I think it {{8}} (be) a difficult process, but I {{9}} (work) hard to achieve my goal. I {{10}} (never/be) to America before.",
+            "blanks": {
+              "1": "am",
+              "2": "have studied",
+              "3": "went",
+              "4": "was staying",
+              "5": "met",
+              "6": "had",
+              "7": "am going to apply",
+              "8": "will be",
+              "9": "am going to work",
+              "10": "have never been"
+            },
+            "wordbank": [
+              "be",
+              "study",
+              "go",
+              "stay",
+              "meet",
+              "have",
+              "apply",
+              "be",
+              "work",
+              "be",
+              "run",
+              "jump",
+              "sing",
+              "dance"
+            ]
+          },
+          {
+            "text": "Yesterday, my friend Sarah {{1}} (call) me while I {{2}} (cook) dinner. She {{3}} (tell) me that she {{4}} (just/buy) a new car. She {{5}} (be) very happy because she {{6}} (save) money for a long time. We {{7}} (meet) tomorrow to see the car. I {{8}} (bring) some snacks. I think we {{9}} (have) a lot of fun. I {{10}} (not/see) her for two weeks.",
+            "blanks": {
+              "1": "called",
+              "2": "was cooking",
+              "3": "told",
+              "4": "had just bought",
+              "5": "was",
+              "6": "had been saving",
+              "7": "are meeting",
+              "8": "will bring",
+              "9": "will have",
+              "10": "haven't seen"
+            },
+            "wordbank": [
+              "call",
+              "cook",
+              "tell",
+              "buy",
+              "be",
+              "save",
+              "meet",
+              "bring",
+              "have",
+              "see",
+              "run",
+              "jump",
+              "sing",
+              "dance"
+            ]
+          },
+          {
+            "text": "Every morning, I {{1}} (wake up) at 7 AM. I {{2}} (have) breakfast and then I {{3}} (go) to work. I {{4}} (work) as a designer for five years. At the moment, I {{5}} (design) a new website for a client. Yesterday, I {{6}} (finish) the first draft. While I {{7}} (work), my boss {{8}} (come) in and {{9}} (say) it was great. I {{10}} (be) very proud of my work.",
+            "blanks": {
+              "1": "wake up",
+              "2": "have",
+              "3": "go",
+              "4": "have worked",
+              "5": "am designing",
+              "6": "finished",
+              "7": "was working",
+              "8": "came",
+              "9": "said",
+              "10": "was"
+            },
+            "wordbank": [
+              "wake up",
+              "have",
+              "go",
+              "work",
+              "design",
+              "finish",
+              "work",
+              "come",
+              "say",
+              "be",
+              "run",
+              "jump",
+              "sing",
+              "dance"
+            ]
+          },
+          {
+            "text": "A: {{1}} (you/ever/be) to Italy? B: Yes, I {{2}} (go) there last summer. A: What {{3}} (you/do) there? B: I {{4}} (visit) Rome and Florence. While I {{5}} (be) in Rome, I {{6}} (eat) the best pizza ever. A: I {{7}} (go) to Italy next year. B: Really? I think you {{8}} (love) it. A: I {{9}} (start) learning Italian soon. B: That {{10}} (be) a great idea!",
+            "blanks": {
+              "1": "Have you ever been",
+              "2": "went",
+              "3": "did you do",
+              "4": "visited",
+              "5": "was",
+              "6": "ate",
+              "7": "am going",
+              "8": "will love",
+              "9": "am going to start",
+              "10": "will be"
+            },
+            "wordbank": [
+              "be",
+              "go",
+              "do",
+              "visit",
+              "be",
+              "eat",
+              "go",
+              "love",
+              "start",
+              "be",
+              "run",
+              "jump",
+              "sing",
+              "dance"
+            ]
+          },
+          {
+            "text": "Last night, I {{1}} (watch) a movie when the power {{2}} (go) out. I {{3}} (not/can) see anything. I {{4}} (find) a candle and {{5}} (light) it. I {{6}} (wait) for an hour, but the lights {{7}} (not/come) back on. So, I {{8}} (decide) to go to sleep. This morning, everything {{9}} (be) back to normal. I {{10}} (finish) the movie tonight.",
+            "blanks": {
+              "1": "was watching",
+              "2": "went",
+              "3": "couldn't",
+              "4": "found",
+              "5": "lit",
+              "6": "waited",
+              "7": "didn't come",
+              "8": "decided",
+              "9": "was",
+              "10": "am going to finish"
+            },
+            "wordbank": [
+              "watch",
+              "go",
+              "can",
+              "find",
+              "light",
+              "wait",
+              "come",
+              "decide",
+              "be",
+              "finish",
+              "run",
+              "jump",
+              "sing",
+              "dance"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy kể về một ngày bình thường của bạn và so sánh nó với một ngày đặc biệt trong quá khứ (bạn thường làm gì và ngày đặc biệt đó đã diễn ra như thế nào).",
+          "grammar_focus": "Present Simple vs Past Simple",
+          "hint_words": [
+            "usually",
+            "every day",
+            "but last year",
+            "special day",
+            "happened",
+            "different",
+            "memorable",
+            "felt"
+          ],
+          "min_words": 30,
+          "example": "I usually wake up at 7 AM and go to work every day, but last year on my birthday, I took a day off and went to the beach with my friends. It was a very special day because we played games and had a wonderful barbecue until late at night."
+        },
+        {
+          "vi": "Hãy mô tả một trải nghiệm thú vị mà bạn đã từng có và kế hoạch của bạn để lặp lại trải nghiệm đó trong tương lai (bạn đã làm gì và bạn định làm lại khi nào).",
+          "grammar_focus": "Present Perfect vs Future",
+          "hint_words": [
+            "have been to",
+            "experience",
+            "loved it",
+            "next time",
+            "am going to",
+            "will",
+            "plan",
+            "again"
+          ],
+          "min_words": 30,
+          "example": "I have been to Sapa once and I absolutely loved the beautiful mountains and the friendly local people. I am going to return there next winter because I want to see the snow and experience the cold weather again with my family."
+        },
+        {
+          "vi": "Hãy kể về một sự việc đang diễn ra trong cuộc sống của bạn hiện tại và nó đã thay đổi như thế nào so với vài năm trước (công việc, học tập hoặc sở thích).",
+          "grammar_focus": "Present Continuous vs Past Simple",
+          "hint_words": [
+            "at the moment",
+            "currently",
+            "years ago",
+            "changed",
+            "used to",
+            "now",
+            "improving",
+            "different"
+          ],
+          "min_words": 30,
+          "example": "At the moment, I am working as a software engineer in a big company, which is very different from five years ago when I was still a student. My life has changed a lot because I have more responsibilities now, but I am also earning more money."
+        },
+        {
+          "vi": "Hãy mô tả một tình huống mà bạn đang làm một việc gì đó thì có một sự việc khác xảy ra (bạn đang làm gì, điều gì đã xảy ra và bạn đã làm gì tiếp theo).",
+          "grammar_focus": "Past Continuous vs Past Simple",
+          "hint_words": [
+            "was walking",
+            "suddenly",
+            "saw",
+            "happened",
+            "while I was",
+            "interrupted",
+            "then",
+            "result"
+          ],
+          "min_words": 30,
+          "example": "I was walking home yesterday evening when I suddenly saw an old man who needed help with his heavy bags. I stopped to help him carry them to his house, and he was very grateful for my kindness. It made me feel very happy."
+        },
+        {
+          "vi": "Hãy nói về những dự định của bạn trong 5 năm tới và những gì bạn đã đạt được cho đến thời điểm hiện tại (bạn đã làm được gì và bạn muốn đạt được gì tiếp theo).",
+          "grammar_focus": "Present Perfect vs Future",
+          "hint_words": [
+            "have achieved",
+            "so far",
+            "in 5 years",
+            "will",
+            "am going to",
+            "goal",
+            "success",
+            "future"
+          ],
+          "min_words": 30,
+          "example": "So far, I have achieved my goal of graduating from university with a good degree and finding a stable job. In the next five years, I will work hard to become a manager and I am going to buy my own apartment in the city."
+        }
+      ]
+    }
+  ]
+}

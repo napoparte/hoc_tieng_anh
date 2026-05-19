@@ -1,0 +1,2671 @@
+{
+  "beginner": [
+    {
+      "icon": "🔵",
+      "title": "To Be: am / is / are",
+      "level": "A1",
+      "badge": "🌱 A1",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Khi nào dùng TO BE</div>Dùng <b>am / is / are</b> để nói về:<br>• <b>Danh tính:</b> I am Linh. He is a student.<br>• <b>Trạng thái / cảm xúc:</b> She is tired. They are happy. I am bored.<br>• <b>Nghề nghiệp:</b> He is a doctor. We are nurses.<br>• <b>Tuổi tác:</b> I am 20 years old. She is nine.<br>• <b>Địa điểm:</b> We are in Hanoi. The keys are on the table.<br>• <b>Quốc tịch / nguồn gốc:</b> They are Vietnamese. She is from Korea.<br>• <b>Mô tả đặc điểm:</b> The book is interesting. The weather is hot.<br>• <b>Giá / số lượng:</b> It is 50,000 VND. They are two kilos.</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Công thức đầy đủ</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Chủ ngữ</th><th style=\"padding:4px 8px;text-align:left\">Khẳng định</th><th style=\"padding:4px 8px;text-align:left\">Phủ định</th><th style=\"padding:4px 8px;text-align:left\">Câu hỏi</th><th style=\"padding:4px 8px;text-align:left\">Rút gọn (+)</th><th style=\"padding:4px 8px;text-align:left\">Rút gọn (-)</th></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">I</td><td style=\"padding:4px 8px;text-align:left\">am</td><td style=\"padding:4px 8px;text-align:left\">am not</td><td style=\"padding:4px 8px;text-align:left\">Am I…?</td><td style=\"padding:4px 8px;text-align:left\">I'm</td><td style=\"padding:4px 8px;text-align:left\">I'm not</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">You / We / They</td><td style=\"padding:4px 8px;text-align:left\">are</td><td style=\"padding:4px 8px;text-align:left\">are not / aren't</td><td style=\"padding:4px 8px;text-align:left\">Are you…?</td><td style=\"padding:4px 8px;text-align:left\">You're / We're / They're</td><td style=\"padding:4px 8px;text-align:left\">You aren't</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">He / She / It</td><td style=\"padding:4px 8px;text-align:left\">is</td><td style=\"padding:4px 8px;text-align:left\">is not / isn't</td><td style=\"padding:4px 8px;text-align:left\">Is he…?</td><td style=\"padding:4px 8px;text-align:left\">He's / She's / It's</td><td style=\"padding:4px 8px;text-align:left\">He isn't</td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">✅ Trả lời ngắn (Short answers)</div><b>Are you tired?</b> – Yes, I <b>am</b>. / No, I'<b>m not</b>.<br><b>Is she a teacher?</b> – Yes, she <b>is</b>. / No, she <b>isn't</b>.<br><b>Are they students?</b> – Yes, they <b>are</b>. / No, they <b>aren't</b>.<br>⚠️ Không được nói: ~~Yes, I'm.~~ → Phải nói: Yes, I <b>am</b>.</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">🔗 There is / There are</div>• <b>There is</b> + danh từ số ít: There is a pen on the desk.<br>• <b>There are</b> + danh từ số nhiều: There are three chairs in the room.<br>• Phủ định: There <b>isn't</b> a cat. / There <b>aren't</b> any students.<br>• Câu hỏi: <b>Is there</b> a bank near here? – Yes, there is.</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Lỗi thường gặp</div>❌ <s>She am a nurse.</s> → ✅ She <b>is</b> a nurse.<br>❌ <s>They is from Japan.</s> → ✅ They <b>are</b> from Japan.<br>❌ <s>I are happy.</s> → ✅ I <b>am</b> happy.<br>❌ <s>He is doctor.</s> → ✅ He is <b>a</b> doctor.<br>❌ <s>Yes, I'm.</s> → ✅ Yes, I <b>am</b>.</div><div class=\"ex-sent\">She <b>is</b> a doctor. She'<b>s</b> not a nurse.<span>Cô ấy là bác sĩ.</span></div><div class=\"ex-sent\"><b>Are</b> they students? – Yes, they <b>are</b>.<span>Họ có phải là học sinh không?</span></div><div class=\"ex-sent\"><b>There is</b> a supermarket near my house.<span>Có một siêu thị gần nhà tôi.</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "She ___ a teacher.",
+          "opts": "is,am,are,be",
+          "ans": "A",
+          "exp": "He/She/It → is"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ from Vietnam.",
+          "opts": "are,is,am,be",
+          "ans": "A",
+          "exp": "They → are"
+        },
+        {
+          "type": "mc",
+          "q": "___ you tired?",
+          "opts": "Are,Is,Am,Be",
+          "ans": "A",
+          "exp": "You → Are"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ a student.",
+          "opts": "am,is,are,be",
+          "ans": "A",
+          "exp": "I → am"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ not happy.",
+          "opts": "is,am,are,be",
+          "ans": "A",
+          "exp": "He → is"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ in class now.",
+          "opts": "are,is,am,be",
+          "ans": "A",
+          "exp": "We → are"
+        },
+        {
+          "type": "mc",
+          "q": "___ he a doctor?",
+          "opts": "Is,Are,Am,Do",
+          "ans": "A",
+          "exp": "He → Is"
+        },
+        {
+          "type": "mc",
+          "q": "You ___ my best friend.",
+          "opts": "are,is,am,be",
+          "ans": "A",
+          "exp": "You → are"
+        },
+        {
+          "type": "tf",
+          "q": "I am student. → Correct or Wrong?",
+          "ans": "Wrong – correct: I am <b>a</b> student",
+          "exp": "Cần mạo từ 'a'"
+        },
+        {
+          "type": "mc",
+          "q": "My parents ___ very kind.",
+          "opts": "are,is,am,be",
+          "ans": "A",
+          "exp": "My parents = they → are"
+        },
+        {
+          "type": "tf",
+          "q": "Yes, I'm. → Correct or Wrong?",
+          "ans": "Wrong – correct: Yes, I <b>am</b>.",
+          "exp": "Short answer không được dùng rút gọn"
+        },
+        {
+          "type": "mc",
+          "q": "It ___ cold today.",
+          "opts": "is,am,are,be",
+          "ans": "A",
+          "exp": "It → is"
+        },
+        {
+          "type": "mc",
+          "q": "The students ___ in the library.",
+          "opts": "are,is,am,be",
+          "ans": "A",
+          "exp": "The students = they → are"
+        },
+        {
+          "type": "tf",
+          "q": "He is doctor. → Correct or Wrong?",
+          "ans": "Wrong – correct: He is <b>a</b> doctor",
+          "exp": "Cần mạo từ 'a'"
+        },
+        {
+          "type": "mc",
+          "q": "Tom and Anna ___ classmates.",
+          "opts": "are,is,am,be",
+          "ans": "A",
+          "exp": "Tom and Anna = they → are"
+        },
+        {
+          "type": "mc",
+          "q": "There ___ a bank near here.",
+          "opts": "is,are,am,be",
+          "ans": "A",
+          "exp": "There is + số ít"
+        },
+        {
+          "type": "mc",
+          "q": "There ___ three books on the table.",
+          "opts": "are,is,am,be",
+          "ans": "A",
+          "exp": "There are + số nhiều"
+        },
+        {
+          "type": "tf",
+          "q": "There is many people here. → Correct or Wrong?",
+          "ans": "Wrong – correct: There <b>are</b> many people here",
+          "exp": "people → số nhiều → are"
+        },
+        {
+          "type": "mc",
+          "q": "The weather ___ very nice today.",
+          "opts": "is,are,am,be",
+          "ans": "A",
+          "exp": "The weather (it) → is"
+        },
+        {
+          "type": "mc",
+          "q": "___ there a hospital near here?",
+          "opts": "Is,Are,Am,Be",
+          "ans": "A",
+          "exp": "There is → câu hỏi Is there"
+        },
+        {
+          "type": "fill",
+          "q": "___ she your sister? (Is/Are)",
+          "ans": "Is",
+          "exp": "She → Is"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ not tired today.",
+          "ans": "am",
+          "exp": "I + am"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ teachers at this school.",
+          "ans": "are",
+          "exp": "They → are"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ from Korea.",
+          "ans": "is",
+          "exp": "She → is"
+        },
+        {
+          "type": "fill",
+          "q": "___ you happy? – Yes, I ___.",
+          "ans": "Are / am",
+          "exp": "Are you? + Yes, I am."
+        },
+        {
+          "type": "fill",
+          "q": "There ___ a dog in the garden.",
+          "ans": "is",
+          "exp": "There is + số ít"
+        },
+        {
+          "type": "fill",
+          "q": "There ___ five students in the room.",
+          "ans": "are",
+          "exp": "There are + số nhiều"
+        },
+        {
+          "type": "fill",
+          "q": "My brother ___ a pilot.",
+          "ans": "is",
+          "exp": "My brother = He → is"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ from the same school.",
+          "ans": "are",
+          "exp": "We → are"
+        },
+        {
+          "type": "fill",
+          "q": "How old ___ you? – I ___ eighteen.",
+          "ans": "are / am",
+          "exp": "Are you? → I am"
+        },
+        {
+          "type": "fill",
+          "q": "The book ___ on the shelf.",
+          "ans": "is",
+          "exp": "The book (it) → is"
+        },
+        {
+          "type": "fill",
+          "q": "___ your parents at home?",
+          "ans": "Are",
+          "exp": "Your parents = they → Are"
+        },
+        {
+          "type": "fill",
+          "q": "It ___ a beautiful day today.",
+          "ans": "is",
+          "exp": "It → is"
+        },
+        {
+          "type": "fill",
+          "q": "The children ___ very noisy today.",
+          "ans": "are",
+          "exp": "The children → are"
+        },
+        {
+          "type": "fill",
+          "q": "___ there any milk in the fridge?",
+          "ans": "Is",
+          "exp": "Is there + không đếm được"
+        },
+        {
+          "type": "fill",
+          "q": "There ___ not any chairs in the room.",
+          "ans": "are",
+          "exp": "There are not = There aren't"
+        },
+        {
+          "type": "fill",
+          "q": "My name ___ Minh and I ___ a student.",
+          "ans": "is / am",
+          "exp": "My name (it) is; I am"
+        },
+        {
+          "type": "fill",
+          "q": "You and I ___ both tired after the trip.",
+          "ans": "are",
+          "exp": "You and I = we → are"
+        },
+        {
+          "type": "fill",
+          "q": "___ the coffee hot? – Yes, it ___.",
+          "ans": "Is / is",
+          "exp": "Is it? → Yes, it is."
+        },
+        {
+          "type": "fill",
+          "q": "The keys ___ on the table, not in my bag.",
+          "ans": "are",
+          "exp": "The keys (they) → are"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "She is a very kind teacher",
+            "extra": [
+              "kind",
+              "very",
+              "teacher"
+            ]
+          },
+          {
+            "words": "Are you happy today",
+            "extra": [
+              "today",
+              "you",
+              "happy"
+            ]
+          },
+          {
+            "words": "They are not at home right now",
+            "extra": [
+              "home",
+              "right",
+              "not"
+            ]
+          },
+          {
+            "words": "I am a student at this school",
+            "extra": [
+              "school",
+              "student",
+              "this"
+            ]
+          },
+          {
+            "words": "Is he your brother or your cousin",
+            "extra": [
+              "brother",
+              "cousin",
+              "your"
+            ]
+          },
+          {
+            "words": "We are not tired at all",
+            "extra": [
+              "tired",
+              "all",
+              "not"
+            ]
+          },
+          {
+            "words": "My name is Lan and I am twenty years old",
+            "extra": [
+              "twenty",
+              "years",
+              "old"
+            ]
+          },
+          {
+            "words": "The weather is very hot today",
+            "extra": [
+              "hot",
+              "very",
+              "today"
+            ]
+          },
+          {
+            "words": "There is a supermarket near my house",
+            "extra": [
+              "supermarket",
+              "near",
+              "house"
+            ]
+          },
+          {
+            "words": "Are there any good restaurants in this area",
+            "extra": [
+              "good",
+              "area",
+              "restaurants"
+            ]
+          },
+          {
+            "words": "He is not a doctor he is a nurse",
+            "extra": [
+              "doctor",
+              "nurse",
+              "not"
+            ]
+          },
+          {
+            "words": "My parents are both very hardworking",
+            "extra": [
+              "hardworking",
+              "both",
+              "parents"
+            ]
+          },
+          {
+            "words": "Is the library open today",
+            "extra": [
+              "library",
+              "open",
+              "today"
+            ]
+          },
+          {
+            "words": "We are very excited about the trip",
+            "extra": [
+              "excited",
+              "trip",
+              "very"
+            ]
+          },
+          {
+            "words": "There are five people in my family",
+            "extra": [
+              "people",
+              "five",
+              "family"
+            ]
+          },
+          {
+            "words": "She is not at school she is at home",
+            "extra": [
+              "school",
+              "home",
+              "not"
+            ]
+          },
+          {
+            "words": "How old are your parents",
+            "extra": [
+              "old",
+              "parents",
+              "your"
+            ]
+          },
+          {
+            "words": "It is not very cold today is it",
+            "extra": [
+              "cold",
+              "today",
+              "very"
+            ]
+          },
+          {
+            "words": "The books are on the desk not on the floor",
+            "extra": [
+              "desk",
+              "floor",
+              "books"
+            ]
+          },
+          {
+            "words": "There is no water in the bottle",
+            "extra": [
+              "water",
+              "bottle",
+              "no"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Hi! My name {{1}} Linh. I {{2}} fifteen years old. I {{3}} a student at Nguyen Trai School. My school {{4}} in District 3. My best friend {{5}} Hoa. We {{6}} in the same class. Our teacher {{7}} Miss Lan. She {{8}} very kind and patient. There {{9}} thirty students in our class. We {{10}} all very happy to be here.",
+            "blanks": {
+              "1": "is",
+              "2": "am",
+              "3": "am",
+              "4": "is",
+              "5": "is",
+              "6": "are",
+              "7": "is",
+              "8": "is",
+              "9": "are",
+              "10": "are"
+            },
+            "wordbank": [
+              "am",
+              "is",
+              "are",
+              "be",
+              "was",
+              "were"
+            ]
+          },
+          {
+            "text": "My parents {{1}} both doctors. My dad {{2}} a surgeon and my mum {{3}} a paediatrician. They {{4}} very busy during the week. Our house {{5}} not far from the hospital. My little brother {{6}} only seven years old. He {{7}} very curious and funny. My grandparents {{8}} retired now. They {{9}} always at home when we come back from school. We {{10}} a very close and happy family.",
+            "blanks": {
+              "1": "are",
+              "2": "is",
+              "3": "is",
+              "4": "are",
+              "5": "is",
+              "6": "is",
+              "7": "is",
+              "8": "are",
+              "9": "are",
+              "10": "are"
+            },
+            "wordbank": [
+              "am",
+              "is",
+              "are",
+              "be",
+              "was",
+              "were"
+            ]
+          },
+          {
+            "text": "There {{1}} a big park near my house. There {{2}} many trees and flowers there. The benches {{3}} old but comfortable. The air {{4}} always fresh and clean. There {{5}} also a small lake in the middle of the park. The water {{6}} very clear. There {{7}} some ducks swimming on the lake. The ducks {{8}} very friendly. On weekends, the park {{9}} full of families and children. It {{10}} my favourite place to relax.",
+            "blanks": {
+              "1": "is",
+              "2": "are",
+              "3": "are",
+              "4": "is",
+              "5": "is",
+              "6": "is",
+              "7": "are",
+              "8": "are",
+              "9": "is",
+              "10": "is"
+            },
+            "wordbank": [
+              "am",
+              "is",
+              "are",
+              "be",
+              "was",
+              "were"
+            ]
+          },
+          {
+            "text": "Tom {{1}} from England but he {{2}} in Vietnam now. He {{3}} an English teacher at a language centre. His students {{4}} mostly teenagers. They {{5}} very enthusiastic and hardworking. Tom's Vietnamese {{6}} not very good yet, but he {{7}} eager to learn. His apartment {{8}} in the city centre. His neighbours {{9}} very friendly and helpful. He {{10}} very happy to live and work here.",
+            "blanks": {
+              "1": "is",
+              "2": "is",
+              "3": "is",
+              "4": "are",
+              "5": "are",
+              "6": "is",
+              "7": "is",
+              "8": "is",
+              "9": "are",
+              "10": "is"
+            },
+            "wordbank": [
+              "am",
+              "is",
+              "are",
+              "be",
+              "was",
+              "were"
+            ]
+          },
+          {
+            "text": "Today {{1}} the first day of school. The classroom {{2}} bright and clean. There {{3}} new textbooks on every desk. The students {{4}} excited and a little nervous. Our new teacher {{5}} young and friendly. Her name {{6}} Miss Phuong. There {{7}} a whiteboard at the front of the room. The chairs and tables {{8}} brand new. I {{9}} happy to be back at school. My friends {{10}} all here too.",
+            "blanks": {
+              "1": "is",
+              "2": "is",
+              "3": "are",
+              "4": "are",
+              "5": "is",
+              "6": "is",
+              "7": "is",
+              "8": "are",
+              "9": "am",
+              "10": "are"
+            },
+            "wordbank": [
+              "am",
+              "is",
+              "are",
+              "be",
+              "was",
+              "were"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Giới thiệu bản thân (tên, tuổi, nghề nghiệp, quê quán)",
+          "grammar_focus": "am / is / are",
+          "hint_words": [
+            "am",
+            "is",
+            "are",
+            "from",
+            "years old",
+            "a student",
+            "a teacher"
+          ],
+          "min_words": 10,
+          "example": "My name is Linh. I am 20 years old. I am a student. I am from Hanoi."
+        },
+        {
+          "vi": "Mô tả gia đình của bạn (nghề nghiệp, tính cách)",
+          "grammar_focus": "am / is / are",
+          "hint_words": [
+            "is",
+            "are",
+            "a doctor",
+            "kind",
+            "hardworking",
+            "my parents",
+            "my brother"
+          ],
+          "min_words": 10,
+          "example": "My family is small. My mother is a nurse. She is very kind. My father is a teacher."
+        },
+        {
+          "vi": "Mô tả lớp học / trường học của bạn",
+          "grammar_focus": "There is / There are",
+          "hint_words": [
+            "is",
+            "are",
+            "there is",
+            "there are",
+            "students",
+            "teachers",
+            "big",
+            "small"
+          ],
+          "min_words": 10,
+          "example": "My school is in District 3. There are 30 students in my class. My teacher is very patient."
+        },
+        {
+          "vi": "Mô tả người bạn thân của bạn (ngoại hình, tính cách)",
+          "grammar_focus": "am / is / are + adjective",
+          "hint_words": [
+            "is",
+            "are",
+            "tall",
+            "short",
+            "funny",
+            "smart",
+            "friendly",
+            "my best friend"
+          ],
+          "min_words": 10,
+          "example": "My best friend is Nam. He is tall and thin. He is very funny and friendly. We are classmates."
+        },
+        {
+          "vi": "Mô tả căn phòng của bạn (đồ vật, vị trí)",
+          "grammar_focus": "There is / There are",
+          "hint_words": [
+            "there is",
+            "there are",
+            "is on",
+            "is next to",
+            "a desk",
+            "a bed",
+            "books",
+            "small"
+          ],
+          "min_words": 10,
+          "example": "My room is small but nice. There is a desk near the window. There are many books on the shelf."
+        }
+      ]
+    },
+    {
+      "icon": "⏰",
+      "title": "Present Simple: I do / I don't / Do I?",
+      "level": "A1",
+      "badge": "🌱 A1",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Khi nào dùng Present Simple</div>• <b>Thói quen / hành động thường xuyên:</b> I walk to school every day.<br>• <b>Sự thật hiển nhiên / quy luật tự nhiên:</b> The sun rises in the east.<br>• <b>Lịch trình cố định (tàu, phim, giờ học):</b> The train leaves at 7am.<br>• <b>Sở thích, cảm xúc thường trực:</b> She likes coffee. I hate spiders.<br>• <b>Hướng dẫn / chỉ dẫn:</b> First you open the app, then you click 'Start'.<br>🔑 <b>Dấu hiệu:</b> always, usually, often, sometimes, rarely, never, every day/week/month, on Mondays, twice a week</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Công thức</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Loại câu</th><th style=\"padding:4px 8px;text-align:left\">I / You / We / They</th><th style=\"padding:4px 8px;text-align:left\">He / She / It</th></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">Khẳng định (+)</td><td style=\"padding:4px 8px;text-align:left\">work / eat / go</td><td style=\"padding:4px 8px;text-align:left\">works / eats / goes</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">Phủ định (-)</td><td style=\"padding:4px 8px;text-align:left\">don't + V</td><td style=\"padding:4px 8px;text-align:left\">doesn't + V (nguyên thể)</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">Câu hỏi (?)</td><td style=\"padding:4px 8px;text-align:left\">Do + S + V?</td><td style=\"padding:4px 8px;text-align:left\">Does + S + V?</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">Trả lời ngắn</td><td style=\"padding:4px 8px;text-align:left\">Yes, I do. / No, I don't.</td><td style=\"padding:4px 8px;text-align:left\">Yes, she does. / No, she doesn't.</td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">✏️ Quy tắc thêm -s / -es cho He/She/It</div>• Bình thường → thêm <b>-s</b>: work→<b>works</b>, eat→<b>eats</b><br>• Tận cùng <b>-s, -sh, -ch, -x, -z, -o</b> → thêm <b>-es</b>: watch→<b>watches</b>, go→<b>goes</b><br>• Tận cùng <b>phụ âm + y</b> → bỏ y thêm <b>-ies</b>: study→<b>studies</b>, carry→<b>carries</b><br>• Tận cùng <b>nguyên âm + y</b> → chỉ thêm <b>-s</b>: play→<b>plays</b>, buy→<b>buys</b><br>• Bất quy tắc: have→<b>has</b>, be→<b>is</b></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">🚫 Stative Verbs – Không dùng với thì tiếp diễn</div>Các động từ <b>trạng thái</b> dùng Present Simple, KHÔNG dùng Present Continuous:<br>• <b>Suy nghĩ:</b> know, believe, think (= ý kiến), understand, remember, forget<br>• <b>Cảm xúc:</b> love, like, hate, want, need, prefer<br>• <b>Giác quan:</b> see, hear, smell, taste, feel (= trạng thái)<br>• <b>Sở hữu:</b> have (= sở hữu), belong, own, contain<br>❌ <s>I am knowing</s> → ✅ I <b>know</b> | ❌ <s>She is having a car</s> → ✅ She <b>has</b> a car</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Lỗi thường gặp</div>❌ <s>She don't like coffee.</s> → ✅ She <b>doesn't</b> like coffee.<br>❌ <s>Does he works here?</s> → ✅ Does he <b>work</b> here?<br>❌ <s>He studys hard.</s> → ✅ He <b>studies</b> hard.<br>❌ <s>She have two brothers.</s> → ✅ She <b>has</b> two brothers.</div><div class=\"ex-sent\">She <b>studies</b> English every morning.<span>Cô ấy học tiếng Anh mỗi sáng.</span></div><div class=\"ex-sent\">Water <b>boils</b> at 100 degrees Celsius.<span>Nước sôi ở 100 độ C.</span></div><div class=\"ex-sent\">The train <b>leaves</b> at 7am on Saturdays.<span>Tàu khởi hành lúc 7h sáng thứ Bảy.</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "She ___ English every day.",
+          "opts": "studies,study,studys,is study",
+          "ans": "A",
+          "exp": "phụ âm+y → ies"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ watch TV at night.",
+          "opts": "don't,doesn't,isn't,aren't",
+          "ans": "A",
+          "exp": "They → don't"
+        },
+        {
+          "type": "mc",
+          "q": "___ he work here?",
+          "opts": "Does,Do,Is,Are",
+          "ans": "A",
+          "exp": "He/She/It câu hỏi → Does"
+        },
+        {
+          "type": "mc",
+          "q": "The bus ___ at 8am every day.",
+          "opts": "leaves,leave,is leaving,left",
+          "ans": "A",
+          "exp": "Lịch trình → Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ like vegetables.",
+          "opts": "doesn't,don't,isn't,aren't",
+          "ans": "A",
+          "exp": "He → doesn't"
+        },
+        {
+          "type": "mc",
+          "q": "Water ___ at 100°C.",
+          "opts": "boils,boil,is boiling,boiled",
+          "ans": "A",
+          "exp": "Sự thật hiển nhiên"
+        },
+        {
+          "type": "mc",
+          "q": "___ you live near here?",
+          "opts": "Do,Does,Are,Is",
+          "ans": "A",
+          "exp": "You → Do"
+        },
+        {
+          "type": "mc",
+          "q": "She always ___ her homework after school.",
+          "opts": "does,do,doing,did",
+          "ans": "A",
+          "exp": "She → does"
+        },
+        {
+          "type": "mc",
+          "q": "My parents ___ in Hanoi.",
+          "opts": "live,lives,is living,lived",
+          "ans": "A",
+          "exp": "My parents = They → live"
+        },
+        {
+          "type": "tf",
+          "q": "She don't like coffee. → Correct or Wrong?",
+          "ans": "Wrong – correct: She <b>doesn't</b> like coffee",
+          "exp": "She → doesn't"
+        },
+        {
+          "type": "mc",
+          "q": "The class ___ at 9am on Mondays.",
+          "opts": "starts,start,is starting,started",
+          "ans": "A",
+          "exp": "Lịch trình cố định → starts"
+        },
+        {
+          "type": "tf",
+          "q": "Does he works here? → Correct or Wrong?",
+          "ans": "Wrong – correct: Does he <b>work</b> here?",
+          "exp": "Sau Does → V nguyên thể"
+        },
+        {
+          "type": "mc",
+          "q": "We never ___ fast food.",
+          "opts": "eat,eats,eating,ate",
+          "ans": "A",
+          "exp": "We → eat (không +s)"
+        },
+        {
+          "type": "mc",
+          "q": "Tom and Lisa ___ their teacher.",
+          "opts": "respect,respects,is respecting,respected",
+          "ans": "A",
+          "exp": "Tom and Lisa = They → respect"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ the dishes every night.",
+          "opts": "washes,wash,washing,washed",
+          "ans": "A",
+          "exp": "wash → washes (-sh + es)"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ (= owns) a new car.",
+          "opts": "has,have,is having,had",
+          "ans": "A",
+          "exp": "own/possess → has (stative)"
+        },
+        {
+          "type": "tf",
+          "q": "I am knowing the answer. → Correct or Wrong?",
+          "ans": "Wrong – correct: I <b>know</b> the answer",
+          "exp": "know = stative verb → Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "The film ___ at 8pm. Don't be late!",
+          "opts": "starts,is starting,start,started",
+          "ans": "A",
+          "exp": "Lịch trình cố định → starts"
+        },
+        {
+          "type": "tf",
+          "q": "He studys very hard. → Correct or Wrong?",
+          "ans": "Wrong – correct: He <b>studies</b> very hard",
+          "exp": "phụ âm + y → ies"
+        },
+        {
+          "type": "mc",
+          "q": "___ she like spicy food?",
+          "opts": "Does,Do,Is,Has",
+          "ans": "A",
+          "exp": "She → Does"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (go) to school by bike.",
+          "ans": "goes",
+          "exp": "go→goes (thêm -es sau -o)"
+        },
+        {
+          "type": "fill",
+          "q": "My father ___ (watch) the news every evening.",
+          "ans": "watches",
+          "exp": "watch→watches (thêm -es sau -ch)"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (have) two sisters.",
+          "ans": "has",
+          "exp": "have → has (bất quy tắc)"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (study) very hard for exams.",
+          "ans": "studies",
+          "exp": "study → studies (phụ âm+y → ies)"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (play) the piano beautifully.",
+          "ans": "plays",
+          "exp": "nguyên âm+y → plays"
+        },
+        {
+          "type": "fill",
+          "q": "My cat ___ (sleep) 16 hours a day.",
+          "ans": "sleeps",
+          "exp": "He/She/It + V-s"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (not/eat) meat. I am vegetarian.",
+          "ans": "don't eat",
+          "exp": "I + don't + V nguyên thể"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (not/like) cold weather.",
+          "ans": "doesn't like",
+          "exp": "She + doesn't + V nguyên thể"
+        },
+        {
+          "type": "fill",
+          "q": "___ your brother ___ (work) on weekends?",
+          "ans": "Does / work",
+          "exp": "Does + S + V nguyên thể"
+        },
+        {
+          "type": "fill",
+          "q": "The library ___ (close) at 9pm every day.",
+          "ans": "closes",
+          "exp": "close → closes (thêm -s)"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (mix) business with pleasure.",
+          "ans": "mixes",
+          "exp": "-x + es → mixes"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (try) her best in every test.",
+          "ans": "tries",
+          "exp": "phụ âm + y → ies: tries"
+        },
+        {
+          "type": "fill",
+          "q": "My parents ___ (not/watch) much TV.",
+          "ans": "don't watch",
+          "exp": "They → don't + V"
+        },
+        {
+          "type": "fill",
+          "q": "The Earth ___ (go) around the Sun.",
+          "ans": "goes",
+          "exp": "Sự thật → goes"
+        },
+        {
+          "type": "fill",
+          "q": "___ it ___ (rain) a lot in Hue?",
+          "ans": "Does / rain",
+          "exp": "Does it rain? – Yes, it does."
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (teach) English at a primary school.",
+          "ans": "teaches",
+          "exp": "-ch + es → teaches"
+        },
+        {
+          "type": "fill",
+          "q": "He never ___ (arrive) on time.",
+          "ans": "arrives",
+          "exp": "He + arrives"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (believe) in hard work.",
+          "ans": "believe",
+          "exp": "Stative verb: believe"
+        },
+        {
+          "type": "fill",
+          "q": "The shop ___ (open) at 8am and ___ (close) at 10pm.",
+          "ans": "opens / closes",
+          "exp": "lịch trình: opens / closes"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (carry) a heavy bag to school every day.",
+          "ans": "carries",
+          "exp": "phụ âm + y → carries"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "She studies English every morning",
+            "extra": [
+              "every",
+              "English",
+              "morning"
+            ]
+          },
+          {
+            "words": "Does he work here on weekdays",
+            "extra": [
+              "weekdays",
+              "work",
+              "here"
+            ]
+          },
+          {
+            "words": "My father watches the news every evening",
+            "extra": [
+              "every",
+              "news",
+              "evening"
+            ]
+          },
+          {
+            "words": "They do not eat meat because they are vegetarians",
+            "extra": [
+              "vegetarians",
+              "because",
+              "meat"
+            ]
+          },
+          {
+            "words": "Water boils at one hundred degrees Celsius",
+            "extra": [
+              "degrees",
+              "hundred",
+              "Celsius"
+            ]
+          },
+          {
+            "words": "The bus leaves at seven thirty every day",
+            "extra": [
+              "every",
+              "thirty",
+              "leaves"
+            ]
+          },
+          {
+            "words": "She does not like coffee but she loves tea",
+            "extra": [
+              "loves",
+              "coffee",
+              "but"
+            ]
+          },
+          {
+            "words": "How often do you exercise in a week",
+            "extra": [
+              "exercise",
+              "often",
+              "week"
+            ]
+          },
+          {
+            "words": "He never arrives on time to any meeting",
+            "extra": [
+              "arrives",
+              "meeting",
+              "time"
+            ]
+          },
+          {
+            "words": "The library opens at eight and closes at nine",
+            "extra": [
+              "opens",
+              "closes",
+              "eight"
+            ]
+          },
+          {
+            "words": "My sister always does her homework before dinner",
+            "extra": [
+              "always",
+              "homework",
+              "dinner"
+            ]
+          },
+          {
+            "words": "The Earth goes around the Sun once a year",
+            "extra": [
+              "around",
+              "once",
+              "year"
+            ]
+          },
+          {
+            "words": "Do you believe in ghosts or supernatural things",
+            "extra": [
+              "believe",
+              "ghosts",
+              "supernatural"
+            ]
+          },
+          {
+            "words": "She carries a heavy bag to school every day",
+            "extra": [
+              "heavy",
+              "carries",
+              "every"
+            ]
+          },
+          {
+            "words": "My parents do not watch much television",
+            "extra": [
+              "television",
+              "watch",
+              "much"
+            ]
+          },
+          {
+            "words": "Does your brother play any sports on weekends",
+            "extra": [
+              "sports",
+              "weekends",
+              "brother"
+            ]
+          },
+          {
+            "words": "The shop opens early and closes late on Saturdays",
+            "extra": [
+              "early",
+              "late",
+              "Saturdays"
+            ]
+          },
+          {
+            "words": "I do not understand why he studies so much",
+            "extra": [
+              "understand",
+              "studies",
+              "much"
+            ]
+          },
+          {
+            "words": "She mixes flour and eggs to make the cake",
+            "extra": [
+              "flour",
+              "eggs",
+              "mixes"
+            ]
+          },
+          {
+            "words": "He tries to speak English every single day",
+            "extra": [
+              "single",
+              "tries",
+              "every"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "My friend Nam {{1}} up at six every morning. He {{2}} a cold shower to wake himself up. Then he {{3}} breakfast with his family. He {{4}} to school by bike. At school, he {{5}} very hard in every lesson. He {{6}} lunch with his classmates in the canteen. After school, he {{7}} football with his friends for an hour. In the evening, he {{8}} his homework and then {{9}} for his exams. He {{10}} TV only at weekends. His parents {{11}} he is very disciplined.",
+            "blanks": {
+              "1": "wakes",
+              "2": "takes",
+              "3": "has",
+              "4": "goes",
+              "5": "works",
+              "6": "has",
+              "7": "plays",
+              "8": "does",
+              "9": "reads",
+              "10": "watches",
+              "11": "say"
+            },
+            "wordbank": [
+              "wake",
+              "take",
+              "have",
+              "go",
+              "work",
+              "play",
+              "do",
+              "read",
+              "watch",
+              "say",
+              "eat",
+              "study",
+              "listen",
+              "bring"
+            ]
+          },
+          {
+            "text": "My mum {{1}} in a hospital as a nurse. She {{2}} early every morning and {{3}} home late. She {{4}} lunch at the hospital canteen. In the evenings, she {{5}} dinner for our whole family. She {{6}} very hard but she never {{7}}. On her days off, she {{8}} to the market and {{9}} fresh food. She also {{10}} time to read and relax. Our family {{11}} her so much.",
+            "blanks": {
+              "1": "works",
+              "2": "starts",
+              "3": "comes",
+              "4": "has",
+              "5": "cooks",
+              "6": "works",
+              "7": "complains",
+              "8": "goes",
+              "9": "buys",
+              "10": "finds",
+              "11": "loves"
+            },
+            "wordbank": [
+              "work",
+              "start",
+              "come",
+              "have",
+              "cook",
+              "complain",
+              "go",
+              "buy",
+              "find",
+              "love",
+              "help",
+              "make",
+              "listen",
+              "know"
+            ]
+          },
+          {
+            "text": "On Sundays, my family usually {{1}} to the market together. My dad {{2}} a shopping list the night before. My mum {{3}} the vegetables carefully and {{4}} the freshest ones. My sister and I {{5}} the shopping bags. We always {{6}} some street food afterwards. My dad {{7}} pho and my mum {{8}} banh mi. After the market, we {{9}} home and {{10}} the housework together. My grandma {{11}} that Sunday mornings are the best part of the week.",
+            "blanks": {
+              "1": "goes",
+              "2": "writes",
+              "3": "checks",
+              "4": "picks",
+              "5": "carry",
+              "6": "have",
+              "7": "orders",
+              "8": "prefers",
+              "9": "go",
+              "10": "do",
+              "11": "says"
+            },
+            "wordbank": [
+              "go",
+              "write",
+              "check",
+              "pick",
+              "carry",
+              "have",
+              "order",
+              "prefer",
+              "do",
+              "say",
+              "buy",
+              "eat",
+              "bring",
+              "get"
+            ]
+          },
+          {
+            "text": "The sun {{1}} in the east and {{2}} in the west every day. Water {{3}} at one hundred degrees Celsius. Plants {{4}} sunlight and water to grow. The Earth {{5}} around the Sun once a year. Bees {{6}} pollen from flowers. Fish {{7}} through their gills. Whales {{8}} to the surface to breathe. Birds {{9}} south in winter to find warmer weather. The Moon {{10}} around the Earth roughly once a month. These {{11}} facts that scientists have known for centuries.",
+            "blanks": {
+              "1": "rises",
+              "2": "sets",
+              "3": "boils",
+              "4": "need",
+              "5": "travels",
+              "6": "collect",
+              "7": "breathe",
+              "8": "come",
+              "9": "fly",
+              "10": "orbits",
+              "11": "are"
+            },
+            "wordbank": [
+              "rise",
+              "set",
+              "boil",
+              "need",
+              "travel",
+              "collect",
+              "breathe",
+              "come",
+              "fly",
+              "orbit",
+              "be",
+              "take",
+              "sleep",
+              "run"
+            ]
+          },
+          {
+            "text": "Every morning, I {{1}} up at half past six. I {{2}} a shower and {{3}} my teeth. Then I {{4}} breakfast with my family. I usually {{5}} rice or bread. After breakfast, I {{6}} my bag and {{7}} my uniform. I {{8}} to school on foot because it {{9}} only ten minutes away. My lessons {{10}} at seven thirty. My favourite subject {{11}} English.",
+            "blanks": {
+              "1": "wake",
+              "2": "have",
+              "3": "brush",
+              "4": "eat",
+              "5": "have",
+              "6": "pack",
+              "7": "put on",
+              "8": "walk",
+              "9": "takes",
+              "10": "start",
+              "11": "is"
+            },
+            "wordbank": [
+              "wake",
+              "have",
+              "brush",
+              "eat",
+              "pack",
+              "put on",
+              "walk",
+              "take",
+              "start",
+              "be",
+              "go",
+              "wear",
+              "run",
+              "give"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Mô tả thói quen hàng ngày của bạn",
+          "grammar_focus": "Present Simple",
+          "hint_words": [
+            "wake up",
+            "go to",
+            "eat",
+            "study",
+            "watch",
+            "every day",
+            "usually",
+            "always"
+          ],
+          "min_words": 10,
+          "example": "I usually wake up at 6 o'clock. I eat breakfast and then go to school. I always study in the evening."
+        },
+        {
+          "vi": "Nói về sở thích của bạn (thích / không thích làm gì)",
+          "grammar_focus": "like / don't like",
+          "hint_words": [
+            "like",
+            "love",
+            "don't like",
+            "hate",
+            "enjoy",
+            "music",
+            "sport",
+            "reading"
+          ],
+          "min_words": 10,
+          "example": "I love listening to music and playing sports. I don't like waking up early. I enjoy reading books on weekends."
+        },
+        {
+          "vi": "Kể về công việc hoặc việc học của bạn mỗi ngày",
+          "grammar_focus": "Present Simple – routine",
+          "hint_words": [
+            "go to",
+            "start",
+            "finish",
+            "have",
+            "take",
+            "class",
+            "work",
+            "every day"
+          ],
+          "min_words": 10,
+          "example": "I go to school every day. My class starts at 7 am and finishes at 11 am. I have lunch at school."
+        },
+        {
+          "vi": "Mô tả thói quen cuối tuần của bạn",
+          "grammar_focus": "Present Simple – weekend routine",
+          "hint_words": [
+            "on weekends",
+            "usually",
+            "sometimes",
+            "often",
+            "meet",
+            "play",
+            "cook",
+            "relax"
+          ],
+          "min_words": 10,
+          "example": "On weekends, I usually sleep late. I sometimes meet my friends and we play football together. I often cook dinner for my family."
+        },
+        {
+          "vi": "Nói về những điều bạn làm và không làm mỗi ngày",
+          "grammar_focus": "do / don't + verb",
+          "hint_words": [
+            "don't",
+            "do",
+            "never",
+            "always",
+            "drink",
+            "eat",
+            "exercise",
+            "watch TV"
+          ],
+          "min_words": 10,
+          "example": "I always drink water in the morning. I never eat fast food. I don't watch TV on weekdays because I study."
+        }
+      ]
+    },
+    {
+      "icon": "▶️",
+      "title": "Present Continuous: I'm doing",
+      "level": "A1",
+      "badge": "🌱 A1",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Khi nào dùng Present Continuous</div>• <b>Đang xảy ra ngay lúc nói:</b> Look! It's raining.<br>• <b>Kế hoạch tương lai gần đã sắp xếp cụ thể:</b> I'm meeting Tom tonight.<br>• <b>Xu hướng đang thay đổi trong giai đoạn hiện tại:</b> Prices are rising. English is becoming more important.<br>• <b>Phàn nàn (với always):</b> He's always interrupting me! She's always losing her keys!<br>🔑 <b>Dấu hiệu:</b> now, right now, at the moment, look!, listen!, currently, today, tonight, this week/month/year</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Công thức</div>(+) S + <b>am/is/are</b> + <b>V-ing</b><br>(-) S + <b>am/is/are + not</b> + V-ing<br>(?) <b>Am/Is/Are</b> + S + V-ing?<br>Trả lời ngắn: Yes, he <b>is</b>. / No, she <b>isn't</b>.</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">✏️ Quy tắc thêm -ing</div>• Bình thường → thêm <b>-ing</b>: work→<b>working</b>, eat→<b>eating</b><br>• Tận cùng <b>1 nguyên âm + 1 phụ âm (trọng âm cuối)</b> → nhân đôi phụ âm: run→<b>running</b>, swim→<b>swimming</b>, sit→<b>sitting</b><br>• Tận cùng <b>-e</b> (không phát âm) → bỏ e + thêm -ing: make→<b>making</b>, have→<b>having</b>, write→<b>writing</b><br>• Tận cùng <b>-ie</b> → đổi ie thành y + ing: die→<b>dying</b>, lie→<b>lying</b>, tie→<b>tying</b></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">🚫 Stative Verbs – Không dùng với Continuous</div>Các động từ <b>trạng thái</b> KHÔNG dùng -ing:<br>• know, believe, understand, remember, forget, think (= ý kiến)<br>• love, like, hate, want, need, prefer, wish<br>• see, hear, smell, taste, feel (trạng thái)<br>• have (= sở hữu), own, belong, contain<br>❌ <s>I am knowing</s> | ❌ <s>She is liking</s> | ❌ <s>I am having a car</s></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Lỗi thường gặp</div>❌ <s>I am runing.</s> → ✅ I am <b>running</b>.<br>❌ <s>She is knowing the answer.</s> → ✅ She <b>knows</b>.<br>❌ <s>I am not liking this film.</s> → ✅ I <b>don't like</b> this film.</div><div class=\"ex-sent\">Look! The children <b>are playing</b> in the garden.<span>Nhìn kìa! Các em đang chơi trong vườn.</span></div><div class=\"ex-sent\">I<b>'m meeting</b> my teacher tomorrow morning.<span>Tôi sẽ gặp giáo viên vào sáng mai (đã sắp xếp).</span></div><div class=\"ex-sent\">He'<b>s always losing</b> his keys!<span>Anh ta lúc nào cũng làm mất chìa khóa!</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "Listen! She ___ a song.",
+          "opts": "is singing,sings,sang,sing",
+          "ans": "A",
+          "exp": "Đang xảy ra → is + V-ing"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ football at the moment.",
+          "opts": "are playing,play,played,is playing",
+          "ans": "A",
+          "exp": "They + are + V-ing"
+        },
+        {
+          "type": "mc",
+          "q": "___ you working late tonight?",
+          "opts": "Are,Do,Is,Does",
+          "ans": "A",
+          "exp": "You + Are"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ understand the question.",
+          "opts": "doesn't,isn't,aren't,don't",
+          "ans": "A",
+          "exp": "understand = stative verb → Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "The population ___ rapidly these days.",
+          "opts": "is growing,grows,grew,grow",
+          "ans": "A",
+          "exp": "Xu hướng đang thay đổi"
+        },
+        {
+          "type": "tf",
+          "q": "She is knowing the answer. → Correct or Wrong?",
+          "ans": "Wrong – correct: She <b>knows</b> the answer",
+          "exp": "know = stative verb"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ always ___ his phone during class!",
+          "opts": "is/checking,does/check,has/checked,will/check",
+          "ans": "A",
+          "exp": "Phàn nàn với always + continuous"
+        },
+        {
+          "type": "mc",
+          "q": "___ she coming to the party tonight?",
+          "opts": "Is,Does,Are,Do",
+          "ans": "A",
+          "exp": "She → Is"
+        },
+        {
+          "type": "tf",
+          "q": "I am not liking this movie. → Correct or Wrong?",
+          "ans": "Wrong – correct: I <b>don't like</b> this movie",
+          "exp": "like = stative verb"
+        },
+        {
+          "type": "mc",
+          "q": "Why ___ you smiling?",
+          "opts": "are,do,is,does",
+          "ans": "A",
+          "exp": "You → are"
+        },
+        {
+          "type": "mc",
+          "q": "The company ___ well this year.",
+          "opts": "is doing,does,did,do",
+          "ans": "A",
+          "exp": "Xu hướng năm nay → Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "He always ___ when I'm talking!",
+          "opts": "is interrupting,interrupts,interrupted,interrupt",
+          "ans": "A",
+          "exp": "always + continuous = phàn nàn"
+        },
+        {
+          "type": "mc",
+          "q": "What ___ at the moment?",
+          "opts": "are you doing,do you do,did you do,have you done",
+          "ans": "A",
+          "exp": "Đang làm gì → are you doing"
+        },
+        {
+          "type": "tf",
+          "q": "I am runing in the park. → Correct or Wrong?",
+          "ans": "Wrong – correct: I am <b>running</b> in the park",
+          "exp": "run → running (nhân đôi n)"
+        },
+        {
+          "type": "mc",
+          "q": "Look! It ___ outside. Take an umbrella.",
+          "opts": "is raining,rains,rained,rain",
+          "ans": "A",
+          "exp": "Look! Đang xảy ra → is raining"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ dinner with my parents this Saturday.",
+          "opts": "are having,have,had,is having",
+          "ans": "A",
+          "exp": "Kế hoạch đã sắp xếp → are having"
+        },
+        {
+          "type": "tf",
+          "q": "She is dieing of laughter. → Correct or Wrong?",
+          "ans": "Wrong – correct: She is <b>dying</b> of laughter",
+          "exp": "die → dying (ie → y + ing)"
+        },
+        {
+          "type": "mc",
+          "q": "The baby ___ now. Please be quiet!",
+          "opts": "is sleeping,sleeps,sleep,slept",
+          "ans": "A",
+          "exp": "Đang ngủ → is sleeping"
+        },
+        {
+          "type": "mc",
+          "q": "___ he usually ___ to work by bus?",
+          "opts": "Does/go,Is/going,Do/go,Are/going",
+          "ans": "A",
+          "exp": "usually → thói quen → Present Simple"
+        },
+        {
+          "type": "tf",
+          "q": "They are haveing a great time. → Correct or Wrong?",
+          "ans": "Wrong – correct: They are <b>having</b> a great time",
+          "exp": "have → having (bỏ e)"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (read) a book right now.",
+          "ans": "is reading",
+          "exp": "He + is + reading"
+        },
+        {
+          "type": "fill",
+          "q": "Look! It ___ (rain) outside.",
+          "ans": "is raining",
+          "exp": "rain → raining"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (sit) next to Tom in class today.",
+          "ans": "am sitting",
+          "exp": "sit → sitting (nhân đôi t)"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (have) a great time right now.",
+          "ans": "are having",
+          "exp": "have → having (bỏ e)"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (swim) in the pool at this moment.",
+          "ans": "is swimming",
+          "exp": "swim → swimming (nhân đôi m)"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (die) to try that new restaurant.",
+          "ans": "is dying",
+          "exp": "die → dying (ie→y+ing)"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (not/watch) TV – I ___ (study).",
+          "ans": "am not watching / am studying",
+          "exp": "hai hành động đang diễn ra"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (build) a new bridge near our school.",
+          "ans": "are building",
+          "exp": "build → building"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (write) an email to her teacher right now.",
+          "ans": "is writing",
+          "exp": "write → writing (bỏ e)"
+        },
+        {
+          "type": "fill",
+          "q": "What ___ you ___ (wear) to the party tonight?",
+          "ans": "are / wearing",
+          "exp": "Kế hoạch → are you wearing"
+        },
+        {
+          "type": "fill",
+          "q": "The children ___ (make) too much noise.",
+          "ans": "are making",
+          "exp": "make → making (bỏ e)"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (stay) at my aunt's house this week.",
+          "ans": "am staying",
+          "exp": "Giai đoạn hiện tại → am staying"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (get) better – he'll be fine soon.",
+          "ans": "is getting",
+          "exp": "get → getting (nhân đôi t)"
+        },
+        {
+          "type": "fill",
+          "q": "Listen! Someone ___ (knock) at the door.",
+          "ans": "is knocking",
+          "exp": "knock → knocking"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (not/feel) well today.",
+          "ans": "isn't feeling",
+          "exp": "feel (temporary state) → isn't feeling"
+        },
+        {
+          "type": "fill",
+          "q": "My brother ___ (prepare) for his university entrance exam this month.",
+          "ans": "is preparing",
+          "exp": "Giai đoạn hiện tại → is preparing"
+        },
+        {
+          "type": "fill",
+          "q": "The weather ___ (get) colder this week.",
+          "ans": "is getting",
+          "exp": "Xu hướng đang thay đổi"
+        },
+        {
+          "type": "fill",
+          "q": "Why ___ he ___ (lie) on the floor?",
+          "ans": "is / lying",
+          "exp": "lie → lying (ie→y+ing)"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (meet) her boss tomorrow afternoon.",
+          "ans": "is meeting",
+          "exp": "Kế hoạch tương lai gần"
+        },
+        {
+          "type": "fill",
+          "q": "More and more people ___ (use) electric vehicles these days.",
+          "ans": "are using",
+          "exp": "Xu hướng → are using"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "She is singing a beautiful song right now",
+            "extra": [
+              "beautiful",
+              "right",
+              "singing"
+            ]
+          },
+          {
+            "words": "Are they playing football in the park",
+            "extra": [
+              "football",
+              "playing",
+              "park"
+            ]
+          },
+          {
+            "words": "I am not watching TV I am studying",
+            "extra": [
+              "watching",
+              "studying",
+              "not"
+            ]
+          },
+          {
+            "words": "Why are you smiling so much today",
+            "extra": [
+              "smiling",
+              "today",
+              "much"
+            ]
+          },
+          {
+            "words": "He is always losing his keys",
+            "extra": [
+              "always",
+              "losing",
+              "keys"
+            ]
+          },
+          {
+            "words": "The children are swimming in the pool at the moment",
+            "extra": [
+              "moment",
+              "swimming",
+              "pool"
+            ]
+          },
+          {
+            "words": "Look it is raining very heavily outside",
+            "extra": [
+              "heavily",
+              "raining",
+              "outside"
+            ]
+          },
+          {
+            "words": "We are having a great time at the beach",
+            "extra": [
+              "beach",
+              "having",
+              "great"
+            ]
+          },
+          {
+            "words": "She is writing an email to her teacher right now",
+            "extra": [
+              "writing",
+              "email",
+              "teacher"
+            ]
+          },
+          {
+            "words": "Is he getting better after his illness",
+            "extra": [
+              "better",
+              "getting",
+              "illness"
+            ]
+          },
+          {
+            "words": "More and more people are using electric vehicles",
+            "extra": [
+              "people",
+              "vehicles",
+              "using"
+            ]
+          },
+          {
+            "words": "The weather is getting colder and colder this week",
+            "extra": [
+              "colder",
+              "week",
+              "getting"
+            ]
+          },
+          {
+            "words": "What are you wearing to the wedding tomorrow",
+            "extra": [
+              "wearing",
+              "wedding",
+              "tomorrow"
+            ]
+          },
+          {
+            "words": "She is not feeling well so she is resting",
+            "extra": [
+              "feeling",
+              "resting",
+              "well"
+            ]
+          },
+          {
+            "words": "My brother is preparing for his final exams",
+            "extra": [
+              "preparing",
+              "final",
+              "exams"
+            ]
+          },
+          {
+            "words": "They are building a new school near my house",
+            "extra": [
+              "building",
+              "school",
+              "house"
+            ]
+          },
+          {
+            "words": "She is always interrupting me when I am talking",
+            "extra": [
+              "interrupting",
+              "talking",
+              "always"
+            ]
+          },
+          {
+            "words": "Listen someone is knocking at the front door",
+            "extra": [
+              "knocking",
+              "front",
+              "Listen"
+            ]
+          },
+          {
+            "words": "I am staying at my cousin's house this week",
+            "extra": [
+              "cousin's",
+              "staying",
+              "week"
+            ]
+          },
+          {
+            "words": "Why is she lying on the floor is she okay",
+            "extra": [
+              "lying",
+              "floor",
+              "okay"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Look out the window! It {{1}} heavily right now. The children {{2}} in the garden with their umbrellas and {{3}} in the puddles. Mum {{4}} hot soup in the kitchen – it smells amazing. Dad {{5}} the weather forecast on his phone. My sister {{6}} a book by the window. The cat {{7}} on the sofa and {{8}} at the rain. I {{9}} this essay for school while {{10}} to music. Everyone {{11}} something different on this rainy afternoon.",
+            "blanks": {
+              "1": "is raining",
+              "2": "are playing",
+              "3": "are jumping",
+              "4": "is cooking",
+              "5": "is checking",
+              "6": "is reading",
+              "7": "is lying",
+              "8": "is staring",
+              "9": "am writing",
+              "10": "listening",
+              "11": "is doing"
+            },
+            "wordbank": [
+              "rain",
+              "play",
+              "jump",
+              "cook",
+              "check",
+              "read",
+              "lie",
+              "stare",
+              "write",
+              "listen",
+              "do",
+              "watch",
+              "speak",
+              "run"
+            ]
+          },
+          {
+            "text": "It is Friday evening. Lisa {{1}} to her favourite playlist. Her brother {{2}} a video game and {{3}} loudly. Their mum {{4}} dinner in the kitchen. Their dad {{5}} an important email at his desk. The dog {{6}} under the table. Their little sister {{7}} with her building blocks on the floor. Lisa {{8}} not homework – she {{9}} a well-earned break. Outside, the neighbours {{10}} their garden. Everyone in the street {{11}} the warm evening.",
+            "blanks": {
+              "1": "is listening",
+              "2": "is playing",
+              "3": "is laughing",
+              "4": "is making",
+              "5": "is writing",
+              "6": "is sleeping",
+              "7": "is playing",
+              "8": "is not doing",
+              "9": "is having",
+              "10": "are watering",
+              "11": "is enjoying"
+            },
+            "wordbank": [
+              "listen",
+              "play",
+              "laugh",
+              "make",
+              "write",
+              "sleep",
+              "do",
+              "have",
+              "water",
+              "enjoy",
+              "shout",
+              "sit",
+              "run",
+              "sing"
+            ]
+          },
+          {
+            "text": "At the swimming pool right now, Tom {{1}} in the fast lane. His sister {{2}} the backstroke at the other end. Their coach {{3}} instructions from the side of the pool. Two other swimmers {{4}} to warm up. One boy {{5}} a float to practise his kicking. The lifeguard {{6}} carefully from her chair. Parents {{7}} in the stands and {{8}} their children. A young child {{9}} to swim for the first time. The pool {{10}} alive with energy and splashing water. Everyone {{11}} their absolute best today.",
+            "blanks": {
+              "1": "is swimming",
+              "2": "is practising",
+              "3": "is shouting",
+              "4": "are starting",
+              "5": "is using",
+              "6": "is watching",
+              "7": "are sitting",
+              "8": "are cheering",
+              "9": "is learning",
+              "10": "is",
+              "11": "is trying"
+            },
+            "wordbank": [
+              "swim",
+              "practise",
+              "shout",
+              "start",
+              "use",
+              "watch",
+              "sit",
+              "cheer",
+              "learn",
+              "be",
+              "try",
+              "help",
+              "sing",
+              "travel"
+            ]
+          },
+          {
+            "text": "Our city {{1}} quickly these days. New tall buildings {{2}} on every street. The population {{3}} rapidly. More and more people {{4}} electric bikes and motorbikes. The government {{5}} new metro lines underground. Trees {{6}} being planted along the main roads. Cafes and restaurants {{7}} everywhere. Young people {{8}} more English than ever before. Technology {{9}} the way people work and study. Life {{10}} more convenient but also more expensive. Everyone {{11}} to keep up with the changes.",
+            "blanks": {
+              "1": "is changing",
+              "2": "are appearing",
+              "3": "is growing",
+              "4": "are using",
+              "5": "is building",
+              "6": "are",
+              "7": "are opening",
+              "8": "are speaking",
+              "9": "is transforming",
+              "10": "is becoming",
+              "11": "is trying"
+            },
+            "wordbank": [
+              "change",
+              "appear",
+              "grow",
+              "use",
+              "build",
+              "plant",
+              "open",
+              "speak",
+              "transform",
+              "become",
+              "try",
+              "develop",
+              "travel",
+              "cook"
+            ]
+          },
+          {
+            "text": "Shhh! I {{1}} for my exam right now. My sister {{2}} next to me at the same desk. We {{3}} the same grammar notes. Mum {{4}} quietly in the kitchen so she {{5}} not disturb us. Dad {{6}} outside. Our dog {{7}} at our feet. My phone {{8}} on silent. I {{9}} any messages right now. The clock {{10}} and the exam {{11}} in just two hours.",
+            "blanks": {
+              "1": "am studying",
+              "2": "is sitting",
+              "3": "are sharing",
+              "4": "is working",
+              "5": "is",
+              "6": "is gardening",
+              "7": "is sleeping",
+              "8": "is",
+              "9": "am not checking",
+              "10": "is ticking",
+              "11": "is starting"
+            },
+            "wordbank": [
+              "study",
+              "sit",
+              "share",
+              "work",
+              "be",
+              "garden",
+              "sleep",
+              "check",
+              "tick",
+              "start",
+              "read",
+              "prepare",
+              "cook",
+              "drive"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Mô tả bạn đang làm gì lúc này",
+          "grammar_focus": "Present Continuous",
+          "hint_words": [
+            "am doing",
+            "is studying",
+            "are watching",
+            "right now",
+            "at the moment",
+            "sitting",
+            "reading"
+          ],
+          "min_words": 10,
+          "example": "Right now, I am sitting at my desk. I am studying English and listening to music at the same time."
+        },
+        {
+          "vi": "Mô tả một bức ảnh (người trong ảnh đang làm gì)",
+          "grammar_focus": "Present Continuous",
+          "hint_words": [
+            "is wearing",
+            "is standing",
+            "are playing",
+            "is smiling",
+            "is holding",
+            "in the picture"
+          ],
+          "min_words": 10,
+          "example": "In the picture, a boy is standing in the park. He is wearing a blue shirt and holding a ball. He is smiling."
+        },
+        {
+          "vi": "Mô tả những gì đang xảy ra ngoài cửa sổ của bạn",
+          "grammar_focus": "Present Continuous – describing scenes",
+          "hint_words": [
+            "is walking",
+            "are playing",
+            "is driving",
+            "is raining",
+            "outside",
+            "children",
+            "people"
+          ],
+          "min_words": 10,
+          "example": "Outside my window, some children are playing in the park. A woman is walking her dog. It is not raining today."
+        },
+        {
+          "vi": "Kể về kế hoạch đang được sắp xếp cho tuần này",
+          "grammar_focus": "Present Continuous – future plans",
+          "hint_words": [
+            "am meeting",
+            "are visiting",
+            "is coming",
+            "this week",
+            "tomorrow",
+            "on Saturday",
+            "plan"
+          ],
+          "min_words": 10,
+          "example": "I am meeting my friends on Saturday. My cousin is coming to visit us this week. We are planning a small party."
+        },
+        {
+          "vi": "Mô tả gia đình bạn đang làm gì tối nay",
+          "grammar_focus": "Present Continuous – family activities",
+          "hint_words": [
+            "is cooking",
+            "is watching",
+            "are eating",
+            "is reading",
+            "is playing",
+            "tonight",
+            "together"
+          ],
+          "min_words": 10,
+          "example": "Tonight, my mother is cooking dinner in the kitchen. My father is watching TV. My sister and I are doing our homework together."
+        }
+      ]
+    },
+    {
+      "icon": "🔄",
+      "title": "Present Simple vs Present Continuous",
+      "level": "A1",
+      "badge": "🌱 A1",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Khi nào dùng Present Simple vs Present Continuous</div>\n<table style=\"width:100%;font-size:12px;border-collapse:collapse\">\n<tr style=\"background:var(--bg2)\"><th style=\"padding:6px 8px;text-align:left\">Present Simple ✅</th><th style=\"padding:6px 8px;text-align:left\">Present Continuous ✅</th></tr>\n<tr><td style=\"padding:4px 8px\">Thói quen, thường xuyên<br><i>She <b>walks</b> to school every day.</i></td><td style=\"padding:4px 8px\">Đang xảy ra ngay lúc nói<br><i>She <b>is walking</b> to school now.</i></td></tr>\n<tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">Sự thật hiển nhiên<br><i>Water <b>boils</b> at 100°C.</i></td><td style=\"padding:4px 8px\">Xu hướng tạm thời<br><i>Prices <b>are rising</b> this year.</i></td></tr>\n<tr><td style=\"padding:4px 8px\">Cảm xúc/trạng thái (stative verbs)<br><i>I <b>love</b> this song.</i></td><td style=\"padding:4px 8px\">Kế hoạch tương lai đã sắp xếp<br><i>We <b>are meeting</b> them tonight.</i></td></tr>\n<tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">Lịch trình cố định<br><i>The train <b>leaves</b> at 7am.</i></td><td style=\"padding:4px 8px\">Phàn nàn (với always)<br><i>He'<b>s always losing</b> his keys!</i></td></tr>\n</table></div>\n<div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">🚫 Stative verbs – KHÔNG dùng với continuous</div>\nCác động từ trạng thái <b>không dùng</b> với Present Continuous:<br>\n• <b>Cảm xúc/sở thích:</b> love, like, hate, want, need, prefer<br>\n• <b>Nhận thức:</b> know, understand, believe, remember, forget, think (= believe)<br>\n• <b>Giác quan:</b> see, hear, smell, taste, feel (= have an opinion)<br>\n• <b>Sở hữu:</b> have (= own), own, belong, contain<br>\n❌ <s>I am knowing the answer.</s> → ✅ I <b>know</b> the answer.<br>\n❌ <s>She is loving pizza.</s> → ✅ She <b>loves</b> pizza.<br>\n❌ <s>He is having a car.</s> → ✅ He <b>has</b> a car. (= sở hữu)</div>\n<div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">🔑 Từ tín hiệu nhận biết</div>\n<b>Present Simple:</b> always, usually, often, sometimes, rarely, never, every day/week/year, on Mondays<br>\n<b>Present Continuous:</b> now, right now, at the moment, currently, today, this week, look!, listen!<br>\n⚠️ <b>think, see, smell, taste, feel</b> có thể dùng cả hai nhưng nghĩa khác:<br>\n• I <b>think</b> he's right. (= I believe) vs I <b>am thinking</b> about you. (= đang suy nghĩ)<br>\n• The soup <b>smells</b> good. (= mùi) vs She <b>is smelling</b> the flowers. (= đang ngửi)</div>\n<div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Lỗi thường gặp</div>\n❌ <s>I am going to school every day.</s> → ✅ I <b>go</b> to school every day.<br>\n❌ <s>She knows the answer right now? No — correct.</s> → ✅ She <b>knows</b> (stative — no continuous)<br>\n❌ <s>Look! He runs!</s> → ✅ Look! He <b>is running</b>!<br>\n❌ <s>I am wanting a coffee.</s> → ✅ I <b>want</b> a coffee.</div>\n<div class=\"ex-sent\">I <b>usually walk</b> to work, but today I <b>am taking</b> the bus.<span>Tôi thường đi bộ, nhưng hôm nay tôi đang đi xe buýt.</span></div>\n<div class=\"ex-sent\">She <b>knows</b> French very well. She <b>is learning</b> Spanish right now.<span>Cô ấy biết tiếng Pháp rất giỏi và đang học tiếng Tây Ban Nha.</span></div>\n<div class=\"ex-sent\">What <b>are</b> you <b>doing</b>? – I <b>am cooking</b> dinner. I always <b>cook</b> on Fridays.<span>Bạn đang làm gì? – Tôi đang nấu ăn. Tôi luôn nấu ăn vào thứ Sáu.</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "Every morning she ___ to school by bike.",
+          "opts": "cycles,is cycling,are cycling,cycle",
+          "ans": "A",
+          "exp": "Thói quen hàng ngày → Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "Listen! Someone ___ outside.",
+          "opts": "is crying,cries,cry,are crying",
+          "ans": "A",
+          "exp": "Đang xảy ra ngay lúc nói → Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ pizza. It's my favourite food.",
+          "opts": "love,am loving,is loving,loves",
+          "ans": "A",
+          "exp": "love = stative verb → không dùng continuous"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ a book right now. She can't talk.",
+          "opts": "is reading,reads,read,reading",
+          "ans": "A",
+          "exp": "Right now → Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "The Earth ___ around the sun.",
+          "opts": "goes,is going,go,are going",
+          "ans": "A",
+          "exp": "Sự thật hiển nhiên → Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "Look! The cat ___ on the sofa again.",
+          "opts": "is sleeping,sleeps,sleep,sleeping",
+          "ans": "A",
+          "exp": "Look! → đang xảy ra → Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ what you mean. Don't worry.",
+          "opts": "understand,am understanding,understands,is understanding",
+          "ans": "A",
+          "exp": "understand = stative verb"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ dinner at a restaurant tonight. (It's planned.)",
+          "opts": "are having,have,has,is having",
+          "ans": "A",
+          "exp": "Kế hoạch đã sắp xếp → Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ to the gym three times a week.",
+          "opts": "goes,is going,go,are going",
+          "ans": "A",
+          "exp": "Three times a week → thói quen → Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "This coffee ___ strange. What's in it?",
+          "opts": "tastes,is tasting,taste,are tasting",
+          "ans": "A",
+          "exp": "taste (có mùi vị) = stative verb"
+        },
+        {
+          "type": "mc",
+          "q": "Be quiet! The baby ___.",
+          "opts": "is sleeping,sleeps,sleep,are sleeping",
+          "ans": "A",
+          "exp": "Cầu khiến → đang xảy ra → Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ her homework at the moment.",
+          "opts": "is doing,does,do,doing",
+          "ans": "A",
+          "exp": "At the moment → Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "Water ___ at 0°C.",
+          "opts": "freezes,is freezing,freeze,are freezing",
+          "ans": "A",
+          "exp": "Quy luật tự nhiên → Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "I think she ___ the bus to work this week because her car is broken.",
+          "opts": "is taking,takes,take,took",
+          "ans": "A",
+          "exp": "This week, tạm thời → Present Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "Do you know where my keys ___?",
+          "opts": "are,is,am,be",
+          "ans": "A",
+          "exp": "Trạng thái → Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "He's always ___ my things without asking!",
+          "opts": "taking,takes,taken,take",
+          "ans": "A",
+          "exp": "He's always + V-ing = phàn nàn → Continuous"
+        },
+        {
+          "type": "tf",
+          "q": "She is knowing the answer. → Correct or Wrong?",
+          "ans": "Wrong – correct: She <b>knows</b> the answer",
+          "exp": "know = stative verb, không dùng continuous"
+        },
+        {
+          "type": "tf",
+          "q": "I usually eat breakfast at 7am. → Correct or Wrong?",
+          "ans": "Correct",
+          "exp": "Usually + thói quen → Present Simple ✔"
+        },
+        {
+          "type": "tf",
+          "q": "Look! They play football in the garden. → Correct or Wrong?",
+          "ans": "Wrong – correct: They <b>are playing</b> football in the garden",
+          "exp": "Look! → đang xảy ra → Present Continuous"
+        },
+        {
+          "type": "tf",
+          "q": "He is having a nice car. → Correct or Wrong?",
+          "ans": "Wrong – correct: He <b>has</b> a nice car",
+          "exp": "have (sở hữu) = stative verb"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (walk) to school every day, but today I ___ (take) the bus.",
+          "ans": "walk / am taking",
+          "exp": "Thói quen vs đang xảy ra hôm nay"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (love) chocolate. It's her favourite.",
+          "ans": "loves",
+          "exp": "love = stative verb → Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (play) tennis at the moment. Come back later.",
+          "ans": "are playing",
+          "exp": "At the moment → Present Continuous"
+        },
+        {
+          "type": "fill",
+          "q": "The sun ___ (rise) in the east. That's a fact.",
+          "ans": "rises",
+          "exp": "Sự thật hiển nhiên → Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "Listen! Someone ___ (knock) at the door.",
+          "ans": "is knocking",
+          "exp": "Listen! → đang xảy ra → Continuous"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (not/like) horror movies. He prefers comedies.",
+          "ans": "doesn't like",
+          "exp": "Sở thích → Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (visit) our grandparents next Sunday. (It's arranged.)",
+          "ans": "are visiting",
+          "exp": "Kế hoạch đã sắp xếp → Present Continuous"
+        },
+        {
+          "type": "fill",
+          "q": "This food ___ (smell) amazing! What is it?",
+          "ans": "smells",
+          "exp": "smell (có mùi) = stative → Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (study) English every evening from 7 to 9.",
+          "ans": "studies",
+          "exp": "Every evening → thói quen → Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (think) about going to Canada for my holidays.",
+          "ans": "am thinking",
+          "exp": "think = đang suy nghĩ (active) → Continuous"
+        },
+        {
+          "type": "fill",
+          "q": "He usually ___ (get) up at 6, but this week he ___ (work) night shifts.",
+          "ans": "gets / is working",
+          "exp": "Thói quen vs tình huống tạm thời"
+        },
+        {
+          "type": "fill",
+          "q": "The baby ___ (sleep) right now. Please be quiet!",
+          "ans": "is sleeping",
+          "exp": "Right now → Present Continuous"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (not/understand) this grammar rule.",
+          "ans": "don't understand",
+          "exp": "understand = stative verb → Simple"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (read) three books a month.",
+          "ans": "reads",
+          "exp": "Thói quen → Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "Look! It ___ (snow) outside!",
+          "ans": "is snowing",
+          "exp": "Look! → đang xảy ra → Continuous"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (belong) to a tennis club.",
+          "ans": "belongs",
+          "exp": "belong = stative verb → Simple"
+        },
+        {
+          "type": "fill",
+          "q": "What ___ you ___ (do) this evening? – I ___ (meet) a friend.",
+          "ans": "are / doing / am meeting",
+          "exp": "Kế hoạch → Present Continuous"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (always/lose) his phone. It's so annoying!",
+          "ans": "is always losing",
+          "exp": "Always + Continuous = phàn nàn"
+        },
+        {
+          "type": "fill",
+          "q": "Dolphins ___ (live) in the ocean.",
+          "ans": "live",
+          "exp": "Sự thật hiển nhiên → Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (feel) tired today. I need some rest.",
+          "ans": "feel",
+          "exp": "feel (trạng thái) = stative → Present Simple"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "She usually walks to school but today she is taking the bus",
+            "extra": [
+              "usually",
+              "taking",
+              "today"
+            ]
+          },
+          {
+            "words": "I love this song it is my favourite",
+            "extra": [
+              "love",
+              "favourite",
+              "song"
+            ]
+          },
+          {
+            "words": "Look they are playing football in the garden",
+            "extra": [
+              "playing",
+              "garden",
+              "football"
+            ]
+          },
+          {
+            "words": "He goes to the gym three times a week",
+            "extra": [
+              "times",
+              "gym",
+              "three"
+            ]
+          },
+          {
+            "words": "She is reading a book right now she cannot talk",
+            "extra": [
+              "reading",
+              "cannot",
+              "right"
+            ]
+          },
+          {
+            "words": "Water boils at one hundred degrees and that is a fact",
+            "extra": [
+              "boils",
+              "degrees",
+              "fact"
+            ]
+          },
+          {
+            "words": "Listen someone is knocking at the door",
+            "extra": [
+              "knocking",
+              "door",
+              "someone"
+            ]
+          },
+          {
+            "words": "He does not like horror movies he prefers comedies",
+            "extra": [
+              "horror",
+              "prefers",
+              "comedies"
+            ]
+          },
+          {
+            "words": "We are visiting our grandparents next Sunday",
+            "extra": [
+              "visiting",
+              "grandparents",
+              "Sunday"
+            ]
+          },
+          {
+            "words": "I do not understand why she is always losing her keys",
+            "extra": [
+              "understand",
+              "losing",
+              "always"
+            ]
+          },
+          {
+            "words": "The baby is sleeping right now please be quiet",
+            "extra": [
+              "sleeping",
+              "quiet",
+              "please"
+            ]
+          },
+          {
+            "words": "She studies English every evening from seven to nine",
+            "extra": [
+              "studies",
+              "evening",
+              "seven"
+            ]
+          },
+          {
+            "words": "This soup smells amazing what is in it",
+            "extra": [
+              "smells",
+              "amazing",
+              "soup"
+            ]
+          },
+          {
+            "words": "He is always taking my things without asking",
+            "extra": [
+              "always",
+              "taking",
+              "asking"
+            ]
+          },
+          {
+            "words": "I am thinking about going to Canada for my holidays",
+            "extra": [
+              "thinking",
+              "Canada",
+              "holidays"
+            ]
+          },
+          {
+            "words": "The sun rises in the east every morning",
+            "extra": [
+              "rises",
+              "east",
+              "morning"
+            ]
+          },
+          {
+            "words": "What are you doing this evening I am meeting a friend",
+            "extra": [
+              "doing",
+              "evening",
+              "meeting"
+            ]
+          },
+          {
+            "words": "He usually gets up at six but this week he is working night shifts",
+            "extra": [
+              "usually",
+              "working",
+              "shifts"
+            ]
+          },
+          {
+            "words": "Dolphins live in the ocean and they are very intelligent",
+            "extra": [
+              "live",
+              "ocean",
+              "intelligent"
+            ]
+          },
+          {
+            "words": "I feel tired today because I did not sleep well last night",
+            "extra": [
+              "tired",
+              "sleep",
+              "night"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "It's Saturday morning in the Chen family's house. Mrs Chen {{1}} (cook) breakfast in the kitchen right now. She always {{2}} (make) pancakes on Saturdays. Mr Chen {{3}} (read) the newspaper at the kitchen table. He {{4}} (read) it every morning. Their daughter Mei {{5}} (listen) to music in her room. She {{6}} (love) pop music. Their son {{7}} (practise) his football skills in the garden. He {{8}} (train) twice a week normally, but this weekend he {{9}} (prepare) for a big match next week. The family dog {{10}} (bark) at the neighbours' cat outside. Everyone {{11}} (enjoy) their Saturday morning routine.",
+            "blanks": {
+              "1": "is cooking",
+              "2": "makes",
+              "3": "is reading",
+              "4": "reads",
+              "5": "is listening",
+              "6": "loves",
+              "7": "is practising",
+              "8": "trains",
+              "9": "is preparing",
+              "10": "is barking",
+              "11": "enjoys"
+            },
+            "wordbank": [
+              "cook",
+              "make",
+              "read",
+              "listen",
+              "love",
+              "practise",
+              "train",
+              "prepare",
+              "bark",
+              "enjoy",
+              "watch",
+              "play",
+              "study",
+              "walk",
+              "eat",
+              "write",
+              "sing",
+              "run",
+              "draw",
+              "talk"
+            ]
+          },
+          {
+            "text": "My friend Kai is an interesting person. He {{1}} (work) as a graphic designer and usually {{2}} (start) work at nine. But this week he {{3}} (work) from home because his office {{4}} (renovate). Right now it {{5}} (rain) heavily, so he {{6}} (sit) by the window and {{7}} (sketch) ideas for a new project. He {{8}} (drink) three cups of coffee a day — it's a habit. At the moment he {{9}} (listen) to jazz music while he {{10}} (design) a logo. He {{11}} (not/understand) why some clients keep changing their minds.",
+            "blanks": {
+              "1": "works",
+              "2": "starts",
+              "3": "is working",
+              "4": "is being renovated",
+              "5": "is raining",
+              "6": "is sitting",
+              "7": "is sketching",
+              "8": "drinks",
+              "9": "is listening",
+              "10": "is designing",
+              "11": "doesn't understand"
+            },
+            "wordbank": [
+              "work",
+              "start",
+              "rain",
+              "sit",
+              "sketch",
+              "drink",
+              "listen",
+              "design",
+              "understand",
+              "renovate",
+              "change",
+              "send",
+              "create",
+              "finish",
+              "discuss",
+              "believe",
+              "prefer",
+              "plan",
+              "type",
+              "draw"
+            ]
+          },
+          {
+            "text": "The school science fair {{1}} (take place) every year in June. This year, students {{2}} (work) on some very creative projects. Right now, class 7B {{3}} (present) their robot to the judges. The robot {{4}} (look) quite small but it {{5}} (do) three different tasks at once. The judges {{6}} (watch) carefully and {{7}} (take) notes. Mr Phong, the science teacher, {{8}} (believe) his students can win. He always {{9}} (say) that curiosity {{10}} (make) the best scientists. One student {{11}} (explain) her project nervously while her partner {{12}} (show) the demonstration.",
+            "blanks": {
+              "1": "takes place",
+              "2": "are working",
+              "3": "is presenting",
+              "4": "looks",
+              "5": "does",
+              "6": "are watching",
+              "7": "are taking",
+              "8": "believes",
+              "9": "says",
+              "10": "makes",
+              "11": "is explaining",
+              "12": "is showing"
+            },
+            "wordbank": [
+              "take",
+              "work",
+              "present",
+              "look",
+              "do",
+              "watch",
+              "take",
+              "believe",
+              "say",
+              "make",
+              "explain",
+              "show",
+              "run",
+              "test",
+              "build",
+              "win",
+              "compete",
+              "judge",
+              "demonstrate",
+              "observe"
+            ]
+          },
+          {
+            "text": "Anna {{1}} (live) in London but she {{2}} (spend) this month in Paris for a French course. She usually {{3}} (speak) English at home, but right now she {{4}} (try) to use only French. At the moment she {{5}} (walk) along the Seine and {{6}} (enjoy) the beautiful view. She {{7}} (take) photos with her phone every few minutes. She {{8}} (not/know) many French words yet, but she {{9}} (learn) fast. She {{10}} (understand) more every day. Back home, her cat {{11}} (miss) her. Her flatmate {{12}} (look after) it while she {{13}} (study) abroad.",
+            "blanks": {
+              "1": "lives",
+              "2": "is spending",
+              "3": "speaks",
+              "4": "is trying",
+              "5": "is walking",
+              "6": "is enjoying",
+              "7": "is taking",
+              "8": "doesn't know",
+              "9": "is learning",
+              "10": "understands",
+              "11": "is missing",
+              "12": "is looking after",
+              "13": "is studying"
+            },
+            "wordbank": [
+              "live",
+              "spend",
+              "speak",
+              "try",
+              "walk",
+              "enjoy",
+              "take",
+              "know",
+              "learn",
+              "understand",
+              "miss",
+              "look",
+              "study",
+              "improve",
+              "practise",
+              "use",
+              "help",
+              "visit",
+              "explore",
+              "stay"
+            ]
+          },
+          {
+            "text": "The restaurant 'Green Fork' {{1}} (open) every day except Monday. Tonight it {{2}} (get) very busy. The chef {{3}} (prepare) a special dish that only {{4}} (appear) on the menu on Fridays. The waiters {{5}} (rush) around taking orders. At table six, a couple {{6}} (celebrate) their anniversary. They {{7}} (look) very happy. A food blogger {{8}} (sit) in the corner and {{9}} (write) a review on her phone. She often {{10}} (visit) new restaurants for her column. Right now she {{11}} (taste) the soup and {{12}} (think) it's the best she's ever had. The manager {{13}} (watch) everything carefully to make sure everyone {{14}} (have) a good time.",
+            "blanks": {
+              "1": "opens",
+              "2": "is getting",
+              "3": "is preparing",
+              "4": "appears",
+              "5": "are rushing",
+              "6": "is celebrating",
+              "7": "look",
+              "8": "is sitting",
+              "9": "is writing",
+              "10": "visits",
+              "11": "is tasting",
+              "12": "thinks",
+              "13": "is watching",
+              "14": "is having"
+            },
+            "wordbank": [
+              "open",
+              "get",
+              "prepare",
+              "appear",
+              "rush",
+              "celebrate",
+              "look",
+              "sit",
+              "write",
+              "visit",
+              "taste",
+              "think",
+              "watch",
+              "have",
+              "serve",
+              "enjoy",
+              "order",
+              "cook",
+              "eat",
+              "fill"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "So sánh thói quen hàng ngày và hoạt động đang xảy ra ngay lúc này của bạn.",
+          "grammar_focus": "Present Simple vs Present Continuous",
+          "hint_words": [
+            "usually",
+            "every day",
+            "right now",
+            "at the moment",
+            "today"
+          ],
+          "min_words": 40,
+          "example": "I usually wake up at 6am, but today I am sleeping in. I always have breakfast, but right now I am just drinking coffee. Normally I walk to school, but this morning I am taking the bus because it is raining."
+        },
+        {
+          "vi": "Viết về một người bạn bè hoặc thành viên gia đình: thói quen của họ (Present Simple) và những gì họ đang làm bây giờ (Present Continuous).",
+          "grammar_focus": "Present Simple for habits, Present Continuous for now",
+          "hint_words": [
+            "He/She usually",
+            "every week",
+            "right now",
+            "is working",
+            "doesn't like"
+          ],
+          "min_words": 40,
+          "example": "My brother usually studies in the evenings and plays football at weekends. He loves action films but doesn't like romance. Right now he is sitting in his room and is chatting with his friends online."
+        },
+        {
+          "vi": "Viết 5 câu dùng stative verbs (know, love, want, understand, have) đúng cách.",
+          "grammar_focus": "Stative verbs — always use Present Simple",
+          "hint_words": [
+            "know",
+            "love",
+            "want",
+            "understand",
+            "have",
+            "believe",
+            "prefer",
+            "need"
+          ],
+          "min_words": 30,
+          "example": "I know the answer to this question. She loves spending time with her family. We want to travel to Japan someday. He has a big house near the city. I don't understand why they are angry."
+        },
+        {
+          "vi": "Viết một đoạn văn ngắn về một buổi sáng bận rộn trong gia đình bạn.",
+          "grammar_focus": "Mix of Present Simple (routines) and Present Continuous (current actions)",
+          "hint_words": [
+            "always",
+            "every morning",
+            "right now",
+            "is making",
+            "usually gets up"
+          ],
+          "min_words": 50,
+          "example": "Every morning our house is very busy. My mum always makes breakfast at 7am. My dad usually reads the news before work. Right now, my little sister is getting dressed and my brother is packing his bag. I always leave for school at 7:30, but today I am waiting for my friend."
+        },
+        {
+          "vi": "Viết về những gì đang xảy ra ở nơi bạn đang ngồi bây giờ. Dùng cả Present Simple (mô tả sự thật) và Present Continuous (đang xảy ra).",
+          "grammar_focus": "Describe the present moment",
+          "hint_words": [
+            "is sitting",
+            "is talking",
+            "outside it is",
+            "I usually",
+            "right now",
+            "next to me"
+          ],
+          "min_words": 40,
+          "example": "I am sitting in a café right now. The café is usually quiet but today it is very busy. The barista is making coffee and the customers are talking loudly. Outside it is raining. I usually study at home, but today I am working here because I like the atmosphere."
+        }
+      ]
+    }
+  ]
+}

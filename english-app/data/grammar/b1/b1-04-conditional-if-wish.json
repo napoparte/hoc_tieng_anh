@@ -1,0 +1,2688 @@
+{
+  "intermediate": [
+    {
+      "icon": "1️⃣",
+      "title": "B1 First conditional, future time clauses",
+      "level": "intermediate",
+      "badge": "📘 B1",
+      "badgeClass": "badge-green",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 First Conditional – Điều kiện có thể xảy ra</div><b>Cấu trúc:</b> <b>If + Present Simple, will + base verb</b><br><i>If it <b>rains</b>, I <b>will stay</b> at home.</i><br><i>If you <b>study</b> hard, you <b>will pass</b> the exam.</i><br><br>• Dùng để nói về những tình huống <b>có thể xảy ra trong tương lai</b>.<br>• Mệnh đề If dùng <b>Present Simple</b> (KHÔNG dùng will sau if).<br>• Hai mệnh đề có thể đổi chỗ:<br><i>I will stay at home if it rains.</i><br><br>✦ Ngoài <b>will</b>, ta có thể dùng: <b>might, can, should, be going to</b><br><i>If you're hungry, you <b>can</b> have a sandwich.</i><br><i>If it rains, we <b>might</b> cancel the match.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Future Time Clauses – Mệnh đề chỉ thời gian trong tương lai</div>Sau <b>when, as soon as, before, after, until, by the time</b> + mệnh đề tương lai → dùng <b>Present Simple</b> (KHÔNG dùng will):<br><br><i>I'll call you <b>when</b> I <b>arrive</b>. (NOT when I will arrive)</i><br><i><b>As soon as</b> she <b>gets</b> home, we'll have dinner.</i><br><i>He won't leave <b>until</b> you <b>say</b> sorry.</i><br><i><b>Before</b> you <b>go</b>, please turn off the lights.</i><br><br>⚠️ So sánh <b>if</b> và <b>when</b>:<br>• <b>If</b> = có thể xảy ra, có thể không: <i>If I see her, I'll tell her.</i><br>• <b>When</b> = chắc chắn sẽ xảy ra: <i>When I see her, I'll tell her.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Lỗi phổ biến</div>❌ <s>If it will rain, I will stay home.</s><br>✅ If it <b>rains</b>, I will stay home.<br><br>❌ <s>I'll call you when I will arrive.</s><br>✅ I'll call you when I <b>arrive</b>.<br><br>❌ <s>If I won't pass, I'll be upset.</s><br>✅ If I <b>don't pass</b>, I'll be upset.</div><div class=\"ex-sent\">If you <b>miss</b> the train, you <b>will be</b> late for the meeting.<span>If + Present Simple, will + base verb</span></div><div class=\"ex-sent\">I <b>won't leave</b> until you <b>tell</b> me the truth.<span>until + Present Simple trong mệnh đề thời gian tương lai</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "If she ___ hard, she will pass the exam.",
+          "opts": "studies,will study,studied,is studying",
+          "ans": "A",
+          "exp": "First Conditional: if + Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ the trip if the weather is bad.",
+          "opts": "will cancel,cancel,cancelled,would cancel",
+          "ans": "A",
+          "exp": "First Conditional: main clause → will + base verb"
+        },
+        {
+          "type": "mc",
+          "q": "I'll call you as soon as I ___ the station.",
+          "opts": "reach,will reach,reached,am reaching",
+          "ans": "A",
+          "exp": "Future time clause (as soon as) → Present Simple, không dùng will"
+        },
+        {
+          "type": "mc",
+          "q": "If you ___ me, I will never forgive you.",
+          "opts": "lie to,will lie to,lied to,are lying to",
+          "ans": "A",
+          "exp": "First Conditional: if + Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "She won't leave until he ___ the truth.",
+          "opts": "tells,will tell,told,is telling",
+          "ans": "A",
+          "exp": "Future time clause (until) → Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "If it ___ tomorrow, we can have a picnic.",
+          "opts": "doesn't rain,won't rain,didn't rain,isn't raining",
+          "ans": "A",
+          "exp": "Negative First Conditional: if + doesn't + verb"
+        },
+        {
+          "type": "mc",
+          "q": "When she ___ home, I'll tell her the news.",
+          "opts": "gets,will get,got,is getting",
+          "ans": "A",
+          "exp": "Future time clause (when) → Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "If you are hungry, you ___ have some of my pasta.",
+          "opts": "can,will,would,should",
+          "ans": "A",
+          "exp": "First Conditional with can (permission/offer)"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ the job if he arrives late for the interview.",
+          "opts": "won't get,doesn't get,wouldn't get,can't get",
+          "ans": "A",
+          "exp": "First Conditional: main clause → will + base verb"
+        },
+        {
+          "type": "mc",
+          "q": "Before you ___, please lock the door.",
+          "opts": "leave,will leave,left,are leaving",
+          "ans": "A",
+          "exp": "Future time clause (before) → Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "If she ___ to go, nobody can stop her.",
+          "opts": "wants,will want,wanted,is wanting",
+          "ans": "A",
+          "exp": "First Conditional: if + Present Simple (stative verb)"
+        },
+        {
+          "type": "mc",
+          "q": "I'll send you the file as soon as I ___ it.",
+          "opts": "finish,will finish,finished,am finishing",
+          "ans": "A",
+          "exp": "Future time clause (as soon as) → Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "If we don't hurry, we ___ the last bus.",
+          "opts": "will miss,miss,would miss,are missing",
+          "ans": "A",
+          "exp": "First Conditional: main clause → will + base verb"
+        },
+        {
+          "type": "mc",
+          "q": "By the time you ___, the film will have started.",
+          "opts": "arrive,will arrive,arrived,are arriving",
+          "ans": "A",
+          "exp": "Future time clause (by the time) → Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "If you ___ me how to do it, I'll help you.",
+          "opts": "show,will show,showed,are showing",
+          "ans": "A",
+          "exp": "First Conditional: if + Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ very happy if she gets the scholarship.",
+          "opts": "will be,is,was,would be",
+          "ans": "A",
+          "exp": "First Conditional: main clause → will be"
+        },
+        {
+          "type": "mc",
+          "q": "After he ___ the report, he'll send it to his manager.",
+          "opts": "finishes,will finish,has finished,finished",
+          "ans": "A",
+          "exp": "Future time clause (after) → Present Simple or Present Perfect"
+        },
+        {
+          "type": "mc",
+          "q": "If I ___ my homework early, I might go out tonight.",
+          "opts": "finish,will finish,am finishing,finished",
+          "ans": "A",
+          "exp": "First Conditional with might"
+        },
+        {
+          "type": "mc",
+          "q": "Wait here until I ___ back.",
+          "opts": "come,will come,came,am coming",
+          "ans": "A",
+          "exp": "Future time clause (until) → Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "You ___ be surprised if you see how much she has improved.",
+          "opts": "will,would,might,should",
+          "ans": "A",
+          "exp": "First Conditional: will in main clause"
+        },
+        {
+          "type": "fill",
+          "q": "If she ___ (not/hurry), she will miss the meeting.",
+          "ans": "doesn't hurry",
+          "exp": "First Conditional negative: if + doesn't + verb"
+        },
+        {
+          "type": "fill",
+          "q": "I will call you as soon as I ___ (arrive) at the airport.",
+          "ans": "arrive",
+          "exp": "Future time clause (as soon as) → Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "If you ___ (eat) too much, you will feel ill.",
+          "ans": "eat",
+          "exp": "First Conditional: if + Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (not/leave) until she speaks to the manager.",
+          "ans": "won't leave",
+          "exp": "Future time clause (until) → won't in main clause"
+        },
+        {
+          "type": "fill",
+          "q": "If the package ___ (arrive) today, please sign for it.",
+          "ans": "arrives",
+          "exp": "First Conditional: if + Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (take) the job if the salary is good enough.",
+          "ans": "will take",
+          "exp": "First Conditional: main clause → will + base verb"
+        },
+        {
+          "type": "fill",
+          "q": "When she ___ (get) the news, she will be shocked.",
+          "ans": "gets",
+          "exp": "Future time clause (when) → Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "If it ___ (be) sunny this weekend, we'll have a barbecue.",
+          "ans": "is",
+          "exp": "First Conditional: if + Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "Before you ___ (go) to bed, don't forget to set your alarm.",
+          "ans": "go",
+          "exp": "Future time clause (before) → Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "If you ___ (practise) regularly, your English will improve quickly.",
+          "ans": "practise",
+          "exp": "First Conditional: if + Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "By the time the guests ___ (arrive), I will have prepared everything.",
+          "ans": "arrive",
+          "exp": "Future time clause (by the time) → Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "If the traffic ___ (be) bad, we might be late.",
+          "ans": "is",
+          "exp": "First Conditional with might"
+        },
+        {
+          "type": "fill",
+          "q": "She will tell you the answer after she ___ (check) her notes.",
+          "ans": "checks",
+          "exp": "Future time clause (after) → Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "If you ___ (not/water) the plants, they will die.",
+          "ans": "don't water",
+          "exp": "First Conditional negative if clause"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (wait) here until you come back.",
+          "ans": "will wait",
+          "exp": "Main clause + until future time clause"
+        },
+        {
+          "type": "fill",
+          "q": "As soon as the results ___ (come out), I will let you know immediately.",
+          "ans": "come out",
+          "exp": "Future time clause: as soon as + present simple"
+        },
+        {
+          "type": "fill",
+          "q": "If you ___ (not/save) your work regularly, you might lose everything.",
+          "ans": "don't save",
+          "exp": "First conditional negative: if + don't + verb"
+        },
+        {
+          "type": "fill",
+          "q": "She won't attend the meeting unless she ___ (finish) the report first.",
+          "ans": "finishes",
+          "exp": "unless = if not → present simple"
+        },
+        {
+          "type": "fill",
+          "q": "By the time we ___ (arrive), the concert will probably have started.",
+          "ans": "arrive",
+          "exp": "Future time clause: by the time + present simple"
+        },
+        {
+          "type": "fill",
+          "q": "If the traffic ___ (be) bad tomorrow, we should leave an hour earlier.",
+          "ans": "is",
+          "exp": "First conditional: if + present simple"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "If she studies hard she will pass the exam",
+            "extra": [
+              "studied",
+              "would pass"
+            ]
+          },
+          {
+            "words": "I will call you as soon as I reach the station",
+            "extra": [
+              "will reach",
+              "reached"
+            ]
+          },
+          {
+            "words": "We will cancel the trip if the weather is bad",
+            "extra": [
+              "would cancel",
+              "cancelled"
+            ]
+          },
+          {
+            "words": "She won't leave until he tells her the truth",
+            "extra": [
+              "will tell",
+              "told"
+            ]
+          },
+          {
+            "words": "If it doesn't rain tomorrow we can have a picnic",
+            "extra": [
+              "won't rain",
+              "didn't rain"
+            ]
+          },
+          {
+            "words": "When she gets home I will tell her the good news",
+            "extra": [
+              "will get",
+              "got"
+            ]
+          },
+          {
+            "words": "He won't get the job if he arrives late for the interview",
+            "extra": [
+              "would arrive",
+              "arrived"
+            ]
+          },
+          {
+            "words": "Before you leave please lock the door behind you",
+            "extra": [
+              "will leave",
+              "left"
+            ]
+          },
+          {
+            "words": "If we don't hurry we will miss the last bus",
+            "extra": [
+              "didn't hurry",
+              "would miss"
+            ]
+          },
+          {
+            "words": "By the time you arrive the film will have already started",
+            "extra": [
+              "will arrive",
+              "arrived"
+            ]
+          },
+          {
+            "words": "If you show me how to do it I will help you",
+            "extra": [
+              "will show",
+              "showed"
+            ]
+          },
+          {
+            "words": "She will be very happy if she gets the scholarship",
+            "extra": [
+              "would be",
+              "got"
+            ]
+          },
+          {
+            "words": "After he finishes the report he will send it to his manager",
+            "extra": [
+              "will finish",
+              "finished"
+            ]
+          },
+          {
+            "words": "Wait here until I come back from the shop",
+            "extra": [
+              "will come",
+              "came"
+            ]
+          },
+          {
+            "words": "If you practise regularly your English will improve very quickly",
+            "extra": [
+              "practised",
+              "would improve"
+            ]
+          },
+          {
+            "words": "If it is sunny this weekend we will have a barbecue",
+            "extra": [
+              "would be",
+              "was"
+            ]
+          },
+          {
+            "words": "She will tell you the answer after she checks her notes",
+            "extra": [
+              "will check",
+              "checked"
+            ]
+          },
+          {
+            "words": "If you do not water the plants they will die very quickly",
+            "extra": [
+              "would die",
+              "don't water"
+            ]
+          },
+          {
+            "words": "If the traffic is bad we might be late for the concert",
+            "extra": [
+              "would be",
+              "was"
+            ]
+          },
+          {
+            "words": "I will send you the file as soon as I finish it",
+            "extra": [
+              "will finish",
+              "finished"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Hi Sam! I'm writing to tell you about our plan for next week. If the weather {{1}} nice, we {{2}} a picnic in the botanical garden. I {{3}} some food as soon as I {{4}} shopping on Saturday. When everyone {{5}}, we {{6}} near the big fountain. If it {{7}}, we {{8}} the park café instead. After we {{9}} the picnic, we might go for a walk along the river. I'll send you the exact address before you {{10}}. If you {{11}} the address clearly, just call me. I {{12}} you the moment I {{13}} up that morning. See you soon!",
+            "blanks": {
+              "1": "is",
+              "2": "will have",
+              "3": "will prepare",
+              "4": "go",
+              "5": "arrives",
+              "6": "will meet",
+              "7": "rains",
+              "8": "will use",
+              "9": "finish",
+              "10": "leave",
+              "11": "can't find",
+              "12": "will call",
+              "13": "wake"
+            },
+            "wordbank": [
+              "be",
+              "have",
+              "prepare",
+              "go",
+              "arrive",
+              "meet",
+              "rain",
+              "use",
+              "finish",
+              "leave",
+              "find",
+              "call",
+              "wake",
+              "bring"
+            ]
+          },
+          {
+            "text": "Dear customers, if you {{1}} any problems with your order, please contact us immediately. We {{2}} you a full refund if the product {{3}} damaged on arrival. As soon as we {{4}} your complaint, a member of our team {{5}} you within 24 hours. If the item {{6}} in stock, we {{7}} a replacement right away. Before you {{8}} the package, please take photos of the damage. If you {{9}} any further assistance, you {{10}} our helpline at any time. When our technician {{11}} you, please have your order number ready. We {{12}} sure everything {{13}} sorted as quickly as possible.",
+            "blanks": {
+              "1": "have",
+              "2": "will give",
+              "3": "arrives",
+              "4": "receive",
+              "5": "will contact",
+              "6": "is",
+              "7": "will send",
+              "8": "return",
+              "9": "need",
+              "10": "can call",
+              "11": "contacts",
+              "12": "will make",
+              "13": "is"
+            },
+            "wordbank": [
+              "have",
+              "give",
+              "arrive",
+              "receive",
+              "contact",
+              "be",
+              "send",
+              "return",
+              "need",
+              "call",
+              "make",
+              "sort",
+              "find"
+            ]
+          },
+          {
+            "text": "Every spring, our school organises an outdoor science fair. If students {{1}} a project, they {{2}} in the main competition. When they {{3}} their projects, judges {{4}} them carefully. If a student {{5}} first place, they {{6}} a scholarship to attend a summer science camp. As soon as the winners {{7}}, the results {{8}} on the school website. Before the event {{9}}, teachers {{10}} students prepare their presentations. If a student {{11}} nervous, they {{12}} practise in front of their class first. The fair {{13}} unless the school {{14}} a very serious problem.",
+            "blanks": {
+              "1": "submit",
+              "2": "will participate",
+              "3": "present",
+              "4": "will evaluate",
+              "5": "wins",
+              "6": "will receive",
+              "7": "are announced",
+              "8": "will be posted",
+              "9": "starts",
+              "10": "will help",
+              "11": "feels",
+              "12": "can",
+              "13": "will happen",
+              "14": "has"
+            },
+            "wordbank": [
+              "submit",
+              "participate",
+              "present",
+              "evaluate",
+              "win",
+              "receive",
+              "announce",
+              "post",
+              "start",
+              "help",
+              "feel",
+              "happen",
+              "have",
+              "prepare"
+            ]
+          },
+          {
+            "text": "My friend Ana is planning her gap year. If she {{1}} enough money, she {{2}} to South America first. She {{3}} her trip as soon as she {{4}} her university exams in June. When she {{5}} a city, she {{6}} with local families to save money. If she {{7}} a job abroad, she {{8}} to stay longer. She {{9}} her family every week until she {{10}} back in September. If she {{11}} internet access, she {{12}} a travel blog. Before she {{13}}, she plans to visit at least fifteen countries. If the experience {{14}} her expectations, she might consider working abroad permanently.",
+            "blanks": {
+              "1": "saves",
+              "2": "will go",
+              "3": "will start",
+              "4": "finishes",
+              "5": "reaches",
+              "6": "will stay",
+              "7": "finds",
+              "8": "will decide",
+              "9": "will call",
+              "10": "comes",
+              "11": "has",
+              "12": "will write",
+              "13": "returns",
+              "14": "exceeds"
+            },
+            "wordbank": [
+              "save",
+              "go",
+              "start",
+              "finish",
+              "reach",
+              "stay",
+              "find",
+              "decide",
+              "call",
+              "come",
+              "have",
+              "write",
+              "return",
+              "exceed"
+            ]
+          },
+          {
+            "text": "Technology is changing how we work. If more companies {{1}} flexible hours, workers {{2}} a much better work-life balance. When employees {{3}} from home, they {{4}} time and money on commuting. If a business {{5}} good technology tools, its team {{6}} more efficiently. As soon as a company {{7}} hybrid working, staff satisfaction usually {{8}}. If managers {{9}} their teams regularly, performance {{10}} consistently. Before a new system {{11}}, companies must train their employees carefully. If workers {{12}} comfortable with digital tools, productivity {{13}} significantly.",
+            "blanks": {
+              "1": "offer",
+              "2": "will have",
+              "3": "work",
+              "4": "will save",
+              "5": "invests in",
+              "6": "will operate",
+              "7": "adopts",
+              "8": "rises",
+              "9": "support",
+              "10": "will improve",
+              "11": "is introduced",
+              "12": "feel",
+              "13": "will increase"
+            },
+            "wordbank": [
+              "offer",
+              "have",
+              "work",
+              "save",
+              "invest",
+              "operate",
+              "adopt",
+              "rise",
+              "support",
+              "improve",
+              "introduce",
+              "feel",
+              "increase",
+              "manage"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Viết về kế hoạch cho kỳ nghỉ sắp tới của bạn – điều gì sẽ xảy ra nếu thời tiết tốt, điều gì bạn sẽ làm khi đến nơi và điều gì sẽ xảy ra nếu kế hoạch thay đổi",
+          "grammar_focus": "First conditional and future time clauses: if, when, as soon as, before, until",
+          "hint_words": [
+            "if the weather is",
+            "will go",
+            "as soon as we arrive",
+            "when we get there",
+            "before we leave",
+            "if we have time",
+            "will make sure",
+            "won't go unless"
+          ],
+          "min_words": 30,
+          "example": "Next month, I am planning a trip to Da Lat with my family. If the weather is good, we will spend most of our time outdoors hiking and visiting flower gardens. As soon as we arrive, we will check in to the hotel and then explore the area near the lake. If we have time in the evening, we might visit the night market. Before we leave, we will make a list of all the restaurants we want to try. If it rains, we will visit the local museums instead. When we get back to Ho Chi Minh City, I will write a detailed travel blog about everything we experienced."
+        },
+        {
+          "vi": "Viết về mục tiêu học tập hoặc nghề nghiệp – những điều gì sẽ xảy ra nếu bạn đạt được mục tiêu, bạn sẽ làm gì khi tốt nghiệp và bạn sẽ làm gì nếu gặp khó khăn",
+          "grammar_focus": "First conditional for future goals and contingencies",
+          "hint_words": [
+            "if I pass",
+            "will apply",
+            "when I graduate",
+            "as soon as I finish",
+            "if I don't get",
+            "will try again",
+            "before I decide",
+            "won't give up unless"
+          ],
+          "min_words": 30,
+          "example": "I am currently preparing for my final university exams and thinking about my future. If I pass all my exams, I will apply for a position at a marketing company in Ho Chi Minh City. When I graduate, I will update my CV and start sending applications immediately. As soon as I get an interview invitation, I will prepare thoroughly and research the company carefully. If I don't get the first job I apply for, I won't give up. I will keep trying until I find the right opportunity. Before I make any final decisions about my career, I plan to speak to professionals in the field for advice."
+        },
+        {
+          "vi": "Viết về một vấn đề môi trường – điều gì sẽ xảy ra nếu mọi người không thay đổi thói quen và điều gì sẽ cải thiện nếu họ hành động ngay",
+          "grammar_focus": "First conditional for environmental cause and effect",
+          "hint_words": [
+            "if people don't",
+            "will get worse",
+            "if everyone",
+            "will improve",
+            "when the temperature",
+            "as soon as we",
+            "before it is too late",
+            "will be affected"
+          ],
+          "min_words": 30,
+          "example": "Climate change is one of the most urgent problems we face today. If people don't reduce their carbon footprint soon, global temperatures will continue to rise dangerously. If we don't protect our forests, many species will disappear forever. However, there is still hope. If everyone switches to renewable energy, pollution will decrease significantly. As soon as governments introduce stricter environmental laws, companies will be forced to change their practices. If more people use public transport and electric vehicles, air quality in cities will improve considerably. Before it is too late, we must act together because if we wait, the damage will be much harder to reverse."
+        },
+        {
+          "vi": "Viết về kế hoạch làm việc hoặc kinh doanh – điều gì sẽ xảy ra khi bạn bắt đầu, điều gì sẽ thay đổi nếu thành công và những gì bạn sẽ làm nếu gặp trở ngại",
+          "grammar_focus": "First conditional for business planning scenarios",
+          "hint_words": [
+            "if the business succeeds",
+            "will expand",
+            "when we open",
+            "as soon as we launch",
+            "if there are problems",
+            "will deal with",
+            "before we start",
+            "will make sure"
+          ],
+          "min_words": 30,
+          "example": "My friend and I are planning to open a small café in the city centre next year. Before we start, we will write a detailed business plan and research the local market carefully. As soon as we find the right location, we will begin the renovation work. When we open, we will offer a special discount to all customers during the first month. If the café becomes popular, we will expand the menu and hire more staff. If we have any financial difficulties, we will apply for a small business loan. I am confident that if we work hard and listen to our customers, the business will be a success."
+        },
+        {
+          "vi": "Viết về một cuộc gặp gỡ hay sự kiện sắp tới – bạn sẽ làm gì khi gặp ai đó, nói gì khi có cơ hội và chuẩn bị ra sao trước khi đến",
+          "grammar_focus": "First conditional and future time clauses in social context",
+          "hint_words": [
+            "when I see",
+            "will tell",
+            "if she asks",
+            "as soon as we meet",
+            "before I go",
+            "if there is time",
+            "will make sure",
+            "won't leave until"
+          ],
+          "min_words": 30,
+          "example": "Next Friday, I am attending my university reunion and I am quite excited. Before I go, I will prepare a few conversation topics so I don't feel awkward. When I arrive, I will look for my closest friends first. As soon as I see my old roommate Minh, I will give him the book I borrowed two years ago. If anyone asks about my job, I will tell them about my recent promotion. I won't leave until I have spoken to everyone I want to catch up with. If there is time after the dinner, we might all go for a walk by the lake. I'm sure that if the weather is nice, it will be a perfect evening."
+        }
+      ]
+    },
+    {
+      "icon": "2️⃣",
+      "title": "B1 Second conditional: Unreal situations",
+      "level": "intermediate",
+      "badge": "📘 B1",
+      "badgeClass": "badge-green",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Second Conditional – Tình huống giả định / không thực</div><b>Cấu trúc:</b> <b>If + Past Simple, would + base verb</b><br><i>If I <b>had</b> more money, I <b>would travel</b> the world.</i><br><i>If she <b>knew</b> the answer, she <b>would tell</b> you.</i><br><br>• Dùng để nói về tình huống <b>không thực ở hiện tại hoặc tương lai</b> (giả định, ước mơ, lời khuyên).<br>• Hàm ý: thực tế là ngược lại.<br><i>If I were you... (thực tế: I am not you)</i><br><i>If I had time... (thực tế: I don't have time)</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Were thay cho was trong điều kiện loại 2</div>Trong văn phong trang trọng, dùng <b>were</b> cho tất cả ngôi (kể cả I/he/she):<br><i>If I <b>were</b> you, I wouldn't do that.</i><br><i>If she <b>were</b> here, she would know what to do.</i><br><br>Trong văn nói/không trang trọng, <b>was</b> cũng được chấp nhận:<br><i>If I <b>was</b> richer, I would buy a bigger house.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Thay thế would bằng could / might</div><i>If I had wings, I <b>could fly</b>. (khả năng)</i><br><i>If it were warmer, I <b>might go</b> for a swim. (có thể)</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Lỗi phổ biến</div>❌ <s>If I would have more money, I would travel.</s><br>✅ If I <b>had</b> more money, I would travel.<br><br>❌ <s>If she would be here, she would help.</s><br>✅ If she <b>were</b> here, she would help.</div><div class=\"ex-sent\">If I <b>were</b> taller, I <b>would play</b> basketball professionally.<span>Giả định không thực ở hiện tại</span></div><div class=\"ex-sent\">What <b>would</b> you do if you <b>won</b> the lottery?<span>Câu hỏi giả định – won là Past Simple (không phải thực tế)</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "If I ___ more free time, I would take up a new hobby.",
+          "opts": "had,have,would have,will have",
+          "ans": "A",
+          "exp": "Second Conditional: if + Past Simple (had)"
+        },
+        {
+          "type": "mc",
+          "q": "She would call you if she ___ your number.",
+          "opts": "knew,knows,would know,had known",
+          "ans": "A",
+          "exp": "Second Conditional: if + Past Simple (knew)"
+        },
+        {
+          "type": "mc",
+          "q": "If I were you, I ___ accept that job offer.",
+          "opts": "would,will,can,should",
+          "ans": "A",
+          "exp": "Second Conditional: main clause → would + base verb"
+        },
+        {
+          "type": "mc",
+          "q": "What would you do if you ___ a million dollars?",
+          "opts": "won,win,would win,had won",
+          "ans": "A",
+          "exp": "Second Conditional: if + Past Simple (won)"
+        },
+        {
+          "type": "mc",
+          "q": "If she ___ here, she would know what to do.",
+          "opts": "were,is,was being,would be",
+          "ans": "A",
+          "exp": "Second Conditional: if + were (formal) for all subjects"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ a bike if he lived closer to work.",
+          "opts": "would buy,will buy,buys,bought",
+          "ans": "A",
+          "exp": "Second Conditional: main clause → would + base verb"
+        },
+        {
+          "type": "mc",
+          "q": "If I ___ the CEO, I would change many things.",
+          "opts": "were,am,was being,would be",
+          "ans": "A",
+          "exp": "Second Conditional: if + were (hypothetical)"
+        },
+        {
+          "type": "mc",
+          "q": "She could travel more if she ___ less busy.",
+          "opts": "were,is,will be,would be",
+          "ans": "A",
+          "exp": "Second Conditional with could; if + were"
+        },
+        {
+          "type": "mc",
+          "q": "If they ___ harder, they wouldn't always fall behind.",
+          "opts": "worked,work,would work,are working",
+          "ans": "A",
+          "exp": "Second Conditional: if + Past Simple (worked)"
+        },
+        {
+          "type": "mc",
+          "q": "I would be so happy if she ___ to visit us this winter.",
+          "opts": "came,comes,would come,has come",
+          "ans": "A",
+          "exp": "Second Conditional: if + Past Simple (came)"
+        },
+        {
+          "type": "mc",
+          "q": "If we ___ in a bigger city, we would have more opportunities.",
+          "opts": "lived,live,would live,are living",
+          "ans": "A",
+          "exp": "Second Conditional: if + Past Simple (lived)"
+        },
+        {
+          "type": "mc",
+          "q": "He might exercise more if he ___ a gym near his house.",
+          "opts": "had,has,would have,will have",
+          "ans": "A",
+          "exp": "Second Conditional with might; if + Past Simple"
+        },
+        {
+          "type": "mc",
+          "q": "If I ___ speak fluent Spanish, I would apply for that position.",
+          "opts": "could,can,would,will",
+          "ans": "A",
+          "exp": "Second Conditional: if + could (ability in hypothetical)"
+        },
+        {
+          "type": "mc",
+          "q": "What would you do if your boss ___ you to work overtime?",
+          "opts": "asked,asks,would ask,has asked",
+          "ans": "A",
+          "exp": "Second Conditional: if + Past Simple (asked)"
+        },
+        {
+          "type": "mc",
+          "q": "She wouldn't be so stressed if she ___ a different job.",
+          "opts": "had,has,would have,is having",
+          "ans": "A",
+          "exp": "Second Conditional: if + Past Simple (had)"
+        },
+        {
+          "type": "mc",
+          "q": "If animals ___ speak, what do you think they would say?",
+          "opts": "could,can,would,will",
+          "ans": "A",
+          "exp": "Second Conditional: if + could (ability in hypothetical)"
+        },
+        {
+          "type": "mc",
+          "q": "I would be more productive if I ___ better.",
+          "opts": "slept,sleep,would sleep,have slept",
+          "ans": "A",
+          "exp": "Second Conditional: if + Past Simple (slept)"
+        },
+        {
+          "type": "mc",
+          "q": "If the tickets ___ cheaper, more people would go.",
+          "opts": "were,are,would be,will be",
+          "ans": "A",
+          "exp": "Second Conditional: if + were/Past Simple"
+        },
+        {
+          "type": "mc",
+          "q": "She would volunteer abroad if she ___ the language.",
+          "opts": "spoke,speaks,would speak,has spoken",
+          "ans": "A",
+          "exp": "Second Conditional: if + Past Simple (spoke)"
+        },
+        {
+          "type": "mc",
+          "q": "If I ___ the chance, I would study medicine.",
+          "opts": "had,have,would have,will have",
+          "ans": "A",
+          "exp": "Second Conditional: if + Past Simple (had)"
+        },
+        {
+          "type": "fill",
+          "q": "If I ___ (be) you, I would apologise immediately.",
+          "ans": "were",
+          "exp": "Second Conditional: if + were (for advice)"
+        },
+        {
+          "type": "fill",
+          "q": "She would travel more if she ___ (not/be) so afraid of flying.",
+          "ans": "weren't",
+          "exp": "Second Conditional negative: if + weren't"
+        },
+        {
+          "type": "fill",
+          "q": "If he ___ (work) harder, he would earn more money.",
+          "ans": "worked",
+          "exp": "Second Conditional: if + Past Simple"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (buy) a house in the countryside if I could afford it.",
+          "ans": "would buy",
+          "exp": "Second Conditional: main clause → would + base verb"
+        },
+        {
+          "type": "fill",
+          "q": "What ___ you ___ (do) if you had a whole year free?",
+          "ans": "would / do",
+          "exp": "Second Conditional question: what + would + subject + verb"
+        },
+        {
+          "type": "fill",
+          "q": "They would come to the party if they ___ (not/have) to work.",
+          "ans": "didn't have",
+          "exp": "Second Conditional negative: if + didn't have"
+        },
+        {
+          "type": "fill",
+          "q": "If the weather ___ (be) warmer, we could eat outside.",
+          "ans": "were",
+          "exp": "Second Conditional: if + were + could"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (not/feel) so tired if she went to bed earlier.",
+          "ans": "wouldn't feel",
+          "exp": "Second Conditional: main clause → wouldn't + base verb"
+        },
+        {
+          "type": "fill",
+          "q": "If I ___ (live) near the beach, I would swim every day.",
+          "ans": "lived",
+          "exp": "Second Conditional: if + Past Simple"
+        },
+        {
+          "type": "fill",
+          "q": "He could do a better job if he ___ (receive) more training.",
+          "ans": "received",
+          "exp": "Second Conditional with could: if + Past Simple"
+        },
+        {
+          "type": "fill",
+          "q": "If animals ___ (can) talk, life would be much more interesting.",
+          "ans": "could",
+          "exp": "Second Conditional: if + could"
+        },
+        {
+          "type": "fill",
+          "q": "I would read more books if I ___ (not/watch) so much TV.",
+          "ans": "didn't watch",
+          "exp": "Second Conditional negative if clause"
+        },
+        {
+          "type": "fill",
+          "q": "If the government ___ (reduce) taxes, more businesses would open.",
+          "ans": "reduced",
+          "exp": "Second Conditional: if + Past Simple"
+        },
+        {
+          "type": "fill",
+          "q": "She might feel better if she ___ (talk) to someone about her problems.",
+          "ans": "talked",
+          "exp": "Second Conditional with might"
+        },
+        {
+          "type": "fill",
+          "q": "If I ___ (have) superpowers, I would help people in need.",
+          "ans": "had",
+          "exp": "Second Conditional: if + Past Simple"
+        },
+        {
+          "type": "fill",
+          "q": "If I ___ (be) taller, I would consider a career in basketball.",
+          "ans": "were",
+          "exp": "Second conditional: if + were (subjunctive)"
+        },
+        {
+          "type": "fill",
+          "q": "She would travel the world if she ___ (not/have) so many responsibilities.",
+          "ans": "didn't have",
+          "exp": "Second conditional negative: if + didn't + verb"
+        },
+        {
+          "type": "fill",
+          "q": "If he ___ (know) her number, he would call her right away.",
+          "ans": "knew",
+          "exp": "Second conditional: if + past simple (unreal present)"
+        },
+        {
+          "type": "fill",
+          "q": "What ___ you ___ (do) if you found a large sum of money on the street?",
+          "ans": "would / do",
+          "exp": "Second conditional question form"
+        },
+        {
+          "type": "fill",
+          "q": "If we ___ (live) closer to the sea, we would go swimming every weekend.",
+          "ans": "lived",
+          "exp": "Second conditional: if + past simple"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "If I had more free time I would take up a new hobby",
+            "extra": [
+              "have",
+              "will take up"
+            ]
+          },
+          {
+            "words": "She would call you if she knew your phone number",
+            "extra": [
+              "knows",
+              "will call"
+            ]
+          },
+          {
+            "words": "If I were you I would not accept that job offer",
+            "extra": [
+              "am",
+              "will not accept"
+            ]
+          },
+          {
+            "words": "What would you do if you won one million dollars",
+            "extra": [
+              "win",
+              "will do"
+            ]
+          },
+          {
+            "words": "If she were here she would know exactly what to do",
+            "extra": [
+              "is",
+              "will know"
+            ]
+          },
+          {
+            "words": "He would buy a bike if he lived closer to work",
+            "extra": [
+              "lives",
+              "will buy"
+            ]
+          },
+          {
+            "words": "If the tickets were cheaper more people would go to the concert",
+            "extra": [
+              "are",
+              "will go"
+            ]
+          },
+          {
+            "words": "She could travel more if she were not so afraid of flying",
+            "extra": [
+              "is not",
+              "will travel"
+            ]
+          },
+          {
+            "words": "I would be more productive if I slept better at night",
+            "extra": [
+              "sleep",
+              "will be"
+            ]
+          },
+          {
+            "words": "If we lived in a bigger city we would have more job opportunities",
+            "extra": [
+              "live",
+              "will have"
+            ]
+          },
+          {
+            "words": "What would you do if your boss asked you to work overtime",
+            "extra": [
+              "asks",
+              "will ask"
+            ]
+          },
+          {
+            "words": "If I were the president I would make education completely free",
+            "extra": [
+              "am",
+              "will make"
+            ]
+          },
+          {
+            "words": "They would come to the party if they did not have to work",
+            "extra": [
+              "don't have",
+              "won't come"
+            ]
+          },
+          {
+            "words": "If animals could talk life would be much more interesting",
+            "extra": [
+              "can talk",
+              "will be"
+            ]
+          },
+          {
+            "words": "I would read more books if I did not watch so much television",
+            "extra": [
+              "don't watch",
+              "will read"
+            ]
+          },
+          {
+            "words": "She would not be so stressed if she had a different job",
+            "extra": [
+              "has",
+              "will not be"
+            ]
+          },
+          {
+            "words": "If he worked harder he would earn a lot more money",
+            "extra": [
+              "works",
+              "will earn"
+            ]
+          },
+          {
+            "words": "I would buy a house in the countryside if I could afford it",
+            "extra": [
+              "can afford",
+              "will buy"
+            ]
+          },
+          {
+            "words": "She might feel better if she talked to someone about her feelings",
+            "extra": [
+              "talks",
+              "will feel"
+            ]
+          },
+          {
+            "words": "If I lived near the beach I would go swimming every single day",
+            "extra": [
+              "live",
+              "will go"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "My friend Linh loves talking about what she {{1}} if she {{2}} a superhero. She says that if she {{3}} the power to fly, she {{4}} everywhere without using any transport. If she {{5}} invisible, she {{6}} to the most important meetings in the world and listen in. She {{7}} world peace if she {{8}} the ability to speak all languages fluently. If she {{9}} a superhero team, she {{10}} the most talented people in the world. She also says that if she {{11}} very powerful, she {{12}} careful not to misuse her powers. Finally, she says that if she {{13}} one wish, she {{14}} that all children in the world had access to good education.",
+            "blanks": {
+              "1": "would do",
+              "2": "were",
+              "3": "had",
+              "4": "would go",
+              "5": "could become",
+              "6": "would go",
+              "7": "would promote",
+              "8": "had",
+              "9": "created",
+              "10": "would choose",
+              "11": "were",
+              "12": "would be",
+              "13": "had",
+              "14": "would wish"
+            },
+            "wordbank": [
+              "do",
+              "be",
+              "have",
+              "go",
+              "become",
+              "promote",
+              "create",
+              "choose",
+              "wish",
+              "use",
+              "travel",
+              "fly"
+            ]
+          },
+          {
+            "text": "Imagine a world where cars {{1}} exist. Life {{2}} very different from what we know today. If people {{3}} cars, they {{4}} to walk, cycle, or use public transport everywhere. Cities {{5}} much less polluted if there {{6}} no car exhaust. Children {{7}} more freely in the streets if it {{8}} safe. The air {{9}} cleaner and people {{10}} healthier. If the world {{11}} this way, we {{12}} less oil and the environment {{13}} in much better condition. Of course, some things {{14}} more difficult, but overall, life might actually be better.",
+            "blanks": {
+              "1": "didn't",
+              "2": "would be",
+              "3": "didn't have",
+              "4": "would have",
+              "5": "would be",
+              "6": "were",
+              "7": "could play",
+              "8": "were",
+              "9": "would be",
+              "10": "would be",
+              "11": "were",
+              "12": "would use",
+              "13": "would be",
+              "14": "would be"
+            },
+            "wordbank": [
+              "exist",
+              "be",
+              "have",
+              "need",
+              "pollute",
+              "play",
+              "use",
+              "clean",
+              "breathe",
+              "travel",
+              "live",
+              "walk"
+            ]
+          },
+          {
+            "text": "Every year our school runs a 'What if?' creative writing competition. This year the theme was: what {{1}} your life look like if you {{2}} one special talent? One student wrote that if she {{3}} the ability to speak every language, she {{4}} as an international diplomat and {{5}} to solve conflicts around the world. Another imagined that if he {{6}} a gifted musician, he {{7}} free concerts in hospitals and schools. A third student said that if she {{8}} time, she {{9}} go back and fix her biggest mistakes. One boy wrote that if he {{10}} invisible, he {{11}} meetings at the United Nations. The judges said they {{12}} the results more interesting if students {{13}} such creative interpretations.",
+            "blanks": {
+              "1": "would",
+              "2": "had",
+              "3": "had",
+              "4": "would work",
+              "5": "would try",
+              "6": "were",
+              "7": "would give",
+              "8": "could control",
+              "9": "would",
+              "10": "were",
+              "11": "would attend",
+              "12": "wouldn't have found",
+              "13": "hadn't used"
+            },
+            "wordbank": [
+              "be",
+              "have",
+              "work",
+              "give",
+              "find",
+              "attend",
+              "control",
+              "use",
+              "solve",
+              "imagine",
+              "write",
+              "choose",
+              "travel",
+              "miss",
+              "join"
+            ]
+          },
+          {
+            "text": "My colleague Rafa often talks about what he {{1}} differently if he {{2}} his life again. He says that if he {{3}} the choice, he {{4}} medicine instead of law. He believes he {{5}} a better doctor than a lawyer. He also says that if he {{6}} more time, he {{7}} a language — probably Japanese. Sometimes he wonders what {{8}} if he {{9}} that job offer in Tokyo five years ago. He thinks he {{10}} happier now if he {{11}} that opportunity. I always tell him it {{12}} no use imagining the past. But he says that if he {{13}} all his choices again, at least one thing {{14}} the same — he {{15}} the same group of friends.",
+            "blanks": {
+              "1": "would do",
+              "2": "could live",
+              "3": "had",
+              "4": "would study",
+              "5": "would make",
+              "6": "had",
+              "7": "would learn",
+              "8": "would happen",
+              "9": "had accepted",
+              "10": "might be",
+              "11": "had taken",
+              "12": "is",
+              "13": "could make",
+              "14": "would stay",
+              "15": "would keep"
+            },
+            "wordbank": [
+              "be",
+              "do",
+              "have",
+              "study",
+              "make",
+              "learn",
+              "accept",
+              "take",
+              "happen",
+              "keep",
+              "live",
+              "choose",
+              "stay",
+              "give",
+              "find"
+            ]
+          },
+          {
+            "text": "Last week I attended a talk about sustainable living. The speaker asked: 'What {{1}} you change first if you {{2}} more control over your daily habits?' One woman said she {{3}} a bicycle to work if she {{4}} closer to the office. A man said he {{5}} less meat if healthy plant-based options {{6}} cheaper. A teenager said that if she {{7}} her own home, she {{8}} solar panels immediately. Someone else said that if governments {{9}} better public transport, more people {{10}} their cars less. The speaker smiled and said: 'If everyone in this room {{11}} just one thing, the impact {{12}} enormous. And if we {{13}} now, we {{14}} a real difference for future generations.'",
+            "blanks": {
+              "1": "would",
+              "2": "had",
+              "3": "would cycle",
+              "4": "lived",
+              "5": "would eat",
+              "6": "were",
+              "7": "had",
+              "8": "would install",
+              "9": "provided",
+              "10": "would use",
+              "11": "changed",
+              "12": "would be",
+              "13": "started",
+              "14": "would make"
+            },
+            "wordbank": [
+              "be",
+              "have",
+              "cycle",
+              "eat",
+              "install",
+              "use",
+              "change",
+              "provide",
+              "live",
+              "find",
+              "make",
+              "give",
+              "start",
+              "ask",
+              "choose"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Viết về điều bạn sẽ làm nếu bạn thắng một khoản tiền lớn – bạn sẽ chi tiêu như thế nào, giúp đỡ ai và cuộc sống bạn sẽ thay đổi như thế nào",
+          "grammar_focus": "Second conditional: if I won, I would, I could, I might",
+          "hint_words": [
+            "if I won",
+            "would buy",
+            "would donate",
+            "would travel",
+            "could afford",
+            "would not have to",
+            "might start",
+            "would give"
+          ],
+          "min_words": 30,
+          "example": "If I won a large sum of money in the lottery, my life would change dramatically. First, I would make sure my family was comfortable by buying my parents a new home. I would also pay off any debts so that I could have complete financial freedom. If I had enough money, I might start my own business in sustainable food production. I would donate a significant portion to charities that support education for children in remote areas. I would travel to places I have always dreamed of, like Iceland and Patagonia. However, I would be careful not to spend everything at once. If I were very wealthy, I would still want to work because I believe working gives life purpose and meaning."
+        },
+        {
+          "vi": "Viết về một vấn đề xã hội và điều gì sẽ cải thiện nếu mọi người hoặc chính phủ hành động khác đi",
+          "grammar_focus": "Second conditional for social commentary: if people/the government + past simple, would + base verb",
+          "hint_words": [
+            "if the government invested",
+            "would improve",
+            "if people reduced",
+            "could decrease",
+            "if companies paid",
+            "would benefit",
+            "if everyone recycled",
+            "would be cleaner"
+          ],
+          "min_words": 30,
+          "example": "Traffic congestion is a serious problem in Ho Chi Minh City. If the government invested more in public transport, fewer people would use private motorbikes and cars. If the metro system were expanded to more areas, commuting would become much easier for millions of people. If more people cycled to work, air pollution would decrease significantly and the streets would be safer. If companies allowed flexible working hours, fewer vehicles would be on the road at peak times. Traffic education would also help. If drivers followed the rules more carefully, accidents would be less frequent. I believe that if all these changes were made together, life in our city would be much more pleasant for everyone."
+        },
+        {
+          "vi": "Hãy tưởng tượng bạn là một người nổi tiếng hoặc nhân vật lịch sử – cuộc sống của bạn sẽ như thế nào và bạn sẽ làm gì khác đi",
+          "grammar_focus": "Second conditional for hypothetical identity: if I were, I would, could",
+          "hint_words": [
+            "if I were",
+            "would spend",
+            "could use",
+            "would focus",
+            "might feel",
+            "would want",
+            "wouldn't have to",
+            "would make sure"
+          ],
+          "min_words": 30,
+          "example": "If I were a famous scientist like Marie Curie, I would dedicate my life to finding solutions to the world's most pressing health problems. I would set up research institutes where young scientists could work with the best equipment. If I were that influential, I would use my platform to encourage more girls to study science and pursue careers in research. I might feel a great sense of responsibility to make discoveries that truly benefited humanity. I would also make sure that my findings were shared freely with researchers around the world. However, I would probably find the lack of privacy difficult. If I were famous, I wouldn't have much time for my personal life, and that would be a real sacrifice."
+        },
+        {
+          "vi": "Viết về cuộc sống lý tưởng của bạn – bạn sẽ sống ở đâu, làm nghề gì, và cuộc sống hàng ngày của bạn sẽ trông như thế nào nếu mọi thứ hoàn hảo",
+          "grammar_focus": "Second conditional for ideal life scenario",
+          "hint_words": [
+            "if I could",
+            "would live",
+            "would work",
+            "wouldn't have to",
+            "could spend",
+            "would wake up",
+            "might travel",
+            "would feel"
+          ],
+          "min_words": 30,
+          "example": "If I could design my ideal life, it would look quite different from my current situation. I would live in a small cottage near the sea with a large garden where I could grow vegetables and flowers. I would work as a writer and illustrator, creating books for children. I wouldn't have to commute because I would work from home and set my own hours. I would wake up early every morning to walk along the beach before sitting down to work. I could spend my evenings reading, cooking, or playing music. If my life were this way, I would feel much more relaxed and creative. I might travel to different countries every summer to gather inspiration for new stories. It sounds like a dream, but I intend to work towards it."
+        },
+        {
+          "vi": "Viết về việc thay đổi một quyết định trong quá khứ – nếu bạn có thể làm lại, bạn sẽ chọn khác không và tại sao",
+          "grammar_focus": "Second conditional for current hypothetical about past: if I could go back, if I had the chance now",
+          "hint_words": [
+            "if I could choose again",
+            "would pick",
+            "if I had the chance",
+            "would study",
+            "wouldn't waste",
+            "could change",
+            "might not",
+            "would definitely"
+          ],
+          "min_words": 30,
+          "example": "If I could go back and make my university choices again, I would probably choose a different subject. I studied economics because it seemed practical, but if I had complete freedom to choose, I would study environmental science instead. If I could change my path now, I would retrain in that area because I am genuinely passionate about sustainability. I wouldn't waste any more time doing work that doesn't feel meaningful to me. If I had the chance to start over, I might also take a gap year before university to travel and gain life experience. I believe that if I were in that field, I would feel more motivated and happier in my daily work. It is never too late to make changes, and that is something I remind myself of regularly."
+        }
+      ]
+    },
+    {
+      "icon": "🔄",
+      "title": "B1 First and second conditionals",
+      "level": "intermediate",
+      "badge": "📘 B1",
+      "badgeClass": "badge-green",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 So sánh First và Second Conditional</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\"></th><th style=\"padding:4px 8px;text-align:left\">First Conditional</th><th style=\"padding:4px 8px;text-align:left\">Second Conditional</th></tr><tr><td style=\"padding:4px 8px\"><b>Cấu trúc</b></td><td style=\"padding:4px 8px\">If + Present Simple, will</td><td style=\"padding:4px 8px\">If + Past Simple, would</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><b>Ý nghĩa</b></td><td style=\"padding:4px 8px\">Có thể xảy ra thực</td><td style=\"padding:4px 8px\">Giả định / không thực</td></tr><tr><td style=\"padding:4px 8px\"><b>Ví dụ</b></td><td style=\"padding:4px 8px\"><i>If it <b>rains</b>, I <b>will</b> stay home.</i><br>(có thể trời mưa)</td><td style=\"padding:4px 8px\"><i>If it <b>rained</b> here, I <b>would</b> stay home.</i><br>(không thực – trời đang nắng)</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><b>Thực tế</b></td><td style=\"padding:4px 8px\">không biết kết quả</td><td style=\"padding:4px 8px\">thực tế ngược lại</td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Ngữ cảnh quyết định loại conditional</div><i>If I <b>see</b> Tom, I <b>will give</b> him your message.</i> → Có thể sẽ gặp Tom (1st)<br><i>If I <b>saw</b> Tom, I <b>would give</b> him your message.</i> → Không chắc gặp / khó gặp (2nd)<br><br><i>If I <b>have</b> time, I <b>will come</b>.</i> → Có thể có thời gian (1st)<br><i>If I <b>had</b> time, I <b>would come</b>.</i> → Không có thời gian (2nd)</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Unless = if ... not</div><i>I <b>won't go</b> <b>unless</b> you come with me.</i> = I won't go <b>if you don't come</b> with me.<br><i><b>Unless</b> it stops raining, we'll have to cancel the match.</i><br><br>⚠️ <b>Unless</b> KHÔNG dùng với negative:<br>❌ <s>Unless you don't hurry, you'll be late.</s><br>✅ <b>Unless</b> you hurry, you'll be late.</div><div class=\"ex-sent\">If I <b>get</b> a bonus this month, I <b>will buy</b> you dinner. (realistic – 1st)<span>First: thực tế có thể xảy ra</span></div><div class=\"ex-sent\">If I <b>got</b> a bonus every month, I <b>would save</b> much more. (unreal – 2nd)<span>Second: giả định – thực tế không phải vậy</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "If I ___ enough sleep tonight, I'll feel much better tomorrow.",
+          "opts": "get,got,would get,have got",
+          "ans": "A",
+          "exp": "First Conditional – realistic possibility: if + Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "If I ___ more sleep every night, I would feel so much better.",
+          "opts": "got,get,would get,have got",
+          "ans": "A",
+          "exp": "Second Conditional – unreal/hypothetical: if + Past Simple"
+        },
+        {
+          "type": "mc",
+          "q": "___ you go to the concert if you had a free ticket?",
+          "opts": "Would,Will,Do,Did",
+          "ans": "A",
+          "exp": "Second Conditional question: Would + subject + base verb"
+        },
+        {
+          "type": "mc",
+          "q": "Unless you ___, you'll be late for the meeting.",
+          "opts": "hurry,don't hurry,hurried,would hurry",
+          "ans": "A",
+          "exp": "Unless = if not → positive verb form follows unless"
+        },
+        {
+          "type": "mc",
+          "q": "If he ___ harder, his boss wouldn't be so disappointed.",
+          "opts": "worked,works,will work,has worked",
+          "ans": "A",
+          "exp": "Second Conditional: if + Past Simple"
+        },
+        {
+          "type": "mc",
+          "q": "If she ___ the exam, she will celebrate.",
+          "opts": "passes,passed,would pass,has passed",
+          "ans": "A",
+          "exp": "First Conditional: if + Present Simple (realistic)"
+        },
+        {
+          "type": "mc",
+          "q": "She wouldn't be so tired if she ___ to bed earlier.",
+          "opts": "went,goes,will go,would go",
+          "ans": "A",
+          "exp": "Second Conditional: if + Past Simple"
+        },
+        {
+          "type": "mc",
+          "q": "I'll come to the party unless I ___ too much work.",
+          "opts": "have,don't have,would have,had",
+          "ans": "A",
+          "exp": "Unless = if not, followed by positive verb"
+        },
+        {
+          "type": "mc",
+          "q": "If we ___ a garden, we would grow our own vegetables.",
+          "opts": "had,have,would have,will have",
+          "ans": "A",
+          "exp": "Second Conditional: if + Past Simple"
+        },
+        {
+          "type": "mc",
+          "q": "If the train ___ on time, we'll make our connection.",
+          "opts": "arrives,arrived,would arrive,will arrive",
+          "ans": "A",
+          "exp": "First Conditional: if + Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ help you if he were in town.",
+          "opts": "would,will,can,might",
+          "ans": "A",
+          "exp": "Second Conditional: main clause → would"
+        },
+        {
+          "type": "mc",
+          "q": "Unless she ___ her phone, she won't hear the alarm.",
+          "opts": "charges,doesn't charge,would charge,charged",
+          "ans": "A",
+          "exp": "Unless + positive verb = if she doesn't charge"
+        },
+        {
+          "type": "mc",
+          "q": "If I see Maria at the party, I ___ her your message.",
+          "opts": "will give,would give,give,gave",
+          "ans": "A",
+          "exp": "First Conditional: likely encounter → will"
+        },
+        {
+          "type": "mc",
+          "q": "If I saw Maria today, I ___ her your message.",
+          "opts": "would give,will give,give,gave",
+          "ans": "A",
+          "exp": "Second Conditional: unlikely encounter → would"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ the project on time if she had more help.",
+          "opts": "would finish,will finish,finishes,would have finished",
+          "ans": "A",
+          "exp": "Second Conditional: main clause → would"
+        },
+        {
+          "type": "mc",
+          "q": "If it ___ so cold, we could have lunch outside.",
+          "opts": "weren't,isn't,won't be,doesn't",
+          "ans": "A",
+          "exp": "Second Conditional: if + weren't (unreal – it IS cold)"
+        },
+        {
+          "type": "mc",
+          "q": "We'll go to the beach if the weather ___.",
+          "opts": "improves,improved,would improve,will improve",
+          "ans": "A",
+          "exp": "First Conditional: if + Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "If you ___ me earlier, I could have helped you.",
+          "opts": "had told,told,tell,will tell",
+          "ans": "A",
+          "exp": "Third Conditional form – reference clue"
+        },
+        {
+          "type": "mc",
+          "q": "If I ___ the lottery, I would quit my job immediately.",
+          "opts": "won,win,would win,have won",
+          "ans": "A",
+          "exp": "Second Conditional: if + Past Simple"
+        },
+        {
+          "type": "mc",
+          "q": "Unless you ___ the form today, your application will be rejected.",
+          "opts": "submit,don't submit,submitted,would submit",
+          "ans": "A",
+          "exp": "Unless + positive verb (submit) = if you don't submit"
+        },
+        {
+          "type": "fill",
+          "q": "If she ___ (study) more, she will definitely pass the exam.",
+          "ans": "studies",
+          "exp": "First Conditional: if + Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "If she ___ (study) more, she would definitely pass the exam.",
+          "ans": "studied",
+          "exp": "Second Conditional: if + Past Simple"
+        },
+        {
+          "type": "fill",
+          "q": "___ (you/accept) the job offer if they paid you more?",
+          "ans": "Would you accept",
+          "exp": "Second Conditional question"
+        },
+        {
+          "type": "fill",
+          "q": "Unless it ___ (stop) raining, we will have to cancel the match.",
+          "ans": "stops",
+          "exp": "Unless + Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "If I ___ (be) you, I would think more carefully before deciding.",
+          "ans": "were",
+          "exp": "Second Conditional: if + were (advice)"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (help) you if I had more time, but I'm very busy.",
+          "ans": "would help",
+          "exp": "Second Conditional: main clause → would"
+        },
+        {
+          "type": "fill",
+          "q": "If the weather ___ (be) good this Saturday, we'll go hiking.",
+          "ans": "is",
+          "exp": "First Conditional: if + Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "She won't come unless you ___ (invite) her personally.",
+          "ans": "invite",
+          "exp": "Unless + positive verb"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (not/be) so stressed if he exercised more regularly.",
+          "ans": "wouldn't be",
+          "exp": "Second Conditional: main clause → wouldn't"
+        },
+        {
+          "type": "fill",
+          "q": "If the price ___ (drop), more people will buy the product.",
+          "ans": "drops",
+          "exp": "First Conditional: if + Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "If you ___ (not/book) early, all the seats will be taken.",
+          "ans": "don't book",
+          "exp": "First Conditional negative if clause"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (take) a taxi if I missed the last bus.",
+          "ans": "would take",
+          "exp": "Second Conditional: main clause → would"
+        },
+        {
+          "type": "fill",
+          "q": "Unless he ___ (apologise), she won't forgive him.",
+          "ans": "apologises",
+          "exp": "Unless + Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "If they ___ (offer) me the role, I will probably accept.",
+          "ans": "offer",
+          "exp": "First Conditional: realistic prospect"
+        },
+        {
+          "type": "fill",
+          "q": "What ___ you ___ (do) if you were invisible for a day?",
+          "ans": "would / do",
+          "exp": "Second Conditional question"
+        },
+        {
+          "type": "fill",
+          "q": "If the price ___ (drop) next month, I will definitely buy the new model.",
+          "ans": "drops",
+          "exp": "First conditional → real/possible future situation"
+        },
+        {
+          "type": "fill",
+          "q": "If I ___ (be) you, I wouldn't accept that offer without negotiating first.",
+          "ans": "were",
+          "exp": "Second conditional (advice): If I were you…"
+        },
+        {
+          "type": "fill",
+          "q": "Unless it ___ (stop) raining soon, the outdoor ceremony will be moved inside.",
+          "ans": "stops",
+          "exp": "First conditional with unless: unless + present simple"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (feel) much better if she took a proper break from work.",
+          "ans": "would feel",
+          "exp": "Second conditional → unreal/hypothetical present"
+        },
+        {
+          "type": "fill",
+          "q": "If he calls while I'm out, tell him I ___ (ring) him back this evening.",
+          "ans": "will ring",
+          "exp": "First conditional: main clause → will + verb"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "If she studies harder she will definitely pass the exam",
+            "extra": [
+              "studied",
+              "would pass"
+            ]
+          },
+          {
+            "words": "If she studied harder she would definitely pass the exam",
+            "extra": [
+              "studies",
+              "will pass"
+            ]
+          },
+          {
+            "words": "Unless you hurry you will be late for the important meeting",
+            "extra": [
+              "don't hurry",
+              "would be late"
+            ]
+          },
+          {
+            "words": "Would you go to the concert if you had a free ticket",
+            "extra": [
+              "Will you go",
+              "have a ticket"
+            ]
+          },
+          {
+            "words": "If I were you I would think carefully before making a decision",
+            "extra": [
+              "am",
+              "will think"
+            ]
+          },
+          {
+            "words": "I will come to the party unless I have too much work",
+            "extra": [
+              "don't have",
+              "would come"
+            ]
+          },
+          {
+            "words": "If the train arrives on time we will make our connection",
+            "extra": [
+              "arrived",
+              "would make"
+            ]
+          },
+          {
+            "words": "He would help you if he were in town this week",
+            "extra": [
+              "will help",
+              "is"
+            ]
+          },
+          {
+            "words": "If I see Maria at the party I will give her your message",
+            "extra": [
+              "saw",
+              "would give"
+            ]
+          },
+          {
+            "words": "If I saw Maria today I would give her your message",
+            "extra": [
+              "see",
+              "will give"
+            ]
+          },
+          {
+            "words": "Unless she charges her phone she won't hear the morning alarm",
+            "extra": [
+              "doesn't charge",
+              "would not hear"
+            ]
+          },
+          {
+            "words": "We will go to the beach if the weather improves this afternoon",
+            "extra": [
+              "improved",
+              "would go"
+            ]
+          },
+          {
+            "words": "If it were not so cold we could have lunch outside today",
+            "extra": [
+              "is not",
+              "will be cold"
+            ]
+          },
+          {
+            "words": "She would not be so tired if she went to bed earlier",
+            "extra": [
+              "goes",
+              "will not be"
+            ]
+          },
+          {
+            "words": "If you do not book early all the seats will be taken",
+            "extra": [
+              "didn't book",
+              "would be taken"
+            ]
+          },
+          {
+            "words": "If he worked harder his boss would not be so disappointed",
+            "extra": [
+              "works",
+              "will not be"
+            ]
+          },
+          {
+            "words": "Unless you submit the form today your application will be rejected",
+            "extra": [
+              "don't submit",
+              "would be rejected"
+            ]
+          },
+          {
+            "words": "She would not be so stressed if she exercised more regularly",
+            "extra": [
+              "exercises",
+              "will not be"
+            ]
+          },
+          {
+            "words": "If the price drops more people will buy the product online",
+            "extra": [
+              "dropped",
+              "would buy"
+            ]
+          },
+          {
+            "words": "If I won the lottery I would quit my job immediately",
+            "extra": [
+              "win",
+              "will quit"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "My colleague Tom and I were discussing our careers over lunch. I told him that if I {{1}} a promotion this year, I {{2}} very relieved. He replied that if he {{3}} my position, he {{4}} to speak to the manager directly. Then he said something surprising. He told me that if he {{5}} the chance to change careers, he {{6}} something completely different. He said that unless he {{7}} more creative work soon, he {{8}} his current job. I asked him what he {{9}} if he {{10}} to start over. He said he {{11}} become a chef if he {{12}} enough money to go to cooking school. In the end, I reminded him that if he {{13}} nothing, his situation {{14}} the same.",
+            "blanks": {
+              "1": "get",
+              "2": "will feel",
+              "3": "were in",
+              "4": "would try",
+              "5": "had",
+              "6": "would choose",
+              "7": "found",
+              "8": "would leave",
+              "9": "would do",
+              "10": "had",
+              "11": "would",
+              "12": "had",
+              "13": "did",
+              "14": "would stay"
+            },
+            "wordbank": [
+              "get",
+              "feel",
+              "be",
+              "try",
+              "have",
+              "choose",
+              "find",
+              "leave",
+              "do",
+              "start",
+              "become",
+              "stay",
+              "change",
+              "need"
+            ]
+          },
+          {
+            "text": "Living in a foreign country can be both exciting and challenging. If you {{1}} abroad next year, you {{2}} many new experiences. However, if you {{3}} the language, things {{4}} much easier. Unless you {{5}} at least some basic phrases, you {{6}} difficulties with simple everyday tasks. If you {{7}} a local, you {{8}} a much better understanding of the culture. On the other hand, if you {{9}} homesick, you might {{10}} going home early. If I {{11}} in your position, I {{12}} as much as possible before leaving. But ultimately, if you {{13}} the opportunity, you {{14}} it. People who have lived abroad say it changes them for life.",
+            "blanks": {
+              "1": "move",
+              "2": "will have",
+              "3": "spoke",
+              "4": "would be",
+              "5": "learn",
+              "6": "will face",
+              "7": "befriended",
+              "8": "would gain",
+              "9": "felt",
+              "10": "consider",
+              "11": "were",
+              "12": "would prepare",
+              "13": "have",
+              "14": "should take"
+            },
+            "wordbank": [
+              "move",
+              "have",
+              "speak",
+              "be",
+              "learn",
+              "face",
+              "befriend",
+              "gain",
+              "feel",
+              "consider",
+              "be",
+              "prepare",
+              "take",
+              "know"
+            ]
+          },
+          {
+            "text": "My friend Duy is deciding whether to move abroad for work. He says: 'If I {{1}} the offer, I will move to Singapore next spring. But if I {{2}} — which sometimes seems tempting — I {{3}} in my current job and save money here instead.' If he {{4}}, he {{5}} a much higher salary but {{6}} far from his family. If he {{7}}, things {{8}} the same and he {{9}} his parents every weekend. He says that if a recruiter {{10}} him a role closer to home, he {{11}} it without hesitation. He {{12}} a final decision as soon as he {{13}} back from the company. One thing is certain: if he {{14}} abroad, his whole life {{15}}.",
+            "blanks": {
+              "1": "accept",
+              "2": "stayed",
+              "3": "would stay",
+              "4": "moves",
+              "5": "will earn",
+              "6": "will be",
+              "7": "stayed",
+              "8": "would stay",
+              "9": "could visit",
+              "10": "offered",
+              "11": "would take",
+              "12": "will make",
+              "13": "hears",
+              "14": "moves",
+              "15": "will change"
+            },
+            "wordbank": [
+              "accept",
+              "stay",
+              "move",
+              "earn",
+              "be",
+              "visit",
+              "offer",
+              "take",
+              "make",
+              "hear",
+              "decide",
+              "give",
+              "keep",
+              "leave",
+              "change"
+            ]
+          },
+          {
+            "text": "Our company is planning a new product launch. The manager explained the two scenarios at the meeting. She said: 'If the market research {{1}} positive results next month, we {{2}} the launch in April. However, if there {{3}} significant problems with the data, we {{4}} the timeline.' She also said that if the budget {{5}} approved this week, the team {{6}} immediately. But if the board {{7}} further changes, everything {{8}} by another month. One team member asked: 'What {{9}} if a competitor {{10}} a similar product first?' The manager replied: 'If that {{11}}, we {{12}} our strategy and {{13}} on our unique features. If I {{14}} the board, I {{15}} a more flexible launch plan from the start.'",
+            "blanks": {
+              "1": "shows",
+              "2": "will launch",
+              "3": "are",
+              "4": "will delay",
+              "5": "is",
+              "6": "will begin",
+              "7": "requests",
+              "8": "will be delayed",
+              "9": "would happen",
+              "10": "released",
+              "11": "happened",
+              "12": "would adjust",
+              "13": "would focus",
+              "14": "were",
+              "15": "would design"
+            },
+            "wordbank": [
+              "show",
+              "launch",
+              "be",
+              "delay",
+              "approve",
+              "begin",
+              "request",
+              "happen",
+              "release",
+              "adjust",
+              "focus",
+              "design",
+              "give",
+              "make",
+              "ask"
+            ]
+          },
+          {
+            "text": "My grandmother loves giving advice. She always says: 'If you {{1}} hard enough, you will achieve anything you set your mind to.' She also believes that if young people {{2}} more time outdoors, they {{3}} happier and healthier. She tells me: 'If I {{4}} your age again, I {{5}} every moment instead of worrying so much.' She often asks: 'What {{6}} you do differently if you {{7}} a second chance?' I always say that if I {{8}} the chance, I {{9}} music when I was young. She smiles and says: 'It {{10}} too late. If you {{11}} now, you will surprise yourself.' She adds: 'And if you ever {{12}} my advice, I will always be here to listen.'",
+            "blanks": {
+              "1": "work",
+              "2": "spent",
+              "3": "would be",
+              "4": "were",
+              "5": "would enjoy",
+              "6": "would",
+              "7": "had",
+              "8": "had",
+              "9": "would have learned",
+              "10": "is never",
+              "11": "start",
+              "12": "need"
+            },
+            "wordbank": [
+              "work",
+              "spend",
+              "be",
+              "have",
+              "enjoy",
+              "learn",
+              "start",
+              "need",
+              "give",
+              "make",
+              "ask",
+              "try",
+              "believe",
+              "choose",
+              "find"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "So sánh hai tình huống: điều thực tế có thể xảy ra và điều bạn ước muốn – dùng cả First và Second Conditional trong cùng một bài viết",
+          "grammar_focus": "First conditional (realistic) vs Second conditional (hypothetical) in one text",
+          "hint_words": [
+            "if I get",
+            "will",
+            "if I had",
+            "would",
+            "unless",
+            "however",
+            "in reality",
+            "on the other hand"
+          ],
+          "min_words": 30,
+          "example": "I am currently preparing for two possible futures. If I pass my final exams, I will apply for a master's degree programme in the UK. I have already researched several universities and I will submit my application as soon as my results come out. However, if I could choose my ideal path without any financial constraints, I would take a very different route. If money were no issue, I would spend two years travelling through Europe and Asia, learning languages and volunteering. I would visit historical sites and talk to people from completely different backgrounds. In reality, unless I receive a scholarship, studying abroad will be a big financial commitment. But I am excited about both possibilities and will work hard to make the most of whichever path opens up."
+        },
+        {
+          "vi": "Viết về một vấn đề trong cộng đồng của bạn và đề xuất giải pháp – dùng First Conditional cho giải pháp thực tế và Second Conditional cho những gì lý tưởng hơn",
+          "grammar_focus": "Mixed conditionals for problem-solving: real solutions (1st) and ideal solutions (2nd)",
+          "hint_words": [
+            "if the council invests",
+            "will improve",
+            "if people stop",
+            "will be cleaner",
+            "if there were",
+            "would be better",
+            "unless action is taken",
+            "would also help"
+          ],
+          "min_words": 30,
+          "example": "Litter is a growing problem in my neighbourhood. If the local council installs more rubbish bins, people will be less likely to drop litter on the streets. If schools teach children about environmental responsibility, attitudes will gradually improve. Unless residents report illegal dumping, the situation will get worse. However, if I could design the ideal solution, I would completely redesign the waste collection system. If there were recycling stations on every corner, people would find it easier to separate their waste. If the city offered financial rewards for recycling, more people would participate. I believe that if everyone played their part, our streets would be much cleaner within a year."
+        },
+        {
+          "vi": "Viết về một người bạn hoặc người thân đang đứng trước quyết định – đưa ra lời khuyên dùng First và Second Conditional",
+          "grammar_focus": "Advice using conditionals: if you do X, you will; if I were you, I would",
+          "hint_words": [
+            "if you accept",
+            "you will",
+            "if I were you",
+            "I would",
+            "unless you",
+            "you might regret",
+            "if you decide",
+            "will help"
+          ],
+          "min_words": 30,
+          "example": "My friend Nam has been offered a job in Singapore but is worried about leaving his family. I told him that if he accepts the offer, he will gain incredible international experience that could transform his career. I also said that if he turns it down, he might always wonder what could have been. If I were in his position, I would seriously consider accepting it. If he negotiates with the company, he might be able to arrange regular trips back to Vietnam. Unless he tries living abroad, he will never know if he would enjoy it. I told him that if he plans carefully and stays in touch with his family, the transition will be manageable. I think it is a fantastic opportunity and I would take it without hesitation."
+        },
+        {
+          "vi": "Viết về cuộc sống trong tương lai gần (thực tế) và tương lai lý tưởng (giả định) – dùng cả hai loại câu điều kiện",
+          "grammar_focus": "First conditional for near-future plans, second conditional for dreams",
+          "hint_words": [
+            "if I finish",
+            "will",
+            "if I could",
+            "would",
+            "as soon as",
+            "unless",
+            "if the situation improves",
+            "would love to"
+          ],
+          "min_words": 30,
+          "example": "In the near future, I have some concrete plans. If I finish my language course this year, I will apply for jobs that require English skills. As soon as I save enough money, I will move to a bigger flat closer to work. If my company offers me a promotion, I will definitely take it. However, if I could design my ideal life without any limitations, things would look quite different. If I had the freedom to choose, I would open a small bookshop with a café where people could read and connect. If there were enough customers, I would host book clubs and literary events every week. I know this is a dream for now, but unless I work towards it, it will never happen. First conditional today, second conditional for tomorrow's dream."
+        },
+        {
+          "vi": "Viết về quyết định quan trọng bạn phải đưa ra sắp tới – điều gì sẽ xảy ra nếu bạn chọn A, điều gì sẽ xảy ra nếu bạn chọn B, và điều bạn thực sự muốn nếu không có ràng buộc",
+          "grammar_focus": "Both conditionals to weigh options",
+          "hint_words": [
+            "if I choose",
+            "will",
+            "if I take",
+            "might",
+            "if I were completely free",
+            "would",
+            "unless I",
+            "either way"
+          ],
+          "min_words": 30,
+          "example": "I currently have two options for my future and I find it very hard to decide. If I choose to stay in my current job, I will have financial security and a predictable routine. Unless something unexpected happens, I will probably get promoted within two years. On the other hand, if I take the risk and start my own business, I might earn more eventually, but the first few years could be very difficult. If I were completely free of financial worries, I would definitely choose to be an entrepreneur. I would start a social enterprise focused on education access in rural areas. However, in reality, I have responsibilities. If I had no savings, starting a business would be extremely risky. I think if I save carefully for the next year, I will be in a much stronger position to make this decision."
+        }
+      ]
+    },
+    {
+      "icon": "3️⃣",
+      "title": "B1 Third conditional: Past unreal situations",
+      "level": "intermediate",
+      "badge": "📘 B1",
+      "badgeClass": "badge-green",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Third Conditional – Điều kiện trong quá khứ không có thực</div><b>Cấu trúc:</b> <b>If + Past Perfect, would have + past participle</b><br><i>If she <b>had studied</b> harder, she <b>would have passed</b> the exam.</i><br><i>If I <b>had known</b> about the party, I <b>would have come</b>.</i><br><br>• Dùng để nói về <b>tình huống KHÔNG có thực trong quá khứ</b>.<br>• Hàm ý: điều đó không xảy ra → kết quả cũng không xảy ra.<br><br>✦ Thực tế ẩn đằng sau:<br>→ <i>If she had studied harder...</i> = She didn't study hard (thực tế)<br>→ <i>...she would have passed...</i> = She didn't pass (thực tế)</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Rút gọn và biến thể</div><b>Rút gọn:</b><br><i>I'd have known = I would have known</i><br><i>He'd have told = He would have told</i><br><br><b>Dùng could have / might have thay would have:</b><br><i>If we had left earlier, we <b>could have caught</b> the train.</i> (khả năng)<br><i>If you had asked him, he <b>might have helped</b>.</i> (có thể)</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Đảo mệnh đề</div>Có thể đảo vị trí hai mệnh đề, dùng dấu phẩy khi mệnh đề if đứng trước:<br><i>She <b>would have passed</b> if she <b>had studied</b> harder.</i><br><i>I <b>would have come</b> if I <b>had known</b> about the party.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Lỗi phổ biến</div>❌ <s>If I would have known, I would have told you.</s><br>✅ If I <b>had known</b>, I would have told you.<br><br>❌ <s>If she had study harder, she would have passed.</s><br>✅ If she <b>had studied</b> harder, she would have passed.<br><br>❌ <s>I would of gone.</s><br>✅ I <b>would have gone</b>. (have, NOT of)</div><div class=\"ex-sent\">If he <b>had left</b> earlier, he <b>would have caught</b> the bus.<span>Third Conditional: hai sự kiện không có thực trong quá khứ</span></div><div class=\"ex-sent\">She <b>might have won</b> if she <b>hadn't been</b> so nervous.<span>might have thay would have = khả năng</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "If she ___ harder, she would have passed the exam.",
+          "opts": "had studied,studied,would have studied,has studied",
+          "ans": "A",
+          "exp": "Third Conditional: if + Past Perfect (had studied)"
+        },
+        {
+          "type": "mc",
+          "q": "He would have got the job if he ___ better at the interview.",
+          "opts": "had performed,performed,would perform,has performed",
+          "ans": "A",
+          "exp": "Third Conditional: if + Past Perfect"
+        },
+        {
+          "type": "mc",
+          "q": "If I had known about the meeting, I ___ there.",
+          "opts": "would have come,would come,came,had come",
+          "ans": "A",
+          "exp": "Third Conditional: main clause → would have + PP"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ the match if their best player hadn't been injured.",
+          "opts": "might have won,would win,had won,could win",
+          "ans": "A",
+          "exp": "Third Conditional: might have + PP (possibility)"
+        },
+        {
+          "type": "mc",
+          "q": "If we had booked earlier, the tickets ___ cheaper.",
+          "opts": "would have been,were,would be,had been",
+          "ans": "A",
+          "exp": "Third Conditional: main clause → would have + PP"
+        },
+        {
+          "type": "mc",
+          "q": "She wouldn't have been late if she ___ her alarm.",
+          "opts": "had set,set,would have set,has set",
+          "ans": "A",
+          "exp": "Third Conditional: if + Past Perfect"
+        },
+        {
+          "type": "mc",
+          "q": "If I had seen him, I ___ him your message.",
+          "opts": "would have given,would give,gave,had given",
+          "ans": "A",
+          "exp": "Third Conditional: main clause → would have + PP"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ the last train if we hadn't stopped for coffee.",
+          "opts": "could have caught,caught,would catch,can catch",
+          "ans": "A",
+          "exp": "Third Conditional: could have + PP (ability/possibility)"
+        },
+        {
+          "type": "mc",
+          "q": "If he had taken my advice, he ___ those problems.",
+          "opts": "wouldn't have had,wouldn't have,hadn't had,won't have",
+          "ans": "A",
+          "exp": "Third Conditional negative: wouldn't have + PP"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ to the party if she had been invited.",
+          "opts": "would have gone,would go,went,had gone",
+          "ans": "A",
+          "exp": "Third Conditional: main clause → would have + PP"
+        },
+        {
+          "type": "mc",
+          "q": "If they had known the truth, what ___ they ___?",
+          "opts": "would/have done,did,would/do,had/done",
+          "ans": "A",
+          "exp": "Third Conditional question: would + subject + have + PP"
+        },
+        {
+          "type": "mc",
+          "q": "The accident ___ if the driver hadn't been distracted.",
+          "opts": "wouldn't have happened,wouldn't happen,hadn't happened,won't happen",
+          "ans": "A",
+          "exp": "Third Conditional negative: wouldn't have + PP"
+        },
+        {
+          "type": "mc",
+          "q": "If he ___ the contract carefully, he wouldn't have signed it.",
+          "opts": "had read,read,would have read,has read",
+          "ans": "A",
+          "exp": "Third Conditional: if + Past Perfect"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ you if I had known you were sick.",
+          "opts": "would have called,would call,called,had called",
+          "ans": "A",
+          "exp": "Third Conditional: main clause → would have + PP"
+        },
+        {
+          "type": "mc",
+          "q": "If the project ___ on time, the client would have been satisfied.",
+          "opts": "had been completed,was completed,would be completed,has been completed",
+          "ans": "A",
+          "exp": "Third Conditional passive: if + had been + PP"
+        },
+        {
+          "type": "mc",
+          "q": "She might have become a doctor if she ___ medicine.",
+          "opts": "had studied,studied,would study,has studied",
+          "ans": "A",
+          "exp": "Third Conditional: might have + if + Past Perfect"
+        },
+        {
+          "type": "mc",
+          "q": "If I ___ the directions correctly, I wouldn't have got lost.",
+          "opts": "had followed,followed,would have followed,have followed",
+          "ans": "A",
+          "exp": "Third Conditional: if + Past Perfect"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ so much money if they had planned more carefully.",
+          "opts": "wouldn't have spent,wouldn't spend,hadn't spent,won't spend",
+          "ans": "A",
+          "exp": "Third Conditional: wouldn't have + PP"
+        },
+        {
+          "type": "mc",
+          "q": "If the rescue team ___ earlier, they could have saved more lives.",
+          "opts": "had arrived,arrived,would arrive,have arrived",
+          "ans": "A",
+          "exp": "Third Conditional: if + Past Perfect"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ the presentation better if he had prepared more.",
+          "opts": "would have given,would give,gave,had given",
+          "ans": "A",
+          "exp": "Third Conditional: main clause → would have + PP"
+        },
+        {
+          "type": "fill",
+          "q": "If I ___ (know) you were coming, I would have prepared dinner.",
+          "ans": "had known",
+          "exp": "Third Conditional: if + Past Perfect"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (not/make) that mistake if she had checked her work.",
+          "ans": "wouldn't have made",
+          "exp": "Third Conditional: wouldn't have + PP"
+        },
+        {
+          "type": "fill",
+          "q": "If they ___ (leave) earlier, they would have caught the flight.",
+          "ans": "had left",
+          "exp": "Third Conditional: if + Past Perfect"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (win) the match if we had played better in the second half.",
+          "ans": "would have won",
+          "exp": "Third Conditional: main clause → would have + PP"
+        },
+        {
+          "type": "fill",
+          "q": "If the weather ___ (be) better, we would have gone camping.",
+          "ans": "had been",
+          "exp": "Third Conditional: if + had been"
+        },
+        {
+          "type": "fill",
+          "q": "He might ___ (become) a professional musician if he hadn't quit.",
+          "ans": "have become",
+          "exp": "Third Conditional: might have + PP"
+        },
+        {
+          "type": "fill",
+          "q": "If I ___ (take) the other road, I would have avoided the traffic jam.",
+          "ans": "had taken",
+          "exp": "Third Conditional: if + Past Perfect"
+        },
+        {
+          "type": "fill",
+          "q": "The patient ___ (survive) if the ambulance had arrived sooner.",
+          "ans": "might have survived",
+          "exp": "Third Conditional: might have + PP (uncertainty)"
+        },
+        {
+          "type": "fill",
+          "q": "She wouldn't have been upset if I ___ (not/say) that.",
+          "ans": "hadn't said",
+          "exp": "Third Conditional: if + hadn't + PP"
+        },
+        {
+          "type": "fill",
+          "q": "If he ___ (save) money earlier, he could have bought the house.",
+          "ans": "had saved",
+          "exp": "Third Conditional: if + Past Perfect"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (not/be) so hungry if we had eaten breakfast.",
+          "ans": "wouldn't have been",
+          "exp": "Third Conditional: wouldn't have + PP"
+        },
+        {
+          "type": "fill",
+          "q": "If the instructions ___ (be) clearer, fewer people would have got confused.",
+          "ans": "had been",
+          "exp": "Third Conditional: if + had been"
+        },
+        {
+          "type": "fill",
+          "q": "She could ___ (finish) the project on time if she had started earlier.",
+          "ans": "have finished",
+          "exp": "Third Conditional: could have + PP"
+        },
+        {
+          "type": "fill",
+          "q": "What ___ you ___ (do) if you had found a large amount of money?",
+          "ans": "would / have done",
+          "exp": "Third Conditional question"
+        },
+        {
+          "type": "fill",
+          "q": "If the company ___ (invest) in training, productivity would have improved.",
+          "ans": "had invested",
+          "exp": "Third Conditional: if + Past Perfect"
+        },
+        {
+          "type": "fill",
+          "q": "If she ___ (study) harder, she would have passed the exam with flying colours.",
+          "ans": "had studied",
+          "exp": "Third conditional: if + past perfect"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (not/be) late if the train hadn't been cancelled at the last minute.",
+          "ans": "wouldn't have been",
+          "exp": "Third conditional negative: wouldn't have + past participle"
+        },
+        {
+          "type": "fill",
+          "q": "If you ___ (tell) me sooner, I could have helped you with the problem.",
+          "ans": "had told",
+          "exp": "Third conditional: if + past perfect"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (get) the job if he had prepared more thoroughly for the interview.",
+          "ans": "would have got",
+          "exp": "Third conditional: would have + past participle"
+        },
+        {
+          "type": "fill",
+          "q": "If they ___ (not/miss) the flight, they would have arrived on Tuesday.",
+          "ans": "hadn't missed",
+          "exp": "Third conditional negative: if + hadn't + past participle"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "If she had studied harder she would have passed the exam",
+            "extra": [
+              "studied",
+              "would pass"
+            ]
+          },
+          {
+            "words": "He would have got the job if he had performed better at the interview",
+            "extra": [
+              "performed",
+              "would perform"
+            ]
+          },
+          {
+            "words": "If I had known about the meeting I would have come",
+            "extra": [
+              "knew",
+              "would come"
+            ]
+          },
+          {
+            "words": "We could have caught the train if we had not stopped for coffee",
+            "extra": [
+              "did not stop",
+              "would catch"
+            ]
+          },
+          {
+            "words": "If she had set her alarm she would not have been late",
+            "extra": [
+              "set",
+              "would not be"
+            ]
+          },
+          {
+            "words": "The accident would not have happened if the driver had been careful",
+            "extra": [
+              "was careful",
+              "would not happen"
+            ]
+          },
+          {
+            "words": "If they had known the truth they would have acted differently",
+            "extra": [
+              "knew",
+              "would act"
+            ]
+          },
+          {
+            "words": "She might have won if she had not been so nervous",
+            "extra": [
+              "was not",
+              "would have won"
+            ]
+          },
+          {
+            "words": "If he had taken my advice he would not have had those problems",
+            "extra": [
+              "took",
+              "would not have"
+            ]
+          },
+          {
+            "words": "I would have called you if I had known you were ill",
+            "extra": [
+              "knew",
+              "will call"
+            ]
+          },
+          {
+            "words": "If we had booked the tickets earlier they would have been cheaper",
+            "extra": [
+              "booked",
+              "would be"
+            ]
+          },
+          {
+            "words": "She would have gone to the party if she had been invited",
+            "extra": [
+              "was invited",
+              "would go"
+            ]
+          },
+          {
+            "words": "They would not have spent so much money if they had planned carefully",
+            "extra": [
+              "planned",
+              "would not spend"
+            ]
+          },
+          {
+            "words": "If the rescue team had arrived earlier they could have saved more lives",
+            "extra": [
+              "arrived",
+              "could save"
+            ]
+          },
+          {
+            "words": "If I had followed the directions I would not have got lost",
+            "extra": [
+              "followed",
+              "would not get"
+            ]
+          },
+          {
+            "words": "He would have given a better presentation if he had prepared more",
+            "extra": [
+              "prepared",
+              "would give"
+            ]
+          },
+          {
+            "words": "If they had left earlier they would have caught the last flight",
+            "extra": [
+              "left",
+              "would catch"
+            ]
+          },
+          {
+            "words": "The patient might have survived if the ambulance had arrived sooner",
+            "extra": [
+              "arrived sooner",
+              "would have survived"
+            ]
+          },
+          {
+            "words": "She might have become a doctor if she had studied medicine",
+            "extra": [
+              "studied",
+              "would become"
+            ]
+          },
+          {
+            "words": "If the instructions had been clearer fewer people would have been confused",
+            "extra": [
+              "were clearer",
+              "would be confused"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Last year, our school team entered a regional science competition. Looking back, I think we {{1}} if we {{2}} better. First, if our project leader {{3}} ill the week before the competition, she {{4}} the presentation properly. If she {{5}} enough time to practise, our delivery {{6}} much more confident. Secondly, if we {{7}} better research, the judges {{8}} more impressed with our data. Our design {{9}} a higher score if we {{10}} the prototype more carefully. However, even with all these issues, we {{11}} so many valuable skills. If we {{12}} this experience, we {{13}} how to handle pressure as a team. We are all grateful for the challenge.",
+            "blanks": {
+              "1": "would have won",
+              "2": "had prepared",
+              "3": "hadn't fallen",
+              "4": "could have practised",
+              "5": "had had",
+              "6": "would have been",
+              "7": "had done",
+              "8": "would have been",
+              "9": "might have received",
+              "10": "had tested",
+              "11": "learnt",
+              "12": "hadn't had",
+              "13": "wouldn't have known"
+            },
+            "wordbank": [
+              "win",
+              "prepare",
+              "fall",
+              "practise",
+              "have",
+              "be",
+              "do",
+              "impress",
+              "receive",
+              "test",
+              "learn",
+              "know",
+              "design",
+              "handle"
+            ]
+          },
+          {
+            "text": "The history of aviation {{1}} very different if the Wright Brothers {{2}} their famous first flight in 1903. If they {{3}} on that cold December morning, someone else {{4}} the credit. If aviation {{5}} as quickly as it did, millions of people {{6}} able to travel internationally by the mid-twentieth century. If early planes {{7}} safer, more passengers {{8}} to fly commercially sooner. Some historians argue that if certain wars {{9}}, aviation technology {{10}} as fast. The jet engine, for example, {{11}} developed so quickly if there {{12}} strong military demand for faster aircraft. It is fascinating to think how much {{13}} differently if any one of these key moments {{14}} differently.",
+            "blanks": {
+              "1": "would have been",
+              "2": "hadn't made",
+              "3": "hadn't succeeded",
+              "4": "might have taken",
+              "5": "hadn't advanced",
+              "6": "wouldn't have been",
+              "7": "had been made",
+              "8": "might have agreed",
+              "9": "hadn't occurred",
+              "10": "might not have developed",
+              "11": "might not have been",
+              "12": "hadn't been",
+              "13": "would have happened",
+              "14": "had gone"
+            },
+            "wordbank": [
+              "be",
+              "make",
+              "succeed",
+              "take",
+              "advance",
+              "travel",
+              "design",
+              "agree",
+              "occur",
+              "develop",
+              "happen",
+              "go",
+              "need",
+              "build"
+            ]
+          },
+          {
+            "text": "My grandmother often tells me about decisions she made when she was young. She says that if she {{1}} her first job offer, her career {{2}} in a completely different direction. If she {{3}} that position, she {{4}} her future husband at the office. If they {{5}}, neither of my parents {{6}} born. She also says that if she {{7}} harder at school, she {{8}} to university. However, she always says she {{9}} her life differently even if she {{10}} the chance. If she {{11}} every challenge, she {{12}} the strong person she is today. Looking back, she says that even the difficult moments were important. If things {{13}} as they did, our whole family story {{14}} very different.",
+            "blanks": {
+              "1": "hadn't accepted",
+              "2": "would have gone",
+              "3": "hadn't taken",
+              "4": "would never have met",
+              "5": "hadn't married",
+              "6": "would have been",
+              "7": "had studied",
+              "8": "could have gone",
+              "9": "wouldn't have changed",
+              "10": "had had",
+              "11": "hadn't faced",
+              "12": "wouldn't have become",
+              "13": "hadn't happened",
+              "14": "would have been"
+            },
+            "wordbank": [
+              "accept",
+              "go",
+              "take",
+              "meet",
+              "marry",
+              "be",
+              "study",
+              "change",
+              "have",
+              "face",
+              "become",
+              "happen",
+              "know",
+              "live"
+            ]
+          },
+          {
+            "text": "The great fire that destroyed a historic district of our town last summer {{1}} if someone {{2}} the gas pipe on time. If the alarm {{3}} sooner, firefighters {{4}} to the scene more quickly. If more water {{5}} available at the site, the fire {{6}} much faster. Several historic buildings {{7}} saved if the fire brigade {{8}} better equipment. Residents who lost their homes {{9}} much more support if the local government {{10}} better emergency plans. If journalists {{11}} the story more widely, more donations {{12}} in from around the country. People affected by the fire say that if they {{13}} warnings more seriously, they {{14}} more precious belongings.",
+            "blanks": {
+              "1": "would not have occurred",
+              "2": "had repaired",
+              "3": "had sounded",
+              "4": "could have got",
+              "5": "had been",
+              "6": "would have been controlled",
+              "7": "could have been",
+              "8": "had had",
+              "9": "would have received",
+              "10": "had prepared",
+              "11": "had covered",
+              "12": "would have poured",
+              "13": "had taken",
+              "14": "would have saved"
+            },
+            "wordbank": [
+              "occur",
+              "repair",
+              "sound",
+              "get",
+              "be",
+              "control",
+              "save",
+              "have",
+              "receive",
+              "prepare",
+              "cover",
+              "pour",
+              "take",
+              "warn"
+            ]
+          },
+          {
+            "text": "Scientists believe that many health problems today {{1}} less common if societies {{2}} differently over the past century. If people {{3}} fewer processed foods, many diseases {{4}} so widespread. If the food industry {{5}} stricter regulations earlier, millions of lives {{6}} saved. If doctors {{7}} the importance of diet sooner, public health advice {{8}} more effective. Some researchers argue that if certain medical breakthroughs {{9}} earlier, treatments {{10}} more affordable. If the global community {{11}} more in preventive healthcare, hospitals {{12}} as overcrowded as they are today. These reflections remind us how important our choices are, both individually and collectively.",
+            "blanks": {
+              "1": "would have been",
+              "2": "had developed",
+              "3": "had consumed",
+              "4": "wouldn't have become",
+              "5": "had faced",
+              "6": "could have been",
+              "7": "had understood",
+              "8": "would have been",
+              "9": "had happened",
+              "10": "would have been",
+              "11": "had invested",
+              "12": "wouldn't be"
+            },
+            "wordbank": [
+              "be",
+              "develop",
+              "consume",
+              "become",
+              "face",
+              "save",
+              "understand",
+              "happen",
+              "invest",
+              "overcrowd",
+              "improve",
+              "prevent"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Nghĩ về một quyết định quan trọng trong quá khứ mà bạn ước giá như đã chọn khác – điều gì đã xảy ra và cuộc sống sẽ khác thế nào nếu bạn đã quyết định khác",
+          "grammar_focus": "Third conditional: if I had, I would have; wouldn't have; could have",
+          "hint_words": [
+            "if I had chosen",
+            "would have",
+            "if I hadn't",
+            "could have",
+            "might have",
+            "wouldn't have",
+            "if I had known",
+            "as a result"
+          ],
+          "min_words": 30,
+          "example": "When I finished secondary school, I chose to study economics because it seemed like a safe and practical option. Looking back, I sometimes wonder how different my life would have been if I had chosen to study design instead. If I had followed my passion for art and creativity, I would have pursued a completely different career path. I might have become a graphic designer or an architect. If I had been braver and taken that risk, I could have built a portfolio of creative work that I am truly proud of. However, I would not have met the colleagues and friends who have been so important to me over the years. If I hadn't studied economics, I wouldn't have developed the analytical and financial skills that help me so much today. I believe that even the decisions we regret teach us something valuable."
+        },
+        {
+          "vi": "Viết về một sự kiện lịch sử hoặc khoa học nổi tiếng – điều gì sẽ khác đi nếu nó đã không xảy ra hoặc xảy ra theo cách khác",
+          "grammar_focus": "Third conditional for historical hypotheticals",
+          "hint_words": [
+            "if it had not",
+            "would have been",
+            "if scientists had",
+            "could have",
+            "might have",
+            "if the invention hadn't",
+            "the world would have"
+          ],
+          "min_words": 30,
+          "example": "The invention of the internet has transformed modern life in ways that are hard to fully measure. If Tim Berners-Lee had not developed the World Wide Web in 1989, global communication would have remained far more limited. If the internet had not become widely available in the 1990s, businesses would not have been able to operate internationally with such ease. Online education, streaming services, and social media would not have existed. If researchers had not shared information so freely through connected networks, many scientific breakthroughs might have taken decades longer to achieve. The COVID-19 pandemic would have been far more devastating if remote working and online learning had not been possible. It is remarkable to think how different every aspect of modern society would have been if this single technology had not been invented when it was."
+        },
+        {
+          "vi": "Hãy nhìn lại một sai lầm hoặc hiểu lầm mà bạn hoặc người khác đã mắc phải – điều gì đã dẫn đến sai lầm đó và kết quả sẽ khác như thế nào nếu ai đó đã hành động khác",
+          "grammar_focus": "Third conditional to reflect on mistakes and consequences",
+          "hint_words": [
+            "if he/she had",
+            "would not have",
+            "if we had known",
+            "could have avoided",
+            "if they had listened",
+            "might have turned out",
+            "wouldn't have happened",
+            "if only"
+          ],
+          "min_words": 30,
+          "example": "Last year, our class project ended in disaster because of a series of avoidable mistakes. If our team leader had communicated the deadlines clearly from the beginning, everyone would have known what to do. If we had checked in with each other more regularly, we would have noticed the problems much sooner. If one team member hadn't deleted the wrong files by accident, we could have submitted the full project on time. If only we had backed up our work on a shared drive, we wouldn't have lost three weeks of research. The teacher was understanding, but if she hadn't given us an extension, we would have failed the assignment entirely. It was a painful experience, but if we hadn't made those mistakes, we might not have learned how important teamwork and communication truly are."
+        },
+        {
+          "vi": "Viết về một cơ hội bạn đã bỏ lỡ – tại sao bạn không nắm bắt nó và cuộc sống sẽ như thế nào nếu bạn đã làm khác",
+          "grammar_focus": "Third conditional for missed opportunities: if I had taken, would have, could have",
+          "hint_words": [
+            "if I had taken",
+            "would have gained",
+            "if I hadn't hesitated",
+            "could have",
+            "if only I had",
+            "might have changed",
+            "would not have regretted",
+            "if I had been braver"
+          ],
+          "min_words": 30,
+          "example": "Three years ago, I was offered the chance to join an international exchange programme and study in France for six months. At the time, I was afraid to go because I did not speak French well and I was worried about leaving my comfort zone. I turned it down, and I have sometimes regretted that decision. If I had taken that opportunity, I would have experienced an entirely different culture and improved my language skills dramatically. If I hadn't been so afraid of the unknown, I could have made lifelong friends from around the world. I might have discovered a passion for international work that could have shaped my entire career. If only I had been braver, my life today might look very different. However, I have learnt from this experience and I now try to say yes to new opportunities whenever they appear."
+        },
+        {
+          "vi": "Viết về một tình huống trong câu chuyện sách/phim yêu thích của bạn – điều gì sẽ xảy ra khác nếu một nhân vật đã hành động khác đi",
+          "grammar_focus": "Third conditional applied to fiction: if the character had, would have, could have",
+          "hint_words": [
+            "if the character had",
+            "the story would have",
+            "if they had not",
+            "could have changed",
+            "might have survived",
+            "would have ended",
+            "if only they had known",
+            "wouldn't have had to"
+          ],
+          "min_words": 30,
+          "example": "One of my favourite stories is Romeo and Juliet by Shakespeare. The tragic ending of this play could have been avoided if several characters had made different decisions. If Friar Lawrence had sent his letter by a more reliable messenger, Romeo would have known that Juliet was not truly dead. If Romeo had not acted so quickly in despair, he would not have taken the poison. If only Juliet had woken up just a few minutes earlier, she would have seen Romeo alive and the entire tragedy would have been prevented. If their families had not been so consumed by their ancient feud, the two young lovers might have been able to marry openly and lived happily. If the play had ended differently, it would not have had the same powerful impact on audiences for over four hundred years, but it is fascinating to imagine what might have been."
+        }
+      ]
+    }
+  ]
+}

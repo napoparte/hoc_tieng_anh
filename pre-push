@@ -1,0 +1,89 @@
+#!/usr/bin/env bash
+# Git pre-push hook — tự động build & deploy trước khi push
+# Windows compatible
+
+set -e
+
+REPO_ROOT="$(cd "$(git rev-parse --show-toplevel)" && pwd)"
+DIST_DIR="$REPO_ROOT/dist"
+CURRENT_BRANCH=$(git symbolic-ref --short HEAD)
+
+RED='\033[0;31m'; GREEN='\033[0;32m'; YELLOW='\033[1;33m'
+CYAN='\033[0;36m'; RESET='\033[0m'
+
+echo ""
+echo -e "${CYAN}┌─────────────────────────────────────┐${RESET}"
+echo -e "${CYAN}│  pre-push hook: running build...    │${RESET}"
+echo -e "${CYAN}└─────────────────────────────────────┘${RESET}"
+
+# ── 1. Chạy build ─────────────────────────────────────────────────────────────
+cd "$REPO_ROOT"
+node build-obfuscate.js
+if [ $? -ne 0 ]; then
+  echo -e "\n${RED}✗ Build thất bại — push bị hủy${RESET}\n"
+  exit 1
+fi
+
+if [ ! -d "$DIST_DIR" ]; then
+  echo -e "${RED}✗ Không tìm thấy dist/ sau build${RESET}"
+  exit 1
+fi
+
+# ── 2. Deploy dist/ lên gh-pages ──────────────────────────────────────────────
+echo -e "  ${CYAN}→${RESET} Deploying dist/ → gh-pages..."
+
+# Stash nếu có thay đổi chưa commit
+STASHED=0
+if ! git diff --quiet || ! git diff --cached --quiet; then
+  git stash --quiet
+  STASHED=1
+fi
+
+# Dọn worktree cũ nếu còn sót
+git worktree prune 2>/dev/null || true
+
+# Kiểm tra gh-pages branch đã tồn tại chưa
+if git show-ref --quiet refs/heads/gh-pages; then
+  git checkout --quiet gh-pages
+  # Xóa file cũ (giữ .git)
+  find . -maxdepth 1 -not -name '.git' -not -name '.' \
+    -exec rm -rf {} + 2>/dev/null || true
+else
+  # Tạo orphan branch mới
+  git checkout --quiet --orphan gh-pages
+  git rm -rf --quiet . 2>/dev/null || true
+fi
+
+# Copy dist/ vào root — dùng shell glob để tránh lỗi path Windows
+for item in "$DIST_DIR"/*; do
+  cp -r "$item" .
+done
+
+# Copy hidden files nếu có
+for item in "$DIST_DIR"/.*; do
+  [ "$(basename "$item")" = "." ] && continue
+  [ "$(basename "$item")" = ".." ] && continue
+  cp -r "$item" . 2>/dev/null || true
+done
+
+# Commit và push
+git add -A
+
+if git diff --cached --quiet; then
+  echo -e "  ${YELLOW}⚠${RESET} Không có thay đổi — bỏ qua"
+else
+  COMMIT_MSG="deploy: $(date '+%Y-%m-%d %H:%M') from $CURRENT_BRANCH"
+  git commit --quiet -m "$COMMIT_MSG"
+  git push --quiet origin gh-pages
+  echo -e "  ${GREEN}✓${RESET} Pushed to gh-pages"
+fi
+
+# ── 3. Quay lại branch gốc ────────────────────────────────────────────────────
+git checkout --quiet "$CURRENT_BRANCH"
+
+if [ $STASHED -eq 1 ]; then
+  git stash pop --quiet
+fi
+
+echo -e "\n  ${GREEN}✓${RESET} Deploy xong! Tiếp tục push source lên $CURRENT_BRANCH...\n"
+exit 0

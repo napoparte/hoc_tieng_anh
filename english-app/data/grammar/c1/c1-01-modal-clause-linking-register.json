@@ -1,0 +1,2740 @@
+{
+  "advanced": [
+    {
+      "icon": "🎓",
+      "title": "Advanced Modal Verbs: should/could/needn't have",
+      "level": "advanced",
+      "badge": "🎓 C1",
+      "badgeClass": "badge-purple",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Modal Perfect: Đánh giá & Hối tiếc về quá khứ</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Cấu trúc</th><th style=\"padding:4px 8px;text-align:left\">Nghĩa</th><th style=\"padding:4px 8px;text-align:left\">Ví dụ</th></tr><tr><td style=\"padding:4px 8px;text-align:left\">should have + V3</td><td style=\"padding:4px 8px;text-align:left\">Đáng lẽ phải làm (nhưng không)</td><td style=\"padding:4px 8px;text-align:left\">You should have told me sooner!</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">shouldn't have + V3</td><td style=\"padding:4px 8px;text-align:left\">Đáng lẽ không nên làm (nhưng đã làm)</td><td style=\"padding:4px 8px;text-align:left\">She shouldn't have said that.</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">could have + V3</td><td style=\"padding:4px 8px;text-align:left\">Có thể đã làm (nhưng không / nguy hiểm)</td><td style=\"padding:4px 8px;text-align:left\">You could have been killed!</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">might have + V3</td><td style=\"padding:4px 8px;text-align:left\">Có thể đã xảy ra (suy đoán QK)</td><td style=\"padding:4px 8px;text-align:left\">She might have missed the bus.</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">must have + V3</td><td style=\"padding:4px 8px;text-align:left\">Chắc chắn đã xảy ra</td><td style=\"padding:4px 8px;text-align:left\">He must have worked all night.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">can't have + V3</td><td style=\"padding:4px 8px;text-align:left\">Chắc chắn không xảy ra</td><td style=\"padding:4px 8px;text-align:left\">She can't have said that.</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">would have + V3</td><td style=\"padding:4px 8px;text-align:left\">Điều kiện QK (Third Conditional)</td><td style=\"padding:4px 8px;text-align:left\">I would have helped if I'd known.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">needn't have + V3</td><td style=\"padding:4px 8px;text-align:left\">Đã làm nhưng không cần thiết</td><td style=\"padding:4px 8px;text-align:left\">You needn't have bought so much food!</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">didn't need to + V</td><td style=\"padding:4px 8px;text-align:left\">Không cần và không làm</td><td style=\"padding:4px 8px;text-align:left\">I didn't need to bring a jacket (so I didn't).</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">ought to have + V3</td><td style=\"padding:4px 8px;text-align:left\">Nên đã làm (tương tự should have)</td><td style=\"padding:4px 8px;text-align:left\">You ought to have arrived earlier.</td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ NEEDN'T HAVE vs DIDN'T NEED TO</div><b>needn't have + V3</b>: <b>ĐÃ LÀM</b> việc đó, nhưng hóa ra không cần:<br><i>You <b>needn't have cooked</b> so much – we ordered pizza.</i><br>(Bạn đã nấu, nhưng hóa ra không cần)<br><br><b>didn't need to + V</b>: <b>KHÔNG CẦN và KHÔNG LÀM</b>:<br><i>I <b>didn't need to</b> bring a gift, so I didn't.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Would have trong counterfactuals</div>Diễn đạt điều sẽ xảy ra nếu hoàn cảnh khác đi:<br><i>I <b>would have gone</b> if I had known.</i><br><i>It <b>would have been</b> a disaster without your help.</i></div><div class=\"ex-sent\">You <b>should have applied</b> for that job! It was perfect for you.<span>Đáng lẽ phải nộp đơn</span></div><div class=\"ex-sent\">You <b>needn't have bought</b> so much – we already had enough.<span>Đã mua nhưng không cần thiết</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "You ___ told me sooner – I could have helped with the situation.",
+          "opts": "should have,would have,might have,must have",
+          "ans": "A",
+          "exp": "Chê trách / tiếc nuối → should have + V3"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ be the new director – she started only last month.",
+          "opts": "can't,mustn't,shouldn't,needn't",
+          "ans": "A",
+          "exp": "Không thể là sự thật → can't be (deduction)"
+        },
+        {
+          "type": "mc",
+          "q": "You ___ bought a new one – I could have lent you mine.",
+          "opts": "needn't have,shouldn't have,mustn't have,couldn't have",
+          "ans": "A",
+          "exp": "Không cần thiết nhưng đã làm → needn't have + V3"
+        },
+        {
+          "type": "mc",
+          "q": "The lights are on – someone ___ be in the office right now.",
+          "opts": "must,should,might,needn't",
+          "ans": "A",
+          "exp": "Suy luận chắc chắn → must be"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ have finished the report by now – it was due at noon.",
+          "opts": "should,would,could,might",
+          "ans": "A",
+          "exp": "Kỳ vọng chưa chắc xảy ra → should have"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ have worried so much – everything turned out perfectly fine.",
+          "opts": "needn't,mustn't,shouldn't,couldn't",
+          "ans": "A",
+          "exp": "Lo lắng không cần thiết → needn't have + V3"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ have known about the meeting – no one told them.",
+          "opts": "couldn't,mustn't,shouldn't,needn't",
+          "ans": "A",
+          "exp": "Không thể biết → couldn't have + V3"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ have taken my umbrella – hers is still here on the desk.",
+          "opts": "must,could,should,needn't",
+          "ans": "A",
+          "exp": "Suy luận từ bằng chứng → must have + V3"
+        },
+        {
+          "type": "mc",
+          "q": "You ___ have called a taxi – I was happy to give you a lift home.",
+          "opts": "needn't,mustn't,shouldn't,couldn't",
+          "ans": "A",
+          "exp": "Không cần nhưng đã làm → needn't have"
+        },
+        {
+          "type": "mc",
+          "q": "The patient ___ have left the hospital without the doctor's permission.",
+          "opts": "shouldn't,needn't,mustn't,couldn't",
+          "ans": "A",
+          "exp": "Lẽ ra không nên → shouldn't have"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ have studied abroad – his English is far too fluent for a local course.",
+          "opts": "must,should,could,needn't",
+          "ans": "A",
+          "exp": "Suy luận → must have + V3"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ have submitted the report yesterday, but the deadline was extended.",
+          "opts": "could,should,must,needn't",
+          "ans": "A",
+          "exp": "Có khả năng đã làm → could have + V3"
+        },
+        {
+          "type": "mc",
+          "q": "She looks exhausted. She ___ have been working all night again.",
+          "opts": "must,should,could,needn't",
+          "ans": "A",
+          "exp": "Suy luận hiện tại → must have been + V-ing"
+        },
+        {
+          "type": "mc",
+          "q": "The keys ___ be on the table – I left them there this morning.",
+          "opts": "should,must,could,needn't",
+          "ans": "A",
+          "exp": "Kỳ vọng / dự đoán → should be"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ have stayed at the party so long – I'm exhausted today.",
+          "opts": "shouldn't,needn't,mustn't,couldn't",
+          "ans": "A",
+          "exp": "Hối hận về hành động quá khứ → shouldn't have"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ have arrived by now – the train was due an hour ago.",
+          "opts": "should,must,could,needn't",
+          "ans": "A",
+          "exp": "Kỳ vọng chưa xảy ra → should have arrived"
+        },
+        {
+          "type": "tf",
+          "q": "You needn't have to buy anything – admission is free. → Correct or Wrong?",
+          "ans": "Wrong – correct: You <b>needn't have bought</b> anything",
+          "exp": "needn't have + V3 (không cần 'to'); không dùng 'needn't have to'"
+        },
+        {
+          "type": "tf",
+          "q": "She must have forgotten her keys – she's ringing the doorbell. → Correct or Wrong?",
+          "ans": "Correct",
+          "exp": "must have + V3 = suy luận chắc chắn ✔"
+        },
+        {
+          "type": "tf",
+          "q": "He should have told us about the change in plans. → Correct or Wrong?",
+          "ans": "Correct",
+          "exp": "should have + V3 = đáng lẽ phải nói ✔"
+        },
+        {
+          "type": "tf",
+          "q": "They couldn't have known the result – it wasn't announced yet. → Correct or Wrong?",
+          "ans": "Correct",
+          "exp": "couldn't have + V3 = không thể biết ✔"
+        },
+        {
+          "type": "fill",
+          "q": "You ___ (not/wait) for me – I told you the meeting would run late.",
+          "ans": "needn't have waited",
+          "exp": "needn't have + V3 = không cần thiết nhưng đã làm"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (study) harder for the exam – she barely passed.",
+          "ans": "should have studied",
+          "exp": "should have + V3 = lẽ ra phải làm"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (work) all night – he looks completely exhausted this morning.",
+          "ans": "must have been working",
+          "exp": "must have been + V-ing = suy luận liên tục"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (book) the tickets earlier – now they're all sold out.",
+          "ans": "should have booked",
+          "exp": "should have + V3 = tiếc nuối"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (know) about the change – it was announced publicly last week.",
+          "ans": "must have known",
+          "exp": "must have + V3 = suy luận chắc chắn"
+        },
+        {
+          "type": "fill",
+          "q": "You ___ (bring) an umbrella – we can share mine just fine.",
+          "ans": "needn't have brought",
+          "exp": "needn't have + V3 = không cần nhưng đã làm"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (finish) the report by now – she started it three days ago.",
+          "ans": "should have finished",
+          "exp": "should have + V3 = kỳ vọng chưa xảy ra"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (take) my laptop – mine was still on the desk when I got back.",
+          "ans": "must have taken",
+          "exp": "must have + V3 = suy luận từ bằng chứng"
+        },
+        {
+          "type": "fill",
+          "q": "The team ___ (lose) – they had the strongest players on the field.",
+          "ans": "shouldn't have lost",
+          "exp": "shouldn't have + V3 = hối hận / không nên"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (be) at the conference yesterday – I didn't see her there at all.",
+          "ans": "couldn't have been",
+          "exp": "couldn't have + V3 = không thể xảy ra"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (call) ahead – the restaurant was fully booked when we arrived.",
+          "ans": "should have called",
+          "exp": "should have + V3 = lẽ ra phải làm"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (read) the contract more carefully before signing it.",
+          "ans": "should have read",
+          "exp": "should have + V3 = tiếc nuối / phê bình"
+        },
+        {
+          "type": "fill",
+          "q": "You ___ (worry) so much – the presentation went brilliantly in the end.",
+          "ans": "needn't have worried",
+          "exp": "needn't have + V3 = lo lắng không cần thiết"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (leave) already – her coat and bag are gone from the hallway.",
+          "ans": "must have left",
+          "exp": "must have + V3 = suy luận từ bằng chứng"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (stay) up so late last night – I can barely concentrate today.",
+          "ans": "shouldn't have stayed",
+          "exp": "shouldn't have + V3 = hối hận về hành động"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (complete) the bridge by now – construction started two years ago.",
+          "ans": "should have completed",
+          "exp": "should have + V3 = kỳ vọng chưa được đáp ứng"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (solve) the problem alone – it required specialist knowledge.",
+          "ans": "couldn't have solved",
+          "exp": "couldn't have + V3 = không thể làm được"
+        },
+        {
+          "type": "fill",
+          "q": "You ___ (print) all those copies – we only needed one set for the meeting.",
+          "ans": "needn't have printed",
+          "exp": "needn't have + V3 = lãng phí không cần thiết"
+        },
+        {
+          "type": "fill",
+          "q": "The director ___ (resign) without consulting the board first.",
+          "ans": "shouldn't have resigned",
+          "exp": "shouldn't have + V3 = hành động sai"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (practise) for months – her performance was absolutely flawless.",
+          "ans": "must have practised",
+          "exp": "must have + V3 = suy luận từ kết quả"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "you should have told me about the meeting earlier",
+            "extra": [
+              "told",
+              "should",
+              "earlier"
+            ]
+          },
+          {
+            "words": "she must have been working all night to finish the report",
+            "extra": [
+              "must",
+              "working",
+              "finish"
+            ]
+          },
+          {
+            "words": "I needn't have bought so many vegetables for the dinner",
+            "extra": [
+              "needn't",
+              "bought",
+              "vegetables"
+            ]
+          },
+          {
+            "words": "they couldn't have known about the change in plans",
+            "extra": [
+              "couldn't",
+              "known",
+              "change"
+            ]
+          },
+          {
+            "words": "he should have read the contract before signing it",
+            "extra": [
+              "should",
+              "read",
+              "signing"
+            ]
+          },
+          {
+            "words": "you needn't have worried so much about the presentation",
+            "extra": [
+              "needn't",
+              "worried",
+              "presentation"
+            ]
+          },
+          {
+            "words": "she must have left already because her coat is gone",
+            "extra": [
+              "must",
+              "left",
+              "coat"
+            ]
+          },
+          {
+            "words": "we should have booked the restaurant in advance",
+            "extra": [
+              "should",
+              "booked",
+              "advance"
+            ]
+          },
+          {
+            "words": "I shouldn't have stayed up so late last night",
+            "extra": [
+              "shouldn't",
+              "stayed",
+              "late"
+            ]
+          },
+          {
+            "words": "he must have studied abroad because his English is so fluent",
+            "extra": [
+              "must",
+              "studied",
+              "fluent"
+            ]
+          },
+          {
+            "words": "they should have arrived by now as the train left on time",
+            "extra": [
+              "should",
+              "arrived",
+              "train"
+            ]
+          },
+          {
+            "words": "she needn't have brought an umbrella because it didn't rain",
+            "extra": [
+              "needn't",
+              "brought",
+              "umbrella"
+            ]
+          },
+          {
+            "words": "you shouldn't have eaten so much at the dinner last night",
+            "extra": [
+              "shouldn't",
+              "eaten",
+              "dinner"
+            ]
+          },
+          {
+            "words": "he couldn't have finished the project alone in one day",
+            "extra": [
+              "couldn't",
+              "finished",
+              "project"
+            ]
+          },
+          {
+            "words": "she should have called us when she arrived safely",
+            "extra": [
+              "should",
+              "called",
+              "arrived"
+            ]
+          },
+          {
+            "words": "I must have left my keys at the office this morning",
+            "extra": [
+              "must",
+              "left",
+              "office"
+            ]
+          },
+          {
+            "words": "they needn't have printed all those copies for the meeting",
+            "extra": [
+              "needn't",
+              "printed",
+              "meeting"
+            ]
+          },
+          {
+            "words": "you could have warned me about the road conditions",
+            "extra": [
+              "could",
+              "warned",
+              "conditions"
+            ]
+          },
+          {
+            "words": "she must have been practising for months to play so well",
+            "extra": [
+              "must",
+              "practising",
+              "months"
+            ]
+          },
+          {
+            "words": "we shouldn't have ignored the early warning signs of the problem",
+            "extra": [
+              "shouldn't",
+              "ignored",
+              "warning"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "The investigation into the missing funds was not going well. The lead auditor {{1}} the accounts more carefully from the beginning — several irregularities {{2}} weeks earlier if proper checks {{3}}. By the time the board {{4}}, significant damage {{5}} done. Someone {{6}} about the discrepancies for some time before they {{7}} reported. A junior accountant later admitted she {{8}} something unusual months ago but {{9}} forward. She {{10}} spoken to her manager sooner, but she {{11}} the consequences. The external consultant who was brought in said the firm {{12}} lost so much money had proper controls {{13}} in place. He also noted that staff {{14}} trained to spot such warning signs — it was a basic requirement. The CEO admitted he {{15}} such a serious situation developing under his leadership.",
+            "blanks": {
+              "1": "should have examined",
+              "2": "could have been identified",
+              "3": "had been conducted",
+              "4": "discovered",
+              "5": "had been",
+              "6": "must have known",
+              "7": "were",
+              "8": "noticed",
+              "9": "hadn't come",
+              "10": "should have",
+              "11": "feared",
+              "12": "needn't have",
+              "13": "been",
+              "14": "should have been",
+              "15": "couldn't have anticipated"
+            },
+            "wordbank": [
+              "examine",
+              "identify",
+              "conduct",
+              "discover",
+              "know",
+              "notice",
+              "come",
+              "fear",
+              "anticipate",
+              "place",
+              "train",
+              "report",
+              "lose",
+              "control",
+              "check",
+              "find",
+              "miss",
+              "warn",
+              "allow",
+              "prevent"
+            ]
+          },
+          {
+            "text": "Hana arrived at the airport two hours late and found that her flight {{1}} without her. She {{2}} earlier, but she {{3}} the alarm properly the night before. She {{4}} booked a later departure as a backup — her colleague had suggested it, but she {{5}} the advice. The airline representative said there {{6}} no available seats until the following evening. Hana {{7}} so frustrated — she {{8}} all the warnings about traffic that morning. Her business partner called and said she {{9}} at least sent an email to the client. He was right: the meeting {{10}} cancelled entirely if Hana {{11}} them in time. She {{12}} the whole situation if she {{13}} more organised. Standing at the check-in desk, she couldn't help thinking she {{14}} the night at an airport hotel instead of trying to make that impossible morning journey. A fellow traveller sitting nearby said it {{15}} the most chaotic airport day he had ever witnessed.",
+            "blanks": {
+              "1": "had already departed",
+              "2": "should have left",
+              "3": "hadn't set",
+              "4": "could have",
+              "5": "hadn't taken",
+              "6": "were",
+              "7": "needn't have felt",
+              "8": "should have heeded",
+              "9": "should have",
+              "10": "could have been",
+              "11": "had notified",
+              "12": "could have avoided",
+              "13": "had been",
+              "14": "should have spent",
+              "15": "must have been"
+            },
+            "wordbank": [
+              "depart",
+              "leave",
+              "set",
+              "book",
+              "take",
+              "feel",
+              "heed",
+              "notify",
+              "avoid",
+              "spend",
+              "be",
+              "cancel",
+              "warn",
+              "suggest",
+              "miss",
+              "arrive",
+              "plan",
+              "organise",
+              "rush",
+              "delay"
+            ]
+          },
+          {
+            "text": "The young scientist presented her findings to a sceptical audience. Several senior researchers agreed that she {{1}} her data more thoroughly before publishing. One professor noted that the initial results {{2}} misread — the methodology {{3}} flawed from the start. She {{4}} consulted a statistician before the experiment began; that {{5}} her from making such basic errors. The lab technician who had assisted her said she {{6}} something was wrong but {{7}} anything. He {{8}} raised his concerns sooner — it {{9}} a great deal of embarrassment. The university panel concluded that the paper {{10}} withdrawn, as parts of the data {{11}} manipulated. The scientist, though shaken, admitted she {{12}} more careful. She {{13}} known that peer review exists precisely to catch such problems. What {{14}} been a promising career {{15}} severely damaged by the incident.",
+            "blanks": {
+              "1": "should have checked",
+              "2": "must have been",
+              "3": "was",
+              "4": "should have",
+              "5": "would have saved",
+              "6": "must have sensed",
+              "7": "hadn't said",
+              "8": "should have",
+              "9": "would have saved",
+              "10": "should be",
+              "11": "appeared to have been",
+              "12": "should have been",
+              "13": "should have",
+              "14": "could have",
+              "15": "had been"
+            },
+            "wordbank": [
+              "check",
+              "misread",
+              "flaw",
+              "consult",
+              "save",
+              "sense",
+              "raise",
+              "withdraw",
+              "manipulate",
+              "damage",
+              "know",
+              "present",
+              "review",
+              "publish",
+              "analyse",
+              "verify",
+              "conduct",
+              "report",
+              "correct",
+              "support"
+            ]
+          },
+          {
+            "text": "The expedition team made several critical errors during the mountain crossing. The lead guide admitted he {{1}} the weather forecast more seriously — conditions {{2}} so severely had they {{3}} proper shelter earlier. Two team members {{4}} without the right equipment; the coordinator {{5}} ensured everyone was properly equipped before departure. The supply team leader said the route {{6}} reconnoitred before the attempt. A rescue volunteer who later helped the group said they {{7}} a radio signal much sooner — the delay {{8}} cost them their lives. The youngest climber {{9}} turned back when conditions deteriorated, but she {{10}} the group instead. The report concluded that procedures {{11}} followed at every stage. Some mistakes {{12}} avoided with better planning. Others {{13}} been the result of overconfidence. The team {{14}} recognised the limits of their experience. Had they done so, the rescue {{15}} been necessary at all.",
+            "blanks": {
+              "1": "should have taken",
+              "2": "needn't have deteriorated",
+              "3": "found",
+              "4": "shouldn't have set out",
+              "5": "should have",
+              "6": "should have been",
+              "7": "must have sent",
+              "8": "could have",
+              "9": "should have",
+              "10": "chose to follow",
+              "11": "should have been",
+              "12": "could have been",
+              "13": "must have",
+              "14": "should have",
+              "15": "needn't have"
+            },
+            "wordbank": [
+              "take",
+              "deteriorate",
+              "find",
+              "set",
+              "ensure",
+              "reconnoitre",
+              "send",
+              "cost",
+              "turn",
+              "follow",
+              "avoid",
+              "result",
+              "recognise",
+              "plan",
+              "prepare",
+              "attempt",
+              "signal",
+              "recover",
+              "assess",
+              "judge"
+            ]
+          },
+          {
+            "text": "The restaurant review caused a storm of controversy. The critic {{1}} her comments before publishing — some of her claims {{2}} exaggerated. The owner said he {{3}} responded publicly, but his lawyers {{4}} him it would only make things worse. A loyal customer wrote online that the review {{5}} based on a single visit — the critic {{6}} returned several times to form a fair judgment. The restaurant's head chef {{7}} a Michelin star that year, but the damaging review {{8}} his chances. He said he {{9}} more professional and {{10}} to the criticism constructively. The review editor admitted the piece {{11}} fact-checked more rigorously before publication. She {{12}} insisting the review was fair — the restaurant had filed a formal complaint. Several other chefs commented that the situation {{13}} easily prevented had both sides {{14}} a direct conversation. The critic {{15}} known that her words would carry such serious consequences.",
+            "blanks": {
+              "1": "should have reconsidered",
+              "2": "must have been",
+              "3": "could have",
+              "4": "advised",
+              "5": "couldn't have",
+              "6": "should have",
+              "7": "could have won",
+              "8": "must have damaged",
+              "9": "should have been",
+              "10": "responded",
+              "11": "should have been",
+              "12": "needn't have kept",
+              "13": "could have been",
+              "14": "had",
+              "15": "should have"
+            },
+            "wordbank": [
+              "reconsider",
+              "exaggerate",
+              "respond",
+              "advise",
+              "base",
+              "return",
+              "win",
+              "damage",
+              "check",
+              "prevent",
+              "know",
+              "publish",
+              "criticise",
+              "file",
+              "carry",
+              "consider",
+              "judge",
+              "handle",
+              "write",
+              "consult"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Viết về một quyết định sai lầm mà bạn hoặc người khác đã đưa ra, dùng should have / shouldn't have.",
+          "grammar_focus": "should have / shouldn't have + V3",
+          "hint_words": [
+            "should have checked",
+            "shouldn't have ignored",
+            "should have asked",
+            "should have prepared",
+            "shouldn't have rushed"
+          ],
+          "min_words": 50,
+          "example": "Looking back, I should have checked the contract more carefully before signing. I shouldn't have rushed into the decision without seeking expert advice. My colleague should have informed the team about the delay — we could have rearranged our schedules accordingly."
+        },
+        {
+          "vi": "Suy luận về một tình huống bí ẩn hoặc khó hiểu, dùng must have / can't have / couldn't have.",
+          "grammar_focus": "must have / can't have / couldn't have + V3",
+          "hint_words": [
+            "must have left",
+            "can't have known",
+            "must have been working",
+            "couldn't have done",
+            "must have seen"
+          ],
+          "min_words": 50,
+          "example": "Someone must have entered the office overnight — several files were moved. The suspect couldn't have committed the crime; he was in another country at the time. She must have been planning this for months, given how meticulously everything was arranged."
+        },
+        {
+          "vi": "Viết về những việc bạn làm nhưng thực ra không cần thiết (needn't have).",
+          "grammar_focus": "needn't have + V3",
+          "hint_words": [
+            "needn't have worried",
+            "needn't have brought",
+            "needn't have prepared",
+            "needn't have called",
+            "needn't have stayed"
+          ],
+          "min_words": 50,
+          "example": "I needn't have prepared so many slides — the presentation was cancelled at the last minute. She needn't have bought extra chairs; fewer guests arrived than expected. We needn't have worried about the weather; it turned out to be a perfect day."
+        },
+        {
+          "vi": "Viết về khả năng hoặc cơ hội đã bị bỏ lỡ trong quá khứ (could have).",
+          "grammar_focus": "could have + V3",
+          "hint_words": [
+            "could have studied",
+            "could have applied",
+            "could have spoken",
+            "could have achieved",
+            "could have avoided"
+          ],
+          "min_words": 50,
+          "example": "With better preparation, she could have won the scholarship. He could have avoided the argument if he had listened more carefully to begin with. We could have achieved so much more had we been given the resources we requested."
+        },
+        {
+          "vi": "Kết hợp nhiều modal perfect để phân tích một tình huống phức tạp.",
+          "grammar_focus": "Mixed modal perfects: should / must / could / needn't have",
+          "hint_words": [
+            "must have forgotten",
+            "should have warned",
+            "could have prevented",
+            "needn't have panicked",
+            "shouldn't have assumed"
+          ],
+          "min_words": 60,
+          "example": "The project manager must have forgotten to notify the client — there is no record of any communication. She shouldn't have assumed everyone had read the brief. With better communication, we could have prevented most of these misunderstandings. The team needn't have panicked; the deadline had already been extended."
+        }
+      ]
+    },
+    {
+      "icon": "🔗",
+      "title": "Advanced Linking Words & Cohesion",
+      "level": "advanced",
+      "badge": "🎓 C1",
+      "badgeClass": "badge-purple",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Contrast – Tương phản (Nâng cao)</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Từ/Cụm từ</th><th style=\"padding:4px 8px;text-align:left\">Cấu trúc</th><th style=\"padding:4px 8px;text-align:left\">Sắc thái & Ví dụ</th></tr><tr><td style=\"padding:4px 8px;text-align:left\">Despite / In spite of</td><td style=\"padding:4px 8px;text-align:left\">+ noun/-ing clause</td><td style=\"padding:4px 8px;text-align:left\">Despite being tired, she worked on.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">Although / Even though / Though</td><td style=\"padding:4px 8px;text-align:left\">+ full clause</td><td style=\"padding:4px 8px;text-align:left\">Although it was expensive, I bought it.</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">While / Whereas</td><td style=\"padding:4px 8px;text-align:left\">+ full clause</td><td style=\"padding:4px 8px;text-align:left\">While she is optimistic, he is pessimistic.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">However</td><td style=\"padding:4px 8px;text-align:left\">Đầu câu/giữa câu + dấu phẩy</td><td style=\"padding:4px 8px;text-align:left\">It was risky. However, it worked.</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">Nevertheless / Nonetheless</td><td style=\"padding:4px 8px;text-align:left\">Đầu câu</td><td style=\"padding:4px 8px;text-align:left\">He failed. Nevertheless, he tried again.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">Even so</td><td style=\"padding:4px 8px;text-align:left\">Đầu câu</td><td style=\"padding:4px 8px;text-align:left\">It was risky. Even so, she agreed.</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">Admittedly</td><td style=\"padding:4px 8px;text-align:left\">Đầu câu (nhượng bộ trước)</td><td style=\"padding:4px 8px;text-align:left\">Admittedly, the plan has flaws, but it's the best we have.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">For all (that)</td><td style=\"padding:4px 8px;text-align:left\">+ clause</td><td style=\"padding:4px 8px;text-align:left\">For all his talent, he never succeeded.</td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Cause & Result – Nguyên nhân và Kết quả</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Từ</th><th style=\"padding:4px 8px;text-align:left\">Loại</th><th style=\"padding:4px 8px;text-align:left\">Ví dụ</th></tr><tr><td style=\"padding:4px 8px;text-align:left\">because / as / since</td><td style=\"padding:4px 8px;text-align:left\">Subordinate clause</td><td style=\"padding:4px 8px;text-align:left\">She left because she was bored.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">due to / owing to / because of</td><td style=\"padding:4px 8px;text-align:left\">+ noun/-ing</td><td style=\"padding:4px 8px;text-align:left\">Due to heavy rain, the event was cancelled.</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">therefore / consequently / hence / thus</td><td style=\"padding:4px 8px;text-align:left\">Adverb (đầu câu/giữa câu)</td><td style=\"padding:4px 8px;text-align:left\">He trained hard; consequently, he won.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">as a result (of)</td><td style=\"padding:4px 8px;text-align:left\">Phrase</td><td style=\"padding:4px 8px;text-align:left\">As a result of the storm, many trees fell.</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">so … that / such … that</td><td style=\"padding:4px 8px;text-align:left\">Degree</td><td style=\"padding:4px 8px;text-align:left\">It was so cold that we stayed in.</td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Purpose – Mục đích</div>• <b>in order to / so as to</b> + V: <i>She left early <b>so as not to</b> be late.</i><br>• <b>so that / in order that</b> + S + can/could: <i>I saved money <b>so that</b> I could study abroad.</i><br>• <b>for fear that / in case</b>: <i>She brought an umbrella <b>in case</b> it rained.</i><br>• <b>lest</b> (rất trang trọng) + should: <i>He spoke quietly <b>lest</b> he <b>should</b> wake the baby.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Addition – Thêm thông tin</div>• <b>Furthermore / Moreover / In addition / What is more</b>: thêm điểm quan trọng<br>• <b>Not only … but also</b>: <i>She is not only talented but also hardworking.</i><br>• <b>Besides / On top of that</b>: <i>Besides, the weather was perfect.</i></div><div class=\"ex-sent\"><b>Despite</b> working long hours, she never complained.<span>Despite + V-ing (KHÔNG dùng 'despite of')</span></div><div class=\"ex-sent\">She left early <b>so as not to</b> miss the train.<span>So as not to = mục đích phủ định</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "___ his wealth, he lived a remarkably simple and modest life.",
+          "opts": "Despite,Although,However,Even though",
+          "ans": "A",
+          "exp": "Despite + noun phrase (không có clause)"
+        },
+        {
+          "type": "mc",
+          "q": "The project was completed on time. ___, the quality of the work left much to be desired.",
+          "opts": "Nevertheless,Despite,Although,Even so",
+          "ans": "A",
+          "exp": "Nevertheless = tuy nhiên (nối 2 mệnh đề độc lập)"
+        },
+        {
+          "type": "mc",
+          "q": "___ the fact that she had little experience, she performed exceptionally well.",
+          "opts": "In spite of,Despite,Although,Whereas",
+          "ans": "A",
+          "exp": "In spite of + the fact that + clause"
+        },
+        {
+          "type": "mc",
+          "q": "The economy improved significantly. ___, unemployment figures continued to rise.",
+          "opts": "Even so,Despite,Although,Whereas",
+          "ans": "A",
+          "exp": "Even so = dù vậy (nối câu)"
+        },
+        {
+          "type": "mc",
+          "q": "___ environmentally friendly, electric cars still produce pollution during manufacture.",
+          "opts": "While being,While,Although being,Despite being",
+          "ans": "A",
+          "exp": "While being = mặc dù là (participle clause)"
+        },
+        {
+          "type": "mc",
+          "q": "The new law was introduced ___ strong opposition from industry leaders nationwide.",
+          "opts": "despite,although,whereas,even though",
+          "ans": "A",
+          "exp": "despite + noun/gerund"
+        },
+        {
+          "type": "mc",
+          "q": "He is an excellent researcher. ___, he struggles to communicate his findings clearly.",
+          "opts": "That said,Despite this,Although,Whereas",
+          "ans": "A",
+          "exp": "That said = nói vậy thôi / song le (concession)"
+        },
+        {
+          "type": "mc",
+          "q": "___ the results were promising, the team decided to conduct further tests.",
+          "opts": "Although,Despite,In spite of,Nevertheless",
+          "ans": "A",
+          "exp": "Although + clause"
+        },
+        {
+          "type": "mc",
+          "q": "The new policy aims to reduce emissions ___ maintaining economic growth at the same time.",
+          "opts": "while,despite,although,whereas",
+          "ans": "A",
+          "exp": "while + V-ing = trong khi vẫn"
+        },
+        {
+          "type": "mc",
+          "q": "___ living in the same city for years, the two colleagues had never actually met.",
+          "opts": "Despite,Although,However,Even so",
+          "ans": "A",
+          "exp": "Despite + V-ing"
+        },
+        {
+          "type": "mc",
+          "q": "Sales increased in the first quarter. ___, profits remained well below expectations.",
+          "opts": "Nonetheless,Despite,While,Although",
+          "ans": "A",
+          "exp": "Nonetheless = tuy nhiên (formal)"
+        },
+        {
+          "type": "mc",
+          "q": "___ the treatment has shown promising results, doctors urge caution before recommending it widely.",
+          "opts": "Whereas,Whilst,While,Despite",
+          "ans": "A",
+          "exp": "Whereas/While/Whilst = trong khi (contrast clause)"
+        },
+        {
+          "type": "mc",
+          "q": "The building was completed ahead of schedule, ___ the severe weather conditions that winter.",
+          "opts": "despite,although,whereas,however",
+          "ans": "A",
+          "exp": "despite + noun phrase"
+        },
+        {
+          "type": "mc",
+          "q": "She decided to accept the position. ___, she had serious reservations about the working conditions.",
+          "opts": "That said,Even so,Despite,Nonetheless",
+          "ans": "A",
+          "exp": "That said = tuy nhiên (nối mệnh đề, tỏ sự do dự)"
+        },
+        {
+          "type": "mc",
+          "q": "___ he claimed to support the proposal, his actions suggested otherwise entirely.",
+          "opts": "While,Despite,In spite of,Even so",
+          "ans": "A",
+          "exp": "While + clause = trong khi / mặc dù"
+        },
+        {
+          "type": "mc",
+          "q": "The medicine is highly effective ___ causing significant side effects in some patients.",
+          "opts": "despite,although,whereas,even so",
+          "ans": "A",
+          "exp": "despite + V-ing"
+        },
+        {
+          "type": "tf",
+          "q": "Despite she worked hard, she didn't pass the exam. → Correct or Wrong?",
+          "ans": "Wrong – correct: <b>Despite working hard</b> / <b>Although she worked hard</b>",
+          "exp": "Despite + noun/gerund; Despite không đi với clause có subject + verb"
+        },
+        {
+          "type": "tf",
+          "q": "The report was well-written. Nevertheless, it contained several factual errors. → Correct or Wrong?",
+          "ans": "Correct",
+          "exp": "Nevertheless nối 2 câu độc lập, dùng đúng ✔"
+        },
+        {
+          "type": "tf",
+          "q": "While being an experienced teacher, she still found the class challenging. → Correct or Wrong?",
+          "ans": "Correct",
+          "exp": "While being + adj = participle clause expressing concession ✔"
+        },
+        {
+          "type": "tf",
+          "q": "In spite of the bad weather, the event went ahead as planned. → Correct or Wrong?",
+          "ans": "Correct",
+          "exp": "In spite of + noun phrase ✔"
+        },
+        {
+          "type": "fill",
+          "q": "___ being well-qualified, she was not shortlisted for the position.",
+          "ans": "Despite",
+          "exp": "Despite + V-ing"
+        },
+        {
+          "type": "fill",
+          "q": "The data was collected carefully. ___, some errors appeared in the final report.",
+          "ans": "Nevertheless / Nonetheless",
+          "exp": "Nevertheless/Nonetheless = tuy nhiên (nối 2 câu)"
+        },
+        {
+          "type": "fill",
+          "q": "___ the traffic was heavy, she arrived at the meeting with time to spare.",
+          "ans": "Although / Even though",
+          "exp": "Although/Even though + clause"
+        },
+        {
+          "type": "fill",
+          "q": "He appeared confident. ___, he admitted he was deeply nervous inside.",
+          "ans": "That said",
+          "exp": "That said = nói như vậy thôi / song le"
+        },
+        {
+          "type": "fill",
+          "q": "The company expanded rapidly ___ facing severe financial difficulties.",
+          "ans": "despite",
+          "exp": "despite + V-ing"
+        },
+        {
+          "type": "fill",
+          "q": "___ the new system was more efficient, it proved unpopular with staff.",
+          "ans": "While / Whereas / Although",
+          "exp": "While/Whereas/Although + clause (contrast)"
+        },
+        {
+          "type": "fill",
+          "q": "She completed the marathon ___ having trained for less than two months.",
+          "ans": "despite",
+          "exp": "despite + V-ing"
+        },
+        {
+          "type": "fill",
+          "q": "The film received mixed reviews. ___, it became one of the year's biggest box office hits.",
+          "ans": "Even so / Nevertheless",
+          "exp": "Even so/Nevertheless = dù vậy"
+        },
+        {
+          "type": "fill",
+          "q": "___ his poor health, he continued to work with remarkable dedication.",
+          "ans": "Despite / In spite of",
+          "exp": "Despite/In spite of + noun phrase"
+        },
+        {
+          "type": "fill",
+          "q": "___ the team worked efficiently, the project still ran over budget.",
+          "ans": "Although / Even though",
+          "exp": "Although + clause = mặc dù"
+        },
+        {
+          "type": "fill",
+          "q": "The surgery was successful. ___, the patient required several months of rehabilitation.",
+          "ans": "That said / Nonetheless",
+          "exp": "That said/Nonetheless = tuy nhiên, nối câu"
+        },
+        {
+          "type": "fill",
+          "q": "___ claiming to support equality, the organisation's policies told a very different story.",
+          "ans": "Despite / In spite of",
+          "exp": "Despite + V-ing / In spite of + V-ing"
+        },
+        {
+          "type": "fill",
+          "q": "Profits fell sharply last quarter. ___, the board decided not to reduce the workforce.",
+          "ans": "Nevertheless / Even so",
+          "exp": "Nevertheless/Even so = dù vậy (nối câu độc lập)"
+        },
+        {
+          "type": "fill",
+          "q": "___ its high cost, the new software has been widely adopted across the industry.",
+          "ans": "Despite / In spite of",
+          "exp": "Despite + noun phrase"
+        },
+        {
+          "type": "fill",
+          "q": "The manager praised the team's effort. ___, she pointed out several areas for improvement.",
+          "ans": "That said / However",
+          "exp": "That said/However = nối câu, nhượng bộ"
+        },
+        {
+          "type": "fill",
+          "q": "___ he knew the risks involved, he decided to proceed with the investment.",
+          "ans": "Although / Even though / While",
+          "exp": "Although/Even though + clause"
+        },
+        {
+          "type": "fill",
+          "q": "The negotiations were tense. ___, both sides managed to reach a compromise.",
+          "ans": "Nevertheless / Nonetheless",
+          "exp": "Nevertheless/Nonetheless = tuy nhiên"
+        },
+        {
+          "type": "fill",
+          "q": "___ having little formal training, she became one of the most respected figures in the field.",
+          "ans": "Despite / In spite of",
+          "exp": "Despite + V-ing"
+        },
+        {
+          "type": "fill",
+          "q": "The product has a long list of features. ___, it remains surprisingly easy to use.",
+          "ans": "That said / Even so / Nevertheless",
+          "exp": "Nối câu, nhượng bộ"
+        },
+        {
+          "type": "fill",
+          "q": "___ the initial results were disappointing, the researchers continued with the study.",
+          "ans": "Although / Even though",
+          "exp": "Although + clause"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "despite his lack of experience he handled the situation brilliantly",
+            "extra": [
+              "despite",
+              "experience",
+              "situation"
+            ]
+          },
+          {
+            "words": "the project was delayed nevertheless the team delivered excellent results",
+            "extra": [
+              "delayed",
+              "nevertheless",
+              "excellent"
+            ]
+          },
+          {
+            "words": "although the report was long it was easy to follow",
+            "extra": [
+              "although",
+              "long",
+              "follow"
+            ]
+          },
+          {
+            "words": "she passed the exam despite having studied for only two days",
+            "extra": [
+              "despite",
+              "studied",
+              "passed"
+            ]
+          },
+          {
+            "words": "the economy grew strongly that said inequality remained a serious concern",
+            "extra": [
+              "strongly",
+              "said",
+              "concern"
+            ]
+          },
+          {
+            "words": "while the product is expensive it offers outstanding value for money",
+            "extra": [
+              "while",
+              "expensive",
+              "outstanding"
+            ]
+          },
+          {
+            "words": "in spite of the criticism the artist continued to develop her unique style",
+            "extra": [
+              "spite",
+              "criticism",
+              "unique"
+            ]
+          },
+          {
+            "words": "the film received poor reviews even so it attracted large audiences",
+            "extra": [
+              "reviews",
+              "even",
+              "audiences"
+            ]
+          },
+          {
+            "words": "despite being tired she completed the assignment before the deadline",
+            "extra": [
+              "despite",
+              "tired",
+              "deadline"
+            ]
+          },
+          {
+            "words": "he claimed to be honest whereas his actions suggested otherwise entirely",
+            "extra": [
+              "claimed",
+              "whereas",
+              "otherwise"
+            ]
+          },
+          {
+            "words": "the treatment was effective nonetheless it caused serious side effects in some patients",
+            "extra": [
+              "effective",
+              "nonetheless",
+              "serious"
+            ]
+          },
+          {
+            "words": "although she had reservations she accepted the offer without further hesitation",
+            "extra": [
+              "although",
+              "reservations",
+              "hesitation"
+            ]
+          },
+          {
+            "words": "the building was completed on schedule despite the severe winter conditions",
+            "extra": [
+              "completed",
+              "despite",
+              "conditions"
+            ]
+          },
+          {
+            "words": "sales rose sharply in the first quarter that said profits remained below target",
+            "extra": [
+              "sharply",
+              "said",
+              "target"
+            ]
+          },
+          {
+            "words": "while being well qualified she still found the interview process very challenging",
+            "extra": [
+              "while",
+              "qualified",
+              "challenging"
+            ]
+          },
+          {
+            "words": "in spite of strong opposition the new law was passed by a large majority",
+            "extra": [
+              "spite",
+              "opposition",
+              "majority"
+            ]
+          },
+          {
+            "words": "the conference was well organised even so some sessions ran significantly over time",
+            "extra": [
+              "organised",
+              "even",
+              "significantly"
+            ]
+          },
+          {
+            "words": "despite claiming to support the policy he voted against it in the end",
+            "extra": [
+              "despite",
+              "claiming",
+              "voted"
+            ]
+          },
+          {
+            "words": "the plan was ambitious nevertheless the team believed it was entirely achievable",
+            "extra": [
+              "ambitious",
+              "nevertheless",
+              "achievable"
+            ]
+          },
+          {
+            "words": "although the weather was dreadful the outdoor event was a great success",
+            "extra": [
+              "although",
+              "dreadful",
+              "success"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Climate change is one of the most pressing issues of our time. {{1}} the scientific consensus is overwhelming, public understanding of the issue remains inconsistent. Many governments have pledged to cut emissions. {{2}}, progress has been far slower than experts recommend. Renewable energy is expanding rapidly {{3}} its high initial costs. {{4}} improving energy efficiency, many industries still rely heavily on fossil fuels. {{5}} strong international agreements have been signed, enforcement mechanisms remain weak. Developing nations argue that they {{6}} clean energy transitions {{7}} receiving adequate financial support from wealthier countries. {{8}}, significant investment in green infrastructure has been made in recent years. {{9}} these positive steps, global temperatures continue to rise. It is clear that technical solutions exist. {{10}}, the political will to implement them consistently remains in short supply.",
+            "blanks": {
+              "1": "Although / While",
+              "2": "Nevertheless / Nonetheless",
+              "3": "despite",
+              "4": "Despite",
+              "5": "Although / Even though",
+              "6": "cannot achieve",
+              "7": "without",
+              "8": "That said",
+              "9": "Despite",
+              "10": "That said / Nevertheless"
+            },
+            "wordbank": [
+              "although",
+              "despite",
+              "nevertheless",
+              "whereas",
+              "even",
+              "that",
+              "in",
+              "spite",
+              "while",
+              "nonetheless",
+              "however",
+              "yet",
+              "still",
+              "though",
+              "without"
+            ]
+          },
+          {
+            "text": "Urban planning presents a complex set of challenges. {{1}} most cities aim to become more sustainable, car dependency remains deeply embedded in many communities. Public transport networks have improved significantly in recent decades. {{2}}, millions of commuters still prefer to drive. {{3}} being aware of the environmental consequences, many people feel they have little practical choice. Cycling infrastructure has expanded in some areas {{4}} resistance from existing road users. {{5}} these efforts, air quality in many urban centres remains dangerously poor. {{6}} renewable-powered buses are now common in some cities, rural areas continue to lag far behind. Planners argue that behaviour change requires more than good intentions. {{7}}, without structural investment, individual choices can only go so far. New residential developments are being built in walkable areas. {{8}}, the demand for city-centre parking continues to grow. {{9}} significant funding has been allocated to green transport initiatives, outcomes have been mixed across different regions. Experts agree that no single solution will be sufficient. {{10}}, a combination of policy, infrastructure, and culture change will be essential.",
+            "blanks": {
+              "1": "Although / While",
+              "2": "Nevertheless / Even so",
+              "3": "Despite",
+              "4": "despite",
+              "5": "Despite",
+              "6": "Whereas / While",
+              "7": "That said",
+              "8": "Even so / That said",
+              "9": "Although / Even though",
+              "10": "Instead"
+            },
+            "wordbank": [
+              "although",
+              "despite",
+              "nevertheless",
+              "whereas",
+              "even",
+              "that",
+              "in",
+              "spite",
+              "while",
+              "nonetheless",
+              "however",
+              "instead",
+              "yet",
+              "still",
+              "though"
+            ]
+          },
+          {
+            "text": "The relationship between technology and mental health is a growing area of research. {{1}} digital devices have brought enormous convenience, there is increasing evidence that excessive screen time negatively affects wellbeing. Social media platforms have connected millions of people worldwide. {{2}}, studies consistently link heavy social media use to higher levels of anxiety and depression. {{3}} offering constant communication, these platforms can also increase feelings of isolation. Many young people report feeling overwhelmed by notifications. {{4}}, they struggle to reduce their usage independently. {{5}} growing public awareness, smartphone addiction rates continue to rise. Technology companies argue their platforms are designed to connect people. {{6}}, critics point out that engagement metrics prioritise profit over user wellbeing. Digital literacy programmes have been introduced in some schools {{7}} limited resources. {{8}} the evidence is compelling, policymakers have been slow to act. Mental health professionals call for urgent regulation. {{9}}, the debate over what form this should take continues. Researchers emphasise that technology itself is not the enemy. {{10}}, it is how platforms are designed and used that determines their impact.",
+            "blanks": {
+              "1": "Although / While",
+              "2": "Nevertheless / That said",
+              "3": "Despite",
+              "4": "Even so / That said",
+              "5": "Despite",
+              "6": "That said / Nevertheless",
+              "7": "despite",
+              "8": "Although / Even though",
+              "9": "Nevertheless / That said",
+              "10": "Rather"
+            },
+            "wordbank": [
+              "although",
+              "despite",
+              "nevertheless",
+              "whereas",
+              "even",
+              "that",
+              "in",
+              "spite",
+              "while",
+              "nonetheless",
+              "however",
+              "rather",
+              "yet",
+              "still",
+              "though"
+            ]
+          },
+          {
+            "text": "Higher education is undergoing significant transformation. {{1}} university degrees remain highly valued by employers, the cost of obtaining one has risen dramatically. Many students graduate with substantial debt. {{2}}, starting salaries in many fields have not kept pace with tuition fees. Online learning platforms have expanded access to education {{3}} scepticism from traditional institutions. {{4}} offering flexible study options, these courses are not yet widely recognised by employers. Some graduates report feeling underprepared for the workplace {{5}} their formal qualifications. {{6}} technical skills are increasingly in demand, universities are still largely focused on theoretical knowledge. Apprenticeships and vocational training have grown in popularity. {{7}}, the social prestige associated with a traditional degree persists. Employers say they value critical thinking and communication. {{8}}, recruitment processes continue to favour candidates from prestigious universities. {{9}} the landscape is changing, access to higher education remains deeply unequal. Student support systems have improved in some institutions. {{10}}, mental health among university students has reached crisis point in many countries.",
+            "blanks": {
+              "1": "Although / While",
+              "2": "Nevertheless / Even so",
+              "3": "despite",
+              "4": "Despite",
+              "5": "despite",
+              "6": "Whereas / While",
+              "7": "That said / Nevertheless",
+              "8": "Even so / That said",
+              "9": "Although / While",
+              "10": "Nevertheless / That said"
+            },
+            "wordbank": [
+              "although",
+              "despite",
+              "nevertheless",
+              "whereas",
+              "even",
+              "that",
+              "in",
+              "spite",
+              "while",
+              "nonetheless",
+              "however",
+              "yet",
+              "still",
+              "though",
+              "despite"
+            ]
+          },
+          {
+            "text": "Global food systems face mounting pressure from population growth and climate change. {{1}} food production has increased dramatically over the past century, distribution remains deeply unequal. Millions suffer from malnutrition {{2}} abundant food existing elsewhere. {{3}} advances in agricultural technology, soil degradation continues to threaten long-term yields. Supermarkets waste vast quantities of food each year. {{4}}, consumers are rarely aware of the scale of the problem. {{5}} public campaigns promoting reduced food waste have had some success, overall waste levels remain alarming. Plant-based diets are gaining popularity {{6}} their perceived limitations in taste and convenience. {{7}} many nutritionists support a shift away from meat consumption, the food industry continues to invest heavily in traditional animal farming. Governments have introduced subsidies for sustainable farming. {{8}}, these incentives are often too small to drive meaningful systemic change. Food poverty affects communities in both wealthy and developing nations. {{9}} high-income countries invest in food innovation, basic nutrition remains out of reach for millions. Experts warn that without urgent action, {{10}} improved technology, food insecurity will only worsen in coming decades.",
+            "blanks": {
+              "1": "Although / While",
+              "2": "despite",
+              "3": "Despite",
+              "4": "Even so / That said",
+              "5": "Although / Even though",
+              "6": "despite",
+              "7": "While / Whereas",
+              "8": "That said / Nevertheless",
+              "9": "While / Whereas",
+              "10": "despite"
+            },
+            "wordbank": [
+              "although",
+              "despite",
+              "nevertheless",
+              "whereas",
+              "even",
+              "that",
+              "in",
+              "spite",
+              "while",
+              "nonetheless",
+              "however",
+              "yet",
+              "still",
+              "though",
+              "despite"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Viết một đoạn luận về một vấn đề xã hội, sử dụng Despite / Although / Nevertheless / That said để thể hiện sự nhượng bộ.",
+          "grammar_focus": "Concession: Despite / Although / Nevertheless / That said",
+          "hint_words": [
+            "Despite the fact that",
+            "Although progress has been made",
+            "Nevertheless, challenges remain",
+            "That said",
+            "Even so"
+          ],
+          "min_words": 60,
+          "example": "Although significant investment has been made in public health infrastructure, access to quality healthcare remains unequal. Despite rising awareness of mental health issues, stigma persists in many communities. Nevertheless, progress is being made. That said, the pace of change is far too slow given the scale of the problem."
+        },
+        {
+          "vi": "So sánh hai quan điểm trái chiều về một chủ đề (ví dụ: công nghệ, giáo dục, môi trường), dùng Whereas / While / Even so.",
+          "grammar_focus": "Contrast: Whereas / While / Even so / Nonetheless",
+          "hint_words": [
+            "Whereas some argue",
+            "While critics claim",
+            "Even so, evidence suggests",
+            "Nonetheless",
+            "On the one hand"
+          ],
+          "min_words": 60,
+          "example": "Whereas some argue that social media brings communities together, critics point to its role in spreading misinformation. While platforms have introduced fact-checking tools, the volume of harmful content remains enormous. Even so, outright bans are rarely an effective solution. Nonetheless, stronger regulation is clearly needed."
+        },
+        {
+          "vi": "Viết về một vấn đề môi trường, kết hợp ít nhất 4 linking words/phrases khác nhau để nối ý.",
+          "grammar_focus": "Cohesive linking: Despite / Although / That said / Nevertheless / In spite of",
+          "hint_words": [
+            "Despite growing awareness",
+            "Although targets have been set",
+            "In spite of international agreements",
+            "That said",
+            "Nevertheless, action is required"
+          ],
+          "min_words": 60,
+          "example": "Despite growing public awareness of climate change, carbon emissions continue to rise. Although many countries have set ambitious targets, enforcement remains inconsistent. In spite of international agreements, fossil fuel subsidies persist in many economies. That said, renewable energy adoption is accelerating. Nevertheless, the window for meaningful action is narrowing rapidly."
+        },
+        {
+          "vi": "Mô tả một tình huống cá nhân hoặc nghề nghiệp, dùng Despite / Even though / That said để thể hiện sự phức tạp.",
+          "grammar_focus": "Concession in personal/professional context",
+          "hint_words": [
+            "Despite my reservations",
+            "Although the role was demanding",
+            "Even so, I found it rewarding",
+            "That said, the experience taught me",
+            "Despite the long hours"
+          ],
+          "min_words": 50,
+          "example": "Despite my initial reservations about the role, I found it genuinely rewarding. Although the hours were long and the expectations were high, I developed skills I could not have gained elsewhere. That said, the lack of work-life balance eventually became unsustainable."
+        },
+        {
+          "vi": "Viết một đoạn văn học thuật ngắn về giáo dục hoặc công nghệ, sử dụng ít nhất 5 linking words để duy trì sự mạch lạc.",
+          "grammar_focus": "Academic cohesion with advanced linking devices",
+          "hint_words": [
+            "While technology offers",
+            "Despite its limitations",
+            "Nevertheless, educators must",
+            "That said, students also",
+            "In spite of the challenges"
+          ],
+          "min_words": 70,
+          "example": "While technology offers unprecedented access to information, it also presents new challenges for educators. Despite its potential, digital learning can deepen inequality when access is unequal. Nevertheless, educators must adapt to a changing landscape. That said, students also bear responsibility for developing their own critical thinking skills. In spite of the challenges, a thoughtful integration of technology can genuinely enrich the learning experience."
+        }
+      ]
+    },
+    {
+      "icon": "🔄",
+      "title": "Participle Clauses",
+      "level": "advanced",
+      "badge": "🎓 C1",
+      "badgeClass": "badge-purple",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Participle Clauses là gì?</div>Là mệnh đề rút gọn dùng V-ing (hiện tại phân từ) hoặc V3/V-ed (quá khứ phân từ) thay cho mệnh đề đầy đủ. Dùng nhiều trong văn viết trang trọng.<br>• Rút ngắn câu: <i>Because she was tired, she went to bed. → <b>Being tired</b>, she went to bed.</i><br>• Hai hành động cùng lúc: <i>She sat by the window, <b>reading</b> a book.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Loại 1: Present Participle (-ing) – Chủ động</div><b>Cùng lúc:</b> <i><b>Walking</b> home, I met an old friend.</i><br><b>Nguyên nhân:</b> <i><b>Feeling</b> unwell, she left early.</i><br><b>Sau khi:</b> <i><b>Having finished</b> her work, she relaxed.</i> (having + V3 = hoàn thành trước)</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Loại 2: Past Participle (V3/V-ed) – Bị động</div><i><b>Shocked</b> by the news, he sat down. (= Because he was shocked…)</i><br><i><b>Built</b> in 1890, the bridge is still strong. (= Although it was built…)</i><br><i>The letter, <b>written</b> in French, was hard to read. (rút ngọn relative clause)</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Lỗi thường gặp – Dangling Participle</div>Chủ ngữ của participle phải trùng với chủ ngữ của mệnh đề chính:<br>❌ <s>Walking down the street, the rain started.</s> (mưa không đi bộ)<br>✅ <b>Walking</b> down the street, <b>I</b> got caught in the rain.<br>❌ <s>Having eaten dinner, the dishes were washed.</s><br>✅ <b>Having eaten</b> dinner, <b>she</b> washed the dishes.</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Participle thay Relative Clause</div><i>The man <b>who is sitting</b> over there is my boss. → The man <b>sitting</b> over there…</i><br><i>The letter <b>that was sent</b> yesterday arrived today. → The letter <b>sent</b> yesterday…</i></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "___ home from work, she noticed something unusual near the gate.",
+          "opts": "Walking,Walk,Walked,Having walk",
+          "ans": "A",
+          "exp": "Cùng lúc, chủ động → V-ing (present participle)"
+        },
+        {
+          "type": "mc",
+          "q": "___ in 1897, the building is now considered a national heritage site.",
+          "opts": "Built,Building,Having built,Being built",
+          "ans": "A",
+          "exp": "Bị động, thụ động → Past Participle (Built)"
+        },
+        {
+          "type": "mc",
+          "q": "___ the report, she realised several critical errors had been made.",
+          "opts": "Having read,Reading,Read,Being read",
+          "ans": "A",
+          "exp": "Hoàn thành trước → Having + V3"
+        },
+        {
+          "type": "mc",
+          "q": "The scientist, ___ by her findings, continued to research the phenomenon.",
+          "opts": "intrigued,intriguing,having intrigued,being intriguing",
+          "ans": "A",
+          "exp": "Bị động non-defining participle clause → Past Participle"
+        },
+        {
+          "type": "mc",
+          "q": "___ with the new data, the team revised their initial conclusions significantly.",
+          "opts": "Presented,Presenting,Having presented,Present",
+          "ans": "A",
+          "exp": "Bị động → Past Participle (Presented with)"
+        },
+        {
+          "type": "mc",
+          "q": "The manager, ___ the risks involved, decided to proceed with the project anyway.",
+          "opts": "knowing,known,having known,being known",
+          "ans": "A",
+          "exp": "Chủ động, song song → V-ing"
+        },
+        {
+          "type": "mc",
+          "q": "___ a scholarship to study abroad, she began preparing for her departure immediately.",
+          "opts": "Having received,Receiving,Received,Being received",
+          "ans": "A",
+          "exp": "Hoàn thành trước → Having + V3"
+        },
+        {
+          "type": "mc",
+          "q": "___ in three languages, the document was distributed to all international offices.",
+          "opts": "Written,Writing,Having written,Being written",
+          "ans": "A",
+          "exp": "Bị động → Past Participle"
+        },
+        {
+          "type": "mc",
+          "q": "___ late for the meeting, she sent a quick message apologising to the team.",
+          "opts": "Running,Run,Having run,Being run",
+          "ans": "A",
+          "exp": "Lý do, chủ động, cùng lúc → V-ing"
+        },
+        {
+          "type": "mc",
+          "q": "The report, ___ six months earlier, was finally released to the public last week.",
+          "opts": "compiled,compiling,having compiled,being compiled",
+          "ans": "A",
+          "exp": "Bị động, non-defining → Past Participle"
+        },
+        {
+          "type": "mc",
+          "q": "___ all available options, the committee decided to postpone the vote indefinitely.",
+          "opts": "Having considered,Considering,Considered,Being considering",
+          "ans": "A",
+          "exp": "Hoàn thành trước → Having + V3"
+        },
+        {
+          "type": "mc",
+          "q": "The student, ___ to speak first, froze for a moment before composing herself.",
+          "opts": "asked,asking,having asked,being asked",
+          "ans": "A",
+          "exp": "Bị động → Past Participle (asked = được yêu cầu)"
+        },
+        {
+          "type": "mc",
+          "q": "___ through the city at dawn, he was struck by how quiet everything was.",
+          "opts": "Cycling,Cycled,Having cycled,Being cycled",
+          "ans": "A",
+          "exp": "Cùng lúc, chủ động → V-ing"
+        },
+        {
+          "type": "mc",
+          "q": "___ his presentation, he answered several challenging questions from the audience.",
+          "opts": "Having delivered,Delivering,Delivered,Being delivered",
+          "ans": "A",
+          "exp": "Hoàn thành trước → Having + V3"
+        },
+        {
+          "type": "mc",
+          "q": "The policy, ___ in response to widespread public criticism, was immediately controversial.",
+          "opts": "introduced,introducing,having introduced,being introduce",
+          "ans": "A",
+          "exp": "Bị động, non-defining → Past Participle"
+        },
+        {
+          "type": "mc",
+          "q": "___ by the complexity of the case, the lawyer requested additional time to prepare.",
+          "opts": "Overwhelmed,Overwhelming,Having overwhelmed,Being overwhelming",
+          "ans": "A",
+          "exp": "Bị động, lý do → Past Participle"
+        },
+        {
+          "type": "tf",
+          "q": "Having finishing the task, she went home immediately. → Correct or Wrong?",
+          "ans": "Wrong – correct: <b>Having finished</b> the task",
+          "exp": "Having + V3 (past participle), không phải Having + V-ing"
+        },
+        {
+          "type": "tf",
+          "q": "Written in the 18th century, the manuscript is extremely fragile. → Correct or Wrong?",
+          "ans": "Correct",
+          "exp": "Bị động participle clause: Written = được viết ✔"
+        },
+        {
+          "type": "tf",
+          "q": "Knowing the risks, he decided to proceed with the experiment. → Correct or Wrong?",
+          "ans": "Correct",
+          "exp": "V-ing participle clause, chủ động, lý do ✔"
+        },
+        {
+          "type": "tf",
+          "q": "Being exhausted after the long journey, a hot bath was drawn by her. → Correct or Wrong?",
+          "ans": "Wrong – correct: <b>Being exhausted</b>... she drew a hot bath",
+          "exp": "Dangling participle: chủ từ của participle clause phải là chủ từ của mệnh đề chính"
+        },
+        {
+          "type": "fill",
+          "q": "___ (exhaust) after the long flight, she went straight to bed without eating.",
+          "ans": "Exhausted",
+          "exp": "Bị động / trạng thái → Past Participle"
+        },
+        {
+          "type": "fill",
+          "q": "___ (complete) the analysis, the team submitted their findings to the board.",
+          "ans": "Having completed",
+          "exp": "Hoàn thành trước → Having + V3"
+        },
+        {
+          "type": "fill",
+          "q": "The bridge, ___ (construct) in the 1960s, is now in need of urgent repair.",
+          "ans": "constructed",
+          "exp": "Bị động, non-defining → Past Participle"
+        },
+        {
+          "type": "fill",
+          "q": "___ (not/know) what to say, she remained silent for a long moment.",
+          "ans": "Not knowing",
+          "exp": "Phủ định participle clause: Not + V-ing"
+        },
+        {
+          "type": "fill",
+          "q": "___ (receive) no reply to her email, she decided to call the office directly.",
+          "ans": "Having received",
+          "exp": "Hoàn thành trước → Having + V3"
+        },
+        {
+          "type": "fill",
+          "q": "The suspect, ___ (question) by police for several hours, refused to comment.",
+          "ans": "questioned",
+          "exp": "Bị động, non-defining → Past Participle"
+        },
+        {
+          "type": "fill",
+          "q": "___ (sit) by the window, she watched the rain fall gently on the street below.",
+          "ans": "Sitting",
+          "exp": "Cùng lúc, chủ động → V-ing"
+        },
+        {
+          "type": "fill",
+          "q": "___ (realise) her mistake, she immediately apologised to the entire team.",
+          "ans": "Realising",
+          "exp": "Ngay khi nhận ra, chủ động → V-ing"
+        },
+        {
+          "type": "fill",
+          "q": "The document, ___ (sign) by both parties, was filed with the court the same day.",
+          "ans": "signed",
+          "exp": "Bị động → Past Participle"
+        },
+        {
+          "type": "fill",
+          "q": "___ (face) with an impossible choice, the director resigned from her position.",
+          "ans": "Faced",
+          "exp": "Bị động → Past Participle (Faced with = đối mặt với)"
+        },
+        {
+          "type": "fill",
+          "q": "___ (study) at the top university in the country, she had high expectations placed on her.",
+          "ans": "Having studied",
+          "exp": "Hoàn thành trước → Having + V3"
+        },
+        {
+          "type": "fill",
+          "q": "The company, ___ (found) in 1923, celebrated its centenary with a major public exhibition.",
+          "ans": "founded",
+          "exp": "Bị động, non-defining → Past Participle"
+        },
+        {
+          "type": "fill",
+          "q": "___ (walk) into the room, he immediately sensed that something was wrong.",
+          "ans": "Walking",
+          "exp": "Cùng lúc, chủ động → V-ing"
+        },
+        {
+          "type": "fill",
+          "q": "___ (not/receive) the correct information in time, the team made several avoidable errors.",
+          "ans": "Not having received",
+          "exp": "Phủ định, hoàn thành → Not having + V3"
+        },
+        {
+          "type": "fill",
+          "q": "The professor, ___ (retire) after 35 years, received a standing ovation from her students.",
+          "ans": "retiring / having retired",
+          "exp": "Retiring (cùng lúc) / Having retired (trước)"
+        },
+        {
+          "type": "fill",
+          "q": "___ (award) a prestigious grant, the research team expanded their study significantly.",
+          "ans": "Awarded / Having been awarded",
+          "exp": "Bị động → Awarded / Having been awarded"
+        },
+        {
+          "type": "fill",
+          "q": "___ (consider) all the evidence carefully, the jury reached a unanimous verdict.",
+          "ans": "Having considered",
+          "exp": "Hoàn thành trước → Having + V3"
+        },
+        {
+          "type": "fill",
+          "q": "The letter, ___ (write) hurriedly, contained several spelling mistakes and unclear phrases.",
+          "ans": "written",
+          "exp": "Bị động, non-defining → Past Participle"
+        },
+        {
+          "type": "fill",
+          "q": "___ (not/want) to cause offence, she chose her words very carefully throughout.",
+          "ans": "Not wanting",
+          "exp": "Phủ định, chủ động → Not + V-ing"
+        },
+        {
+          "type": "fill",
+          "q": "___ (read) the full report, she was far better prepared than any of her colleagues.",
+          "ans": "Having read",
+          "exp": "Hoàn thành trước → Having + V3"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "walking home from work she noticed something unusual near the gate",
+            "extra": [
+              "walking",
+              "noticed",
+              "unusual"
+            ]
+          },
+          {
+            "words": "built in the nineteenth century the building is now a heritage site",
+            "extra": [
+              "built",
+              "century",
+              "heritage"
+            ]
+          },
+          {
+            "words": "having read the report she realised several critical errors had been made",
+            "extra": [
+              "having",
+              "realised",
+              "errors"
+            ]
+          },
+          {
+            "words": "knowing the risks involved the manager decided to proceed with the project",
+            "extra": [
+              "knowing",
+              "decided",
+              "proceed"
+            ]
+          },
+          {
+            "words": "exhausted after the long journey she went straight to bed",
+            "extra": [
+              "exhausted",
+              "journey",
+              "straight"
+            ]
+          },
+          {
+            "words": "having completed the analysis the team submitted their findings to the board",
+            "extra": [
+              "completed",
+              "submitted",
+              "findings"
+            ]
+          },
+          {
+            "words": "faced with an impossible choice the director resigned from her position",
+            "extra": [
+              "faced",
+              "impossible",
+              "resigned"
+            ]
+          },
+          {
+            "words": "written in three languages the document was sent to all international offices",
+            "extra": [
+              "written",
+              "languages",
+              "offices"
+            ]
+          },
+          {
+            "words": "not knowing what to say she remained completely silent for a long moment",
+            "extra": [
+              "knowing",
+              "remained",
+              "silent"
+            ]
+          },
+          {
+            "words": "the suspect questioned by police for several hours refused to comment",
+            "extra": [
+              "questioned",
+              "several",
+              "refused"
+            ]
+          },
+          {
+            "words": "having received no reply she decided to call the office directly",
+            "extra": [
+              "received",
+              "decided",
+              "directly"
+            ]
+          },
+          {
+            "words": "cycling through the city at dawn he was struck by the silence",
+            "extra": [
+              "cycling",
+              "struck",
+              "silence"
+            ]
+          },
+          {
+            "words": "the report compiled six months earlier was finally released to the public",
+            "extra": [
+              "compiled",
+              "released",
+              "public"
+            ]
+          },
+          {
+            "words": "realising her mistake she immediately apologised to the entire team",
+            "extra": [
+              "realising",
+              "immediately",
+              "apologised"
+            ]
+          },
+          {
+            "words": "having delivered his presentation he answered several challenging questions",
+            "extra": [
+              "delivered",
+              "answered",
+              "challenging"
+            ]
+          },
+          {
+            "words": "overwhelmed by the complexity of the case the lawyer requested more time",
+            "extra": [
+              "overwhelmed",
+              "complexity",
+              "requested"
+            ]
+          },
+          {
+            "words": "not having received the correct information the team made several errors",
+            "extra": [
+              "received",
+              "correct",
+              "errors"
+            ]
+          },
+          {
+            "words": "the bridge constructed in the nineteen sixties is now in urgent need of repair",
+            "extra": [
+              "constructed",
+              "sixties",
+              "repair"
+            ]
+          },
+          {
+            "words": "sitting by the window she watched the rain fall on the street below",
+            "extra": [
+              "sitting",
+              "watched",
+              "below"
+            ]
+          },
+          {
+            "words": "awarded a prestigious grant the research team expanded their study significantly",
+            "extra": [
+              "awarded",
+              "prestigious",
+              "significantly"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "The rescue team arrived at the scene just after midnight. {{1}} (exhaust) by hours of searching through difficult terrain, they paused to reassess the situation. The missing hiker, {{2}} (last/see) near the northern ridge, had left no clear trail. {{3}} (study) the map carefully, the team leader identified two possible routes. {{4}} (not/receive) any radio signal for over three hours, the group feared the worst. A local guide, {{5}} (know) the area well, suggested checking an old shelter further up the slope. {{6}} (make) this decision quickly, they split into two groups. {{7}} (reach) the shelter, one team found signs of recent activity. The hiker, {{8}} (shelter) inside for several hours, had survived by keeping warm with emergency supplies. {{9}} (reunite) with the rescue team, she was visibly shaken but unharmed. {{10}} (treat) briefly at the scene, she was taken to hospital by helicopter for further observation.",
+            "blanks": {
+              "1": "Exhausted",
+              "2": "last seen",
+              "3": "Studying",
+              "4": "Not having received",
+              "5": "knowing",
+              "6": "Having made",
+              "7": "Having reached / Reaching",
+              "8": "sheltering",
+              "9": "Reunited",
+              "10": "Treated"
+            },
+            "wordbank": [
+              "exhaust",
+              "see",
+              "study",
+              "receive",
+              "know",
+              "make",
+              "reach",
+              "shelter",
+              "reunite",
+              "treat",
+              "search",
+              "find",
+              "signal",
+              "survive",
+              "assess",
+              "identify",
+              "fear",
+              "pause",
+              "split",
+              "carry"
+            ]
+          },
+          {
+            "text": "The documentary filmmaker spent three years completing her portrait of the remote community. {{1}} (draw) to the region by early reports of its unique traditions, she initially planned only a short visit. {{2}} (speak) to dozens of local residents, she began to understand the depth of their connection to the land. The village, {{3}} (isolate) from the outside world for centuries, had developed a remarkably self-sufficient way of life. {{4}} (film) over four seasons, the documentary captures the full cycle of the community's year. Several elders, {{5}} (approach) respectfully by the filmmaker, agreed to share their stories on camera. {{6}} (complete) the initial edit, she screened it for the community before releasing it publicly. Some scenes, {{7}} (consider) too personal by certain residents, were removed from the final cut. {{8}} (receive) several international awards, the film brought unprecedented attention to the community's situation. {{9}} (screen) at festivals around the world, it prompted calls for the region to receive protected status. The filmmaker, {{10}} (ask) about her experience, described the project as the most meaningful work of her career.",
+            "blanks": {
+              "1": "Drawn",
+              "2": "Having spoken",
+              "3": "isolated",
+              "4": "Filmed",
+              "5": "approached",
+              "6": "Having completed",
+              "7": "considered",
+              "8": "Having received",
+              "9": "Screened",
+              "10": "asked"
+            },
+            "wordbank": [
+              "draw",
+              "speak",
+              "isolate",
+              "film",
+              "approach",
+              "complete",
+              "consider",
+              "receive",
+              "screen",
+              "ask",
+              "capture",
+              "release",
+              "remove",
+              "prompt",
+              "describe",
+              "develop",
+              "understand",
+              "plan",
+              "agree",
+              "share"
+            ]
+          },
+          {
+            "text": "The government's new housing policy has been met with a mixture of support and scepticism. {{1}} (announce) last Tuesday, the proposals aim to address the chronic shortage of affordable homes in urban areas. {{2}} (design) with first-time buyers in mind, the scheme offers subsidised mortgages to those on lower incomes. Critics, {{3}} (point) to similar failed initiatives in the past, argue that supply-side solutions are more effective. The policy, {{4}} (develop) over eighteen months of consultation, incorporates feedback from local authorities nationwide. {{5}} (acknowledge) the scale of the problem, the housing minister stressed that no single measure would solve it alone. Several construction firms, {{6}} (encourage) by the new incentives, have already pledged to increase their building programmes. {{7}} (examine) the small print, some economists have raised concerns about long-term affordability. The opposition, {{8}} (brief) by independent analysts, claims the scheme will benefit wealthier applicants disproportionately. {{9}} (consider) all sides of the debate, it is clear that consensus will be difficult to reach. {{10}} (implement) carefully, however, the policy could represent a meaningful step forward.",
+            "blanks": {
+              "1": "Announced",
+              "2": "Designed",
+              "3": "pointing",
+              "4": "developed",
+              "5": "Acknowledging",
+              "6": "encouraged",
+              "7": "Having examined",
+              "8": "briefed",
+              "9": "Having considered",
+              "10": "Implemented"
+            },
+            "wordbank": [
+              "announce",
+              "design",
+              "point",
+              "develop",
+              "acknowledge",
+              "encourage",
+              "examine",
+              "brief",
+              "consider",
+              "implement",
+              "address",
+              "incorporate",
+              "stress",
+              "pledge",
+              "raise",
+              "claim",
+              "argue",
+              "offer",
+              "consult",
+              "represent"
+            ]
+          },
+          {
+            "text": "The archaeological excavation at the coastal site has yielded extraordinary finds. {{1}} (begin) in the spring, the dig has uncovered evidence of a previously unknown settlement dating back two thousand years. The team, {{2}} (lead) by a professor from the national university, comprises specialists from seven countries. {{3}} (uncover) the first artefacts, the researchers immediately recognised their historical significance. Pottery fragments, {{4}} (preserve) remarkably well by the coastal soil conditions, were sent to three separate laboratories for analysis. {{5}} (face) with limited funding, the team has prioritised the most promising areas of the site. Some structures, {{6}} (bury) beneath later building phases, required specialist equipment to excavate safely. {{7}} (analyse) samples from multiple layers, scientists have been able to construct a detailed timeline of occupation. Local residents, {{8}} (invite) to observe the dig, expressed considerable pride in their community's ancient heritage. {{9}} (complete) the current phase of excavation, the team will publish a full report next year. {{10}} (describe) as one of the most significant finds of the decade, the site has attracted international media attention.",
+            "blanks": {
+              "1": "Begun / Having begun",
+              "2": "led",
+              "3": "Having uncovered",
+              "4": "preserved",
+              "5": "Faced",
+              "6": "buried",
+              "7": "Having analysed",
+              "8": "invited",
+              "9": "Having completed",
+              "10": "Described"
+            },
+            "wordbank": [
+              "begin",
+              "lead",
+              "uncover",
+              "preserve",
+              "face",
+              "bury",
+              "analyse",
+              "invite",
+              "complete",
+              "describe",
+              "yield",
+              "date",
+              "recognise",
+              "send",
+              "require",
+              "construct",
+              "publish",
+              "attract",
+              "express",
+              "prioritise"
+            ]
+          },
+          {
+            "text": "The courtroom fell silent as the verdict was read aloud. The defendant, {{1}} (stand) with her legal team, showed no visible emotion as the judge spoke. {{2}} (convict) of three counts of fraud, she was remanded in custody pending sentencing. Her lawyers, {{3}} (prepare) for this outcome, had already lodged an appeal. Witnesses, {{4}} (question) extensively during the trial, had provided conflicting testimony. The prosecution, {{5}} (present) over two hundred pieces of evidence, argued the case was overwhelming. {{6}} (deliver) their verdict after four days of deliberation, the jury appeared visibly exhausted. Several jurors, {{7}} (approach) by journalists outside the court, declined to comment on their reasoning. The judge, {{8}} (address) the courtroom before adjourning, warned against media speculation pending the appeal. {{9}} (report) extensively throughout the trial, the case had attracted significant public attention. The victim's family, {{10}} (sit) quietly at the back of the court, expressed relief that the process was finally over.",
+            "blanks": {
+              "1": "standing",
+              "2": "Convicted",
+              "3": "prepared / having prepared",
+              "4": "questioned",
+              "5": "having presented",
+              "6": "Having delivered",
+              "7": "approached",
+              "8": "addressing",
+              "9": "Reported",
+              "10": "sitting"
+            },
+            "wordbank": [
+              "stand",
+              "convict",
+              "prepare",
+              "question",
+              "present",
+              "deliver",
+              "approach",
+              "address",
+              "report",
+              "sit",
+              "lodge",
+              "argue",
+              "appear",
+              "decline",
+              "warn",
+              "attract",
+              "express",
+              "show",
+              "speak",
+              "provide"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Viết đoạn văn mô tả một sự kiện hoặc chuyến đi, sử dụng ít nhất 3 participle clauses (V-ing, V3, Having + V3).",
+          "grammar_focus": "Participle clauses: V-ing / Past Participle / Having + V3",
+          "hint_words": [
+            "Walking through",
+            "Having arrived",
+            "Surrounded by",
+            "Exhausted after",
+            "Having spent"
+          ],
+          "min_words": 50,
+          "example": "Walking through the old market at dusk, I was immediately struck by the richness of the sounds and smells. Having spent several hours exploring the narrow streets, I settled into a small café near the river. Surrounded by locals chatting over coffee, I felt, for the first time, truly part of the city."
+        },
+        {
+          "vi": "Mô tả một nhân vật trong câu chuyện hoặc bài viết học thuật, dùng participle clauses để thêm thông tin.",
+          "grammar_focus": "Non-defining participle clauses",
+          "hint_words": [
+            "Born in",
+            "Educated at",
+            "Having worked for",
+            "Known for",
+            "Regarded as"
+          ],
+          "min_words": 50,
+          "example": "Born in a small coastal town, she developed an early passion for marine biology. Educated at one of the country's leading universities, she went on to publish groundbreaking research. Having worked for over twenty years in the field, she is now regarded as one of the world's foremost experts on coral reef ecosystems."
+        },
+        {
+          "vi": "Viết về một tình huống có vấn đề, dùng participle clauses để diễn đạt lý do và hành động.",
+          "grammar_focus": "Participle clauses for reason and sequence",
+          "hint_words": [
+            "Not knowing",
+            "Realising",
+            "Having considered",
+            "Faced with",
+            "Having failed to"
+          ],
+          "min_words": 50,
+          "example": "Not knowing who to contact, she decided to email the department head directly. Realising the deadline had passed, the team worked through the night to complete the revisions. Having failed to receive any response, they escalated the matter to senior management the following morning."
+        },
+        {
+          "vi": "Viết một đoạn tin tức hoặc báo cáo học thuật ngắn, dùng participle clauses bị động để thêm thông tin.",
+          "grammar_focus": "Passive participle clauses: V3 / Having been + V3",
+          "hint_words": [
+            "Founded in",
+            "Built over",
+            "Awarded a",
+            "Described as",
+            "Having been selected"
+          ],
+          "min_words": 50,
+          "example": "Founded in 1902, the institution has educated generations of scientists and engineers. Built over a period of twelve years, the new research centre was officially opened last month. Described as a landmark achievement in sustainable architecture, the building uses entirely renewable energy sources."
+        },
+        {
+          "vi": "Kết hợp participle clauses vào một đoạn luận ngắn để nâng cao tính học thuật của văn phong.",
+          "grammar_focus": "Mixed participle clauses in academic writing",
+          "hint_words": [
+            "Having reviewed",
+            "Informed by",
+            "Acknowledging",
+            "Not wishing to",
+            "Considered in this light"
+          ],
+          "min_words": 60,
+          "example": "Having reviewed the existing literature, it is clear that the relationship between diet and mental health is more complex than previously assumed. Informed by recent longitudinal studies, researchers now argue that gut health plays a significant role in mood regulation. Acknowledging the limitations of their data, the authors nonetheless present a compelling case for further investigation. Not wishing to overstate their conclusions, they call for more controlled clinical trials before any firm recommendations are made."
+        }
+      ]
+    },
+    {
+      "icon": "✍️",
+      "title": "Fronting, Nominalization & Register",
+      "level": "advanced",
+      "badge": "🎓 C1",
+      "badgeClass": "badge-purple",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Fronting – Đảo vị trí để nhấn mạnh</div>Đưa phần muốn nhấn mạnh lên đầu câu:<br>• <b>Adverb/Adverbial fronting:</b> <i>On the table <b>lay</b> a beautiful vase.</i> (đảo ngữ)<br>• <b>Object fronting:</b> <i><b>That film</b> I really liked. (But this one I hate.)</i><br>• <b>Adjective fronting:</b> <i><b>Strange</b> it may seem, but she refused the offer.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Inversion sau Negative Adverbials</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Adverbial</th><th style=\"padding:4px 8px;text-align:left\">Ví dụ</th></tr><tr><td style=\"padding:4px 8px;text-align:left\">Never</td><td style=\"padding:4px 8px;text-align:left\"><b>Never</b> had I seen such beauty.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">Rarely/Seldom</td><td style=\"padding:4px 8px;text-align:left\"><b>Rarely</b> does she complain.</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">Not only</td><td style=\"padding:4px 8px;text-align:left\"><b>Not only</b> did he lie, but he also cheated.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">No sooner … than</td><td style=\"padding:4px 8px;text-align:left\"><b>No sooner</b> had I arrived <b>than</b> it started raining.</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">Hardly/Scarcely … when</td><td style=\"padding:4px 8px;text-align:left\"><b>Hardly</b> had she left <b>when</b> he called.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">Only then</td><td style=\"padding:4px 8px;text-align:left\"><b>Only then</b> did I understand.</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">Little</td><td style=\"padding:4px 8px;text-align:left\"><b>Little</b> did he know what was coming.</td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Nominalization – Danh từ hóa</div>Biến động từ/tính từ thành danh từ để văn phong trang trọng hơn:<br><i>We decided to expand. → The decision to expand was made.</i><br><i>The government will investigate. → The government's investigation will begin.</i><br>• -tion/-sion: decide→decision, expand→expansion, investigate→investigation<br>• -ment: develop→development, achieve→achievement, manage→management<br>• -ness: happy→happiness, dark→darkness, aware→awareness<br>• -ity: able→ability, complex→complexity, real→reality</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Register – Phong cách ngôn ngữ</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Informal</th><th style=\"padding:4px 8px;text-align:left\">Formal</th></tr><tr><td style=\"padding:4px 8px;text-align:left\">get</td><td style=\"padding:4px 8px;text-align:left\">obtain/receive/acquire</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">find out</td><td style=\"padding:4px 8px;text-align:left\">discover/establish/ascertain</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">look into</td><td style=\"padding:4px 8px;text-align:left\">investigate/examine</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">go up</td><td style=\"padding:4px 8px;text-align:left\">increase/rise</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">go down</td><td style=\"padding:4px 8px;text-align:left\">decrease/decline/fall</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">a lot of</td><td style=\"padding:4px 8px;text-align:left\">a significant number of / considerable</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">show</td><td style=\"padding:4px 8px;text-align:left\">demonstrate/indicate/reveal</td></tr></table></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "___ had I realised how difficult the project would become when I agreed to lead it.",
+          "opts": "Little,Never,Rarely,Hardly",
+          "ans": "A",
+          "exp": "Little did I know = ít ngờ / chẳng hay (fronting + inversion)"
+        },
+        {
+          "type": "mc",
+          "q": "The ___ of the new policy has raised concerns among industry leaders nationwide.",
+          "opts": "introduction,introducing,introduce,introduced",
+          "ans": "A",
+          "exp": "Nominalization: introduce → introduction"
+        },
+        {
+          "type": "mc",
+          "q": "Only by ___ closely with local communities can real progress be achieved.",
+          "opts": "working,work,worked,have worked",
+          "ans": "A",
+          "exp": "Only by + V-ing → inversion"
+        },
+        {
+          "type": "mc",
+          "q": "The government's ___ of the budget cuts surprised many senior economists.",
+          "opts": "announcement,announcing,announce,announced",
+          "ans": "A",
+          "exp": "Nominalization: announce → announcement"
+        },
+        {
+          "type": "mc",
+          "q": "___ the economy that the president focused all her attention in her first term.",
+          "opts": "It was on,It is on,On it was,That was",
+          "ans": "A",
+          "exp": "Fronting/cleft: It was on X that..."
+        },
+        {
+          "type": "mc",
+          "q": "The ___ of the two leaders marked a significant shift in diplomatic relations.",
+          "opts": "meeting,meet,met,meetance",
+          "ans": "A",
+          "exp": "Nominalization: meet → meeting (formal noun)"
+        },
+        {
+          "type": "mc",
+          "q": "Not until the final report was published ___ the full extent of the damage become clear.",
+          "opts": "did,had,was,has",
+          "ans": "A",
+          "exp": "Not until + clause → inversion with auxiliary"
+        },
+        {
+          "type": "mc",
+          "q": "His ___ of the evidence was widely praised by the academic community.",
+          "opts": "analysis,analyse,analysing,analysed",
+          "ans": "A",
+          "exp": "Nominalization: analyse → analysis"
+        },
+        {
+          "type": "mc",
+          "q": "___ the proposal did the committee finally agree to take further action.",
+          "opts": "Only after receiving,Only after receive,Receiving only,After only receiving",
+          "ans": "A",
+          "exp": "Fronting: Only after + V-ing → inversion"
+        },
+        {
+          "type": "mc",
+          "q": "The rapid ___ of the disease across borders prompted an emergency response.",
+          "opts": "spread,spreading,spreaded,to spread",
+          "ans": "A",
+          "exp": "Nominalization: spread (noun form)"
+        },
+        {
+          "type": "mc",
+          "q": "Never before ___ such unanimous opposition from all parties in the assembly.",
+          "opts": "had there been,there had been,was there,there was",
+          "ans": "A",
+          "exp": "Never before + inversion: had there been"
+        },
+        {
+          "type": "mc",
+          "q": "The ___ of the agreement depends on the cooperation of all signatory nations.",
+          "opts": "implementation,implement,implementing,implemented",
+          "ans": "A",
+          "exp": "Nominalization: implement → implementation"
+        },
+        {
+          "type": "mc",
+          "q": "So ___ was the public reaction that the minister was forced to resign within hours.",
+          "opts": "strong,strongly,strength,strengthen",
+          "ans": "A",
+          "exp": "So + adjective → inversion: So strong was..."
+        },
+        {
+          "type": "mc",
+          "q": "The ___ in funding has severely affected the quality of public services.",
+          "opts": "reduction,reduce,reducing,reduced",
+          "ans": "A",
+          "exp": "Nominalization: reduce → reduction"
+        },
+        {
+          "type": "mc",
+          "q": "On no account ___ personal information be shared with third-party organisations.",
+          "opts": "should,must,will,shall",
+          "ans": "A",
+          "exp": "On no account → modal inversion"
+        },
+        {
+          "type": "mc",
+          "q": "The committee's ___ of the proposal came as a surprise to most observers.",
+          "opts": "rejection,reject,rejecting,rejected",
+          "ans": "A",
+          "exp": "Nominalization: reject → rejection"
+        },
+        {
+          "type": "tf",
+          "q": "Little I knew how difficult the exam would be. → Correct or Wrong?",
+          "ans": "Wrong – correct: <b>Little did I know</b> how difficult the exam would be",
+          "exp": "Little → inversion: Little did I know (past simple với did)"
+        },
+        {
+          "type": "tf",
+          "q": "The implementation of the new system took longer than expected. → Correct or Wrong?",
+          "ans": "Correct",
+          "exp": "Nominalization: implement → implementation ✔"
+        },
+        {
+          "type": "tf",
+          "q": "Only after she resigned did the truth finally come to light. → Correct or Wrong?",
+          "ans": "Correct",
+          "exp": "Only after + clause → inversion ✔"
+        },
+        {
+          "type": "tf",
+          "q": "Such was the demand for tickets that the event was sold out in minutes. → Correct or Wrong?",
+          "ans": "Correct",
+          "exp": "Such was + noun → inversion ✔"
+        },
+        {
+          "type": "fill",
+          "q": "___ had the team anticipated such a dramatic turnaround in the final quarter.",
+          "ans": "Little",
+          "exp": "Little did/had + subject + V = ít ngờ đến"
+        },
+        {
+          "type": "fill",
+          "q": "The ___ (decide) to close the factory shocked the entire local community.",
+          "ans": "decision",
+          "exp": "Nominalization: decide → decision"
+        },
+        {
+          "type": "fill",
+          "q": "Only by ___ (invest) in renewable energy can we address the climate crisis effectively.",
+          "ans": "investing",
+          "exp": "Only by + V-ing → inversion"
+        },
+        {
+          "type": "fill",
+          "q": "The ___ (fail) of the peace talks was a significant setback for the region.",
+          "ans": "failure",
+          "exp": "Nominalization: fail → failure"
+        },
+        {
+          "type": "fill",
+          "q": "Not until the final results were announced ___ the significance of her achievement become clear.",
+          "ans": "did",
+          "exp": "Not until + clause → inversion: did + subject + V"
+        },
+        {
+          "type": "fill",
+          "q": "The ___ (develop) of the new vaccine took nearly a decade of intensive research.",
+          "ans": "development",
+          "exp": "Nominalization: develop → development"
+        },
+        {
+          "type": "fill",
+          "q": "So ___ (great) was the public outcry that the policy was reversed within a week.",
+          "ans": "great",
+          "exp": "So + adjective → inversion: So great was..."
+        },
+        {
+          "type": "fill",
+          "q": "The ___ (agree) between the two parties paved the way for further negotiations.",
+          "ans": "agreement",
+          "exp": "Nominalization: agree → agreement"
+        },
+        {
+          "type": "fill",
+          "q": "___ in the northern region that most of the country's mineral reserves are found.",
+          "ans": "It is",
+          "exp": "Fronting/cleft: It is in X that..."
+        },
+        {
+          "type": "fill",
+          "q": "The ___ (reduce) in air pollution following the new regulations was measurable.",
+          "ans": "reduction",
+          "exp": "Nominalization: reduce → reduction"
+        },
+        {
+          "type": "fill",
+          "q": "Never before ___ such a comprehensive reform package been proposed in this parliament.",
+          "ans": "had",
+          "exp": "Never before + inversion: had + subject + V3"
+        },
+        {
+          "type": "fill",
+          "q": "The ___ (approve) of the budget required a two-thirds majority in the assembly.",
+          "ans": "approval",
+          "exp": "Nominalization: approve → approval"
+        },
+        {
+          "type": "fill",
+          "q": "Only after extensive ___ (consult) did the board approve the merger plan.",
+          "ans": "consultation",
+          "exp": "Nominalization: consult → consultation"
+        },
+        {
+          "type": "fill",
+          "q": "On no account ___ (employee) disclose confidential client information to outside parties.",
+          "ans": "should employees",
+          "exp": "On no account + modal inversion"
+        },
+        {
+          "type": "fill",
+          "q": "The ___ (expand) of the university's research facilities attracted international investment.",
+          "ans": "expansion",
+          "exp": "Nominalization: expand → expansion"
+        },
+        {
+          "type": "fill",
+          "q": "Such ___ the pressure on the director that she ultimately tendered her resignation.",
+          "ans": "was",
+          "exp": "Such was + noun phrase → inversion"
+        },
+        {
+          "type": "fill",
+          "q": "The ___ (investigate) into corruption lasted three years and produced damning conclusions.",
+          "ans": "investigation",
+          "exp": "Nominalization: investigate → investigation"
+        },
+        {
+          "type": "fill",
+          "q": "___ through sustained collaboration that the most meaningful advances in science are made.",
+          "ans": "It is",
+          "exp": "Fronting: It is through X that..."
+        },
+        {
+          "type": "fill",
+          "q": "The ___ (implement) of the new curriculum has been met with mixed reactions from teachers.",
+          "ans": "implementation",
+          "exp": "Nominalization: implement → implementation"
+        },
+        {
+          "type": "fill",
+          "q": "Rarely ___ a policy attracted such widespread support across the political spectrum.",
+          "ans": "has",
+          "exp": "Rarely + inversion: has + subject + V3"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "little did she know how challenging the first year of leadership would be",
+            "extra": [
+              "little",
+              "challenging",
+              "leadership"
+            ]
+          },
+          {
+            "words": "the introduction of the new policy surprised many senior industry leaders",
+            "extra": [
+              "introduction",
+              "policy",
+              "surprised"
+            ]
+          },
+          {
+            "words": "only by working closely together can the two teams achieve meaningful results",
+            "extra": [
+              "working",
+              "closely",
+              "meaningful"
+            ]
+          },
+          {
+            "words": "never before had such a comprehensive reform package been presented to parliament",
+            "extra": [
+              "comprehensive",
+              "reform",
+              "presented"
+            ]
+          },
+          {
+            "words": "it was on improving public transport that the mayor focused her first term",
+            "extra": [
+              "improving",
+              "transport",
+              "focused"
+            ]
+          },
+          {
+            "words": "the development of the vaccine took nearly a decade of intensive research",
+            "extra": [
+              "development",
+              "decade",
+              "intensive"
+            ]
+          },
+          {
+            "words": "not until the report was published did the full extent of the problem become clear",
+            "extra": [
+              "published",
+              "extent",
+              "problem"
+            ]
+          },
+          {
+            "words": "so strong was the reaction that the minister resigned within the week",
+            "extra": [
+              "strong",
+              "reaction",
+              "resigned"
+            ]
+          },
+          {
+            "words": "only after extensive consultation did the board finally approve the merger plan",
+            "extra": [
+              "extensive",
+              "consultation",
+              "approve"
+            ]
+          },
+          {
+            "words": "the reduction in pollution following the new regulations was immediately measurable",
+            "extra": [
+              "reduction",
+              "pollution",
+              "measurable"
+            ]
+          },
+          {
+            "words": "on no account should employees share confidential information with outside parties",
+            "extra": [
+              "account",
+              "confidential",
+              "outside"
+            ]
+          },
+          {
+            "words": "the failure of the peace talks was a significant setback for the entire region",
+            "extra": [
+              "failure",
+              "significant",
+              "setback"
+            ]
+          },
+          {
+            "words": "such was the demand for the product that stocks ran out within hours",
+            "extra": [
+              "demand",
+              "stocks",
+              "hours"
+            ]
+          },
+          {
+            "words": "the implementation of the new curriculum has been met with mixed reactions",
+            "extra": [
+              "implementation",
+              "curriculum",
+              "reactions"
+            ]
+          },
+          {
+            "words": "rarely has a single decision had such far-reaching consequences for the industry",
+            "extra": [
+              "rarely",
+              "decision",
+              "consequences"
+            ]
+          },
+          {
+            "words": "it is through sustained collaboration that the most meaningful progress is made",
+            "extra": [
+              "sustained",
+              "collaboration",
+              "meaningful"
+            ]
+          },
+          {
+            "words": "the investigation into the fraud lasted three years and produced damning findings",
+            "extra": [
+              "investigation",
+              "fraud",
+              "damning"
+            ]
+          },
+          {
+            "words": "little had anyone anticipated the scale of the public response to the announcement",
+            "extra": [
+              "anticipated",
+              "scale",
+              "public"
+            ]
+          },
+          {
+            "words": "the approval of the new budget required a two-thirds majority in the assembly",
+            "extra": [
+              "approval",
+              "majority",
+              "assembly"
+            ]
+          },
+          {
+            "words": "not until she read the final chapter did she understand the full significance of the novel",
+            "extra": [
+              "chapter",
+              "understand",
+              "significance"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "The {{1}} (announce) of the merger between the two telecommunications giants sent shockwaves through the industry. Little {{2}} most analysts know that negotiations had been ongoing for nearly eighteen months. It was through months of careful {{3}} (negotiate) that the deal was finally reached. The {{4}} (agree) required the {{5}} (approve) of regulators in seven different countries. Never before {{6}} such a complex international merger been attempted in the sector. So significant {{7}} the deal that stock markets around the world reacted immediately. The {{8}} (implement) of the new structure is expected to take at least two years. Only by maintaining open {{9}} (communicate) with shareholders can the boards hope to retain investor confidence. On no account {{10}} the terms of the agreement be disclosed before the official announcement.",
+            "blanks": {
+              "1": "announcement",
+              "2": "did",
+              "3": "negotiation",
+              "4": "agreement",
+              "5": "approval",
+              "6": "had",
+              "7": "was",
+              "8": "implementation",
+              "9": "communication",
+              "10": "should"
+            },
+            "wordbank": [
+              "announce",
+              "negotiate",
+              "agree",
+              "approve",
+              "implement",
+              "communicate",
+              "maintain",
+              "disclose",
+              "attempt",
+              "retain",
+              "send",
+              "require",
+              "react",
+              "reach",
+              "complete",
+              "finalise",
+              "involve",
+              "confirm",
+              "manage",
+              "prepare"
+            ]
+          },
+          {
+            "text": "The {{1}} (invest) in clean energy has accelerated dramatically over the past decade. It is in regions with strong policy frameworks that the most significant {{2}} (grow) has occurred. The {{3}} (introduce) of carbon pricing mechanisms has proven particularly effective. Never before {{4}} the private sector committed such substantial resources to green infrastructure. So rapid {{5}} the {{6}} (expand) of solar capacity that several countries have already exceeded their 2030 targets. Only through sustained {{7}} (collaborate) between governments and industry can the remaining challenges be addressed. The {{8}} (reduce) in costs for renewable technologies has been remarkable. Little {{9}} early critics imagine that wind power would become the cheapest source of electricity in many markets. The {{10}} (develop) of battery storage technology remains the key obstacle to achieving a fully carbon-neutral grid.",
+            "blanks": {
+              "1": "investment",
+              "2": "growth",
+              "3": "introduction",
+              "4": "had",
+              "5": "was",
+              "6": "expansion",
+              "7": "collaboration",
+              "8": "reduction",
+              "9": "did",
+              "10": "development"
+            },
+            "wordbank": [
+              "invest",
+              "grow",
+              "introduce",
+              "expand",
+              "collaborate",
+              "reduce",
+              "develop",
+              "commit",
+              "address",
+              "achieve",
+              "accelerate",
+              "occur",
+              "prove",
+              "exceed",
+              "remain",
+              "target",
+              "sustain",
+              "deploy",
+              "fund",
+              "support"
+            ]
+          },
+          {
+            "text": "The {{1}} (fail) of the city's transport system to cope with rising demand has prompted urgent calls for reform. It is on the commuter experience that public frustration is most acutely felt. Never before {{2}} a mayor faced such coordinated pressure from residents, businesses, and opposition politicians simultaneously. The {{3}} (decide) to delay the upgrade programme by a further two years was widely condemned. Only by making a substantial {{4}} (commit) to infrastructure spending can the administration hope to restore public trust. So severe {{5}} the overcrowding on peak-hour services that safety inspectors issued a formal warning last month. The {{6}} (consult) with transport engineers has highlighted the need for a completely new approach. Little {{7}} the original planners know that the network would need to accommodate three times the projected passenger numbers within just twenty years. The {{8}} (implement) of temporary relief measures has been welcomed, though critics argue these represent a fundamental {{9}} (fail) of long-term strategic {{10}} (plan).",
+            "blanks": {
+              "1": "failure",
+              "2": "had",
+              "3": "decision",
+              "4": "commitment",
+              "5": "was",
+              "6": "consultation",
+              "7": "did",
+              "8": "implementation",
+              "9": "failure",
+              "10": "planning"
+            },
+            "wordbank": [
+              "fail",
+              "decide",
+              "commit",
+              "consult",
+              "implement",
+              "plan",
+              "prompt",
+              "accommodate",
+              "restore",
+              "highlight",
+              "cope",
+              "face",
+              "condemn",
+              "issue",
+              "welcome",
+              "argue",
+              "project",
+              "represent",
+              "approach",
+              "experience"
+            ]
+          },
+          {
+            "text": "International efforts to combat corruption have intensified in recent years. The {{1}} (investigate) of financial misconduct now regularly crosses national borders. It is through improved international {{2}} (cooperate) that meaningful {{3}} (reduce) in corruption levels has been achieved. Never before {{4}} so many countries been party to binding anti-corruption agreements simultaneously. The {{5}} (introduce) of asset declaration requirements for public officials has been particularly significant. So widespread {{6}} the problem that some estimates suggest corruption costs the global economy trillions of dollars annually. Only by ensuring genuine {{7}} (protect) for whistleblowers can governments hope to encourage the reporting of misconduct. The {{8}} (enforce) of existing laws remains inconsistent across different jurisdictions. Little {{9}} most citizens realise how deeply embedded corrupt practices are in certain systems. The {{10}} (develop) of independent oversight bodies has been identified as the most effective long-term solution.",
+            "blanks": {
+              "1": "investigation",
+              "2": "cooperation",
+              "3": "reduction",
+              "4": "had",
+              "5": "introduction",
+              "6": "was",
+              "7": "protection",
+              "8": "enforcement",
+              "9": "do",
+              "10": "development"
+            },
+            "wordbank": [
+              "investigate",
+              "cooperate",
+              "reduce",
+              "introduce",
+              "protect",
+              "enforce",
+              "develop",
+              "combat",
+              "achieve",
+              "ensure",
+              "report",
+              "estimate",
+              "embed",
+              "identify",
+              "cross",
+              "party",
+              "encourage",
+              "suggest",
+              "address",
+              "improve"
+            ]
+          },
+          {
+            "text": "The {{1}} (reform) of the national education system has been a contentious issue for decades. It is in the early years of schooling that the most critical {{2}} (develop) occurs, yet this phase has historically received the least {{3}} (invest). Never before {{4}} teachers been under such pressure to meet conflicting demands from policymakers, parents, and students simultaneously. The {{5}} (introduce) of standardised testing has been particularly controversial. So great {{6}} the opposition from the teaching profession that several pilot schemes were abandoned entirely. Only through genuine {{7}} (consult) with educators can policymakers hope to design a curriculum that is both rigorous and relevant. The {{8}} (achieve) of high literacy rates requires sustained commitment over many years. Little {{9}} early reformers anticipate the extent to which inequality would remain embedded in the system despite their efforts. The long-term {{10}} (succeed) of any reform depends ultimately on the quality and confidence of those delivering it.",
+            "blanks": {
+              "1": "reform",
+              "2": "development",
+              "3": "investment",
+              "4": "had",
+              "5": "introduction",
+              "6": "was",
+              "7": "consultation",
+              "8": "achievement",
+              "9": "did",
+              "10": "success"
+            },
+            "wordbank": [
+              "reform",
+              "develop",
+              "invest",
+              "introduce",
+              "consult",
+              "achieve",
+              "succeed",
+              "abandon",
+              "design",
+              "deliver",
+              "embed",
+              "receive",
+              "require",
+              "anticipate",
+              "address",
+              "sustain",
+              "oppose",
+              "highlight",
+              "remain",
+              "meet"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Viết một đoạn báo cáo hoặc bài luận học thuật ngắn, sử dụng ít nhất 4 danh từ hoá (nominalization) để diễn đạt ý kiến.",
+          "grammar_focus": "Nominalization in academic writing",
+          "hint_words": [
+            "the development of",
+            "the introduction of",
+            "the reduction in",
+            "the implementation of",
+            "the failure of"
+          ],
+          "min_words": 60,
+          "example": "The introduction of stricter environmental regulations has led to a significant reduction in industrial emissions. The development of renewable energy technologies has accelerated in response to growing demand. Despite the implementation of several policy initiatives, the achievement of carbon neutrality by 2050 remains a considerable challenge. The failure of early interventions highlights the need for a more coordinated international approach."
+        },
+        {
+          "vi": "Viết một đoạn văn với ít nhất 3 cấu trúc đảo ngữ (fronting / inversion) để nhấn mạnh ý kiến.",
+          "grammar_focus": "Fronting and inversion: Little / Never / So / Only / On no account",
+          "hint_words": [
+            "Little did",
+            "Never before had",
+            "So significant was",
+            "Only by",
+            "On no account should"
+          ],
+          "min_words": 60,
+          "example": "Never before had the region experienced such severe flooding as that which struck last summer. So devastating was the impact that hundreds of families were displaced within hours. Little did emergency services know that the worst was yet to come. Only by mobilising national resources and international aid could the situation be brought under control."
+        },
+        {
+          "vi": "Chuyển 5 câu thông thường thành văn phong học thuật bằng cách dùng nominalization và fronting.",
+          "grammar_focus": "Register shift: colloquial → academic",
+          "hint_words": [
+            "The government decided → the government's decision",
+            "They failed → the failure of",
+            "We need to reduce → reduction in",
+            "He announced → his announcement",
+            "They implemented → the implementation"
+          ],
+          "min_words": 60,
+          "example": "The government's decision to raise interest rates prompted widespread debate among economists. The failure of previous stimulus packages to achieve the desired effect has led to calls for a new approach. The implementation of targeted tax relief measures is expected to stimulate investment in the short term."
+        },
+        {
+          "vi": "Viết một đoạn bình luận về một vấn đề toàn cầu, sử dụng đảo ngữ và danh từ hoá để nâng cao tính trang trọng.",
+          "grammar_focus": "Combined: Nominalization + Inversion for formal register",
+          "hint_words": [
+            "the deterioration of",
+            "never before has",
+            "the expansion of",
+            "only through",
+            "so rapid was"
+          ],
+          "min_words": 60,
+          "example": "The deterioration of international relations over the past decade has made collective action increasingly difficult. Never before has the need for multilateral cooperation been so urgent. So rapid was the spread of misinformation during the crisis that governments struggled to respond effectively. Only through the development of shared frameworks can the international community hope to address these challenges systematically."
+        },
+        {
+          "vi": "Viết một đoạn văn ngắn kết hợp fronting, nominalization và participle clauses để tạo văn phong C1 hoàn chỉnh.",
+          "grammar_focus": "C1 integrated: Fronting + Nominalization + Participle Clauses",
+          "hint_words": [
+            "Having reviewed",
+            "the implementation of",
+            "never before had",
+            "drawn by",
+            "the development of"
+          ],
+          "min_words": 70,
+          "example": "Having reviewed the available evidence, it is clear that the implementation of comprehensive digital literacy programmes is long overdue. Never before had so many young people been exposed to unregulated online content at such a formative age. Drawn by the promise of connection, many users are unaware of the risks they face. The development of robust regulatory frameworks, informed by the latest research, represents the most urgent priority for governments worldwide."
+        }
+      ]
+    }
+  ]
+}

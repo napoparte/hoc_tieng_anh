@@ -1,0 +1,3471 @@
+{
+  "advanced": [
+    {
+      "icon": "⏰",
+      "title": "Advanced Present Simple and Continuous",
+      "level": "advanced",
+      "badge": "🎓 C1",
+      "badgeClass": "badge-purple",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Advanced Present Simple</div><ul><li><b>Narrative present:</b> Dùng để kể chuyện, truyện cười nhằm tăng tính sống động. <br><i>So I <b>walk</b> into the office and everyone <b>looks</b> at me.</i></li><li><b>Live commentaries:</b> Tường thuật trực tiếp (thể thao, nấu ăn). <br><i>Watkins <b>controls</b> the ball and <b>shoots</b>!</i></li><li><b>Performative verbs:</b> Động từ thực hiện hành động ngay khi nói (admit, apologize, deny, guarantee, promise, suggest). <br><i>I <b>promise</b> I'll be there.</i></li><li><b>Headlines & Summaries:</b> Tiêu đề báo chí hoặc tóm tắt cốt truyện. <br><i>Minister <b>resigns</b> after scandal.</i></li><li><b>Reporting verbs:</b> Dùng với say, tell, hear để báo cáo thông tin. <br><i>I <b>hear</b> you're moving to London.</i></li></ul></div><div class=\"rule-box\"><div class=\"rule-label\">📌 Advanced Present Continuous</div><ul><li><b>Stative verbs (Temporary):</b> Dùng với động từ trạng thái để nhấn mạnh tính tạm thời. <br><i>I'm <b>loving</b> the new project (at the moment).</i></li><li><b>Mental-state verbs:</b> find, realise, regret, think (diễn tả sự bắt đầu nhận thức). <br><i>I'm <b>realising</b> how hard this is.</i></li><li><b>Politeness:</b> hope, wonder (làm yêu cầu nhẹ nhàng hơn). <br><i>I'm <b>hoping</b> you can help me.</i></li><li><b>Annoying habits:</b> always, constantly, forever + V-ing. <br><i>You're <b>always leaving</b> the door open!</i></li></ul></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "I ___ you're thinking of leaving the company. Is that true?",
+          "opts": "hear,am hearing,heard,have heard",
+          "ans": "A",
+          "exp": "Reporting verb 'hear' dùng ở hiện tại đơn để báo cáo thông tin nhận được."
+        },
+        {
+          "type": "mc",
+          "q": "The Prime Minister ___ the new hospital tomorrow morning.",
+          "opts": "opens,is opening,will open,both A & B",
+          "ans": "D",
+          "exp": "Cả hiện tại đơn (lịch trình) và hiện tại tiếp diễn (sắp xếp) đều dùng được cho tương lai."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ if you could spare a few minutes to discuss the proposal.",
+          "opts": "wonder,am wondering,wondered,have wondered",
+          "ans": "B",
+          "exp": "Hiện tại tiếp diễn (am wondering) giúp câu hỏi trở nên lịch sự và nhẹ nhàng hơn."
+        },
+        {
+          "type": "mc",
+          "q": "You ___ your keys! It's so frustrating.",
+          "opts": "always lose,are always losing,always lost,have always lost",
+          "ans": "B",
+          "exp": "Always + V-ing diễn tả một thói quen gây khó chịu."
+        },
+        {
+          "type": "mc",
+          "q": "So I ___ into the room, and there he is, sitting in my chair!",
+          "opts": "walk,am walking,walked,have walked",
+          "ans": "A",
+          "exp": "Narrative present (hiện tại kể chuyện) dùng để làm câu chuyện sống động hơn."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ that we should postpone the meeting until next week.",
+          "opts": "suggest,am suggesting,suggested,have suggested",
+          "ans": "A",
+          "exp": "Suggest là một performative verb, thường dùng ở hiện tại đơn."
+        },
+        {
+          "type": "mc",
+          "q": "Scientists ___ a new planet in a distant galaxy.",
+          "opts": "discover,are discovering,discovered,have discovered",
+          "ans": "A",
+          "exp": "Tiêu đề báo chí thường dùng hiện tại đơn cho các sự kiện vừa xảy ra."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ how much effort you've put into this project.",
+          "opts": "realise,am realising,realised,have realised",
+          "ans": "B",
+          "exp": "Am realising diễn tả một nhận thức vừa mới bắt đầu hình thành."
+        },
+        {
+          "type": "mc",
+          "q": "You ___ very patient with the children today.",
+          "opts": "are,are being,were,have been",
+          "ans": "B",
+          "exp": "Are being nhấn mạnh một hành vi tạm thời, khác với tính cách thông thường."
+        },
+        {
+          "type": "mc",
+          "q": "The soup ___ delicious. What's in it?",
+          "opts": "tastes,is tasting,tasted,has tasted",
+          "ans": "A",
+          "exp": "Taste (có vị) là động từ trạng thái, không dùng tiếp diễn."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ to get some advice on my career path.",
+          "opts": "hope,am hoping,hoped,have hoped",
+          "ans": "B",
+          "exp": "Am hoping làm cho yêu cầu trở nên nhẹ nhàng, lịch sự hơn."
+        },
+        {
+          "type": "mc",
+          "q": "He ___ about his problems. It's getting on my nerves.",
+          "opts": "forever complains,is forever complaining,complained,has complained",
+          "ans": "B",
+          "exp": "Forever + V-ing diễn tả thói quen gây khó chịu."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ why they haven't called us back yet.",
+          "opts": "doubt,am doubting,doubted,have doubted",
+          "ans": "A",
+          "exp": "Doubt là động từ trạng thái, hiếm khi dùng ở dạng tiếp diễn."
+        },
+        {
+          "type": "mc",
+          "q": "The chef ___ the sauce to see if it needs more salt.",
+          "opts": "tastes,is tasting,tasted,has tasted",
+          "ans": "B",
+          "exp": "Ở đây taste là hành động (nếm), có thể dùng tiếp diễn."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ that I was wrong about the initial estimates.",
+          "opts": "admit,am admitting,admitted,have admitted",
+          "ans": "A",
+          "exp": "Admit là performative verb."
+        },
+        {
+          "type": "mc",
+          "q": "At 8:00, I ___ usually driving to work.",
+          "opts": "am,be,was,have been",
+          "ans": "A",
+          "exp": "Diễn tả một hành động đang diễn ra tại một thời điểm cụ thể trong lịch trình hàng ngày."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ that we should focus on the marketing strategy first.",
+          "opts": "feel,am feeling,felt,have felt",
+          "ans": "A",
+          "exp": "Feel (có ý kiến) là động từ trạng thái."
+        },
+        {
+          "type": "mc",
+          "q": "They ___ that the road will be closed for three days.",
+          "opts": "say,are saying,said,have said",
+          "ans": "A",
+          "exp": "Reporting verb 'say' dùng ở hiện tại đơn."
+        },
+        {
+          "type": "mc",
+          "q": "The company ___ to expand into the Asian market.",
+          "opts": "plans,is planning,plan,both A & B",
+          "ans": "D",
+          "exp": "Cả hai đều dùng được để nói về kế hoạch tương lai."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ why you're being so difficult today.",
+          "opts": "don't understand,am not understanding,didn't understand,haven't understood",
+          "ans": "A",
+          "exp": "Understand là động từ trạng thái."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (wonder) if you could help me with this task.",
+          "ans": "am wondering",
+          "exp": "Politeness."
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (constantly/complain) about the weather.",
+          "ans": "is constantly complaining",
+          "exp": "Annoying habit."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (hear) you've been promoted. Congratulations!",
+          "ans": "hear",
+          "exp": "Reporting verb."
+        },
+        {
+          "type": "fill",
+          "q": "The chef ___ (taste) the soup right now.",
+          "ans": "is tasting",
+          "exp": "Action verb."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (realise) now that I made a mistake.",
+          "ans": "am realising",
+          "exp": "Changing state."
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (always/lose) his keys when he's in a hurry.",
+          "ans": "is always losing",
+          "exp": "Annoying habit."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (promise) to finish the report by tomorrow.",
+          "ans": "promise",
+          "exp": "Performative verb."
+        },
+        {
+          "type": "fill",
+          "q": "The sun ___ (rise) in the east.",
+          "ans": "rises",
+          "exp": "General truth."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (hope) you can join us for dinner.",
+          "ans": "am hoping",
+          "exp": "Politeness."
+        },
+        {
+          "type": "fill",
+          "q": "Why ___ you ___ (be) so rude today?",
+          "ans": "are being",
+          "exp": "Temporary behavior."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (not/deny) that there are some problems.",
+          "ans": "don't deny",
+          "exp": "Performative verb (negative)."
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (say) it's going to be a cold winter.",
+          "ans": "say",
+          "exp": "Reporting information."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (think) of moving to a new city.",
+          "ans": "am thinking",
+          "exp": "Action of considering."
+        },
+        {
+          "type": "fill",
+          "q": "The plane ___ (take) off at 10 PM.",
+          "ans": "takes",
+          "exp": "Timetable."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (regret) to inform you that your application was unsuccessful.",
+          "ans": "regret",
+          "exp": "Performative verb."
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (forever/talk) about her cats.",
+          "ans": "is forever talking",
+          "exp": "Annoying habit."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (feel) much better now, thank you.",
+          "ans": "am feeling",
+          "exp": "Physical state (can be both)."
+        },
+        {
+          "type": "fill",
+          "q": "The news report ___ (state) that the economy is growing.",
+          "ans": "states",
+          "exp": "Reporting."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (wonder) whether we should invite him.",
+          "ans": "am wondering",
+          "exp": "Politeness."
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (refuse) to accept the terms of the contract.",
+          "ans": "refuses",
+          "exp": "Performative verb."
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "I am wondering if you could help me",
+            "extra": [
+              "wonder",
+              "do",
+              "will"
+            ]
+          },
+          {
+            "words": "he is always leaving his dirty dishes here",
+            "extra": [
+              "always",
+              "leaves",
+              "has"
+            ]
+          },
+          {
+            "words": "I hear that you are moving to Paris",
+            "extra": [
+              "hearing",
+              "will",
+              "moved"
+            ]
+          },
+          {
+            "words": "she is being very patient with the kids",
+            "extra": [
+              "is",
+              "be",
+              "was"
+            ]
+          },
+          {
+            "words": "I promise that I will not be late",
+            "extra": [
+              "promising",
+              "am",
+              "do"
+            ]
+          },
+          {
+            "words": "the chef is tasting the sauce for salt",
+            "extra": [
+              "tastes",
+              "has",
+              "been"
+            ]
+          },
+          {
+            "words": "I am realising how difficult this task is",
+            "extra": [
+              "realise",
+              "do",
+              "have"
+            ]
+          },
+          {
+            "words": "they say that the weather will be fine",
+            "extra": [
+              "saying",
+              "are",
+              "have"
+            ]
+          },
+          {
+            "words": "you are constantly interrupting me during meetings",
+            "extra": [
+              "constantly",
+              "interrupt",
+              "do"
+            ]
+          },
+          {
+            "words": "I am hoping to see you soon again",
+            "extra": [
+              "hope",
+              "do",
+              "will"
+            ]
+          },
+          {
+            "words": "the train leaves at exactly nine o'clock",
+            "extra": [
+              "leaving",
+              "is",
+              "has"
+            ]
+          },
+          {
+            "words": "I am thinking of buying a new car",
+            "extra": [
+              "think",
+              "do",
+              "have"
+            ]
+          },
+          {
+            "words": "he will leave everything until the last minute",
+            "extra": [
+              "is",
+              "leaving",
+              "does"
+            ]
+          },
+          {
+            "words": "I suggest that we start the meeting now",
+            "extra": [
+              "suggesting",
+              "am",
+              "do"
+            ]
+          },
+          {
+            "words": "she is forever complaining about her job",
+            "extra": [
+              "forever",
+              "complains",
+              "has"
+            ]
+          },
+          {
+            "words": "I hear you are starting a new project",
+            "extra": [
+              "hearing",
+              "am",
+              "will"
+            ]
+          },
+          {
+            "words": "it is time that we left the party",
+            "extra": [
+              "leave",
+              "are",
+              "leaving"
+            ]
+          },
+          {
+            "words": "I am wondering whether you have the time",
+            "extra": [
+              "wonder",
+              "do",
+              "will"
+            ]
+          },
+          {
+            "words": "he is being unusually quiet this morning",
+            "extra": [
+              "is",
+              "be",
+              "was"
+            ]
+          },
+          {
+            "words": "I admit that I made a mistake",
+            "extra": [
+              "admitting",
+              "am",
+              "do"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Dear Sarah, I {{1}} to write to you for ages. I {{2}} how busy you must be with the new job. Everyone {{3}} that you're doing a great job. I {{4}} that you're enjoying the challenge. Lately, I {{5}} how much I miss our chats. I {{6}} of visiting you next month. My train {{7}} at 10 AM on Friday. I {{8}} if you could pick me up. I {{9}} that it might be a lot to ask. Anyway, I {{10}} for a positive reply.",
+            "blanks": {
+              "1": "have been meaning",
+              "2": "realise",
+              "3": "says",
+              "4": "hear",
+              "5": "am realising",
+              "6": "am thinking",
+              "7": "leaves",
+              "8": "was wondering",
+              "9": "admit",
+              "10": "am hoping"
+            },
+            "wordbank": [
+              "is",
+              "will",
+              "hear",
+              "leave",
+              "say",
+              "wonder",
+              "hope",
+              "have",
+              "admit",
+              "mean",
+              "do",
+              "think",
+              "realise",
+              "be",
+              "go",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "The match {{1}} now. The referee {{2}} the whistle. Smith {{3}} the ball to Jones. Jones {{4}} it beautifully and {{5}} towards the goal. He {{6}}! The crowd {{7}} wild. This {{8}} a historic moment. The commentator {{9}} that this is the best game ever. We {{10}} a great time here.",
+            "blanks": {
+              "1": "starts",
+              "2": "blows",
+              "3": "passes",
+              "4": "controls",
+              "5": "runs",
+              "6": "shoots",
+              "7": "goes",
+              "8": "is",
+              "9": "says",
+              "10": "are having"
+            },
+            "wordbank": [
+              "is",
+              "will",
+              "shoot",
+              "start",
+              "be",
+              "run",
+              "blow",
+              "go",
+              "say",
+              "have",
+              "control",
+              "do",
+              "pass",
+              "are",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "So I {{1}} into the shop and I {{2}} this amazing dress. I {{3}} it on and it {{4}} perfectly. Suddenly, the manager {{5}} up to me. He {{6}} that the shop is closing. I {{7}} him that I just need a minute. He {{8}} to wait. I {{9}} that I was a bit annoyed. I {{10}} never going back there again.",
+            "blanks": {
+              "1": "walk",
+              "2": "see",
+              "3": "try",
+              "4": "fits",
+              "5": "comes",
+              "6": "says",
+              "7": "tell",
+              "8": "refuses",
+              "9": "admit",
+              "10": "am"
+            },
+            "wordbank": [
+              "is",
+              "refuse",
+              "walk",
+              "will",
+              "come",
+              "was",
+              "tell",
+              "fit",
+              "say",
+              "be",
+              "try",
+              "admit",
+              "see",
+              "do",
+              "have",
+              "go",
+              "take",
+              "get",
+              "make",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "The government {{1}} a new law today. The Prime Minister {{2}} a speech at noon. Critics {{3}} that it won't work. However, supporters {{4}} that it's necessary. I {{5}} that the situation is complex. People {{6}} constantly about the changes. I {{7}} if there's a better way. We {{8}} currently for more data. The report {{9}} that the impact will be positive. I {{10}} to see the results soon.",
+            "blanks": {
+              "1": "announces",
+              "2": "gives",
+              "3": "claim",
+              "4": "argue",
+              "5": "realise",
+              "6": "are complaining",
+              "7": "wonder",
+              "8": "are waiting",
+              "9": "states",
+              "10": "hope"
+            },
+            "wordbank": [
+              "is",
+              "will",
+              "argue",
+              "announce",
+              "give",
+              "wonder",
+              "hope",
+              "state",
+              "wait",
+              "claim",
+              "do",
+              "realise",
+              "complain",
+              "are",
+              "be",
+              "have",
+              "go",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "I {{1}} my coffee when the phone {{2}}. It's my boss. He {{3}} that I need to come in. I {{4}} him that I'm on holiday. He {{5}} always calling me at the wrong time! I {{6}} to lose my patience. I {{7}} if I should quit. My friend {{8}} me that I should wait. I {{9}} his advice for now. I {{10}} to have a peaceful day.",
+            "blanks": {
+              "1": "am drinking",
+              "2": "rings",
+              "3": "says",
+              "4": "tell",
+              "5": "is",
+              "6": "am starting",
+              "7": "wonder",
+              "8": "tells",
+              "9": "am taking",
+              "10": "hope"
+            },
+            "wordbank": [
+              "drink",
+              "take",
+              "is",
+              "will",
+              "start",
+              "tell",
+              "be",
+              "say",
+              "wonder",
+              "hope",
+              "ring",
+              "do",
+              "are",
+              "have",
+              "go",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Present Simple and Continuous. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Present Simple and Continuous",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Present Simple and Continuous. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Present Simple and Continuous",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Present Simple and Continuous. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Present Simple and Continuous",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Present Simple and Continuous. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Present Simple and Continuous",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Present Simple and Continuous. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Present Simple and Continuous",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        }
+      ]
+    },
+    {
+      "icon": "📜",
+      "title": "Advanced Past Tenses",
+      "level": "advanced",
+      "badge": "🎓 C1",
+      "badgeClass": "badge-purple",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Advanced Past Simple</div><ul><li><b>Politeness:</b> Dùng để làm yêu cầu/câu hỏi bớt trực diện. <br><i>I <b>wanted</b> to ask if you were free.</i></li><li><b>Unreal Meaning:</b> Dùng sau <i>I wish, I'd rather, It's time, as if</i> để nói về hiện tại giả định. <br><i>It's time we <b>left</b>.</i></li></ul></div><div class=\"rule-box\"><div class=\"rule-label\">📌 Advanced Past Continuous</div><ul><li><b>Irritation:</b> Thói quen gây khó chịu trong quá khứ (always, constantly). <br><i>He <b>was always interrupting</b> me!</i></li><li><b>Temporary Period:</b> Nhấn mạnh hành động lặp lại trong một khoảng thời gian tạm thời. <br><i>During that week, I <b>was studying</b> late every night.</i></li><li><b>Tentativeness:</b> Rất lịch sự khi đưa ra yêu cầu. <br><i>I <b>was wondering</b> if you could help me.</i></li></ul></div><div class=\"rule-box\"><div class=\"rule-label\">📌 Advanced Past Perfect</div><ul><li><b>Unmet expectations:</b> Hy vọng/mong đợi không thành (hope, expect, think). <br><i>I <b>had hoped</b> you would call.</i></li><li><b>Deduction/Speculation:</b> Suy luận về điều đã xảy ra trước một thời điểm quá khứ. <br><i>He <b>had</b> obviously <b>forgotten</b>.</i></li><li><b>Cause of state:</b> Giải thích nguyên nhân cho một trạng thái trong quá khứ. <br><i>She was tired because she <b>had been working</b> all day.</i></li></ul></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "I ___ if you could help me with the luggage.",
+          "opts": "wondered,was wondering,had wondered,wonder",
+          "ans": "B",
+          "exp": "Past continuous (was wondering) dùng để đưa ra yêu cầu một cách rất lịch sự và tế nhị."
+        },
+        {
+          "type": "mc",
+          "q": "It's high time we ___ home; it's getting very late.",
+          "opts": "go,went,had gone,are going",
+          "ans": "B",
+          "exp": "Cấu trúc 'It's time + S + V2/ed' dùng để diễn tả việc lẽ ra đã phải làm."
+        },
+        {
+          "type": "mc",
+          "q": "He ___ his dirty socks on the floor, which drove me crazy.",
+          "opts": "always left,was always leaving,had always left,always leaves",
+          "ans": "B",
+          "exp": "Past continuous + always diễn tả thói quen gây khó chịu trong quá khứ."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ that you would be able to join us for dinner.",
+          "opts": "hoped,was hoping,had hoped,hope",
+          "ans": "C",
+          "exp": "Past perfect (had hoped) diễn tả một hy vọng trong quá khứ nhưng không thành hiện thực."
+        },
+        {
+          "type": "mc",
+          "q": "She was exhausted because she ___ for over ten hours.",
+          "opts": "worked,was working,had been working,has been working",
+          "ans": "C",
+          "exp": "Past perfect continuous diễn tả nguyên nhân kéo dài dẫn đến một trạng thái trong quá khứ."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ to speak with the manager, if he's available.",
+          "opts": "wanted,was wanting,had wanted,want",
+          "ans": "A",
+          "exp": "Past simple (wanted) dùng để làm câu hỏi bớt trực diện và lịch sự hơn."
+        },
+        {
+          "type": "mc",
+          "q": "He looked as if he ___ a ghost.",
+          "opts": "saw,was seeing,had seen,sees",
+          "ans": "C",
+          "exp": "As if + Past perfect diễn tả một giả định không có thật trong quá khứ."
+        },
+        {
+          "type": "mc",
+          "q": "During my stay in Paris, I ___ the Louvre every morning.",
+          "opts": "visited,was visiting,had visited,visit",
+          "ans": "B",
+          "exp": "Past continuous nhấn mạnh hành động lặp lại trong một khoảng thời gian tạm thời."
+        },
+        {
+          "type": "mc",
+          "q": "By the time we arrived, the meeting ___.",
+          "opts": "finished,was finishing,had finished,finishes",
+          "ans": "C",
+          "exp": "Hành động xảy ra trước một thời điểm trong quá khứ dùng Past perfect."
+        },
+        {
+          "type": "mc",
+          "q": "I wish I ___ the answer to that question yesterday.",
+          "opts": "knew,had known,know,have known",
+          "ans": "B",
+          "exp": "Wish + Past perfect diễn tả sự hối tiếc về một việc trong quá khứ."
+        },
+        {
+          "type": "mc",
+          "q": "They ___ for hours when they finally found the trail.",
+          "opts": "walked,were walking,had been walking,have been walking",
+          "ans": "C",
+          "exp": "Nhấn mạnh quá trình kéo dài trước một hành động khác trong quá khứ."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ to tell you earlier, but I forgot.",
+          "opts": "meant,was meaning,had meant,mean",
+          "ans": "A",
+          "exp": "Past simple cho ý định trong quá khứ."
+        },
+        {
+          "type": "mc",
+          "q": "She ___ constantly about her boss back then.",
+          "opts": "complained,was complaining,had complained,complains",
+          "ans": "B",
+          "exp": "Thói quen gây khó chịu trong quá khứ."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ that we had already settled this matter.",
+          "opts": "thought,was thinking,had thought,think",
+          "ans": "A",
+          "exp": "Politeness/Softening."
+        },
+        {
+          "type": "mc",
+          "q": "The room was messy; the children ___ there all afternoon.",
+          "opts": "played,were playing,had been playing,have played",
+          "ans": "C",
+          "exp": "Deduction based on evidence in the past."
+        },
+        {
+          "type": "mc",
+          "q": "I'd rather you ___ so much noise last night.",
+          "opts": "didn't make,hadn't made,don't make,haven't made",
+          "ans": "B",
+          "exp": "Would rather + S + Past perfect cho sự hối tiếc về quá khứ."
+        },
+        {
+          "type": "mc",
+          "q": "He ___ to be the winner, but he came in second.",
+          "opts": "expected,was expecting,had expected,expects",
+          "ans": "C",
+          "exp": "Unmet expectation."
+        },
+        {
+          "type": "mc",
+          "q": "We ___ if you might have a spare room for the night.",
+          "opts": "wondered,were wondering,had wondered,wonder",
+          "ans": "B",
+          "exp": "Tentative request."
+        },
+        {
+          "type": "mc",
+          "q": "She ___ all day, so she was ready for a break.",
+          "opts": "studied,was studying,had been studying,has been studying",
+          "ans": "C",
+          "exp": "Cause of state."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ that you were coming today!",
+          "opts": "didn't know,wasn't knowing,hadn't known,don't know",
+          "ans": "A",
+          "exp": "State verb in the past."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (wonder) if you could lend me your car for the weekend.",
+          "ans": "was wondering",
+          "exp": "Polite request."
+        },
+        {
+          "type": "fill",
+          "q": "It's time the children ___ (be) in bed.",
+          "ans": "were",
+          "exp": "Unreal present."
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (always/interrupt) me when I was trying to speak.",
+          "ans": "was always interrupting",
+          "exp": "Irritation."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (had/hope) for a better result, but I'm satisfied.",
+          "ans": "had hoped",
+          "exp": "Unmet expectation."
+        },
+        {
+          "type": "fill",
+          "q": "He was out of breath because he ___ (run).",
+          "ans": "had been running",
+          "exp": "Cause of state."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (want) to ask you about your plans for the summer.",
+          "ans": "wanted",
+          "exp": "Politeness."
+        },
+        {
+          "type": "fill",
+          "q": "I wish I ___ (not/say) that to her yesterday.",
+          "ans": "hadn't said",
+          "exp": "Regret about the past."
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (constantly/argue) during the entire trip.",
+          "ans": "were constantly arguing",
+          "exp": "Irritation."
+        },
+        {
+          "type": "fill",
+          "q": "By the time I got there, they ___ (already/leave).",
+          "ans": "had already left",
+          "exp": "Past action before another past action."
+        },
+        {
+          "type": "fill",
+          "q": "He talked as if he ___ (know) everything about the subject.",
+          "ans": "knew",
+          "exp": "Unreal present (as if)."
+        },
+        {
+          "type": "fill",
+          "q": "During that month, we ___ (visit) our grandparents every day.",
+          "ans": "were visiting",
+          "exp": "Temporary repeated action."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (expect) the movie to be better, to be honest.",
+          "ans": "had expected",
+          "exp": "Unmet expectation."
+        },
+        {
+          "type": "fill",
+          "q": "She was red in the face because she ___ (cry).",
+          "ans": "had been crying",
+          "exp": "Deduction/Cause."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (think) we were supposed to meet at 5:00?",
+          "ans": "thought",
+          "exp": "Politeness/Softening."
+        },
+        {
+          "type": "fill",
+          "q": "I'd rather you ___ (not/tell) him the truth yet.",
+          "ans": "didn't tell",
+          "exp": "Unreal present preference."
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (work) on the project for months before it was cancelled.",
+          "ans": "had been working",
+          "exp": "Duration before past point."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (wonder) whether you had seen my glasses.",
+          "ans": "was wondering",
+          "exp": "Polite inquiry."
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (forever/forget) his umbrella in the office.",
+          "ans": "was forever forgetting",
+          "exp": "Irritation."
+        },
+        {
+          "type": "fill",
+          "q": "The ground was wet because it ___ (rain) all night.",
+          "ans": "had been raining",
+          "exp": "Cause of state."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (hope) you could give me some advice.",
+          "ans": "was hoping",
+          "exp": "Tentative request."
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "I was wondering if you could help me",
+            "extra": [
+              "wonder",
+              "do",
+              "will"
+            ]
+          },
+          {
+            "words": "he was always leaving his dirty socks there",
+            "extra": [
+              "always",
+              "leaves",
+              "has"
+            ]
+          },
+          {
+            "words": "I had hoped that you would call me",
+            "extra": [
+              "hoped",
+              "have",
+              "will"
+            ]
+          },
+          {
+            "words": "it is time that we went home now",
+            "extra": [
+              "go",
+              "are",
+              "going"
+            ]
+          },
+          {
+            "words": "she had been working all day and was tired",
+            "extra": [
+              "worked",
+              "has",
+              "been"
+            ]
+          },
+          {
+            "words": "I wanted to ask you a quick question",
+            "extra": [
+              "want",
+              "am",
+              "asking"
+            ]
+          },
+          {
+            "words": "he looked as if he had seen a ghost",
+            "extra": [
+              "saw",
+              "has",
+              "seen"
+            ]
+          },
+          {
+            "words": "we were constantly arguing about the small things",
+            "extra": [
+              "constantly",
+              "argue",
+              "did"
+            ]
+          },
+          {
+            "words": "I wish I had known the truth earlier",
+            "extra": [
+              "knew",
+              "know",
+              "have"
+            ]
+          },
+          {
+            "words": "they were visiting her every day in hospital",
+            "extra": [
+              "visited",
+              "have",
+              "been"
+            ]
+          },
+          {
+            "words": "I'd rather you had not told him yet",
+            "extra": [
+              "didn't",
+              "not",
+              "have"
+            ]
+          },
+          {
+            "words": "by the time we arrived the show had started",
+            "extra": [
+              "starts",
+              "was",
+              "has"
+            ]
+          },
+          {
+            "words": "she was crying because she had lost her dog",
+            "extra": [
+              "lost",
+              "has",
+              "been"
+            ]
+          },
+          {
+            "words": "I thought we agreed to meet on Tuesday",
+            "extra": [
+              "think",
+              "do",
+              "agree"
+            ]
+          },
+          {
+            "words": "he was forever complaining about his low salary",
+            "extra": [
+              "forever",
+              "complains",
+              "does"
+            ]
+          },
+          {
+            "words": "we were hoping you might explain the plan",
+            "extra": [
+              "hope",
+              "do",
+              "will"
+            ]
+          },
+          {
+            "words": "the room was silent because they had argued",
+            "extra": [
+              "argued",
+              "have",
+              "been"
+            ]
+          },
+          {
+            "words": "I was wondering whether you were free tonight",
+            "extra": [
+              "wonder",
+              "do",
+              "will"
+            ]
+          },
+          {
+            "words": "it was time the children were in bed",
+            "extra": [
+              "are",
+              "be",
+              "been"
+            ]
+          },
+          {
+            "words": "I had expected the results to be better",
+            "extra": [
+              "expect",
+              "have",
+              "been"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Last night {{1}} a disaster. I {{2}} for hours when the power went out. I {{3}} that I would finish the report. I {{4}} if you could give me an extension. I {{5}} to call you, but my phone {{6}} dead. I {{7}} so hard all week. I {{8}} exhausted. I wish I {{9}} more careful with my battery. It {{10}} time I bought a new laptop.",
+            "blanks": {
+              "1": "was",
+              "2": "had been working",
+              "3": "had hoped",
+              "4": "was wondering",
+              "5": "wanted",
+              "6": "was",
+              "7": "had been working",
+              "8": "was",
+              "9": "had been",
+              "10": "was"
+            },
+            "wordbank": [
+              "will",
+              "be",
+              "wonder",
+              "been",
+              "hope",
+              "have",
+              "work",
+              "do",
+              "want",
+              "go",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "When I {{1}} him, he {{2}} very strange. He {{3}} as if he {{4}} something. I {{5}} if he was okay. He {{6}} always acting like that. I {{7}} that he would be more open. He {{8}} for a long time. His eyes {{9}} red. He {{10}} obviously been crying.",
+            "blanks": {
+              "1": "saw",
+              "2": "looked",
+              "3": "acted",
+              "4": "had hidden",
+              "5": "wondered",
+              "6": "was",
+              "7": "had hoped",
+              "8": "had been crying",
+              "9": "were",
+              "10": "had"
+            },
+            "wordbank": [
+              "is",
+              "will",
+              "look",
+              "was",
+              "act",
+              "be",
+              "wonder",
+              "cry",
+              "hope",
+              "have",
+              "do",
+              "see",
+              "hide",
+              "go",
+              "take",
+              "get",
+              "make",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "During my childhood, we {{1}} to the beach every summer. My brother {{2}} always teasing me. I {{3}} that he would stop. One day, I {{4}} enough. I {{5}} to tell my parents. They {{6}} already noticed his behavior. It {{7}} time he {{8}} a lesson. I wish I {{9}} more assertive back then. We {{10}} much happier now if I had been.",
+            "blanks": {
+              "1": "were going",
+              "2": "was",
+              "3": "had hoped",
+              "4": "had",
+              "5": "wanted",
+              "6": "had",
+              "7": "was",
+              "8": "learned",
+              "9": "had been",
+              "10": "would be"
+            },
+            "wordbank": [
+              "is",
+              "will",
+              "was",
+              "learn",
+              "be",
+              "go",
+              "hope",
+              "have",
+              "do",
+              "want",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "The office {{1}} quiet when I {{2}}. Everyone {{3}} home. I {{4}} that some people would still be there. I {{5}} if I could find the files. I {{6}} for them all morning. I {{7}} exhausted. I {{8}} as if I {{9}} a marathon. It {{10}} time I took a break.",
+            "blanks": {
+              "1": "was",
+              "2": "arrived",
+              "3": "had gone",
+              "4": "had hoped",
+              "5": "was wondering",
+              "6": "had been looking",
+              "7": "was",
+              "8": "felt",
+              "9": "had run",
+              "10": "was"
+            },
+            "wordbank": [
+              "arrive",
+              "feel",
+              "is",
+              "will",
+              "look",
+              "was",
+              "be",
+              "wonder",
+              "go",
+              "hope",
+              "run",
+              "do",
+              "have",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "She {{1}} me that she {{2}} the book. I {{3}} to borrow it. I {{4}} if she still had it. She {{5}} always losing things. I {{6}} that she would be more careful. She {{7}} for it for an hour. She {{8}} very frustrated. I wish I {{9}} her to keep it safe. It {{10}} time she got organized.",
+            "blanks": {
+              "1": "told",
+              "2": "had finished",
+              "3": "wanted",
+              "4": "was wondering",
+              "5": "was",
+              "6": "had hoped",
+              "7": "had been looking",
+              "8": "was",
+              "9": "had told",
+              "10": "was"
+            },
+            "wordbank": [
+              "is",
+              "will",
+              "look",
+              "was",
+              "tell",
+              "be",
+              "wonder",
+              "hope",
+              "do",
+              "finish",
+              "want",
+              "have",
+              "go",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Past Tenses. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Past Tenses",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Past Tenses. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Past Tenses",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Past Tenses. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Past Tenses",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Past Tenses. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Past Tenses",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Past Tenses. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Past Tenses",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        }
+      ]
+    },
+    {
+      "icon": "🎭",
+      "title": "Advanced Modals: Will, Would, Should",
+      "level": "advanced",
+      "badge": "🎓 C1",
+      "badgeClass": "badge-purple",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Advanced Will</div><ul><li><b>Habits/Typical behavior:</b> Thói quen đặc trưng. <br><i>He <b>will</b> sit there for hours doing nothing.</i></li><li><b>Assumptions:</b> Giả định về hiện tại. <br><i>That'<b>ll</b> be the postman.</i></li><li><b>Deductions about past:</b> Suy luận về quá khứ (will have + V3). <br><i>He <b>will have forgotten</b> the meeting.</i></li><li><b>Criticism:</b> Chỉ trích thói quen gây khó chịu. <br><i>If you <b>will</b> eat so much chocolate, you can't complain about your weight.</i></li></ul></div><div class=\"rule-box\"><div class=\"rule-label\">📌 Advanced Would</div><ul><li><b>Past habits:</b> Thói quen trong quá khứ. <br><i>My dad <b>would</b> always fall asleep on the sofa.</i></li><li><b>Past refusal:</b> Từ chối trong quá khứ (wouldn't). <br><i>The car <b>wouldn't</b> start this morning.</i></li><li><b>Tentative opinions:</b> Ý kiến nhẹ nhàng, lịch sự. <br><i>I <b>would</b> say that's a bit risky.</i></li></ul></div><div class=\"rule-box\"><div class=\"rule-label\">📌 Advanced Should</div><ul><li><b>Probability/Expectation:</b> Điều gì đó nên/sẽ xảy ra theo dự tính. <br><i>They <b>should</b> be here by now.</i></li><li><b>Hypothetical (If):</b> Dùng thay 'if' trong văn phong trang trọng. <br><i><b>Should</b> you need any help, let me know.</i></li><li><b>Subjunctive:</b> Sau các động từ suggest, insist. <br><i>I suggest that he <b>should</b> apologize.</i></li></ul></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "That ___ be the pizza delivery guy. I ordered 20 minutes ago.",
+          "opts": "will,would,should,must",
+          "ans": "A",
+          "exp": "Will dùng cho giả định về hiện tại (assumption)."
+        },
+        {
+          "type": "mc",
+          "q": "If you ___ insist on being late, you'll lose your job.",
+          "opts": "will,would,should,shall",
+          "ans": "A",
+          "exp": "Will dùng để chỉ trích một thói quen cố chấp."
+        },
+        {
+          "type": "mc",
+          "q": "Every evening, my grandfather ___ sit by the fire and tell us stories.",
+          "opts": "will,would,should,must",
+          "ans": "B",
+          "exp": "Would dùng cho thói quen đặc trưng trong quá khứ."
+        },
+        {
+          "type": "mc",
+          "q": "___ you require any further assistance, please do not hesitate to contact us.",
+          "opts": "Should,Would,Will,If",
+          "ans": "A",
+          "exp": "Should đảo ngữ thay cho 'If' trong văn phong trang trọng."
+        },
+        {
+          "type": "mc",
+          "q": "He ___ the message by now; I sent it two hours ago.",
+          "opts": "will have seen,would have seen,should have seen,must have seen",
+          "ans": "A",
+          "exp": "Will have + V3 dùng cho suy luận về một việc chắc chắn đã xảy ra."
+        },
+        {
+          "type": "mc",
+          "q": "I tried to explain the situation, but she ___ listen.",
+          "opts": "won't,wouldn't,shouldn't,can't",
+          "ans": "B",
+          "exp": "Wouldn't diễn tả sự từ chối trong quá khứ."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ say that this is the best solution we have.",
+          "opts": "will,would,should,shall",
+          "ans": "B",
+          "exp": "Would làm cho ý kiến trở nên nhẹ nhàng, bớt khẳng định hơn."
+        },
+        {
+          "type": "mc",
+          "q": "The package ___ have arrived yesterday, but there was a delay.",
+          "opts": "will,would,should,must",
+          "ans": "C",
+          "exp": "Should have + V3 diễn tả một việc lẽ ra phải xảy ra nhưng không."
+        },
+        {
+          "type": "mc",
+          "q": "Whenever I ask him for help, he ___ always find an excuse.",
+          "opts": "will,would,should,must",
+          "ans": "A",
+          "exp": "Will diễn tả thói quen đặc trưng ở hiện tại."
+        },
+        {
+          "type": "mc",
+          "q": "I suggest that he ___ more careful in the future.",
+          "opts": "should be,would be,will be,is",
+          "ans": "A",
+          "exp": "Should dùng sau động từ gợi ý (subjunctive-like)."
+        },
+        {
+          "type": "mc",
+          "q": "The car ___ start this morning, so I took the bus.",
+          "opts": "won't,wouldn't,shouldn't,doesn't",
+          "ans": "B",
+          "exp": "Past refusal (vật vô tri)."
+        },
+        {
+          "type": "mc",
+          "q": "You ___ have told me you were coming! I haven't prepared anything.",
+          "opts": "will,would,should,must",
+          "ans": "C",
+          "exp": "Criticism of past behavior (should have)."
+        },
+        {
+          "type": "mc",
+          "q": "That ___ be Mary on the phone. She said she'd call around this time.",
+          "opts": "will,would,should,must",
+          "ans": "A",
+          "exp": "Assumption about present."
+        },
+        {
+          "type": "mc",
+          "q": "In the old days, people ___ spend their evenings talking instead of watching TV.",
+          "opts": "will,would,should,must",
+          "ans": "B",
+          "exp": "Past habit."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ imagine that he's quite upset about the news.",
+          "opts": "will,would,should,shall",
+          "ans": "B",
+          "exp": "Tentative opinion."
+        },
+        {
+          "type": "mc",
+          "q": "He ___ finished his homework by now; he's been at it for hours.",
+          "opts": "will have,would have,should have,must have",
+          "ans": "A",
+          "exp": "Deduction about past."
+        },
+        {
+          "type": "mc",
+          "q": "___ anything go wrong, call me immediately.",
+          "opts": "Should,Would,Will,If",
+          "ans": "A",
+          "exp": "Formal conditional (Should)."
+        },
+        {
+          "type": "mc",
+          "q": "She ___ always leave her umbrella on the bus.",
+          "opts": "will,would,should,must",
+          "ans": "A",
+          "exp": "Characteristic habit (annoying)."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ think that we need more time to decide.",
+          "opts": "will,would,should,shall",
+          "ans": "B",
+          "exp": "Tentative opinion."
+        },
+        {
+          "type": "mc",
+          "q": "He ___ be at home now; his car is in the driveway.",
+          "opts": "will,would,should,must",
+          "ans": "C",
+          "exp": "Probability/Expectation."
+        },
+        {
+          "type": "fill",
+          "q": "___ you see him, tell him I'm looking for him.",
+          "ans": "Should",
+          "exp": "Formal 'if'."
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (always/interrupt) people when they are talking.",
+          "ans": "will always interrupt",
+          "exp": "Characteristic habit."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (say) that it's a bit too expensive.",
+          "ans": "would say",
+          "exp": "Tentative opinion."
+        },
+        {
+          "type": "fill",
+          "q": "The door ___ (not/open) no matter how hard I pushed.",
+          "ans": "wouldn't open",
+          "exp": "Past refusal."
+        },
+        {
+          "type": "fill",
+          "q": "By now, they ___ (arrive) at the hotel.",
+          "ans": "will have arrived",
+          "exp": "Deduction about past."
+        },
+        {
+          "type": "fill",
+          "q": "If you ___ (will/smoke) so much, you must expect to cough.",
+          "ans": "will smoke",
+          "exp": "Criticism of habit."
+        },
+        {
+          "type": "fill",
+          "q": "When we lived in the country, we ___ (go) for long walks.",
+          "ans": "would go",
+          "exp": "Past habit."
+        },
+        {
+          "type": "fill",
+          "q": "That ___ (be) the postman at the door.",
+          "ans": "will be",
+          "exp": "Assumption."
+        },
+        {
+          "type": "fill",
+          "q": "You ___ (tell) me you were struggling!",
+          "ans": "should have told",
+          "exp": "Criticism of past action."
+        },
+        {
+          "type": "fill",
+          "q": "I suggest that she ___ (apply) for the job.",
+          "ans": "should apply",
+          "exp": "Subjunctive use."
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (sit) and stare out of the window for hours.",
+          "ans": "will sit",
+          "exp": "Present habit."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (imagine) it's quite difficult for them.",
+          "ans": "would imagine",
+          "exp": "Tentative opinion."
+        },
+        {
+          "type": "fill",
+          "q": "___ you change your mind, let us know.",
+          "ans": "Should",
+          "exp": "Formal conditional."
+        },
+        {
+          "type": "fill",
+          "q": "My car ___ (not/start) this morning.",
+          "ans": "wouldn't start",
+          "exp": "Past refusal."
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (forget) his keys again, I'm sure.",
+          "ans": "will have forgotten",
+          "exp": "Deduction."
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (expect) better results from the team.",
+          "ans": "should have expected",
+          "exp": "Past expectation (unmet)."
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (will/be) late, she always is.",
+          "ans": "will be",
+          "exp": "Assumption/Habit."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (think) that's a great idea.",
+          "ans": "would think",
+          "exp": "Tentative opinion."
+        },
+        {
+          "type": "fill",
+          "q": "___ there be any problems, contact support.",
+          "ans": "Should",
+          "exp": "Formal conditional."
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (will/not/listen) to any advice.",
+          "ans": "won't listen",
+          "exp": "Present refusal."
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "that will be the postman at the door",
+            "extra": [
+              "is",
+              "be",
+              "was"
+            ]
+          },
+          {
+            "words": "he will always leave his dirty dishes here",
+            "extra": [
+              "is",
+              "always",
+              "does"
+            ]
+          },
+          {
+            "words": "should you need help please let me know",
+            "extra": [
+              "if",
+              "do",
+              "will"
+            ]
+          },
+          {
+            "words": "I would say that it is too risky",
+            "extra": [
+              "will",
+              "saying",
+              "be"
+            ]
+          },
+          {
+            "words": "he will have forgotten about the meeting again",
+            "extra": [
+              "has",
+              "forgot",
+              "is"
+            ]
+          },
+          {
+            "words": "the car wouldn't start no matter what I did",
+            "extra": [
+              "won't",
+              "not",
+              "does"
+            ]
+          },
+          {
+            "words": "I would imagine that she is quite upset",
+            "extra": [
+              "will",
+              "be",
+              "am"
+            ]
+          },
+          {
+            "words": "should anything go wrong call me immediately now",
+            "extra": [
+              "if",
+              "will",
+              "does"
+            ]
+          },
+          {
+            "words": "he will sit for hours doing absolutely nothing",
+            "extra": [
+              "is",
+              "sitting",
+              "does"
+            ]
+          },
+          {
+            "words": "you should have told me about the change",
+            "extra": [
+              "will",
+              "have",
+              "told"
+            ]
+          },
+          {
+            "words": "I would think that we need more time",
+            "extra": [
+              "will",
+              "thinking",
+              "do"
+            ]
+          },
+          {
+            "words": "she will always find something to complain about",
+            "extra": [
+              "is",
+              "finding",
+              "does"
+            ]
+          },
+          {
+            "words": "should you change your mind please call us",
+            "extra": [
+              "if",
+              "do",
+              "will"
+            ]
+          },
+          {
+            "words": "that will be Mary calling us right now",
+            "extra": [
+              "is",
+              "be",
+              "was"
+            ]
+          },
+          {
+            "words": "I would say that he is very talented",
+            "extra": [
+              "will",
+              "saying",
+              "be"
+            ]
+          },
+          {
+            "words": "he will have seen the news by now",
+            "extra": [
+              "has",
+              "saw",
+              "is"
+            ]
+          },
+          {
+            "words": "the printer wouldn't work when I needed it",
+            "extra": [
+              "won't",
+              "not",
+              "does"
+            ]
+          },
+          {
+            "words": "I would imagine that they are very happy",
+            "extra": [
+              "will",
+              "be",
+              "am"
+            ]
+          },
+          {
+            "words": "should there be a delay we will inform",
+            "extra": [
+              "if",
+              "will",
+              "is"
+            ]
+          },
+          {
+            "words": "he will always insist on having his way",
+            "extra": [
+              "is",
+              "insisting",
+              "does"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Every morning, my cat {{1}} sit by the window and watch the birds. If I {{2}} try to move her, she {{3}} hiss at me. I {{4}} say she's quite territorial. By now, she {{5}} caught a few flies. {{6}} you ever visit me, you {{7}} see her there. I {{8}} have bought a bigger window for her. That {{9}} be her now, scratching the glass. She {{10}} not stop until I open it.",
+            "blanks": {
+              "1": "will",
+              "2": "should",
+              "3": "will",
+              "4": "would",
+              "5": "will have",
+              "6": "Should",
+              "7": "will",
+              "8": "should",
+              "9": "will",
+              "10": "will"
+            },
+            "wordbank": [
+              "should",
+              "is",
+              "will",
+              "be",
+              "will have",
+              "Should",
+              "have",
+              "do",
+              "would",
+              "go",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "In the past, people {{1}} spend hours writing letters. They {{2}} wait weeks for a reply. I {{3}} imagine it was very frustrating. {{4}} a letter get lost, they {{5}} have to write it again. My grandmother {{6}} tell me stories about it. She {{7}} have written hundreds of letters. I {{8}} say we are lucky today. {{9}} you need to talk to someone, you {{10}} just call them.",
+            "blanks": {
+              "1": "would",
+              "2": "would",
+              "3": "would",
+              "4": "Should",
+              "5": "would",
+              "6": "would",
+              "7": "will have",
+              "8": "would",
+              "9": "Should",
+              "10": "will"
+            },
+            "wordbank": [
+              "is",
+              "will",
+              "be",
+              "will have",
+              "Should",
+              "have",
+              "do",
+              "would",
+              "go",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "He {{1}} always leave his shoes in the hallway. I {{2}} have told him a thousand times. If he {{3}} be so messy, he {{4}} expect me to be angry. That {{5}} be him coming home now. He {{6}} have forgotten his keys again. {{7}} he ring the bell, I {{8}} not answer. I {{9}} say he needs to learn a lesson. {{10}} you agree with me?",
+            "blanks": {
+              "1": "will",
+              "2": "should",
+              "3": "will",
+              "4": "should",
+              "5": "will",
+              "6": "will have",
+              "7": "Should",
+              "8": "will",
+              "9": "would",
+              "10": "Would"
+            },
+            "wordbank": [
+              "should",
+              "is",
+              "will",
+              "Would",
+              "be",
+              "will have",
+              "Should",
+              "have",
+              "do",
+              "would",
+              "go",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "The project {{1}} be finished by Friday. {{2}} there be any delays, we {{3}} have to work late. I {{4}} say we are on track. He {{5}} have sent the files by now. That {{6}} be the email notification. He {{7}} always wait until the last minute. I {{8}} imagine he's very stressed. {{9}} you see him, {{10}} you tell him to relax?",
+            "blanks": {
+              "1": "should",
+              "2": "Should",
+              "3": "will",
+              "4": "would",
+              "5": "will have",
+              "6": "will",
+              "7": "will",
+              "8": "would",
+              "9": "Should",
+              "10": "would"
+            },
+            "wordbank": [
+              "should",
+              "is",
+              "will",
+              "be",
+              "will have",
+              "Should",
+              "have",
+              "do",
+              "would",
+              "go",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "My car {{1}} not start this morning. I {{2}} have checked the battery yesterday. {{3}} I have known, I {{4}} have taken the bus. That {{5}} be the mechanic calling now. He {{6}} have found the problem. I {{7}} say it's going to be expensive. {{8}} you have a spare car, I {{9}} borrow it. {{10}} that be possible?",
+            "blanks": {
+              "1": "would",
+              "2": "should",
+              "3": "Should",
+              "4": "would",
+              "5": "will",
+              "6": "will have",
+              "7": "would",
+              "8": "Should",
+              "9": "would",
+              "10": "Would"
+            },
+            "wordbank": [
+              "should",
+              "is",
+              "will",
+              "Would",
+              "be",
+              "will have",
+              "Should",
+              "have",
+              "do",
+              "would",
+              "go",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Modals: Will, Would, Should. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Modals: Will, Would, Should",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Modals: Will, Would, Should. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Modals: Will, Would, Should",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Modals: Will, Would, Should. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Modals: Will, Would, Should",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Modals: Will, Would, Should. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Modals: Will, Would, Should",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Modals: Will, Would, Should. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Modals: Will, Would, Should",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        }
+      ]
+    },
+    {
+      "icon": "🌟",
+      "title": "Advanced Modals: Can, Able To, May, Might",
+      "level": "advanced",
+      "badge": "🎓 C1",
+      "badgeClass": "badge-purple",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Can, Could & Be Able To</div><ul><li><b>Ability:</b> <i>Can</i> được ưu tiên cho hiện tại, trước câu bị động và kỹ năng. <br><i>The results <b>can</b> be viewed online.</i></li><li><b>Past Specific Action:</b> Dùng <i>was/were able to</i> cho một hành động cụ thể thành công trong quá khứ. <br><i>We <b>were able to</b> finish on time despite the traffic.</i></li><li><b>General vs Specific Possibility:</b> <i>Can</i> cho khả năng chung, <i>Could</i> cho khả năng cụ thể. <br><i>Working from home <b>can</b> be lonely. It <b>could</b> rain later.</i></li><li><b>Impossible:</b> Dùng <i>can't</i> (không dùng <i>couldn't</i>) để nói điều gì đó là không thể. <br><i>He <b>can't</b> be serious!</i></li></ul></div><div class=\"rule-box\"><div class=\"rule-label\">📌 May & Might</div><ul><li><b>Register:</b> <i>May</i> trang trọng hơn, thường dùng trong văn phong học thuật. <br><i>High temperatures <b>may</b> affect performance.</i></li><li><b>May/Might well:</b> Khả năng xảy ra cao hơn. <br><i>It <b>may well</b> take longer than expected.</i></li><li><b>May/Might as well:</b> Gợi ý làm gì đó vì không còn lựa chọn tốt hơn. <br><i>We <b>might as well</b> leave now.</i></li><li><b>Concession:</b> Dùng <i>may</i> để nhượng bộ trước khi đưa ra ý kiến trái ngược. <br><i>He <b>may</b> be rich, but he's not happy.</i></li></ul></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "Despite the heavy rain, we ___ to reach the summit.",
+          "opts": "could,were able to,can,may",
+          "ans": "B",
+          "exp": "Dùng were able to cho một thành công cụ thể trong quá khứ."
+        },
+        {
+          "type": "mc",
+          "q": "The lights are on; someone ___ be inside.",
+          "opts": "can,could,may,both B & C",
+          "ans": "D",
+          "exp": "Could/May dùng cho khả năng cụ thể."
+        },
+        {
+          "type": "mc",
+          "q": "That ___ be the right answer; it's completely illogical.",
+          "opts": "can't,couldn't,may not,might not",
+          "ans": "A",
+          "exp": "Can't dùng để phủ định sự chắc chắn (không thể nào)."
+        },
+        {
+          "type": "mc",
+          "q": "We ___ leave now; there's nothing else to do here.",
+          "opts": "might as well,may as well,could as well,both A & B",
+          "ans": "D",
+          "exp": "May/Might as well dùng cho gợi ý khi không còn lựa chọn tốt hơn."
+        },
+        {
+          "type": "mc",
+          "q": "She ___ speak four languages fluently.",
+          "opts": "can,is able to,could,both A & B",
+          "ans": "A",
+          "exp": "Can được ưu tiên khi nói về kỹ năng/năng lực."
+        },
+        {
+          "type": "mc",
+          "q": "The proposal ___ be ambitious, but it is achievable.",
+          "opts": "may,might,can,could",
+          "ans": "A",
+          "exp": "May dùng trong cấu trúc nhượng bộ (concession)."
+        },
+        {
+          "type": "mc",
+          "q": "You ___ have told me you were coming!",
+          "opts": "might,may,could,can",
+          "ans": "A",
+          "exp": "Might have + V3 dùng để chỉ trích (giống should have)."
+        },
+        {
+          "type": "mc",
+          "q": "It ___ well take longer than we initially thought.",
+          "opts": "may,might,can,could",
+          "ans": "A",
+          "exp": "May well nhấn mạnh khả năng cao."
+        },
+        {
+          "type": "mc",
+          "q": "When I was young, I ___ stay up all night.",
+          "opts": "could,was able to,can,may",
+          "ans": "A",
+          "exp": "Could dùng cho khả năng chung trong quá khứ."
+        },
+        {
+          "type": "mc",
+          "q": "___ I make a suggestion?",
+          "opts": "May,Can,Could,All are correct",
+          "ans": "D",
+          "exp": "May là trang trọng nhất cho sự cho phép."
+        },
+        {
+          "type": "mc",
+          "q": "Working night shifts ___ be very exhausting.",
+          "opts": "can,could,may,might",
+          "ans": "A",
+          "exp": "Can dùng cho khả năng chung/đặc trưng."
+        },
+        {
+          "type": "mc",
+          "q": "She ___ have misunderstood the instructions; they were very clear.",
+          "opts": "can't,couldn't,may not,both A & B",
+          "ans": "D",
+          "exp": "Can't/Couldn't have + V3 cho sự chắc chắn phủ định trong quá khứ."
+        },
+        {
+          "type": "mc",
+          "q": "Although he arrived late, he ___ to join the meeting.",
+          "opts": "could,was allowed to,can,may",
+          "ans": "B",
+          "exp": "Was allowed to cho sự cho phép cụ thể trong quá khứ."
+        },
+        {
+          "type": "mc",
+          "q": "It ___ snow later this evening, so stay warm.",
+          "opts": "could,can,may,both A & C",
+          "ans": "D",
+          "exp": "Could/May cho dự đoán tương lai."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ take the afternoon off if I finish this.",
+          "opts": "might,may,can,could",
+          "ans": "A",
+          "exp": "Might phổ biến trong văn nói cho kế hoạch tương lai."
+        },
+        {
+          "type": "mc",
+          "q": "He ___ have forgotten about the appointment.",
+          "opts": "may,might,could,all are correct",
+          "ans": "D",
+          "exp": "Tất cả đều diễn tả khả năng trong quá khứ."
+        },
+        {
+          "type": "mc",
+          "q": "You ___ as well start without him; he's always late.",
+          "opts": "might,may,could,both A & B",
+          "ans": "D",
+          "exp": "May/Might as well."
+        },
+        {
+          "type": "mc",
+          "q": "The results ___ be viewed on our website.",
+          "opts": "can,are able to,could,may",
+          "ans": "A",
+          "exp": "Can được ưu tiên trước câu bị động."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ hear someone calling my name.",
+          "opts": "could,was able to,can,may",
+          "ans": "A",
+          "exp": "Could dùng với động từ tri giác trong quá khứ."
+        },
+        {
+          "type": "mc",
+          "q": "This ___ well be our last chance.",
+          "opts": "may,might,can,could",
+          "ans": "A",
+          "exp": "May well."
+        },
+        {
+          "type": "fill",
+          "q": "Despite the traffic, we ___ (be/able/to) arrive on time.",
+          "ans": "were able to",
+          "exp": "Specific past success."
+        },
+        {
+          "type": "fill",
+          "q": "You ___ (might/have) told me you were leaving!",
+          "ans": "might have",
+          "exp": "Criticism."
+        },
+        {
+          "type": "fill",
+          "q": "It ___ (may/well) rain later, so take an umbrella.",
+          "ans": "may well",
+          "exp": "Strong possibility."
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (might/as/well) leave now; the show is over.",
+          "ans": "might as well",
+          "exp": "No better option."
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (can/not) be serious about quitting!",
+          "ans": "can't",
+          "exp": "Impossibility."
+        },
+        {
+          "type": "fill",
+          "q": "When I was a child, I ___ (could) swim very well.",
+          "ans": "could",
+          "exp": "General past ability."
+        },
+        {
+          "type": "fill",
+          "q": "The problem ___ (can) be solved with a bit of effort.",
+          "ans": "can",
+          "exp": "Passive structure preference."
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (may) be smart, but she lacks experience.",
+          "ans": "may",
+          "exp": "Concession."
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (were/allowed/to) enter the building after showing our IDs.",
+          "ans": "were allowed to",
+          "exp": "Specific past permission."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (might) go to the cinema tonight.",
+          "ans": "might",
+          "exp": "Future possibility."
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (could/not/have) seen me; I was hiding.",
+          "ans": "couldn't have",
+          "exp": "Past negative certainty."
+        },
+        {
+          "type": "fill",
+          "q": "Watch this! I ___ (can) do a magic trick.",
+          "ans": "can",
+          "exp": "Immediate ability."
+        },
+        {
+          "type": "fill",
+          "q": "It ___ (could) be that he's just busy.",
+          "ans": "could",
+          "exp": "Specific possibility."
+        },
+        {
+          "type": "fill",
+          "q": "Students ___ (could) leave early on Fridays in my old school.",
+          "ans": "could",
+          "exp": "General past permission."
+        },
+        {
+          "type": "fill",
+          "q": "You ___ (might/well) find that it's harder than it looks.",
+          "ans": "might well",
+          "exp": "Strong possibility."
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (can) hear the birds singing outside.",
+          "ans": "can",
+          "exp": "Perception verb."
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (may/have) missed the train.",
+          "ans": "may have",
+          "exp": "Past possibility."
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (may/as/well) start the meeting.",
+          "ans": "may as well",
+          "exp": "Suggestion."
+        },
+        {
+          "type": "fill",
+          "q": "The weather ___ (can) be very unpredictable here.",
+          "ans": "can",
+          "exp": "General possibility."
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (was/able/to) finish the exam just in time.",
+          "ans": "was able to",
+          "exp": "Specific success."
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "we were able to finish the task on time",
+            "extra": [
+              "could",
+              "do",
+              "have"
+            ]
+          },
+          {
+            "words": "you might have told me you were leaving",
+            "extra": [
+              "may",
+              "told",
+              "have"
+            ]
+          },
+          {
+            "words": "it may well take longer than expected now",
+            "extra": [
+              "might",
+              "be",
+              "is"
+            ]
+          },
+          {
+            "words": "we might as well leave the party now",
+            "extra": [
+              "may",
+              "as",
+              "be"
+            ]
+          },
+          {
+            "words": "he can't be serious about quitting his job",
+            "extra": [
+              "couldn't",
+              "is",
+              "not"
+            ]
+          },
+          {
+            "words": "she can speak four different languages fluently now",
+            "extra": [
+              "is",
+              "able",
+              "to"
+            ]
+          },
+          {
+            "words": "the results can be viewed on our website",
+            "extra": [
+              "are",
+              "able",
+              "to"
+            ]
+          },
+          {
+            "words": "he may be rich but he is unhappy",
+            "extra": [
+              "might",
+              "is",
+              "be"
+            ]
+          },
+          {
+            "words": "we were allowed to enter the restricted area",
+            "extra": [
+              "could",
+              "be",
+              "been"
+            ]
+          },
+          {
+            "words": "it could rain later this evening so watch",
+            "extra": [
+              "can",
+              "is",
+              "be"
+            ]
+          },
+          {
+            "words": "I might take the afternoon off today later",
+            "extra": [
+              "may",
+              "do",
+              "will"
+            ]
+          },
+          {
+            "words": "she couldn't have seen me in the dark",
+            "extra": [
+              "can't",
+              "not",
+              "was"
+            ]
+          },
+          {
+            "words": "we might as well start without him now",
+            "extra": [
+              "may",
+              "as",
+              "be"
+            ]
+          },
+          {
+            "words": "it may well be our last chance here",
+            "extra": [
+              "might",
+              "is",
+              "be"
+            ]
+          },
+          {
+            "words": "he was able to escape from the building",
+            "extra": [
+              "could",
+              "be",
+              "been"
+            ]
+          },
+          {
+            "words": "you might have mentioned the change to me",
+            "extra": [
+              "may",
+              "told",
+              "have"
+            ]
+          },
+          {
+            "words": "it can be very cold in the winter",
+            "extra": [
+              "could",
+              "is",
+              "be"
+            ]
+          },
+          {
+            "words": "we were allowed to leave early on Friday",
+            "extra": [
+              "could",
+              "be",
+              "been"
+            ]
+          },
+          {
+            "words": "she may have forgotten about the meeting today",
+            "extra": [
+              "might",
+              "has",
+              "is"
+            ]
+          },
+          {
+            "words": "I can solve this puzzle in a minute",
+            "extra": [
+              "am",
+              "able",
+              "to"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Despite the storm, the rescue team {{1}} find the missing hikers. They {{2}} have been lost for days, but luckily they {{3}} survive. The conditions {{4}} be very dangerous in the mountains. You {{5}} as well be prepared for anything. It {{6}} well be that the weather improves tomorrow. However, you {{7}} be too careful. I {{8}} hear the wind howling outside. We {{9}} have brought more supplies. {{10}} I make a suggestion for the next trip?",
+            "blanks": {
+              "1": "was able to",
+              "2": "could",
+              "3": "were able to",
+              "4": "can",
+              "5": "might",
+              "6": "may",
+              "7": "can't",
+              "8": "can",
+              "9": "might",
+              "10": "May"
+            },
+            "wordbank": [
+              "could",
+              "can",
+              "is",
+              "May",
+              "may",
+              "be",
+              "might",
+              "have",
+              "do",
+              "can't",
+              "able",
+              "go",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "Learning a new language {{1}} be a challenge. You {{2}} well find it difficult at first. However, with practice, you {{3}} achieve great results. I {{4}} speak English, but I {{5}} not speak French yet. I {{6}} as well start taking lessons. It {{7}} be that I have a natural talent. I {{8}} have started earlier in my life. You {{9}} never be too old to learn. {{10}} you help me with this?",
+            "blanks": {
+              "1": "can",
+              "2": "may",
+              "3": "can",
+              "4": "can",
+              "5": "am",
+              "6": "might",
+              "7": "could",
+              "8": "might",
+              "9": "can",
+              "10": "Can"
+            },
+            "wordbank": [
+              "could",
+              "can",
+              "am",
+              "is",
+              "may",
+              "be",
+              "might",
+              "Can",
+              "have",
+              "do",
+              "go",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "The project {{1}} be finished by now. We {{2}} have made a mistake in the timeline. It {{3}} well be that we need more time. We {{4}} as well ask for an extension. The manager {{5}} be happy about it, but he {{6}} understand. We {{7}} to complete the first phase yesterday. That {{8}} have been a success. I {{9}} see the finish line now. {{10}} we succeed in the end?",
+            "blanks": {
+              "1": "should",
+              "2": "might",
+              "3": "may",
+              "4": "might",
+              "5": "may not",
+              "6": "might",
+              "7": "were able to",
+              "8": "could",
+              "9": "can",
+              "10": "Can"
+            },
+            "wordbank": [
+              "should",
+              "could",
+              "can",
+              "is",
+              "may",
+              "be",
+              "might",
+              "Can",
+              "have",
+              "do",
+              "able",
+              "go",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "He {{1}} be the best player, but he {{2}} be very arrogant. You {{3}} as well ignore his comments. He {{4}} well change his attitude later. I {{5}} to beat him in the last game. It {{6}} have been a fluke. I {{7}} hear him complaining now. He {{8}} have lost his temper. You {{9}} be serious if you think he's nice. {{10}} I tell you a secret?",
+            "blanks": {
+              "1": "may",
+              "2": "can",
+              "3": "might",
+              "4": "may",
+              "5": "was able to",
+              "6": "could",
+              "7": "can",
+              "8": "might",
+              "9": "can't",
+              "10": "May"
+            },
+            "wordbank": [
+              "could",
+              "can",
+              "is",
+              "May",
+              "may",
+              "be",
+              "might",
+              "have",
+              "do",
+              "can't",
+              "able",
+              "go",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "The car {{1}} be repaired by tomorrow. The mechanic {{2}} well find more issues. We {{3}} as well prepare for a high bill. I {{4}} not afford a new car yet. I {{5}} to save some money last year. That {{6}} have been enough. I {{7}} hear a strange noise in the engine. It {{8}} be something serious. You {{9}} be too careful with old cars. {{10}} you give me a lift?",
+            "blanks": {
+              "1": "could",
+              "2": "may",
+              "3": "might",
+              "4": "can",
+              "5": "was able to",
+              "6": "could",
+              "7": "can",
+              "8": "might",
+              "9": "can't",
+              "10": "Can"
+            },
+            "wordbank": [
+              "could",
+              "can",
+              "is",
+              "may",
+              "be",
+              "might",
+              "Can",
+              "have",
+              "do",
+              "can't",
+              "able",
+              "go",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Modals: Can, Able To, May, Might. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Modals: Can, Able To, May, Might",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Modals: Can, Able To, May, Might. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Modals: Can, Able To, May, Might",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Modals: Can, Able To, May, Might. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Modals: Can, Able To, May, Might",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Modals: Can, Able To, May, Might. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Modals: Can, Able To, May, Might",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến Advanced Modals: Can, Able To, May, Might. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "Advanced Modals: Can, Able To, May, Might",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        }
+      ]
+    },
+    {
+      "icon": "🎭",
+      "title": "The Subjunctive: Present and Past",
+      "level": "advanced",
+      "badge": "🎓 C1",
+      "badgeClass": "badge-purple",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Present Subjunctive</div><ul><li><b>Form:</b> Dùng động từ nguyên mẫu (bare infinitive) cho tất cả các ngôi. <br><i>They suggested that he <b>leave</b> early. It is essential that she <b>be</b> informed.</i></li><li><b>Negative:</b> <i>not</i> + base form. <br><i>I insist that you <b>not tell</b> him.</i></li><li><b>Use:</b> Sau các động từ (advise, ask, demand, insist, order, propose, recommend, suggest) và tính từ (crucial, essential, important, vital).</li><li><b>British English:</b> Thường dùng <i>should + infinitive</i> thay thế. <br><i>It is vital that he <b>should be</b> there.</i></li></ul></div><div class=\"rule-box\"><div class=\"rule-label\">📌 Past Subjunctive</div><ul><li><b>Form:</b> Dùng thì quá khứ cho các tình huống giả định ở hiện tại. Riêng <i>be</i> dùng <i>were</i> cho tất cả các ngôi. <br><i>I wish she <b>were</b> here. If I <b>were</b> you...</i></li><li><b>Unreal Past:</b> Dùng <i>past perfect</i> cho giả định về quá khứ. <br><i>I wish I <b>had known</b>.</i></li><li><b>Expressions:</b> Dùng sau <i>I wish, If only, would rather, it's time, as if/though</i>.</li></ul></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "The manager insisted that everyone ___ the meeting on time.",
+          "opts": "attend,attends,attending,should attend",
+          "ans": "A",
+          "exp": "Present subjunctive dùng nguyên mẫu không 'to'."
+        },
+        {
+          "type": "mc",
+          "q": "It is vital that the medical supplies ___ delivered immediately.",
+          "opts": "be,is,are,were",
+          "ans": "A",
+          "exp": "Subjunctive của 'be' là 'be' cho tất cả các ngôi."
+        },
+        {
+          "type": "mc",
+          "q": "I wish I ___ more time to finish the project last week.",
+          "opts": "had,have,had had,have had",
+          "ans": "C",
+          "exp": "Wish + Past perfect cho hối tiếc về quá khứ."
+        },
+        {
+          "type": "mc",
+          "q": "I'd rather you ___ anyone about our secret.",
+          "opts": "don't tell,didn't tell,not tell,not to tell",
+          "ans": "B",
+          "exp": "Would rather + S + Past simple cho giả định hiện tại."
+        },
+        {
+          "type": "mc",
+          "q": "They recommended that the report ___ revised.",
+          "opts": "be,is,are,being",
+          "ans": "A",
+          "exp": "Present subjunctive (passive)."
+        },
+        {
+          "type": "mc",
+          "q": "If only she ___ here with us right now.",
+          "opts": "is,was,were,be",
+          "ans": "C",
+          "exp": "Past subjunctive 'were' cho giả định hiện tại."
+        },
+        {
+          "type": "mc",
+          "q": "It is essential that he ___ the truth.",
+          "opts": "know,knows,knowing,should know",
+          "ans": "A",
+          "exp": "Present subjunctive."
+        },
+        {
+          "type": "mc",
+          "q": "The doctor suggested that she ___ a few days off work.",
+          "opts": "take,takes,taking,took",
+          "ans": "A",
+          "exp": "Present subjunctive."
+        },
+        {
+          "type": "mc",
+          "q": "It's high time we ___ for the airport.",
+          "opts": "leave,left,are leaving,had left",
+          "ans": "B",
+          "exp": "It's time + S + V2/ed."
+        },
+        {
+          "type": "mc",
+          "q": "I propose that the meeting ___ postponed until next Monday.",
+          "opts": "be,is,are,being",
+          "ans": "A",
+          "exp": "Present subjunctive."
+        },
+        {
+          "type": "mc",
+          "q": "She talks as if she ___ the owner of the company.",
+          "opts": "is,was,were,be",
+          "ans": "C",
+          "exp": "As if + Past subjunctive."
+        },
+        {
+          "type": "mc",
+          "q": "I insist that he ___ not invited to the party.",
+          "opts": "is,be,was,were",
+          "ans": "B",
+          "exp": "Present subjunctive (negative/passive)."
+        },
+        {
+          "type": "mc",
+          "q": "I'd sooner you ___ me the money today.",
+          "opts": "pay,paid,paying,had paid",
+          "ans": "B",
+          "exp": "Would sooner + S + Past simple."
+        },
+        {
+          "type": "mc",
+          "q": "It is important that every member ___ informed of the changes.",
+          "opts": "be,is,are,were",
+          "ans": "A",
+          "exp": "Present subjunctive."
+        },
+        {
+          "type": "mc",
+          "q": "I wish you ___ so much noise while I'm working.",
+          "opts": "don't make,didn't make,not make,haven't made",
+          "ans": "B",
+          "exp": "Wish + Past simple cho thói quen hiện tại gây khó chịu."
+        },
+        {
+          "type": "mc",
+          "q": "They asked that the students ___ quiet during the exam.",
+          "opts": "be,are,were,being",
+          "ans": "A",
+          "exp": "Present subjunctive."
+        },
+        {
+          "type": "mc",
+          "q": "If I ___ you, I would take the offer.",
+          "opts": "am,was,were,be",
+          "ans": "C",
+          "exp": "Past subjunctive 'were'."
+        },
+        {
+          "type": "mc",
+          "q": "It is crucial that the project ___ finished on schedule.",
+          "opts": "be,is,are,being",
+          "ans": "A",
+          "exp": "Present subjunctive."
+        },
+        {
+          "type": "mc",
+          "q": "He looked as if he ___ all night.",
+          "opts": "worked,was working,had been working,has been working",
+          "ans": "C",
+          "exp": "As if + Past perfect (unreal past)."
+        },
+        {
+          "type": "mc",
+          "q": "The board requested that he ___ his resignation.",
+          "opts": "withdraw,withdraws,withdrawing,should withdraw",
+          "ans": "A",
+          "exp": "Present subjunctive."
+        },
+        {
+          "type": "fill",
+          "q": "It is essential that she ___ (arrive) on time.",
+          "ans": "arrive",
+          "exp": "Present subjunctive."
+        },
+        {
+          "type": "fill",
+          "q": "I wish I ___ (know) the answer yesterday.",
+          "ans": "had known",
+          "exp": "Past regret."
+        },
+        {
+          "type": "fill",
+          "q": "The teacher suggested that he ___ (study) harder.",
+          "ans": "study",
+          "exp": "Present subjunctive."
+        },
+        {
+          "type": "fill",
+          "q": "If only he ___ (be) here to see this!",
+          "ans": "were",
+          "exp": "Hypothetical present."
+        },
+        {
+          "type": "fill",
+          "q": "I insist that you ___ (not/tell) anyone about this.",
+          "ans": "not tell",
+          "exp": "Negative present subjunctive."
+        },
+        {
+          "type": "fill",
+          "q": "It's time we ___ (start) the meeting.",
+          "ans": "started",
+          "exp": "It's time + V2."
+        },
+        {
+          "type": "fill",
+          "q": "I'd rather you ___ (stay) home tonight.",
+          "ans": "stayed",
+          "exp": "Preference (present)."
+        },
+        {
+          "type": "fill",
+          "q": "They recommended that the law ___ (be/change).",
+          "ans": "be changed",
+          "exp": "Passive present subjunctive."
+        },
+        {
+          "type": "fill",
+          "q": "She acts as if she ___ (be) the boss.",
+          "ans": "were",
+          "exp": "As if + were."
+        },
+        {
+          "type": "fill",
+          "q": "It is vital that he ___ (be/inform) immediately.",
+          "ans": "be informed",
+          "exp": "Passive present subjunctive."
+        },
+        {
+          "type": "fill",
+          "q": "I propose that the committee ___ (meet) tomorrow.",
+          "ans": "meet",
+          "exp": "Present subjunctive."
+        },
+        {
+          "type": "fill",
+          "q": "I wish you ___ (not/smoke) in the house.",
+          "ans": "didn't smoke",
+          "exp": "Wish (present habit)."
+        },
+        {
+          "type": "fill",
+          "q": "The doctor ordered that the patient ___ (rest).",
+          "ans": "rest",
+          "exp": "Present subjunctive."
+        },
+        {
+          "type": "fill",
+          "q": "It is important that the data ___ (be) accurate.",
+          "ans": "be",
+          "exp": "Present subjunctive."
+        },
+        {
+          "type": "fill",
+          "q": "I'd sooner you ___ (not/go) out tonight.",
+          "ans": "didn't go",
+          "exp": "Preference (present)."
+        },
+        {
+          "type": "fill",
+          "q": "He spoke as if he ___ (see) the movie before.",
+          "ans": "had seen",
+          "exp": "As if + Past perfect."
+        },
+        {
+          "type": "fill",
+          "q": "It is advisable that he ___ (consult) a lawyer.",
+          "ans": "consult",
+          "exp": "Present subjunctive."
+        },
+        {
+          "type": "fill",
+          "q": "I wish I ___ (be) taller.",
+          "ans": "were",
+          "exp": "Wish (state)."
+        },
+        {
+          "type": "fill",
+          "q": "They requested that the meeting ___ (be/cancel).",
+          "ans": "be cancelled",
+          "exp": "Passive present subjunctive."
+        },
+        {
+          "type": "fill",
+          "q": "If only I ___ (listen) to your advice!",
+          "ans": "had listened",
+          "exp": "Past regret."
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "it is essential that she be here on time",
+            "extra": [
+              "is",
+              "being",
+              "to"
+            ]
+          },
+          {
+            "words": "I wish I had known the truth earlier",
+            "extra": [
+              "knew",
+              "know",
+              "have"
+            ]
+          },
+          {
+            "words": "the manager insisted that he leave the office",
+            "extra": [
+              "leaves",
+              "to",
+              "leaving"
+            ]
+          },
+          {
+            "words": "it is time that we started the project",
+            "extra": [
+              "start",
+              "are",
+              "starting"
+            ]
+          },
+          {
+            "words": "I'd rather you didn't tell him the news",
+            "extra": [
+              "don't",
+              "not",
+              "to"
+            ]
+          },
+          {
+            "words": "they recommended that the plan be revised",
+            "extra": [
+              "is",
+              "being",
+              "was"
+            ]
+          },
+          {
+            "words": "she acts as if she were the boss",
+            "extra": [
+              "is",
+              "was",
+              "be"
+            ]
+          },
+          {
+            "words": "if only he were here to see this",
+            "extra": [
+              "is",
+              "was",
+              "be"
+            ]
+          },
+          {
+            "words": "it is vital that he not be late",
+            "extra": [
+              "is",
+              "does",
+              "not"
+            ]
+          },
+          {
+            "words": "I propose that the meeting be postponed",
+            "extra": [
+              "is",
+              "being",
+              "was"
+            ]
+          },
+          {
+            "words": "I wish you wouldn't make so much noise",
+            "extra": [
+              "don't",
+              "didn't",
+              "not"
+            ]
+          },
+          {
+            "words": "it is important that everyone be informed",
+            "extra": [
+              "is",
+              "are",
+              "being"
+            ]
+          },
+          {
+            "words": "I'd sooner you stayed at home tonight",
+            "extra": [
+              "stay",
+              "are",
+              "staying"
+            ]
+          },
+          {
+            "words": "he looked as if he had seen ghost",
+            "extra": [
+              "saw",
+              "sees",
+              "has"
+            ]
+          },
+          {
+            "words": "it is crucial that he not fail now",
+            "extra": [
+              "fails",
+              "doesn't",
+              "not"
+            ]
+          },
+          {
+            "words": "they suggested that we take a break now",
+            "extra": [
+              "took",
+              "taking",
+              "to"
+            ]
+          },
+          {
+            "words": "if only I had listened to your advice",
+            "extra": [
+              "listen",
+              "listened",
+              "have"
+            ]
+          },
+          {
+            "words": "it is advisable that he consult a doctor",
+            "extra": [
+              "consults",
+              "consulting",
+              "to"
+            ]
+          },
+          {
+            "words": "I wish I were more confident back then",
+            "extra": [
+              "was",
+              "am",
+              "be"
+            ]
+          },
+          {
+            "words": "it is necessary that the work be done",
+            "extra": [
+              "is",
+              "being",
+              "was"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "It is essential that every citizen {{1}} the importance of voting. The law requires that each person {{2}} their ballot in person. I wish more people {{3}} active in politics. If only everyone {{4}} how much their vote counts! Some experts suggest that the system {{5}} reformed. They propose that voting {{6}} made easier. It is vital that the process {{7}} transparent. I'd rather the government {{8}} more to encourage young voters. It's time we {{9}} the way we think about democracy. Suffice it to {{10}} that every vote matters.",
+            "blanks": {
+              "1": "understand",
+              "2": "cast",
+              "3": "were",
+              "4": "realised",
+              "5": "be",
+              "6": "be",
+              "7": "be",
+              "8": "did",
+              "9": "changed",
+              "10": "say"
+            },
+            "wordbank": [
+              "is",
+              "will",
+              "understand",
+              "change",
+              "was",
+              "be",
+              "say",
+              "have",
+              "do",
+              "realise",
+              "cast",
+              "go",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "The doctor recommended that he {{1}} smoking immediately. It is crucial that his health {{2}} monitored. I wish he {{3}} more careful in the past. If only he {{4}} to my advice! I'd rather he {{5}} a healthier lifestyle now. It's time he {{6}} his habits. He acts as if he {{7}} immortal. The nurse insisted that he {{8}} his medicine. It is important that he {{9}} enough rest. Come what {{10}}, we will support him.",
+            "blanks": {
+              "1": "stop",
+              "2": "be",
+              "3": "had been",
+              "4": "had listened",
+              "5": "adopted",
+              "6": "changed",
+              "7": "were",
+              "8": "take",
+              "9": "get",
+              "10": "may"
+            },
+            "wordbank": [
+              "take",
+              "is",
+              "will",
+              "may",
+              "adopt",
+              "change",
+              "was",
+              "be",
+              "listen",
+              "get",
+              "have",
+              "stop",
+              "do",
+              "go",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "The manager demanded that the project {{1}} completed by Friday. It is vital that no errors {{2}} made. I wish we {{3}} more staff to help. If only the deadline {{4}} so tight! I'd rather we {{5}} more time to check everything. It's time the company {{6}} more resources. He speaks as if he {{7}} everything about the project. I propose that we {{8}} a meeting. It is essential that everyone {{9}} present. Be that as it {{10}}, we must finish.",
+            "blanks": {
+              "1": "be",
+              "2": "be",
+              "3": "had",
+              "4": "weren't",
+              "5": "had",
+              "6": "provided",
+              "7": "knew",
+              "8": "hold",
+              "9": "be",
+              "10": "may"
+            },
+            "wordbank": [
+              "is",
+              "will",
+              "may",
+              "was",
+              "be",
+              "provide",
+              "have",
+              "know",
+              "hold",
+              "do",
+              "go",
+              "take",
+              "get",
+              "make",
+              "see",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "I wish I {{1}} the world. If only I {{2}} more money! I'd rather I {{3}} a millionaire. It's time I {{4}} for a better job. My boss suggests that I {{5}} more training. It is important that I {{6}} my skills. He insists that I {{7}} not late for work. I wish he {{8}} so demanding. It is essential that I {{9}} a balance. Suffice it to {{10}} that I am trying.",
+            "blanks": {
+              "1": "could travel",
+              "2": "had",
+              "3": "were",
+              "4": "applied",
+              "5": "get",
+              "6": "improve",
+              "7": "be",
+              "8": "weren't",
+              "9": "find",
+              "10": "say"
+            },
+            "wordbank": [
+              "is",
+              "will",
+              "improve",
+              "travel",
+              "was",
+              "be",
+              "say",
+              "apply",
+              "get",
+              "find",
+              "have",
+              "do",
+              "go",
+              "take",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          },
+          {
+            "text": "The teacher asked that the students {{1}} their homework. It is advisable that they {{2}} every day. I wish they {{3}} more motivated. If only they {{4}} the value of education! I'd rather they {{5}} more time in the library. It's time they {{6}} studying seriously. She talks as if she {{7}} a genius. I propose that we {{8}} them more support. It is crucial that no one {{9}} left behind. Come what {{10}}, they must learn.",
+            "blanks": {
+              "1": "do",
+              "2": "study",
+              "3": "were",
+              "4": "understood",
+              "5": "spent",
+              "6": "started",
+              "7": "were",
+              "8": "give",
+              "9": "be",
+              "10": "may"
+            },
+            "wordbank": [
+              "is",
+              "will",
+              "start",
+              "understand",
+              "may",
+              "was",
+              "give",
+              "be",
+              "study",
+              "have",
+              "do",
+              "spend",
+              "go",
+              "take",
+              "get",
+              "make",
+              "see",
+              "know",
+              "think",
+              "seem",
+              "become"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến The Subjunctive: Present and Past. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "The Subjunctive: Present and Past",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến The Subjunctive: Present and Past. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "The Subjunctive: Present and Past",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến The Subjunctive: Present and Past. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "The Subjunctive: Present and Past",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến The Subjunctive: Present and Past. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "The Subjunctive: Present and Past",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn về trải nghiệm của bạn liên quan đến The Subjunctive: Present and Past. Sử dụng ít nhất 5 cấu trúc đã học.",
+          "grammar_focus": "The Subjunctive: Present and Past",
+          "hint_words": [
+            "furthermore",
+            "nevertheless",
+            "consequently",
+            "in addition",
+            "specifically",
+            "ultimately"
+          ],
+          "min_words": 40,
+          "example": "I have been studying this particular grammar point for quite some time now, and I find it incredibly useful for expressing complex ideas in professional settings. It allows me to convey nuances that simpler structures cannot capture effectively, which is essential for C1 level proficiency."
+        }
+      ]
+    }
+  ]
+}
