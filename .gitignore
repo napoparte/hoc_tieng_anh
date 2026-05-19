@@ -1,0 +1,20 @@
+# ── Source app (không push source lên main) ──────────────
+english_app/
+
+# ── Build tools ──────────────────────────────────────────
+build-obfuscate.js
+package.json
+package-lock.json
+node_modules/
+
+# ── Output build (push qua gh-pages, không push lên main) ─
+dist/
+
+# ── Setup/hooks (không cần thiết trên remote) ────────────
+pre-push
+setup.sh
+
+# ── Misc ─────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.log

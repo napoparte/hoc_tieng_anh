@@ -1,0 +1,7 @@
+# Giu nguyen LF cho shell scripts, khong de Windows convert sang CRLF
+pre-push        text eol=lf
+setup.sh        text eol=lf
+*.sh            text eol=lf
+
+# Auto cho cac file con lai
+*               text=auto
