@@ -1,0 +1,2040 @@
+{
+  "beginner": [
+    {
+      "icon": "⏰",
+      "title": "Prepositions of Time: At, In, On",
+      "level": "A1",
+      "badge": "🌱 A1",
+      "badgeClass": "badge-blue",
+      "content": "\n<div class=\"rule-box\"><div class=\"rule-label\">📌 At, in, on: Giới từ chỉ thời gian</div>\n<table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">AT</th><th style=\"padding:4px 8px;text-align:left\">IN</th><th style=\"padding:4px 8px;text-align:left\">ON</th></tr><tr><td style=\"padding:4px 8px\"><b>Thời gian cụ thể trong ngày:</b><br>• at 3 o’clock<br>• at 10.30 am<br>• at noon<br>• at midnight<br>• at dinnertime<br>• at bedtime<br>• at sunrise<br>• at sunset<br>• at the moment</td><td style=\"padding:4px 8px\"><b>Tháng, mùa, năm, thập kỷ, thế kỷ, giai đoạn dài:</b><br>• in May<br>• in the summer<br>• in 1990<br>• in the 1990s<br>• in the 20th century<br>• in the Ice Age<br>• in the past/future</td><td style=\"padding:4px 8px\"><b>Ngày và ngày cụ thể:</b><br>• on Sunday<br>• on Tuesday mornings<br>• on 6 March<br>• on 25 December 2010<br>• on Christmas Day<br>• on Independence Day<br>• on my birthday<br>• on New Year’s Eve</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><b>Các cụm từ thông dụng:</b><br>• at the weekend<br>• at Christmas/Easter<br>• at the same time<br>• at present/at the moment</td><td style=\"padding:4px 8px\"><b>Các phần trong ngày:</b><br>• in the morning<br>• in the afternoon<br>• in the evening</td><td style=\"padding:4px 8px\"></td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Last, next, every và this</div>Khi dùng <b>last, next, every, this</b>, chúng ta KHÔNG dùng <b>at, in, on</b>.<br>• I went to London <b>last</b> June. ✅ (KHÔNG dùng in last June)<br>• He’s coming back <b>next</b> Tuesday. ✅ (KHÔNG dùng on next Tuesday)<br>• I go home <b>every</b> Easter. ✅ (KHÔNG dùng at every Easter)<br>• We’ll call you <b>this</b> evening. ✅ (KHÔNG dùng in this evening)</div><div class=\"ex-sent\">I wake up <b>at</b> 7 o'clock <b>in</b> the morning.<span>Tôi thức dậy lúc 7 giờ sáng.</span></div><div class=\"ex-sent\">My birthday is <b>on</b> July 15th.<span>Sinh nhật của tôi là vào ngày 15 tháng 7.</span></div><div class=\"ex-sent\">We usually go on holiday <b>in</b> summer.<span>Chúng tôi thường đi nghỉ vào mùa hè.</span></div>\n",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "I wake up ___ 7 o'clock.",
+          "opts": "at,in,on,by",
+          "ans": "A",
+          "exp": "Dùng 'at' với giờ cụ thể"
+        },
+        {
+          "type": "mc",
+          "q": "My birthday is ___ May.",
+          "opts": "in,at,on,by",
+          "ans": "A",
+          "exp": "Dùng 'in' với tháng"
+        },
+        {
+          "type": "mc",
+          "q": "We go to school ___ weekdays.",
+          "opts": "on,at,in,by",
+          "ans": "A",
+          "exp": "Dùng 'on' với ngày trong tuần"
+        },
+        {
+          "type": "mc",
+          "q": "I usually read books ___ the evening.",
+          "opts": "in,at,on,by",
+          "ans": "A",
+          "exp": "Dùng 'in' với các buổi trong ngày (trừ night)"
+        },
+        {
+          "type": "mc",
+          "q": "The party is ___ Saturday night.",
+          "opts": "on,at,in,by",
+          "ans": "A",
+          "exp": "Dùng 'on' với ngày cụ thể"
+        },
+        {
+          "type": "mc",
+          "q": "She was born ___ 2000.",
+          "opts": "in,at,on,by",
+          "ans": "A",
+          "exp": "Dùng 'in' với năm"
+        },
+        {
+          "type": "mc",
+          "q": "See you ___ Christmas!",
+          "opts": "at,in,on,by",
+          "ans": "A",
+          "exp": "Dùng 'at' với các dịp lễ (không có 'Day')"
+        },
+        {
+          "type": "mc",
+          "q": "He works ___ the moment.",
+          "opts": "at,in,on,by",
+          "ans": "A",
+          "exp": "Dùng 'at' với 'the moment'"
+        },
+        {
+          "type": "mc",
+          "q": "We have a holiday ___ summer.",
+          "opts": "in,at,on,by",
+          "ans": "A",
+          "exp": "Dùng 'in' với mùa"
+        },
+        {
+          "type": "mc",
+          "q": "The meeting is ___ 10:30 am.",
+          "opts": "at,in,on,by",
+          "ans": "A",
+          "exp": "Dùng 'at' với giờ cụ thể"
+        },
+        {
+          "type": "mc",
+          "q": "They got married ___ October 25th.",
+          "opts": "on,at,in,by",
+          "ans": "A",
+          "exp": "Dùng 'on' với ngày cụ thể"
+        },
+        {
+          "type": "mc",
+          "q": "I will call you ___ the afternoon.",
+          "opts": "in,at,on,by",
+          "ans": "A",
+          "exp": "Dùng 'in' với các buổi trong ngày"
+        },
+        {
+          "type": "mc",
+          "q": "The store closes ___ midnight.",
+          "opts": "at,in,on,by",
+          "ans": "A",
+          "exp": "Dùng 'at' với 'midnight'"
+        },
+        {
+          "type": "mc",
+          "q": "We usually travel ___ the weekend.",
+          "opts": "at,in,on,by",
+          "ans": "A",
+          "exp": "Dùng 'at' với 'the weekend'"
+        },
+        {
+          "type": "mc",
+          "q": "She started her job ___ 2023.",
+          "opts": "in,at,on,by",
+          "ans": "A",
+          "exp": "Dùng 'in' với năm"
+        },
+        {
+          "type": "mc",
+          "q": "I saw him ___ Monday morning.",
+          "opts": "on,at,in,by",
+          "ans": "A",
+          "exp": "Dùng 'on' với ngày cụ thể"
+        },
+        {
+          "type": "mc",
+          "q": "What do you do ___ your birthday?",
+          "opts": "on,at,in,by",
+          "ans": "A",
+          "exp": "Dùng 'on' với 'birthday'"
+        },
+        {
+          "type": "mc",
+          "q": "The concert is ___ December.",
+          "opts": "in,at,on,by",
+          "ans": "A",
+          "exp": "Dùng 'in' với tháng"
+        },
+        {
+          "type": "mc",
+          "q": "He arrived ___ the same time as me.",
+          "opts": "at,in,on,by",
+          "ans": "A",
+          "exp": "Dùng 'at' với 'the same time'"
+        },
+        {
+          "type": "mc",
+          "q": "We don't work ___ night.",
+          "opts": "at,in,on,by",
+          "ans": "A",
+          "exp": "Dùng 'at' với 'night'"
+        },
+        {
+          "type": "fill",
+          "q": "I have a meeting ___ 9 AM.",
+          "ans": "at",
+          "exp": "Dùng 'at' với giờ cụ thể"
+        },
+        {
+          "type": "fill",
+          "q": "She was born ___ July.",
+          "ans": "in",
+          "exp": "Dùng 'in' với tháng"
+        },
+        {
+          "type": "fill",
+          "q": "We will meet ___ Friday.",
+          "ans": "on",
+          "exp": "Dùng 'on' với ngày"
+        },
+        {
+          "type": "fill",
+          "q": "They usually travel ___ summer.",
+          "ans": "in",
+          "exp": "Dùng 'in' với mùa"
+        },
+        {
+          "type": "fill",
+          "q": "The party is ___ New Year's Eve.",
+          "ans": "on",
+          "exp": "Dùng 'on' với ngày lễ cụ thể"
+        },
+        {
+          "type": "fill",
+          "q": "He finished his project ___ 2024.",
+          "ans": "in",
+          "exp": "Dùng 'in' với năm"
+        },
+        {
+          "type": "fill",
+          "q": "I go to bed ___ midnight.",
+          "ans": "at",
+          "exp": "Dùng 'at' với 'midnight'"
+        },
+        {
+          "type": "fill",
+          "q": "What do you do ___ the weekend?",
+          "ans": "at",
+          "exp": "Dùng 'at' với 'the weekend'"
+        },
+        {
+          "type": "fill",
+          "q": "She will call you ___ the morning.",
+          "ans": "in",
+          "exp": "Dùng 'in' với buổi trong ngày"
+        },
+        {
+          "type": "fill",
+          "q": "The store opens ___ 8 o'clock.",
+          "ans": "at",
+          "exp": "Dùng 'at' với giờ cụ thể"
+        },
+        {
+          "type": "fill",
+          "q": "My birthday is ___ October 10th.",
+          "ans": "on",
+          "exp": "Dùng 'on' với ngày cụ thể"
+        },
+        {
+          "type": "fill",
+          "q": "We have holidays ___ December.",
+          "ans": "in",
+          "exp": "Dùng 'in' với tháng"
+        },
+        {
+          "type": "fill",
+          "q": "I saw him ___ Tuesday afternoon.",
+          "ans": "on",
+          "exp": "Dùng 'on' với ngày cụ thể"
+        },
+        {
+          "type": "fill",
+          "q": "He usually works ___ night.",
+          "ans": "at",
+          "exp": "Dùng 'at' với 'night'"
+        },
+        {
+          "type": "fill",
+          "q": "The concert is ___ 2025.",
+          "ans": "in",
+          "exp": "Dùng 'in' với năm"
+        },
+        {
+          "type": "fill",
+          "q": "She arrived ___ the same time.",
+          "ans": "at",
+          "exp": "Dùng 'at' với 'the same time'"
+        },
+        {
+          "type": "fill",
+          "q": "I don't work ___ Sundays.",
+          "ans": "on",
+          "exp": "Dùng 'on' với ngày trong tuần"
+        },
+        {
+          "type": "fill",
+          "q": "We often go out ___ the evening.",
+          "ans": "in",
+          "exp": "Dùng 'in' với buổi trong ngày"
+        },
+        {
+          "type": "fill",
+          "q": "The movie starts ___ 7:00 PM.",
+          "ans": "at",
+          "exp": "Dùng 'at' với giờ cụ thể"
+        },
+        {
+          "type": "fill",
+          "q": "He will visit us ___ Christmas Day.",
+          "ans": "on",
+          "exp": "Dùng 'on' với ngày lễ cụ thể"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "I wake up at 7 o'clock",
+            "extra": [
+              "wake",
+              "up",
+              "o'clock"
+            ]
+          },
+          {
+            "words": "My birthday is in May",
+            "extra": [
+              "birthday",
+              "is",
+              "May"
+            ]
+          },
+          {
+            "words": "We go to school on weekdays",
+            "extra": [
+              "go",
+              "school",
+              "weekdays"
+            ]
+          },
+          {
+            "words": "I usually read books in the evening",
+            "extra": [
+              "read",
+              "books",
+              "evening"
+            ]
+          },
+          {
+            "words": "The party is on Saturday night",
+            "extra": [
+              "party",
+              "Saturday",
+              "night"
+            ]
+          },
+          {
+            "words": "She was born in 2000",
+            "extra": [
+              "born",
+              "in",
+              "2000"
+            ]
+          },
+          {
+            "words": "See you at Christmas",
+            "extra": [
+              "see",
+              "you",
+              "Christmas"
+            ]
+          },
+          {
+            "words": "He works at the moment",
+            "extra": [
+              "works",
+              "at",
+              "moment"
+            ]
+          },
+          {
+            "words": "We have a holiday in summer",
+            "extra": [
+              "have",
+              "holiday",
+              "summer"
+            ]
+          },
+          {
+            "words": "The meeting is at 10:30 am",
+            "extra": [
+              "meeting",
+              "is",
+              "am"
+            ]
+          },
+          {
+            "words": "They got married on October 25th",
+            "extra": [
+              "got",
+              "married",
+              "October"
+            ]
+          },
+          {
+            "words": "I will call you in the afternoon",
+            "extra": [
+              "call",
+              "you",
+              "afternoon"
+            ]
+          },
+          {
+            "words": "The store closes at midnight",
+            "extra": [
+              "store",
+              "closes",
+              "midnight"
+            ]
+          },
+          {
+            "words": "We usually travel at the weekend",
+            "extra": [
+              "travel",
+              "at",
+              "weekend"
+            ]
+          },
+          {
+            "words": "She started her job in 2023",
+            "extra": [
+              "started",
+              "job",
+              "2023"
+            ]
+          },
+          {
+            "words": "I saw him on Monday morning",
+            "extra": [
+              "saw",
+              "him",
+              "Monday"
+            ]
+          },
+          {
+            "words": "What do you do on your birthday",
+            "extra": [
+              "do",
+              "your",
+              "birthday"
+            ]
+          },
+          {
+            "words": "The concert is in December",
+            "extra": [
+              "concert",
+              "is",
+              "December"
+            ]
+          },
+          {
+            "words": "He arrived at the same time as me",
+            "extra": [
+              "arrived",
+              "same",
+              "time"
+            ]
+          },
+          {
+            "words": "We don't work at night",
+            "extra": [
+              "don't",
+              "work",
+              "night"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "My routine starts early {{1}} the morning. I wake up {{2}} 6 o'clock {{3}} weekdays. {{4}} the weekend, I usually sleep longer. My classes start {{5}} 8:30 am {{6}} Monday to Friday. {{7}} the afternoon, I have lunch {{8}} 12:30 pm. {{9}} the evening, I study or relax. {{10}} night, I go to bed around 10 pm.",
+            "blanks": {
+              "1": "in",
+              "2": "at",
+              "3": "on",
+              "4": "At",
+              "5": "at",
+              "6": "from",
+              "7": "In",
+              "8": "at",
+              "9": "In",
+              "10": "At"
+            },
+            "wordbank": [
+              "at",
+              "in",
+              "on",
+              "by",
+              "for",
+              "from",
+              "during",
+              "until",
+              "after",
+              "before",
+              "next",
+              "last",
+              "every",
+              "this",
+              "of"
+            ]
+          },
+          {
+            "text": "Last year, {{1}} July, I went on holiday. We left {{2}} the 15th {{3}} the month. We arrived {{4}} a beautiful island {{5}} the evening. {{6}} the first day, we swam {{7}} the sea. {{8}} night, we watched the stars. {{9}} the next morning, we went hiking. We had a great time {{10}} our trip.",
+            "blanks": {
+              "1": "in",
+              "2": "on",
+              "3": "of",
+              "4": "on",
+              "5": "in",
+              "6": "On",
+              "7": "in",
+              "8": "At",
+              "9": "On",
+              "10": "during"
+            },
+            "wordbank": [
+              "at",
+              "in",
+              "on",
+              "by",
+              "for",
+              "from",
+              "during",
+              "until",
+              "after",
+              "before",
+              "next",
+              "last",
+              "every",
+              "this",
+              "of",
+              "with",
+              "through"
+            ]
+          },
+          {
+            "text": "My friend's birthday is {{1}} December 24th. We always celebrate {{2}} Christmas Eve. {{3}} the morning, we open presents. {{4}} the afternoon, we have a big lunch. {{5}} the evening, we play games {{6}} midnight. {{7}} that time, we sing 'Happy Birthday'. {{8}} the past, we used to have bigger parties. But {{9}} present, we prefer small gatherings. We always have fun {{10}} her special day.",
+            "blanks": {
+              "1": "on",
+              "2": "on",
+              "3": "In",
+              "4": "In",
+              "5": "in",
+              "6": "until",
+              "7": "At",
+              "8": "In",
+              "9": "at",
+              "10": "on"
+            },
+            "wordbank": [
+              "at",
+              "in",
+              "on",
+              "by",
+              "for",
+              "from",
+              "during",
+              "until",
+              "after",
+              "before",
+              "next",
+              "last",
+              "every",
+              "this",
+              "of",
+              "with",
+              "through"
+            ]
+          },
+          {
+            "text": "The store opens {{1}} 9 am {{2}} weekdays. {{3}} Saturdays, it opens {{4}} 10 am. It closes {{5}} 6 pm {{6}} the evening. {{7}} Sundays, it is closed all day. {{8}} Christmas Day, it also closes. {{9}} the future, they plan to open longer. {{10}} present, these are the opening hours.",
+            "blanks": {
+              "1": "at",
+              "2": "on",
+              "3": "On",
+              "4": "at",
+              "5": "at",
+              "6": "in",
+              "7": "On",
+              "8": "on",
+              "9": "In",
+              "10": "At"
+            },
+            "wordbank": [
+              "at",
+              "in",
+              "on",
+              "by",
+              "for",
+              "from",
+              "during",
+              "until",
+              "after",
+              "before",
+              "next",
+              "last",
+              "every",
+              "this",
+              "of",
+              "with",
+              "through"
+            ]
+          },
+          {
+            "text": "I have an important exam {{1}} next week. I need to study hard {{2}} the next few days. I will study {{3}} the morning, {{4}} the afternoon, and {{5}} night. I will take a break {{6}} lunchtime. {{7}} the weekend, I will review everything. I hope to pass {{8}} the first attempt. {{9}} the end of the exam, I will feel relieved. I will celebrate {{10}} my friends after it's all over.",
+            "blanks": {
+              "1": "-",
+              "2": "for",
+              "3": "in",
+              "4": "in",
+              "5": "at",
+              "6": "at",
+              "7": "At",
+              "8": "on",
+              "9": "At",
+              "10": "with"
+            },
+            "wordbank": [
+              "at",
+              "in",
+              "on",
+              "by",
+              "for",
+              "from",
+              "during",
+              "until",
+              "after",
+              "before",
+              "next",
+              "last",
+              "every",
+              "this",
+              "of",
+              "with",
+              "-",
+              "through",
+              "over"
+            ]
+          }
+        ]
+	},
+        "writing_prompts": [
+          {
+            "vi": "Mô tả một ngày bình thường của bạn, sử dụng các giới từ chỉ thời gian (at, in, on).",
+            "grammar_focus": "prepositions of time",
+            "hint_words": [
+              "at 7 o'clock",
+              "in the morning",
+              "on weekdays",
+              "at night",
+              "in the afternoon"
+            ],
+            "min_words": 30,
+            "example": "I usually wake up at 6:30 in the morning on weekdays. I have breakfast at 7 o'clock. My classes start at 8:00. In the afternoon, I have lunch at 12:00. I finish school at 4:00. In the evening, I do my homework. At night, I go to bed around 10:00. On weekends, my routine is different."
+          },
+          {
+            "vi": "Kể về một sự kiện đặc biệt trong năm của bạn (sinh nhật, lễ hội, kỳ nghỉ), sử dụng các giới từ chỉ thời gian.",
+            "grammar_focus": "prepositions of time",
+            "hint_words": [
+              "on my birthday",
+              "in December",
+              "at Christmas",
+              "on New Year's Eve",
+              "in summer"
+            ],
+            "min_words": 30,
+            "example": "My favorite time of the year is in December because of Christmas. On Christmas Day, my family gathers at my grandparents' house. We open presents in the morning and have a big dinner in the afternoon. At night, we watch movies together. On New Year's Eve, we usually have a party with friends. In summer, I often go on holiday with my family."
+          },
+          {
+            "vi": "Mô tả lịch trình học tập hoặc làm việc của bạn trong tuần, sử dụng các giới từ chỉ thời gian.",
+            "grammar_focus": "prepositions of time",
+            "hint_words": [
+              "on Monday",
+              "in the morning",
+              "at 9 am",
+              "from 8 to 5",
+              "at the weekend"
+            ],
+            "min_words": 30,
+            "example": "On Monday, I have English class at 9 am. In the afternoon, I work from 1 pm to 5 pm. On Tuesday, I study at the library in the morning. On Wednesday, I have a meeting at 10 am. At the weekend, I usually relax. I don't work on Sundays. I try to finish all my tasks by Friday evening."
+          },
+          {
+            "vi": "Kể về một kỷ niệm trong quá khứ, sửn dụng các giới từ chỉ thời gian.",
+            "grammar_focus": "prepositions of time",
+            "hint_words": [
+              "in 2010",
+              "on my 10th birthday",
+              "at that time",
+              "in the past",
+              "last summer"
+            ],
+            "min_words": 30,
+            "example": "In 2010, I went to the beach for the first time. It was on my 10th birthday. At that time, I was very excited. We stayed there for a week in August. Every morning, I played in the sand. In the afternoon, we swam in the sea. At night, we watched the sunset. It was a wonderful memory from the past."
+          },
+          {
+            "vi": "Mô tả kế hoạch của bạn cho tương lai gần, sử dụng các giới từ chỉ thời gian.",
+            "grammar_focus": "prepositions of time",
+            "hint_words": [
+              "next month",
+              "in two weeks",
+              "on Friday",
+              "at the end of the year",
+              "in the future"
+            ],
+            "min_words": 30,
+            "example": "Next month, I plan to start a new course. It will begin in two weeks. On Friday, I will register for it. At the end of the year, I hope to finish it. In the future, I want to get a better job. I will work hard every day to achieve my goals. I believe that in time, my efforts will pay off."
+          }
+        ]
+    },
+    {
+      "icon": "📍",
+      "title": "Prepositions of Place: At, In, On",
+      "level": "A1",
+      "badge": "🌱 A1",
+      "badgeClass": "badge-blue",
+      "content": "\n<div class=\"rule-box\"><div class=\"rule-label\">📌 At, in, on: Giới từ chỉ địa điểm</div>\n<table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">AT</th><th style=\"padding:4px 8px;text-align:left\">IN</th><th style=\"padding:4px 8px;text-align:left\">ON</th></tr><tr><td style=\"padding:4px 8px\"><b>Tại một điểm cụ thể:</b><br>• at the traffic light<br>• at the door<br>• at the crossroads<br><br><b>Đầu/cuối của một cái gì đó:</b><br>• at the top of the stairs<br>• at the bottom of the page<br>• at the end of the street<br><br><b>Hoạt động nhóm/sự kiện:</b><br>• at the cinema<br>• at a party<br>• at a concert<br><br><b>Trường học/Đại học:</b><br>• at school<br>• at university<br><br><b>Ở nhà/làm việc:</b><br>• at home<br>• at work<br><br><b>Cửa hàng, nhà hàng, quán cà phê:</b><br>• at the bakery<br>• at the chemist’s</td><td style=\"padding:4px 8px\"><b>Trong không gian 3D:</b><br>• in the bag<br>• in the classroom<br>• in a box<br><br><b>Trong lãnh thổ/khu vực có giới hạn:</b><br>• in London<br>• in Europe<br>• in the Alps<br>• in the world<br><br><b>Trong xe hơi/xe tải:</b><br>• in the car<br>• in a van<br><br><b>Trong nước:</b><br>• in the sea<br>• in the river<br>• in the swimming pool<br><br><b>Trong tài liệu in ấn:</b><br>• in a book<br>• in a picture<br>• in a newspaper</td><td style=\"padding:4px 8px\"><b>Trên bề mặt:</b><br>• on the table<br>• on the carpet<br>• on the roof<br>• on the sofa<br><br><b>Trên tầng:</b><br>• on the first floor<br>• on the fifth floor<br><br><b>Bên phải/trái:</b><br>• on the right<br>• on the left<br><br><b>Phương tiện giao thông công cộng:</b><br>• on the bus<br>• on the train<br>• on a plane<br><br><b>Truyền thông:</b><br>• on the radio<br>• on TV<br>• on the Internet<br>• on a website</td></tr></table></div><div class=\"ex-sent\">The book is <b>on</b> the table.<span>Cuốn sách ở trên bàn.</span></div><div class=\"ex-sent\">She is <b>in</b> the kitchen.<span>Cô ấy đang ở trong bếp.</span></div><div class=\"ex-sent\">I will meet you <b>at</b> the bus stop.<span>Tôi sẽ gặp bạn ở trạm xe buýt.</span></div>\n",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "The book is ___ the table.",
+          "opts": "on,in,at,under",
+          "ans": "A",
+          "exp": "Dùng 'on' với bề mặt"
+        },
+        {
+          "type": "mc",
+          "q": "She is ___ the kitchen.",
+          "opts": "in,at,on,under",
+          "ans": "A",
+          "exp": "Dùng 'in' với không gian 3D (phòng)"
+        },
+        {
+          "type": "mc",
+          "q": "I will meet you ___ the bus stop.",
+          "opts": "at,in,on,under",
+          "ans": "A",
+          "exp": "Dùng 'at' với một điểm cụ thể"
+        },
+        {
+          "type": "mc",
+          "q": "The cat is sleeping ___ the bed.",
+          "opts": "under,on,in,at",
+          "ans": "A",
+          "exp": "Dùng 'under' để chỉ vị trí bên dưới"
+        },
+        {
+          "type": "mc",
+          "q": "There are many people ___ the park.",
+          "opts": "in,at,on,under",
+          "ans": "A",
+          "exp": "Dùng 'in' với không gian mở có giới hạn"
+        },
+        {
+          "type": "mc",
+          "q": "My keys are ___ my bag.",
+          "opts": "in,on,at,under",
+          "ans": "A",
+          "exp": "Dùng 'in' với không gian 3D (túi)"
+        },
+        {
+          "type": "mc",
+          "q": "He lives ___ London.",
+          "opts": "in,at,on,under",
+          "ans": "A",
+          "exp": "Dùng 'in' với thành phố/quốc gia"
+        },
+        {
+          "type": "mc",
+          "q": "The picture is ___ the wall.",
+          "opts": "on,in,at,under",
+          "ans": "A",
+          "exp": "Dùng 'on' với bề mặt (tường)"
+        },
+        {
+          "type": "mc",
+          "q": "She is waiting ___ the door.",
+          "opts": "at,in,on,under",
+          "ans": "A",
+          "exp": "Dùng 'at' với một điểm cụ thể (cửa)"
+        },
+        {
+          "type": "mc",
+          "q": "The children are playing ___ the garden.",
+          "opts": "in,at,on,under",
+          "ans": "A",
+          "exp": "Dùng 'in' với không gian mở có giới hạn (vườn)"
+        },
+        {
+          "type": "mc",
+          "q": "My office is ___ the second floor.",
+          "opts": "on,in,at,under",
+          "ans": "A",
+          "exp": "Dùng 'on' với tầng"
+        },
+        {
+          "type": "mc",
+          "q": "He is ___ work right now.",
+          "opts": "at,in,on,under",
+          "ans": "A",
+          "exp": "Dùng 'at' với 'work'"
+        },
+        {
+          "type": "mc",
+          "q": "The bird is singing ___ the tree.",
+          "opts": "in,on,at,under",
+          "ans": "A",
+          "exp": "Dùng 'in' với cây (trong tán lá)"
+        },
+        {
+          "type": "mc",
+          "q": "There is a spider ___ the ceiling.",
+          "opts": "on,in,at,under",
+          "ans": "A",
+          "exp": "Dùng 'on' với bề mặt (trần nhà)"
+        },
+        {
+          "type": "mc",
+          "q": "We had dinner ___ a restaurant.",
+          "opts": "at,in,on,under",
+          "ans": "A",
+          "exp": "Dùng 'at' với nhà hàng"
+        },
+        {
+          "type": "mc",
+          "q": "The car is ___ the garage.",
+          "opts": "in,on,at,under",
+          "ans": "A",
+          "exp": "Dùng 'in' với không gian 3D (nhà để xe)"
+        },
+        {
+          "type": "mc",
+          "q": "She put the groceries ___ the fridge.",
+          "opts": "in,on,at,under",
+          "ans": "A",
+          "exp": "Dùng 'in' với không gian 3D (tủ lạnh)"
+        },
+        {
+          "type": "mc",
+          "q": "My phone is ___ the desk.",
+          "opts": "on,in,at,under",
+          "ans": "A",
+          "exp": "Dùng 'on' với bề mặt (bàn làm việc)"
+        },
+        {
+          "type": "mc",
+          "q": "He is studying ___ Oxford University.",
+          "opts": "at,in,on,under",
+          "ans": "A",
+          "exp": "Dùng 'at' với trường đại học"
+        },
+        {
+          "type": "mc",
+          "q": "The children are playing ___ the beach.",
+          "opts": "on,at,in,under",
+          "ans": "A",
+          "exp": "Dùng 'on' với bãi biển (trên bề mặt)"
+        },
+        {
+          "type": "fill",
+          "q": "The keys are ___ the drawer.",
+          "ans": "in",
+          "exp": "Dùng 'in' với không gian 3D (ngăn kéo)"
+        },
+        {
+          "type": "fill",
+          "q": "My office is ___ the third floor.",
+          "ans": "on",
+          "exp": "Dùng 'on' với tầng"
+        },
+        {
+          "type": "fill",
+          "q": "I live ___ 123 Main Street.",
+          "ans": "at",
+          "exp": "Dùng 'at' với địa chỉ cụ thể"
+        },
+        {
+          "type": "fill",
+          "q": "The cat is ___ the chair.",
+          "ans": "on",
+          "exp": "Dùng 'on' với bề mặt"
+        },
+        {
+          "type": "fill",
+          "q": "There is a bird's nest ___ the tree.",
+          "ans": "in",
+          "exp": "Dùng 'in' với cây (trong tán lá)"
+        },
+        {
+          "type": "fill",
+          "q": "She is waiting ___ the bus stop.",
+          "ans": "at",
+          "exp": "Dùng 'at' với một điểm cụ thể"
+        },
+        {
+          "type": "fill",
+          "q": "The picture is ___ the wall.",
+          "ans": "on",
+          "exp": "Dùng 'on' với bề mặt (tường)"
+        },
+        {
+          "type": "fill",
+          "q": "He works ___ a factory.",
+          "ans": "in",
+          "exp": "Dùng 'in' với không gian 3D (nhà máy)"
+        },
+        {
+          "type": "fill",
+          "q": "My phone is ___ my pocket.",
+          "ans": "in",
+          "exp": "Dùng 'in' với không gian 3D (túi quần áo)"
+        },
+        {
+          "type": "fill",
+          "q": "The remote is ___ the sofa.",
+          "ans": "on",
+          "exp": "Dùng 'on' với bề mặt"
+        },
+        {
+          "type": "fill",
+          "q": "We had dinner ___ a fancy restaurant.",
+          "ans": "at",
+          "exp": "Dùng 'at' với nhà hàng"
+        },
+        {
+          "type": "fill",
+          "q": "The children are playing ___ the garden.",
+          "ans": "in",
+          "exp": "Dùng 'in' với không gian mở có giới hạn"
+        },
+        {
+          "type": "fill",
+          "q": "There is a clock ___ the wall.",
+          "ans": "on",
+          "exp": "Dùng 'on' với bề mặt (tường)"
+        },
+        {
+          "type": "fill",
+          "q": "She is ___ home now.",
+          "ans": "at",
+          "exp": "Dùng 'at' với 'home'"
+        },
+        {
+          "type": "fill",
+          "q": "The car is parked ___ the street.",
+          "ans": "on",
+          "exp": "Dùng 'on' với đường phố"
+        },
+        {
+          "type": "fill",
+          "q": "He lives ___ a small village.",
+          "ans": "in",
+          "exp": "Dùng 'in' với làng/thành phố"
+        },
+        {
+          "type": "fill",
+          "q": "My book is ___ the shelf.",
+          "ans": "on",
+          "exp": "Dùng 'on' với bề mặt (kệ sách)"
+        },
+        {
+          "type": "fill",
+          "q": "The dog is sleeping ___ its bed.",
+          "ans": "in",
+          "exp": "Dùng 'in' với không gian 3D (giường chó)"
+        },
+        {
+          "type": "fill",
+          "q": "We met ___ the party.",
+          "ans": "at",
+          "exp": "Dùng 'at' với sự kiện"
+        },
+        {
+          "type": "fill",
+          "q": "The map is ___ the book.",
+          "ans": "in",
+          "exp": "Dùng 'in' với tài liệu in ấn"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "The book is on the table",
+            "extra": [
+              "book",
+              "is",
+              "table"
+            ]
+          },
+          {
+            "words": "She is in the kitchen",
+            "extra": [
+              "she",
+              "is",
+              "kitchen"
+            ]
+          },
+          {
+            "words": "I will meet you at the bus stop",
+            "extra": [
+              "meet",
+              "you",
+              "bus"
+            ]
+          },
+          {
+            "words": "The cat is sleeping under the bed",
+            "extra": [
+              "cat",
+              "sleeping",
+              "bed"
+            ]
+          },
+          {
+            "words": "There are many people in the park",
+            "extra": [
+              "many",
+              "people",
+              "park"
+            ]
+          },
+          {
+            "words": "My keys are in my bag",
+            "extra": [
+              "keys",
+              "are",
+              "bag"
+            ]
+          },
+          {
+            "words": "He lives in London",
+            "extra": [
+              "he",
+              "lives",
+              "London"
+            ]
+          },
+          {
+            "words": "The picture is on the wall",
+            "extra": [
+              "picture",
+              "is",
+              "wall"
+            ]
+          },
+          {
+            "words": "She is waiting at the door",
+            "extra": [
+              "waiting",
+              "at",
+              "door"
+            ]
+          },
+          {
+            "words": "The children are playing in the garden",
+            "extra": [
+              "children",
+              "playing",
+              "garden"
+            ]
+          },
+          {
+            "words": "My office is on the second floor",
+            "extra": [
+              "office",
+              "second",
+              "floor"
+            ]
+          },
+          {
+            "words": "He is at work right now",
+            "extra": [
+              "at",
+              "work",
+              "now"
+            ]
+          },
+          {
+            "words": "The bird is singing in the tree",
+            "extra": [
+              "bird",
+              "singing",
+              "tree"
+            ]
+          },
+          {
+            "words": "There is a spider on the ceiling",
+            "extra": [
+              "spider",
+              "on",
+              "ceiling"
+            ]
+          },
+          {
+            "words": "We had dinner at a restaurant",
+            "extra": [
+              "had",
+              "dinner",
+              "restaurant"
+            ]
+          },
+          {
+            "words": "The car is in the garage",
+            "extra": [
+              "car",
+              "in",
+              "garage"
+            ]
+          },
+          {
+            "words": "She put the groceries in the fridge",
+            "extra": [
+              "put",
+              "groceries",
+              "fridge"
+            ]
+          },
+          {
+            "words": "My phone is on the desk",
+            "extra": [
+              "phone",
+              "on",
+              "desk"
+            ]
+          },
+          {
+            "words": "He is studying at Oxford University",
+            "extra": [
+              "studying",
+              "Oxford",
+              "University"
+            ]
+          },
+          {
+            "words": "The children are playing on the beach",
+            "extra": [
+              "children",
+              "playing",
+              "beach"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "My house is {{1}} a quiet street {{2}} the city center. There is a small garden {{3}} front of the house {{4}} many flowers. My living room is {{5}} the first floor, and the kitchen is {{6}} the ground floor. My bedroom is {{7}} the second floor. I have a desk {{8}} my bedroom {{9}} the window. My cat often sleeps {{10}} the chair {{11}} the living room.",
+            "blanks": {
+              "1": "on",
+              "2": "in",
+              "3": "in",
+              "4": "with",
+              "5": "on",
+              "6": "on",
+              "7": "on",
+              "8": "in",
+              "9": "by",
+              "10": "on",
+              "11": "in"
+            },
+            "wordbank": [
+              "at",
+              "in",
+              "on",
+              "under",
+              "next",
+              "behind",
+              "front",
+              "with",
+              "by",
+              "over",
+              "between",
+              "opposite",
+              "above",
+              "below",
+              "of",
+              "from",
+              "through"
+            ]
+          },
+          {
+            "text": "I work {{1}} an office {{2}} the city. My office is {{3}} the third floor {{4}} a big building. I sit {{5}} a desk {{6}} the window. My computer is {{7}} the desk, and my phone is {{8}} my hand. There is a plant {{9}} the corner {{10}} the room. I usually have lunch {{11}} a cafe {{12}} the street.",
+            "blanks": {
+              "1": "in",
+              "2": "in",
+              "3": "on",
+              "4": "in",
+              "5": "at",
+              "6": "by",
+              "7": "on",
+              "8": "in",
+              "9": "in",
+              "10": "of",
+              "11": "at",
+              "12": "across"
+            },
+            "wordbank": [
+              "at",
+              "in",
+              "on",
+              "under",
+              "next",
+              "behind",
+              "front",
+              "with",
+              "by",
+              "over",
+              "between",
+              "opposite",
+              "above",
+              "below",
+              "of",
+              "across",
+              "from",
+              "through"
+            ]
+          },
+          {
+            "text": "My friend lives {{1}} a small village {{2}} the mountains. Her house is {{3}} the river. There are many trees {{4}} her house. She has a dog that loves to play {{5}} the garden. {{6}} the summer, they often go swimming {{7}} the lake. {{8}} the winter, they go skiing {{9}} the nearby slopes. She works {{10}} a small shop {{11}} the village square.",
+            "blanks": {
+              "1": "in",
+              "2": "in",
+              "3": "by",
+              "4": "around",
+              "5": "in",
+              "6": "In",
+              "7": "in",
+              "8": "In",
+              "9": "on",
+              "10": "at",
+              "11": "in"
+            },
+            "wordbank": [
+              "at",
+              "in",
+              "on",
+              "under",
+              "next",
+              "behind",
+              "front",
+              "with",
+              "by",
+              "over",
+              "between",
+              "opposite",
+              "above",
+              "below",
+              "around",
+              "from",
+              "through"
+            ]
+          },
+          {
+            "text": "I went to a concert {{1}} the stadium last night. I met my friends {{2}} the entrance. We sat {{3}} the front row {{4}} the stage. The band played {{5}} the stage. There were many people {{6}} the audience. I saw my favorite singer {{7}} the TV screen. After the concert, we went to a bar {{8}} the corner {{9}} the street. We talked about the concert {{10}} a few hours {{11}} the bar.",
+            "blanks": {
+              "1": "at",
+              "2": "at",
+              "3": "in",
+              "4": "in front of",
+              "5": "on",
+              "6": "in",
+              "7": "on",
+              "8": "at",
+              "9": "of",
+              "10": "for",
+              "11": "in"
+            },
+            "wordbank": [
+              "at",
+              "in",
+              "on",
+              "under",
+              "next",
+              "behind",
+              "front",
+              "with",
+              "by",
+              "over",
+              "between",
+              "opposite",
+              "above",
+              "below",
+              "of",
+              "for",
+              "from",
+              "through"
+            ]
+          },
+          {
+            "text": "My cat loves to hide. Sometimes she is {{1}} the sofa, sometimes {{2}} the curtains. I often find her {{3}} the bed, or {{4}} the table. She likes to sit {{5}} the window and watch the birds. When I'm working, she jumps {{6}} my lap {{7}} the desk. She also likes to sleep {{8}} my clothes {{9}} the wardrobe. It's always a surprise to find her {{10}} different places {{11}} the house.",
+            "blanks": {
+              "1": "under",
+              "2": "behind",
+              "3": "on",
+              "4": "under",
+              "5": "by",
+              "6": "on",
+              "7": "at",
+              "8": "in",
+              "9": "in",
+              "10": "in",
+              "11": "in"
+            },
+            "wordbank": [
+              "at",
+              "in",
+              "on",
+              "under",
+              "next",
+              "behind",
+              "front",
+              "with",
+              "by",
+              "over",
+              "between",
+              "opposite",
+              "above",
+              "below",
+              "of",
+              "for",
+              "from",
+              "through"
+            ]
+          }
+        ]
+	},
+        "writing_prompts": [
+          {
+            "vi": "Mô tả phòng ngủ của bạn, sử dụng các giới từ chỉ vị trí (at, in, on).",
+            "grammar_focus": "prepositions of place",
+            "hint_words": [
+              "in my room",
+              "on the bed",
+              "at the desk",
+              "on the wall",
+              "in the wardrobe"
+            ],
+            "min_words": 30,
+            "example": "My bedroom is on the second floor of my house. There is a big window in my room. My bed is next to the wall. On the bed, there are many pillows. My desk is by the window, and my computer is on the desk. My clothes are in the wardrobe. There is a rug on the floor. I feel very comfortable in my room."
+          },
+          {
+            "vi": "Mô tả nơi làm việc hoặc học tập của bạn, sử dụng các giới từ chỉ vị trí (at, in, on).",
+            "grammar_focus": "prepositions of place",
+            "hint_words": [
+              "at work",
+              "in the office",
+              "on my desk",
+              "at the computer",
+              "in the meeting room"
+            ],
+            "min_words": 30,
+            "example": "I work in a big office building in the city center. My office is on the fifth floor. I sit at a large desk by the window. My computer is on the desk, and my documents are in the drawer. I often have meetings in the meeting room. At lunchtime, I usually eat at the cafeteria on the ground floor. I enjoy working in this environment."
+          },
+          {
+            "vi": "Mô tả một địa điểm công cộng (công viên, siêu thị, nhà hàng) và những gì bạn thấy ở đó, sử dụng các giới từ chỉ vị trí.",
+            "grammar_focus": "prepositions of place",
+            "hint_words": [
+              "in the park",
+              "on the grass",
+              "at the entrance",
+              "under a tree",
+              "next to the fountain"
+            ],
+            "min_words": 30,
+            "example": "Yesterday, I went to the park. There were many people in the park. Some children were playing on the grass. A couple was sitting on a bench under a big tree. There was a beautiful fountain in the middle of the park. I saw a dog running next to its owner. I bought an ice cream at a small stand near the entrance. It was a lovely day in the park."
+          },
+          {
+            "vi": "Mô tả vị trí của các đồ vật trong nhà bếp của bạn, sử dụng các giới từ chỉ vị trí.",
+            "grammar_focus": "prepositions of place",
+            "hint_words": [
+              "in the fridge",
+              "on the counter",
+              "in the cupboard",
+              "next to the sink",
+              "under the microwave"
+            ],
+            "min_words": 30,
+            "example": "In my kitchen, the fridge is next to the oven. The microwave is on the counter. All the plates are in the cupboard above the sink. The glasses are in the cupboard next to the plates. I keep my spices in a small rack on the wall. The trash can is under the sink. I always try to keep my kitchen tidy."
+          },
+          {
+            "vi": "Mô tả một bức tranh hoặc một bức ảnh, sử dụng các giới từ chỉ vị trí.",
+            "grammar_focus": "prepositions of place",
+            "hint_words": [
+              "in the picture",
+              "on the left",
+              "on the right",
+              "in the background",
+              "in the foreground"
+            ],
+            "min_words": 30,
+            "example": "In this picture, I see a beautiful landscape. On the left, there is a tall mountain. On the right, there is a calm lake. In the foreground, there are some colorful flowers. In the background, I can see a small village. A few birds are flying above the lake. The sun is shining brightly in the sky. It's a very peaceful scene."
+          }
+        ]
+    },
+    {
+      "icon": "↔️",
+      "title": "Other Prepositions of Place: Next to, Under, Between, In front of, Behind, Over",
+      "level": "A1",
+      "badge": "🌱 A1",
+      "badgeClass": "badge-blue",
+      "content": "\n<div class=\"rule-box\"><div class=\"rule-label\">📌 Các giới từ chỉ vị trí khác</div>\n<table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Giới từ</th><th style=\"padding:4px 8px;text-align:left\">Ý nghĩa</th><th style=\"padding:4px 8px;text-align:left\">Ví dụ</th></tr><tr><td style=\"padding:4px 8px\"><b>Next to / Beside</b></td><td style=\"padding:4px 8px\">Kế bên, bên cạnh</td><td style=\"padding:4px 8px\">• We had a picnic <b>next to/beside</b> the river.<br>• Come and sit <b>next to/beside</b> me.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><b>Between</b></td><td style=\"padding:4px 8px\">Ở giữa (hai người/vật)</td><td style=\"padding:4px 8px\">• I live in a small town <b>between</b> Liverpool and Manchester.<br>• She is sleeping <b>between</b> her mum and dad.</td></tr><tr><td style=\"padding:4px 8px\"><b>In front of</b></td><td style=\"padding:4px 8px\">Ở phía trước</td><td style=\"padding:4px 8px\">• John sits <b>in front of</b> me in class.<br>• You are always <b>in front of</b> the mirror.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><b>Behind</b></td><td style=\"padding:4px 8px\">Ở phía sau</td><td style=\"padding:4px 8px\">• She is hiding <b>behind</b> the curtains.<br>• We hang our coats <b>behind</b> the door.</td></tr><tr><td style=\"padding:4px 8px\"><b>Opposite</b></td><td style=\"padding:4px 8px\">Đối diện</td><td style=\"padding:4px 8px\">• I live <b>opposite</b> the supermarket.<br>• I am sitting <b>opposite</b> him.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><b>Under</b></td><td style=\"padding:4px 8px\">Ở dưới</td><td style=\"padding:4px 8px\">• The cat is hiding <b>under</b> the bed.<br>• Why are your shoes <b>under</b> the table?</td></tr><tr><td style=\"padding:4px 8px\"><b>Above / Over</b></td><td style=\"padding:4px 8px\">Ở trên (vị trí cao hơn)</td><td style=\"padding:4px 8px\">• She lives in an apartment <b>above/over</b> the grocery store.<br>• There is a shelf <b>above/over</b> the sink.</td></tr></table></div><div class=\"ex-sent\">The dog is sleeping <b>under</b> the tree.<span>Con chó đang ngủ dưới gốc cây.</span></div><div class=\"ex-sent\">My house is <b>next to</b> the park.<span>Nhà tôi ở cạnh công viên.</span></div><div class=\"ex-sent\">The teacher stands <b>in front of</b> the class.<span>Giáo viên đứng trước lớp.</span></div>\n",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "The cat is hiding ___ the sofa.",
+          "opts": "under,next to,between,in front of",
+          "ans": "A",
+          "exp": "Dùng 'under' để chỉ vị trí bên dưới"
+        },
+        {
+          "type": "mc",
+          "q": "My house is ___ the park.",
+          "opts": "next to,between,in front of,behind",
+          "ans": "A",
+          "exp": "Dùng 'next to' để chỉ vị trí bên cạnh"
+        },
+        {
+          "type": "mc",
+          "q": "John sits ___ me in class.",
+          "opts": "in front of,behind,opposite,under",
+          "ans": "A",
+          "exp": "Dùng 'in front of' để chỉ vị trí phía trước"
+        },
+        {
+          "type": "mc",
+          "q": "The car is parked ___ the tree.",
+          "opts": "behind,in front of,next to,between",
+          "ans": "A",
+          "exp": "Dùng 'behind' để chỉ vị trí phía sau"
+        },
+        {
+          "type": "mc",
+          "q": "I live ___ the supermarket.",
+          "opts": "opposite,next to,between,under",
+          "ans": "A",
+          "exp": "Dùng 'opposite' để chỉ vị trí đối diện"
+        },
+        {
+          "type": "mc",
+          "q": "The ball is ___ the box.",
+          "opts": "under,over,above,between",
+          "ans": "A",
+          "exp": "Dùng 'under' để chỉ vị trí bên dưới"
+        },
+        {
+          "type": "mc",
+          "q": "She is standing ___ her parents.",
+          "opts": "between,next to,in front of,behind",
+          "ans": "A",
+          "exp": "Dùng 'between' để chỉ vị trí ở giữa hai người/vật"
+        },
+        {
+          "type": "mc",
+          "q": "There is a clock ___ the door.",
+          "opts": "above,under,behind,next to",
+          "ans": "A",
+          "exp": "Dùng 'above' để chỉ vị trí cao hơn"
+        },
+        {
+          "type": "mc",
+          "q": "The dog is running ___ the children.",
+          "opts": "among,between,next to,in front of",
+          "ans": "A",
+          "exp": "Dùng 'among' khi ở giữa nhiều người/vật"
+        },
+        {
+          "type": "mc",
+          "q": "He put his hands ___ his pockets.",
+          "opts": "in,on,at,under",
+          "ans": "A",
+          "exp": "Dùng 'in' với không gian 3D (túi)"
+        },
+        {
+          "type": "mc",
+          "q": "The picture is hanging ___ the fireplace.",
+          "opts": "above,under,behind,next to",
+          "ans": "A",
+          "exp": "Dùng 'above' để chỉ vị trí cao hơn"
+        },
+        {
+          "type": "mc",
+          "q": "The children are playing hide-and-seek ___ the trees.",
+          "opts": "among,between,next to,in front of",
+          "ans": "A",
+          "exp": "Dùng 'among' khi ở giữa nhiều người/vật"
+        },
+        {
+          "type": "mc",
+          "q": "My car is parked ___ your car and his car.",
+          "opts": "between,next to,in front of,behind",
+          "ans": "A",
+          "exp": "Dùng 'between' để chỉ vị trí ở giữa hai người/vật"
+        },
+        {
+          "type": "mc",
+          "q": "The sun is ___ the clouds.",
+          "opts": "above,under,behind,next to",
+          "ans": "A",
+          "exp": "Dùng 'above' để chỉ vị trí cao hơn"
+        },
+        {
+          "type": "mc",
+          "q": "He stood ___ the mirror, looking at himself.",
+          "opts": "in front of,behind,opposite,under",
+          "ans": "A",
+          "exp": "Dùng 'in front of' để chỉ vị trí phía trước"
+        },
+        {
+          "type": "mc",
+          "q": "The remote control is ___ the cushions.",
+          "opts": "under,on,in,at",
+          "ans": "A",
+          "exp": "Dùng 'under' để chỉ vị trí bên dưới"
+        },
+        {
+          "type": "mc",
+          "q": "The ball rolled ___ the table.",
+          "opts": "under,over,above,between",
+          "ans": "A",
+          "exp": "Dùng 'under' để chỉ vị trí bên dưới"
+        },
+        {
+          "type": "mc",
+          "q": "She lives ___ the bakery.",
+          "opts": "next to,between,in front of,behind",
+          "ans": "A",
+          "exp": "Dùng 'next to' để chỉ vị trí bên cạnh"
+        },
+        {
+          "type": "mc",
+          "q": "The dog is sitting ___ its owner.",
+          "opts": "behind,in front of,next to,between",
+          "ans": "A",
+          "exp": "Dùng 'behind' để chỉ vị trí phía sau"
+        },
+        {
+          "type": "mc",
+          "q": "There is a bridge ___ the river.",
+          "opts": "over,under,between,next to",
+          "ans": "A",
+          "exp": "Dùng 'over' để chỉ vị trí bắc qua"
+        },
+        {
+          "type": "fill",
+          "q": "The cat is sleeping ___ the bed.",
+          "ans": "under",
+          "exp": "Dùng 'under' để chỉ vị trí bên dưới"
+        },
+        {
+          "type": "fill",
+          "q": "My car is parked ___ the house.",
+          "ans": "behind",
+          "exp": "Dùng 'behind' để chỉ vị trí phía sau"
+        },
+        {
+          "type": "fill",
+          "q": "The school is ___ the park.",
+          "ans": "next to",
+          "exp": "Dùng 'next to' để chỉ vị trí bên cạnh"
+        },
+        {
+          "type": "fill",
+          "q": "He is standing ___ the door.",
+          "ans": "in front of",
+          "exp": "Dùng 'in front of' để chỉ vị trí phía trước"
+        },
+        {
+          "type": "fill",
+          "q": "I live ___ the cinema.",
+          "ans": "opposite",
+          "exp": "Dùng 'opposite' để chỉ vị trí đối diện"
+        },
+        {
+          "type": "fill",
+          "q": "The ball is rolling ___ the table.",
+          "ans": "under",
+          "exp": "Dùng 'under' để chỉ vị trí bên dưới"
+        },
+        {
+          "type": "fill",
+          "q": "She sat ___ her two friends.",
+          "ans": "between",
+          "exp": "Dùng 'between' để chỉ vị trí ở giữa hai người"
+        },
+        {
+          "type": "fill",
+          "q": "There is a fan ___ the bed.",
+          "ans": "above",
+          "exp": "Dùng 'above' để chỉ vị trí cao hơn"
+        },
+        {
+          "type": "fill",
+          "q": "The children are playing ___ the trees.",
+          "ans": "among",
+          "exp": "Dùng 'among' khi ở giữa nhiều người/vật"
+        },
+        {
+          "type": "fill",
+          "q": "He put the book ___ the shelf.",
+          "ans": "on",
+          "exp": "Dùng 'on' với bề mặt"
+        },
+        {
+          "type": "fill",
+          "q": "The plane is flying ___ the clouds.",
+          "ans": "above",
+          "exp": "Dùng 'above' để chỉ vị trí cao hơn"
+        },
+        {
+          "type": "fill",
+          "q": "My keys fell ___ the sofa.",
+          "ans": "under",
+          "exp": "Dùng 'under' để chỉ vị trí bên dưới"
+        },
+        {
+          "type": "fill",
+          "q": "The dog is hiding ___ the bushes.",
+          "ans": "behind",
+          "exp": "Dùng 'behind' để chỉ vị trí phía sau"
+        },
+        {
+          "type": "fill",
+          "q": "The restaurant is ___ the bank and the post office.",
+          "ans": "between",
+          "exp": "Dùng 'between' để chỉ vị trí ở giữa hai địa điểm"
+        },
+        {
+          "type": "fill",
+          "q": "He stood ___ the stage.",
+          "ans": "in front of",
+          "exp": "Dùng 'in front of' để chỉ vị trí phía trước"
+        },
+        {
+          "type": "fill",
+          "q": "The picture is ___ the fireplace.",
+          "ans": "above",
+          "exp": "Dùng 'above' để chỉ vị trí cao hơn"
+        },
+        {
+          "type": "fill",
+          "q": "She lives ___ the school.",
+          "ans": "opposite",
+          "exp": "Dùng 'opposite' để chỉ vị trí đối diện"
+        },
+        {
+          "type": "fill",
+          "q": "The remote control is ___ the cushions.",
+          "ans": "under",
+          "exp": "Dùng 'under' để chỉ vị trí bên dưới"
+        },
+        {
+          "type": "fill",
+          "q": "There is a mirror ___ the sink.",
+          "ans": "above",
+          "exp": "Dùng 'above' để chỉ vị trí cao hơn"
+        },
+        {
+          "type": "fill",
+          "q": "The cat is sitting ___ the window.",
+          "ans": "next to",
+          "exp": "Dùng 'next to' để chỉ vị trí bên cạnh"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "The cat is hiding under the sofa",
+            "extra": [
+              "cat",
+              "hiding",
+              "sofa"
+            ]
+          },
+          {
+            "words": "My house is next to the park",
+            "extra": [
+              "house",
+              "next",
+              "park"
+            ]
+          },
+          {
+            "words": "John sits in front of me in class",
+            "extra": [
+              "John",
+              "sits",
+              "class"
+            ]
+          },
+          {
+            "words": "The car is parked behind the tree",
+            "extra": [
+              "car",
+              "parked",
+              "tree"
+            ]
+          },
+          {
+            "words": "I live opposite the supermarket",
+            "extra": [
+              "live",
+              "opposite",
+              "supermarket"
+            ]
+          },
+          {
+            "words": "The ball is under the box",
+            "extra": [
+              "ball",
+              "under",
+              "box"
+            ]
+          },
+          {
+            "words": "She is standing between her parents",
+            "extra": [
+              "standing",
+              "between",
+              "parents"
+            ]
+          },
+          {
+            "words": "There is a clock above the door",
+            "extra": [
+              "clock",
+              "above",
+              "door"
+            ]
+          },
+          {
+            "words": "The dog is running among the children",
+            "extra": [
+              "dog",
+              "running",
+              "children"
+            ]
+          },
+          {
+            "words": "He put his hands in his pockets",
+            "extra": [
+              "put",
+              "hands",
+              "pockets"
+            ]
+          },
+          {
+            "words": "The picture is hanging above the fireplace",
+            "extra": [
+              "picture",
+              "hanging",
+              "fireplace"
+            ]
+          },
+          {
+            "words": "The children are playing hide-and-seek among the trees",
+            "extra": [
+              "children",
+              "playing",
+              "trees"
+            ]
+          },
+          {
+            "words": "My car is parked between your car and his car",
+            "extra": [
+              "car",
+              "parked",
+              "between"
+            ]
+          },
+          {
+            "words": "The sun is above the clouds",
+            "extra": [
+              "sun",
+              "above",
+              "clouds"
+            ]
+          },
+          {
+            "words": "He stood in front of the mirror looking at himself",
+            "extra": [
+              "stood",
+              "front",
+              "mirror"
+            ]
+          },
+          {
+            "words": "The remote control is under the cushions",
+            "extra": [
+              "remote",
+              "control",
+              "cushions"
+            ]
+          },
+          {
+            "words": "The ball rolled under the table",
+            "extra": [
+              "ball",
+              "rolled",
+              "table"
+            ]
+          },
+          {
+            "words": "She lives next to the bakery",
+            "extra": [
+              "lives",
+              "next",
+              "bakery"
+            ]
+          },
+          {
+            "words": "The dog is sitting behind its owner",
+            "extra": [
+              "dog",
+              "sitting",
+              "owner"
+            ]
+          },
+          {
+            "words": "There is a bridge over the river",
+            "extra": [
+              "bridge",
+              "over",
+              "river"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "My favorite cafe is {{1}} the library {{2}} the main street. There is a big tree {{3}} the cafe. I usually sit {{4}} the window {{5}} a small table. My friend often sits {{6}} me. The counter is {{7}} us. There are many books {{8}} the shelves {{9}} the wall. A big clock hangs {{10}} the door. I love the atmosphere {{11}} this cafe.",
+            "blanks": {
+              "1": "next to",
+              "2": "on",
+              "3": "in front of",
+              "4": "by",
+              "5": "at",
+              "6": "opposite",
+              "7": "between",
+              "8": "on",
+              "9": "on",
+              "10": "above",
+              "11": "in"
+            },
+            "wordbank": [
+              "at",
+              "in",
+              "on",
+              "under",
+              "next to",
+              "behind",
+              "in front of",
+              "between",
+              "opposite",
+              "above",
+              "below",
+              "by",
+              "over",
+              "of",
+              "from",
+              "through",
+              "near",
+              "around"
+            ]
+          },
+          {
+            "text": "My dog, Max, loves to play {{1}} the garden. He often hides {{2}} the bushes {{3}} the fence. Sometimes he digs holes {{4}} the trees. When I call him, he runs {{5}} me {{6}} the house. He loves to chase the ball {{7}} the grass. After playing, he usually sleeps {{8}} his bed {{9}} the living room. He is a very happy dog {{10}} our family.",
+            "blanks": {
+              "1": "in",
+              "2": "behind",
+              "3": "near",
+              "4": "under",
+              "5": "towards",
+              "6": "around",
+              "7": "on",
+              "8": "on",
+              "9": "in",
+              "10": "in"
+            },
+            "wordbank": [
+              "at",
+              "in",
+              "on",
+              "under",
+              "next to",
+              "behind",
+              "in front of",
+              "between",
+              "opposite",
+              "above",
+              "below",
+              "by",
+              "over",
+              "near",
+              "towards",
+              "around",
+              "from",
+              "through"
+            ]
+          },
+          {
+            "text": "I went to a museum yesterday. It was {{1}} the city center. There were many old paintings {{2}} the walls. Some sculptures were {{3}} the middle {{4}} the room. I saw a very old map {{5}} a glass case. A guide was standing {{6}} a group of tourists {{7}} a famous statue. I walked {{8}} the exhibits {{9}} a few hours. I bought a souvenir {{10}} the gift shop {{11}} the exit.",
+            "blanks": {
+              "1": "in",
+              "2": "on",
+              "3": "in",
+              "4": "of",
+              "5": "in",
+              "6": "in front of",
+              "7": "near",
+              "8": "around",
+              "9": "for",
+              "10": "at",
+              "11": "near"
+            },
+            "wordbank": [
+              "at",
+              "in",
+              "on",
+              "under",
+              "next to",
+              "behind",
+              "in front of",
+              "between",
+              "opposite",
+              "above",
+              "below",
+              "by",
+              "over",
+              "near",
+              "around",
+              "of",
+              "for",
+              "from",
+              "through"
+            ]
+          },
+          {
+            "text": "My friend's apartment is {{1}} the third floor {{2}} a tall building. Her balcony looks out {{3}} the park. There is a small table {{4}} the balcony {{5}} two chairs. Inside, the living room is {{6}} the kitchen. Her sofa is {{7}} the TV. There are many books {{8}} the shelves {{9}} the wall. Her bedroom is {{10}} the end {{11}} the hallway.",
+            "blanks": {
+              "1": "on",
+              "2": "of",
+              "3": "over",
+              "4": "on",
+              "5": "with",
+              "6": "next to",
+              "7": "in front of",
+              "8": "on",
+              "9": "on",
+              "10": "at",
+              "11": "of"
+            },
+            "wordbank": [
+              "at",
+              "in",
+              "on",
+              "under",
+              "next to",
+              "behind",
+              "in front of",
+              "between",
+              "opposite",
+              "above",
+              "below",
+              "by",
+              "over",
+              "of",
+              "with",
+              "from",
+              "through"
+            ]
+          },
+          {
+            "text": "The children were playing hide-and-seek. One child hid {{1}} the curtains. Another was {{2}} the big armchair. A third child was {{3}} the door, trying to be quiet. The seeker looked {{4}} the table, {{5}} the chairs, and {{6}} the sofa. Finally, he found one child {{7}} the bed. He then looked {{8}} the two tall bookshelves {{9}} the corner. He found the last child {{10}} the box {{11}} the cupboard.",
+            "blanks": {
+              "1": "behind",
+              "2": "behind",
+              "3": "next to",
+              "4": "under",
+              "5": "between",
+              "6": "behind",
+              "7": "under",
+              "8": "between",
+              "9": "in",
+              "10": "in",
+              "11": "in"
+            },
+            "wordbank": [
+              "at",
+              "in",
+              "on",
+              "under",
+              "next to",
+              "behind",
+              "in front of",
+              "between",
+              "opposite",
+              "above",
+              "below",
+              "by",
+              "over",
+              "of",
+              "from",
+              "through"
+            ]
+          }
+        ]
+	},
+        "writing_prompts": [
+          {
+            "vi": "Mô tả vị trí của các đồ vật trong phòng khách của bạn, sử dụng các giới từ chỉ vị trí khác (next to, under, between, in front of, behind, over).",
+            "grammar_focus": "other prepositions of place",
+            "hint_words": [
+              "sofa",
+              "TV",
+              "coffee table",
+              "rug",
+              "bookshelf",
+              "window"
+            ],
+            "min_words": 30,
+            "example": "In my living room, the sofa is next to the window. The TV is in front of the sofa. There is a coffee table between the sofa and the TV. A soft rug is under the coffee table. The bookshelf is behind the sofa. I have a small plant over the bookshelf. It's a cozy place to relax."
+          },
+          {
+            "vi": "Mô tả đường đi từ nhà bạn đến một địa điểm quen thuộc (trường học, cửa hàng), sử dụng các giới từ chỉ vị trí.",
+            "grammar_focus": "prepositions of place and movement",
+            "hint_words": [
+              "walk past",
+              "turn left/right",
+              "cross the street",
+              "next to",
+              "opposite"
+            ],
+            "min_words": 30,
+            "example": "To get to the school from my house, I walk straight ahead. I pass the park on my left. Then, I turn right at the traffic light. The school is opposite the supermarket. There is a big tree in front of the school gate. My house is next to a small bakery. It takes about 10 minutes to walk there."
+          },
+          {
+            "vi": "Mô tả một bức tranh hoặc một cảnh vật, sử dụng các giới từ chỉ vị trí khác.",
+            "grammar_focus": "other prepositions of place",
+            "hint_words": [
+              "above the clouds",
+              "under the bridge",
+              "between two trees",
+              "behind the mountain",
+              "next to the river"
+            ],
+            "min_words": 30,
+            "example": "In this painting, I see a beautiful landscape. There is a small river flowing between two green hills. A wooden bridge goes over the river. A few birds are flying above the clouds. Behind the mountain, the sun is setting. There is a small house next to the river. Under the bridge, some ducks are swimming. It's a very peaceful scene."
+          },
+          {
+            "vi": "Kể về một trò chơi trốn tìm bạn đã chơi, sử dụng các giới từ chỉ vị trí.",
+            "grammar_focus": "other prepositions of place",
+            "hint_words": [
+              "hid behind",
+              "under the table",
+              "in front of the door",
+              "between the curtains",
+              "next to the bookshelf"
+            ],
+            "min_words": 30,
+            "example": "When I was a child, I loved playing hide-and-seek. I often hid behind the big curtains in the living room. Sometimes, I went under the table. My sister always hid in front of the door, which was not a good spot. My brother once hid between the two tall bookshelves. It was always fun to find them in different places around the house."
+          },
+          {
+            "vi": "Mô tả vị trí của các cửa hàng hoặc địa điểm nổi bật trên con phố của bạn, sử dụng các giới từ chỉ vị trí.",
+            "grammar_focus": "other prepositions of place",
+            "hint_words": [
+              "next to the bank",
+              "opposite the post office",
+              "between the cafe and the restaurant",
+              "in front of the cinema",
+              "behind the school"
+            ],
+            "min_words": 30,
+            "example": "On my street, there is a small bakery next to the bank. The post office is opposite the supermarket. There is a cafe between the bookshop and the restaurant. The cinema is in front of the big shopping mall. Behind the school, there is a large park. My house is next to the bus stop. It's a very convenient street with many places."
+          }
+        ]
+    }
+  ]
+}

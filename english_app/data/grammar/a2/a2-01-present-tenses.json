@@ -1,0 +1,1945 @@
+{
+  "elementary": [
+    {
+      "icon": "🔄",
+      "title": "A2 Present simple vs present continuous",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 So sánh chi tiết</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\"></th><th style=\"padding:4px 8px;text-align:left\">Present Simple</th><th style=\"padding:4px 8px;text-align:left\">Present Continuous</th></tr><tr><td style=\"padding:4px 8px;text-align:left\">Dùng khi nào</td><td style=\"padding:4px 8px;text-align:left\">Thói quen, sự thật chung, lịch trình cố định</td><td style=\"padding:4px 8px;text-align:left\">Đang xảy ra lúc nói, hành động tạm thời, kế hoạch gần</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">Dấu hiệu</td><td style=\"padding:4px 8px;text-align:left\">always, usually, often, sometimes, never, every day, once a week</td><td style=\"padding:4px 8px;text-align:left\">now, right now, at the moment, these days, this week</td></tr><tr><td style=\"padding:4px 8px;text-align:left\">Công thức</td><td style=\"padding:4px 8px;text-align:left\">S + V / V+s/es</td><td style=\"padding:4px 8px;text-align:left\">S + am/is/are + V-ing</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">Ví dụ</td><td style=\"padding:4px 8px;text-align:left\">I <b>wash</b> my hair every day.</td><td style=\"padding:4px 8px;text-align:left\">I'<b>m brushing</b> my teeth now.</td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Stative Verbs – Động từ trạng thái</div>Các động từ này <b>KHÔNG</b> dùng ở thì tiếp diễn (Continuous), ngay cả khi hành động đang xảy ra:<br>• <b>Cảm xúc:</b> like, love, hate, want, need, prefer<br>• <b>Suy nghĩ:</b> know, believe, understand, remember, mean<br>• <b>Giác quan:</b> see, hear, smell, taste, feel<br>• <b>Sở hữu:</b> have (sở hữu), belong, own, cost, seem<br>❌ <s>I am knowing the answer.</s> → ✅ I <b>know</b> the answer.</div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "What ___ you ___ now?",
+          "opts": "do / do,are / doing,does / do,is / doing",
+          "ans": "B",
+          "exp": "Now -> Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ TV every afternoon.",
+          "opts": "watch,am watching,watches,is watching",
+          "ans": "A",
+          "exp": "Every afternoon -> Simple"
+        },
+        {
+          "type": "mc",
+          "q": "He is an architect, but he ___ at the moment.",
+          "opts": "is not working,does not work,not works,not working",
+          "ans": "A",
+          "exp": "At the moment -> Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ sports magazines. I think they are boring.",
+          "opts": "hate,am hating,hating,hates",
+          "ans": "A",
+          "exp": "Hate là stative verb"
+        },
+        {
+          "type": "mc",
+          "q": "___ you often ___ TV in the afternoon?",
+          "opts": "Do / watch,Are / watching,Does / watch,Is / watching",
+          "ans": "A",
+          "exp": "Often -> Simple"
+        },
+        {
+          "type": "mc",
+          "q": "Listen! The teacher ___ to the class.",
+          "opts": "speaks,is speaking,speaking,is speak",
+          "ans": "B",
+          "exp": "Listen! -> Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "Water ___ at 100 degrees.",
+          "opts": "boil,boils,is boiling,boiled",
+          "ans": "B",
+          "exp": "Fact -> Simple"
+        },
+        {
+          "type": "mc",
+          "q": "I usually ___ to work, but this week I ___.",
+          "opts": "drive / walk,drive / walking,drive / am walking,am driving / walk",
+          "ans": "C",
+          "exp": "Habit vs Temporary"
+        },
+        {
+          "type": "mc",
+          "q": "You can turn off the TV. I ___ it.",
+          "opts": "don't watch,am not watching,not watch,am not watch",
+          "ans": "B",
+          "exp": "Action in progress"
+        },
+        {
+          "type": "mc",
+          "q": "Somebody ___ in my seat.",
+          "opts": "sits,sit,is sitting,sitting",
+          "ans": "C",
+          "exp": "Action in progress"
+        },
+        {
+          "type": "mc",
+          "q": "Excuse me, ___ you ___ English?",
+          "opts": "are / speaking,do / speak,you speak,does / speak",
+          "ans": "B",
+          "exp": "Ability/Fact -> Simple"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ very often do sport.",
+          "opts": "don't,am not,not,doesn't",
+          "ans": "A",
+          "exp": "Frequency -> Simple"
+        },
+        {
+          "type": "mc",
+          "q": "I am hungry. I ___ to eat something.",
+          "opts": "want,am wanting,wants,am want",
+          "ans": "A",
+          "exp": "Want is stative"
+        },
+        {
+          "type": "mc",
+          "q": "What time ___ she ___ work on Fridays?",
+          "opts": "does / start,is / starting,she starts,do / start",
+          "ans": "A",
+          "exp": "Schedule -> Simple"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ coffee. I prefer tea.",
+          "opts": "not like,am not liking,don't like,doesn't like",
+          "ans": "C",
+          "exp": "Stative verb"
+        },
+        {
+          "type": "mc",
+          "q": "What ___ you ___? I'm a dentist.",
+          "opts": "are / doing,do / do,do / doing,are / do",
+          "ans": "B",
+          "exp": "Job -> Simple"
+        },
+        {
+          "type": "mc",
+          "q": "The sun ___ in the East.",
+          "opts": "rise,rises,is rising,rose",
+          "ans": "B",
+          "exp": "Fact -> Simple"
+        },
+        {
+          "type": "mc",
+          "q": "Look! It ___.",
+          "opts": "rains,is raining,rain,is rain",
+          "ans": "B",
+          "exp": "Look! -> Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ my teeth every morning.",
+          "opts": "brush,am brushing,brushes,is brushing",
+          "ans": "A",
+          "exp": "Habit -> Simple"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ a new house these days.",
+          "opts": "build,builds,are building,is building",
+          "ans": "C",
+          "exp": "Around now -> Continuous"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (study) English every day.",
+          "ans": "studies",
+          "exp": "Habit"
+        },
+        {
+          "type": "fill",
+          "q": "Look! The cat ___ (climb) the tree.",
+          "ans": "is climbing",
+          "exp": "Action now"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (not/like) spicy food.",
+          "ans": "don't like",
+          "exp": "Stative"
+        },
+        {
+          "type": "fill",
+          "q": "___ you ___ (know) where he lives?",
+          "ans": "Do / know",
+          "exp": "Stative"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (have) a big party tonight.",
+          "ans": "are having",
+          "exp": "Plan"
+        },
+        {
+          "type": "fill",
+          "q": "The train ___ (leave) at 9 PM.",
+          "ans": "leaves",
+          "exp": "Schedule"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (write) a letter at the moment.",
+          "ans": "am writing",
+          "exp": "Now"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (not/work) on Sundays.",
+          "ans": "doesn't work",
+          "exp": "Habit"
+        },
+        {
+          "type": "fill",
+          "q": "Why ___ you ___ (cry)?",
+          "ans": "are / crying",
+          "exp": "Now"
+        },
+        {
+          "type": "fill",
+          "q": "My mother ___ (cook) dinner every evening.",
+          "ans": "cooks",
+          "exp": "Habit"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (stay) with friends this week.",
+          "ans": "are staying",
+          "exp": "Temporary"
+        },
+        {
+          "type": "fill",
+          "q": "The earth ___ (go) around the sun.",
+          "ans": "goes",
+          "exp": "Fact"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (need) some help with my homework.",
+          "ans": "need",
+          "exp": "Stative"
+        },
+        {
+          "type": "fill",
+          "q": "What ___ she ___ (do) right now?",
+          "ans": "is / doing",
+          "exp": "Now"
+        },
+        {
+          "type": "fill",
+          "q": "It ___ (not/rain) very often in summer.",
+          "ans": "doesn't rain",
+          "exp": "Habit"
+        },
+        {
+          "type": "fill",
+          "q": "Listen! Somebody ___ (play) the piano.",
+          "ans": "is playing",
+          "exp": "Now"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (prefer) coffee to tea.",
+          "ans": "prefer",
+          "exp": "Stative"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (watch) a movie now.",
+          "ans": "are watching",
+          "exp": "Now"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (usually/get up) at 7 AM.",
+          "ans": "usually gets up",
+          "exp": "Habit"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (not/wear) a coat today.",
+          "ans": "is not wearing",
+          "exp": "Temporary"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "I am washing my hair now",
+            "extra": [
+              "wash",
+              "every"
+            ]
+          },
+          {
+            "words": "She studies English every day",
+            "extra": [
+              "is",
+              "studying"
+            ]
+          },
+          {
+            "words": "They are playing football at the moment",
+            "extra": [
+              "play",
+              "usually"
+            ]
+          },
+          {
+            "words": "Does he work on Sundays ?",
+            "extra": [
+              "is",
+              "working"
+            ]
+          },
+          {
+            "words": "I don't like spicy food",
+            "extra": [
+              "am",
+              "not"
+            ]
+          },
+          {
+            "words": "What are you doing right now ?",
+            "extra": [
+              "do",
+              "you"
+            ]
+          },
+          {
+            "words": "The train leaves at nine PM",
+            "extra": [
+              "is",
+              "leaving"
+            ]
+          },
+          {
+            "words": "We are staying with friends this week",
+            "extra": [
+              "stay",
+              "usually"
+            ]
+          },
+          {
+            "words": "My mother cooks dinner every evening",
+            "extra": [
+              "is",
+              "cooking"
+            ]
+          },
+          {
+            "words": "Listen ! Someone is playing the piano",
+            "extra": [
+              "plays",
+              "often"
+            ]
+          },
+          {
+            "words": "I prefer coffee to tea",
+            "extra": [
+              "am",
+              "preferring"
+            ]
+          },
+          {
+            "words": "It doesn't rain very often here",
+            "extra": [
+              "is",
+              "not"
+            ]
+          },
+          {
+            "words": "Are you wearing a coat today ?",
+            "extra": [
+              "do",
+              "wear"
+            ]
+          },
+          {
+            "words": "Water boils at one hundred degrees",
+            "extra": [
+              "is",
+              "boiling"
+            ]
+          },
+          {
+            "words": "I am not watching TV now",
+            "extra": [
+              "don't",
+              "watch"
+            ]
+          },
+          {
+            "words": "He usually gets up at seven",
+            "extra": [
+              "is",
+              "getting"
+            ]
+          },
+          {
+            "words": "The sun rises in the East",
+            "extra": [
+              "is",
+              "rising"
+            ]
+          },
+          {
+            "words": "What time does she start work ?",
+            "extra": [
+              "is",
+              "starting"
+            ]
+          },
+          {
+            "words": "They are building a new house",
+            "extra": [
+              "build",
+              "every"
+            ]
+          },
+          {
+            "words": "I need some help with this",
+            "extra": [
+              "am",
+              "needing"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Dear Laura, I {{1}} (write) from Spain. I {{2}} (sit) by the sea. I {{3}} (need) a change. They {{4}} (need) speakers. I {{5}} (help) people. I {{6}} (learn) the job. I {{7}} (love) it. I {{8}} (get) no weekends. Someone {{9}} (come) now. I {{10}} (hope) you are well.",
+            "blanks": {
+              "1": "am writing",
+              "2": "am sitting",
+              "3": "need",
+              "4": "need",
+              "5": "help",
+              "6": "am learning",
+              "7": "love",
+              "8": "get",
+              "9": "is coming",
+              "10": "hope"
+            },
+            "wordbank": [
+              "am writing",
+              "am sitting",
+              "need",
+              "help",
+              "am learning",
+              "love",
+              "get",
+              "is coming",
+              "hope",
+              "was",
+              "were",
+              "go",
+              "do"
+            ]
+          },
+          {
+            "text": "Usually I {{1}} (get up) late. Today I {{2}} (get up) early. My dad {{3}} (cook) now. I {{4}} (smell) coffee. We {{5}} (not/have) big meals usually. Today we {{6}} (have) cake. My dog {{7}} (play) outside. He {{8}} (usually/sleep). We {{9}} (enjoy) the sun. It {{10}} (be) nice.",
+            "blanks": {
+              "1": "get up",
+              "2": "am getting up",
+              "3": "is cooking",
+              "4": "smell",
+              "5": "don't have",
+              "6": "are having",
+              "7": "is playing",
+              "8": "usually sleeps",
+              "9": "are enjoying",
+              "10": "is"
+            },
+            "wordbank": [
+              "get up",
+              "am getting up",
+              "is cooking",
+              "smell",
+              "don't have",
+              "are having",
+              "is playing",
+              "usually sleeps",
+              "are enjoying",
+              "is",
+              "was",
+              "were",
+              "be"
+            ]
+          },
+          {
+            "text": "Sarah {{1}} (be) a nurse. She {{2}} (work) at hospital. She {{3}} (usually/start) at 8. This week she {{4}} (work) nights. Now she {{5}} (sleep). Mark {{6}} (be) her husband. He {{7}} (not/work) today. He {{8}} (make) lunch. Kids {{9}} (play). Everyone {{10}} (seem) happy.",
+            "blanks": {
+              "1": "is",
+              "2": "works",
+              "3": "usually starts",
+              "4": "is working",
+              "5": "is sleeping",
+              "6": "is",
+              "7": "is not working",
+              "8": "is making",
+              "9": "are playing",
+              "10": "seems"
+            },
+            "wordbank": [
+              "is",
+              "works",
+              "usually starts",
+              "is working",
+              "is sleeping",
+              "is not working",
+              "is making",
+              "are playing",
+              "seems",
+              "be",
+              "do",
+              "go",
+              "was"
+            ]
+          },
+          {
+            "text": "Look! He {{1}} (run). I {{2}} (think) he {{3}} (catch) the bus. It {{4}} (usually/stop) here. Today it {{5}} (not/stop). I {{6}} (not/know) why. The driver {{7}} (be) in a hurry. He {{8}} (shout) now. He {{9}} (look) angry. I {{10}} (hope) he is okay.",
+            "blanks": {
+              "1": "is running",
+              "2": "think",
+              "3": "is catching",
+              "4": "usually stops",
+              "5": "is not stopping",
+              "6": "don't know",
+              "7": "is",
+              "8": "is shouting",
+              "9": "looks",
+              "10": "hope"
+            },
+            "wordbank": [
+              "is running",
+              "think",
+              "is catching",
+              "usually stops",
+              "is not stopping",
+              "don't know",
+              "is",
+              "is shouting",
+              "looks",
+              "hope",
+              "was",
+              "were",
+              "run"
+            ]
+          },
+          {
+            "text": "I {{1}} (be) at airport. I {{2}} (wait) for flight. Plane {{3}} (usually/arrive) early. Today it {{4}} (be) late. People {{5}} (sit) on floor. Some {{6}} (read), others {{7}} (sleep). I {{8}} (not/like) waiting. I {{9}} (want) to leave. Friend {{10}} (wait) for me.",
+            "blanks": {
+              "1": "am",
+              "2": "am waiting",
+              "3": "usually arrives",
+              "4": "is",
+              "5": "are sitting",
+              "6": "are reading",
+              "7": "are sleeping",
+              "8": "don't like",
+              "9": "want",
+              "10": "is waiting"
+            },
+            "wordbank": [
+              "am",
+              "am waiting",
+              "usually arrives",
+              "is",
+              "are sitting",
+              "are reading",
+              "are sleeping",
+              "don't like",
+              "want",
+              "is waiting",
+              "was",
+              "were",
+              "be"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy mô tả chi tiết về công việc hiện tại của bạn (bạn làm nghề gì, đang làm dự án nào, đồng nghiệp ra sao và cảm nhận của bạn về công việc đó).",
+          "grammar_focus": "Continuous",
+          "hint_words": [
+            "currently",
+            "working as",
+            "software developer",
+            "collaborating with",
+            "talented team",
+            "discussing features",
+            "fixing bugs",
+            "user experience"
+          ],
+          "min_words": 30,
+          "example": "Currently, I am working as a software developer at a tech company in the city center. I am collaborating with a talented team to build a new mobile application for education. Every day, we are discussing new features and fixing bugs to ensure the best user experience."
+        },
+        {
+          "vi": "Hãy viết về một sở thích mà bạn thường làm mỗi ngày (tại sao bạn thích nó, bạn thường làm khi nào, ở đâu và nó giúp ích gì cho bạn).",
+          "grammar_focus": "Simple",
+          "hint_words": [
+            "usually",
+            "spend free time",
+            "reading books",
+            "listening to music",
+            "relax after a long day",
+            "local library",
+            "expand knowledge",
+            "improve vocabulary"
+          ],
+          "min_words": 30,
+          "example": "I usually spend my free time reading books and listening to music because it helps me relax after a long day. I often go to the local library on weekends to find new novels. I believe that reading is the best way to expand my knowledge and improve my vocabulary."
+        },
+        {
+          "vi": "Hãy mô tả chi tiết về thời tiết ngày hôm nay (trời nắng hay mưa, nhiệt độ thế nào, mọi người xung quanh đang làm gì và bạn cảm thấy thế nào về thời tiết này).",
+          "grammar_focus": "Continuous",
+          "hint_words": [
+            "absolutely beautiful",
+            "shining brightly",
+            "clear blue sky",
+            "gentle breeze",
+            "outdoor activities",
+            "walking in the park",
+            "enjoying fresh air"
+          ],
+          "min_words": 30,
+          "example": "The weather today is absolutely beautiful and the sun is shining brightly across the clear blue sky. A gentle breeze is blowing through the trees, making it a perfect day for outdoor activities. Many people are walking in the park and enjoying the fresh air right now."
+        },
+        {
+          "vi": "Hãy kể về các hoạt động bạn thường làm vào buổi sáng từ lúc thức dậy cho đến khi bắt đầu làm việc hoặc đi học (thời gian, các bước thực hiện và thói quen ăn uống).",
+          "grammar_focus": "Simple",
+          "hint_words": [
+            "every morning",
+            "wake up at 6 AM",
+            "light exercise",
+            "meditation",
+            "prepare breakfast",
+            "healthy meal",
+            "reading news",
+            "going to work"
+          ],
+          "min_words": 30,
+          "example": "Every morning, I wake up at 6 AM and start my day with some light exercise and meditation. After that, I brush my teeth, take a quick shower, and prepare a healthy breakfast for my family. I usually drink a cup of hot coffee while reading the morning news before going to work."
+        },
+        {
+          "vi": "Hãy viết về những dự định hoặc kế hoạch cụ thể mà bạn đang thực hiện trong tuần này (bạn đi đâu, gặp ai, đang học thêm gì và mục tiêu của tuần này là gì).",
+          "grammar_focus": "Continuous",
+          "hint_words": [
+            "this week",
+            "staying with",
+            "countryside",
+            "quiet time",
+            "planning to visit",
+            "local market",
+            "online courses",
+            "improve skills"
+          ],
+          "min_words": 30,
+          "example": "This week, I am staying with my aunt in the countryside to help her with the garden and enjoy some quiet time. We are planning to visit the local market tomorrow morning to buy some fresh vegetables. I am also taking some online courses to improve my English skills during this trip."
+        }
+      ]
+    },
+    {
+      "icon": "✅",
+      "title": "A2 Present perfect: Form and use",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📐 Công thức</div><b>Khẳng định:</b> S + have/has + V3/ed<br><b>Phủ định:</b> S + haven't/hasn't + V3/ed<br><b>Câu hỏi:</b> Have/Has + S + V3/ed?</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Cách dùng chính</div>• <b>Sự việc vừa mới xảy ra:</b> I've just seen Peter.<br>• <b>Kinh nghiệm sống:</b> Have you ever been to India?<br>• <b>Sự việc bắt đầu trong quá khứ và còn tiếp diễn:</b> They have been married for 25 years.</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">🔑 Từ nhận biết</div>• <b>Just:</b> Vừa mới (dùng trong câu khẳng định).<br>• <b>Yet:</b> Chưa (dùng trong câu phủ định và nghi vấn, đứng cuối câu).<br>• <b>Already:</b> Rồi (dùng trong câu khẳng định).<br>• <b>Ever/Never:</b> Đã từng / Chưa từng.<br>• <b>For + khoảng thời gian:</b> for 2 years.<br>• <b>Since + mốc thời gian:</b> since 2010.</div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "I ___ this car for years.",
+          "opts": "have had,had,has had,having",
+          "ans": "A",
+          "exp": "Duration"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ her arm.",
+          "opts": "has broken,broke,is breaking,breaks",
+          "ans": "A",
+          "exp": "Recent"
+        },
+        {
+          "type": "mc",
+          "q": "Have you ___ been to India?",
+          "opts": "ever,never,yet,already",
+          "ans": "A",
+          "exp": "Experience"
+        },
+        {
+          "type": "mc",
+          "q": "I haven't called him ___.",
+          "opts": "yet,just,already,ever",
+          "ans": "A",
+          "exp": "Negative"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ each other since school.",
+          "opts": "have known,know,knew,knowing",
+          "ans": "A",
+          "exp": "Since"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ in bank for 25 years.",
+          "opts": "has worked,works,worked,working",
+          "ans": "A",
+          "exp": "Duration"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ just ___ Peter.",
+          "opts": "have / seen,did / see,has / seen,am / seeing",
+          "ans": "A",
+          "exp": "Just"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ just ___ married.",
+          "opts": "has / got,did / get,is / getting,got",
+          "ans": "A",
+          "exp": "Just"
+        },
+        {
+          "type": "mc",
+          "q": "Have you washed dishes ___?",
+          "opts": "yet,already,just,ever",
+          "ans": "A",
+          "exp": "Question"
+        },
+        {
+          "type": "mc",
+          "q": "I have ___ finished.",
+          "opts": "already,yet,ever,never",
+          "ans": "A",
+          "exp": "Already"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ marathon twice.",
+          "opts": "have run,ran,run,am running",
+          "ans": "A",
+          "exp": "Experience"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ never ___ on cruise.",
+          "opts": "has / been,is / being,was,did / be",
+          "ans": "A",
+          "exp": "Experience"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ this film before.",
+          "opts": "have seen,saw,see,seen",
+          "ans": "A",
+          "exp": "Before"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ married for 25 years.",
+          "opts": "have been,are,were,been",
+          "ans": "A",
+          "exp": "Duration"
+        },
+        {
+          "type": "mc",
+          "q": "How long ___ you ___ in Oslo?",
+          "opts": "have / lived,do / live,did / live,are / living",
+          "ans": "A",
+          "exp": "Duration"
+        },
+        {
+          "type": "mc",
+          "q": "Where is Jane? She's ___ to shop.",
+          "opts": "gone,been,went,go",
+          "ans": "A",
+          "exp": "Gone"
+        },
+        {
+          "type": "mc",
+          "q": "I've ___ to shop. I'm back.",
+          "opts": "been,gone,went,be",
+          "ans": "A",
+          "exp": "Been"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ never ___ late.",
+          "opts": "has / been,is / being,was,did / be",
+          "ans": "A",
+          "exp": "Experience"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ together for ten years.",
+          "opts": "have been,are,were,been",
+          "ans": "A",
+          "exp": "Duration"
+        },
+        {
+          "type": "mc",
+          "q": "It ___ for a long time.",
+          "opts": "hasn't rained,didn't rain,doesn't rain,not rained",
+          "ans": "A",
+          "exp": "Duration"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q0",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q1",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q2",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q3",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q4",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q5",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q6",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q7",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q8",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q9",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q10",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q11",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q12",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q13",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q14",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q15",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q16",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q17",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q18",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q19",
+          "ans": "ans",
+          "exp": "exp"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "I have seen that movie before",
+            "extra": [
+              "saw",
+              "ago"
+            ]
+          },
+          {
+            "words": "Have you ever been to Paris ?",
+            "extra": [
+              "did",
+              "were"
+            ]
+          },
+          {
+            "words": "She has already finished her homework",
+            "extra": [
+              "did",
+              "yet"
+            ]
+          },
+          {
+            "words": "We haven't met him yet",
+            "extra": [
+              "didn't",
+              "already"
+            ]
+          },
+          {
+            "words": "They have lived here for ten years",
+            "extra": [
+              "since",
+              "ago"
+            ]
+          },
+          {
+            "words": "Has he called you today ?",
+            "extra": [
+              "did",
+              "yesterday"
+            ]
+          },
+          {
+            "words": "I have just lost my keys",
+            "extra": [
+              "lose",
+              "did"
+            ]
+          },
+          {
+            "words": "We have been friends since childhood",
+            "extra": [
+              "for",
+              "were"
+            ]
+          },
+          {
+            "words": "She hasn't seen him lately",
+            "extra": [
+              "didn't",
+              "ago"
+            ]
+          },
+          {
+            "words": "Have they finished the project yet ?",
+            "extra": [
+              "did",
+              "already"
+            ]
+          },
+          {
+            "words": "I have never eaten sushi",
+            "extra": [
+              "did",
+              "ate"
+            ]
+          },
+          {
+            "words": "He has worked here since May",
+            "extra": [
+              "for",
+              "ago"
+            ]
+          },
+          {
+            "words": "We have already bought the tickets",
+            "extra": [
+              "did",
+              "yet"
+            ]
+          },
+          {
+            "words": "Has it stopped raining yet ?",
+            "extra": [
+              "did",
+              "already"
+            ]
+          },
+          {
+            "words": "I have just finished my lunch",
+            "extra": [
+              "did",
+              "finish"
+            ]
+          },
+          {
+            "words": "They haven't arrived at the station",
+            "extra": [
+              "didn't",
+              "yet"
+            ]
+          },
+          {
+            "words": "Have you seen my glasses ?",
+            "extra": [
+              "did",
+              "saw"
+            ]
+          },
+          {
+            "words": "She has been to Italy twice",
+            "extra": [
+              "was",
+              "went"
+            ]
+          },
+          {
+            "words": "We haven't heard from him",
+            "extra": [
+              "didn't",
+              "yet"
+            ]
+          },
+          {
+            "words": "I have already done my laundry",
+            "extra": [
+              "did",
+              "yet"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "I {{1}} (have) this car for years. We {{2}} (know) since school. I {{3}} (not/eat) since morning. She {{4}} (not/sleep) for two days. I {{5}} (want) to be writer. We {{6}} (be) together for ten years. I {{7}} (not/see) John. It {{8}} (not/rain) for long. My life {{9}} (be) exciting. I {{10}} (travel) a lot.",
+            "blanks": {
+              "1": "have had",
+              "2": "have known",
+              "3": "haven't eaten",
+              "4": "hasn't slept",
+              "5": "have wanted",
+              "6": "have been",
+              "7": "haven't seen",
+              "8": "hasn't rained",
+              "9": "has been",
+              "10": "have travelled"
+            },
+            "wordbank": [
+              "have had",
+              "have known",
+              "haven't eaten",
+              "hasn't slept",
+              "have wanted",
+              "have been",
+              "haven't seen",
+              "hasn't rained",
+              "has been",
+              "have travelled",
+              "was",
+              "were",
+              "go"
+            ]
+          },
+          {
+            "text": "My friend {{1}} (live) in London for five years. We {{2}} (not/see) each other since last year. I {{3}} (just/send) an email. He {{4}} (not/reply) yet. I {{5}} (always/want) to visit. Where {{6}} (be) Tom? He {{7}} (go) to library. He {{8}} (be) there for hours. I {{9}} (not/finish) yet. I {{10}} (work) hard.",
+            "blanks": {
+              "1": "has lived",
+              "2": "haven't seen",
+              "3": "have just sent",
+              "4": "hasn't replied",
+              "5": "have always wanted",
+              "6": "is",
+              "7": "has gone",
+              "8": "has been",
+              "9": "haven't finished",
+              "10": "have worked"
+            },
+            "wordbank": [
+              "has lived",
+              "haven't seen",
+              "have just sent",
+              "hasn't replied",
+              "have always wanted",
+              "is",
+              "has gone",
+              "has been",
+              "haven't finished",
+              "have worked",
+              "was",
+              "were",
+              "be"
+            ]
+          },
+          {
+            "text": "I {{1}} (live) here for ten years. I {{2}} (see) changes. They {{3}} (build) a mall. I {{4}} (be) there twice. I {{5}} (not/buy) anything. Sister {{6}} (just/start) job. She {{7}} (be) busy. We {{8}} (not/have) dinner. She {{9}} (already/work) hard. She {{10}} (never/be) tired.",
+            "blanks": {
+              "1": "have lived",
+              "2": "have seen",
+              "3": "have built",
+              "4": "have been",
+              "5": "haven't bought",
+              "6": "has just started",
+              "7": "has been",
+              "8": "haven't had",
+              "9": "has already worked",
+              "10": "has never been"
+            },
+            "wordbank": [
+              "have lived",
+              "have seen",
+              "have built",
+              "have been",
+              "haven't bought",
+              "has just started",
+              "has been",
+              "haven't had",
+              "has already worked",
+              "has never been",
+              "was",
+              "were",
+              "do"
+            ]
+          },
+          {
+            "text": "A: {{1}} you {{2}} (see) keys? B: No, I {{3}} (not/see). {{4}} you {{5}} (look) in kitchen? A: Yes, I {{6}} (already/look). B: Maybe you {{7}} (leave) them in car. A: I {{8}} (just/check). B: I {{9}} (be) in garden. A: I {{10}} (not/check) garden yet.",
+            "blanks": {
+              "1": "Have",
+              "2": "seen",
+              "3": "haven't seen",
+              "4": "Have",
+              "5": "looked",
+              "6": "have already looked",
+              "7": "have left",
+              "8": "have just checked",
+              "9": "have been",
+              "10": "haven't checked"
+            },
+            "wordbank": [
+              "Have",
+              "seen",
+              "haven't seen",
+              "looked",
+              "have already looked",
+              "have left",
+              "have just checked",
+              "have been",
+              "haven't checked",
+              "did",
+              "do",
+              "was",
+              "were"
+            ]
+          },
+          {
+            "text": "I {{1}} (lose) my bag. I {{2}} (look) everywhere. I {{3}} (not/find) it yet. I {{4}} (go) to station. They {{5}} (ask) questions. I {{6}} (be) worried. Someone {{7}} (just/call). They {{8}} (find) it. I {{9}} (be) happy. I {{10}} (not/be) lucky for long.",
+            "blanks": {
+              "1": "have lost",
+              "2": "have looked",
+              "3": "haven't found",
+              "4": "have gone",
+              "5": "have asked",
+              "6": "have been",
+              "7": "has just called",
+              "8": "have found",
+              "9": "have been",
+              "10": "haven't been"
+            },
+            "wordbank": [
+              "have lost",
+              "have looked",
+              "haven't found",
+              "have gone",
+              "have asked",
+              "have been",
+              "has just called",
+              "have found",
+              "haven't been",
+              "lost",
+              "found",
+              "was",
+              "were"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy kể về một chuyến du lịch đáng nhớ của bạn (bạn đã đi đâu, đi bao nhiêu lần, bạn đã trải nghiệm những gì về văn hóa và ẩm thực ở đó).",
+          "grammar_focus": "Perfect",
+          "hint_words": [
+            "visited",
+            "beautiful places",
+            "favorite destination",
+            "Tokyo and Kyoto",
+            "amazing culture",
+            "delicious food",
+            "explore more",
+            "countryside"
+          ],
+          "min_words": 30,
+          "example": "I have visited many beautiful places in my life, but Japan is definitely my favorite destination so far. I have been to Tokyo and Kyoto twice, and I have experienced the amazing culture and delicious food there. I have always wanted to go back and explore more of the countryside."
+        },
+        {
+          "vi": "Hãy viết về một công việc hoặc dự án mà bạn vừa mới hoàn thành xong (bạn đã làm nó trong bao lâu, cảm giác của bạn khi xong việc và bước tiếp theo là gì).",
+          "grammar_focus": "Perfect",
+          "hint_words": [
+            "just finished",
+            "final project",
+            "advanced course",
+            "working for weeks",
+            "effort",
+            "researching and writing",
+            "relieved",
+            "waiting for feedback"
+          ],
+          "min_words": 30,
+          "example": "I have just finished my final project for the advanced English course after working on it for three weeks. I have put a lot of effort into researching and writing the report, and I feel very relieved now. I have already sent the document to my teacher and I am waiting for the feedback."
+        },
+        {
+          "vi": "Hãy kể về một người bạn mà bạn đã quen biết từ lâu (quen nhau từ khi nào, ở đâu, hai bạn đã cùng nhau trải qua những gì và mối quan hệ hiện tại ra sao).",
+          "grammar_focus": "Perfect",
+          "hint_words": [
+            "known since",
+            "primary school",
+            "hometown",
+            "shared memories",
+            "supported each other",
+            "difficult times",
+            "kept in touch",
+            "met regularly"
+          ],
+          "min_words": 30,
+          "example": "I have known my best friend, Nam, since we were in primary school together in our hometown. We have shared many wonderful memories and supported each other through difficult times for over fifteen years. Even though we live in different cities now, we have always kept in touch and met regularly."
+        },
+        {
+          "vi": "Hãy viết về những mục tiêu quan trọng mà bạn đã đạt được trong thời gian gần đây (đó là mục tiêu gì, bạn đã nỗ lực ra sao và kết quả đó có ý nghĩa thế nào với bạn).",
+          "grammar_focus": "Perfect",
+          "hint_words": [
+            "already achieved",
+            "important goals",
+            "beginning of the year",
+            "professional certification",
+            "improved fitness",
+            "saved money",
+            "buy a new laptop"
+          ],
+          "min_words": 30,
+          "example": "I have already achieved several important goals that I set for myself at the beginning of this year. I have completed a professional certification in project management and improved my fitness level significantly. I have also saved enough money to buy a new laptop for my work and studies."
+        },
+        {
+          "vi": "Hãy kể về nơi bạn đang sinh sống (bạn đã ở đó bao lâu, những thay đổi gần đây ở khu phố của bạn và điều gì làm bạn thích nhất ở nơi này).",
+          "grammar_focus": "Perfect",
+          "hint_words": [
+            "lived for five years",
+            "vibrant city",
+            "positive changes",
+            "neighborhood",
+            "local government",
+            "public transportation",
+            "made good friends",
+            "comfortable life"
+          ],
+          "min_words": 30,
+          "example": "I have lived in this vibrant city for five years and I have seen many positive changes in the neighborhood. The local government has built new parks and improved the public transportation system recently. I have made many good friends here and I feel very comfortable with my current life."
+        }
+      ]
+    },
+    {
+      "icon": "⚖️",
+      "title": "A2 Present perfect or past simple?",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Sự khác biệt chính</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\"></th><th style=\"padding:4px 8px;text-align:left\">Present Perfect</th><th style=\"padding:4px 8px;text-align:left\">Past Simple</th></tr><tr><td style=\"padding:4px 8px;text-align:left\">Thời gian</td><td style=\"padding:4px 8px;text-align:left\">Không quan trọng / Không rõ ràng</td><td style=\"padding:4px 8px;text-align:left\">Quan trọng / Đã xác định (last night, 2020)</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;text-align:left\">Trạng thái</td><td style=\"padding:4px 8px;text-align:left\">Còn liên quan đến hiện tại</td><td style=\"padding:4px 8px;text-align:left\">Đã kết thúc hoàn toàn</td></tr></table></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "I ___ Peter last night.",
+          "opts": "saw,have seen,see,seen",
+          "ans": "A",
+          "exp": "Last night"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ him since summer.",
+          "opts": "haven't seen,didn't see,not saw,not seen",
+          "ans": "A",
+          "exp": "Since"
+        },
+        {
+          "type": "mc",
+          "q": "___ you ___ film before?",
+          "opts": "Have / seen,Did / see,Do / see,Are / seeing",
+          "ans": "A",
+          "exp": "Before"
+        },
+        {
+          "type": "mc",
+          "q": "Yes, I ___ it last night.",
+          "opts": "saw,have seen,see,was seeing",
+          "ans": "A",
+          "exp": "Last night"
+        },
+        {
+          "type": "mc",
+          "q": "What ___ you ___ last weekend?",
+          "opts": "did / do,have / done,do / do,were / doing",
+          "ans": "A",
+          "exp": "Last weekend"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ at home all weekend.",
+          "opts": "stayed,have stayed,stay,was staying",
+          "ans": "A",
+          "exp": "Past"
+        },
+        {
+          "type": "mc",
+          "q": "___ you ___ Tom in school?",
+          "opts": "Did / meet,Have / met,Do / meet,Were / meeting",
+          "ans": "A",
+          "exp": "Past"
+        },
+        {
+          "type": "mc",
+          "q": "Yes, we ___ friends for years.",
+          "opts": "have been,were,are,been",
+          "ans": "A",
+          "exp": "Duration"
+        },
+        {
+          "type": "mc",
+          "q": "___ you ever ___ marathon?",
+          "opts": "Have / run,Did / run,Do / run,Are / running",
+          "ans": "A",
+          "exp": "Ever"
+        },
+        {
+          "type": "mc",
+          "q": "Yes, last year I ___ marathon.",
+          "opts": "ran,have run,run,was running",
+          "ans": "A",
+          "exp": "Last year"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ to Malaysia last year.",
+          "opts": "went,have been,go,gone",
+          "ans": "A",
+          "exp": "Last year"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ to Malaysia.",
+          "opts": "have been,went,go,was",
+          "ans": "A",
+          "exp": "Experience"
+        },
+        {
+          "type": "mc",
+          "q": "When ___ you ___ your arm?",
+          "opts": "did / break,have / broken,do / break,were / breaking",
+          "ans": "A",
+          "exp": "When"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ it yesterday.",
+          "opts": "broke,have broken,break,was breaking",
+          "ans": "A",
+          "exp": "Yesterday"
+        },
+        {
+          "type": "mc",
+          "q": "A: I ___ to cinema. B: What ___ you ___?",
+          "opts": "have been / did / see,went / have / seen,have been / have / seen,went / did / see",
+          "ans": "A",
+          "exp": "Conversation"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ in NY for years. (He's there now)",
+          "opts": "has lived,lived,lives,is living",
+          "ans": "A",
+          "exp": "Present"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ in NY for years. (He's gone now)",
+          "opts": "lived,has lived,lives,was living",
+          "ans": "A",
+          "exp": "Past"
+        },
+        {
+          "type": "mc",
+          "q": "How long ___ you ___? (You work there now)",
+          "opts": "have / worked,did / work,do / work,are / working",
+          "ans": "A",
+          "exp": "Present"
+        },
+        {
+          "type": "mc",
+          "q": "How long ___ you ___? (You don't work there now)",
+          "opts": "did / work,have / worked,do / work,were / working",
+          "ans": "A",
+          "exp": "Past"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ medals last Olympics.",
+          "opts": "won,has won,wins,was winning",
+          "ans": "A",
+          "exp": "Past"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q0",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q1",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q2",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q3",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q4",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q5",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q6",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q7",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q8",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q9",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q10",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q11",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q12",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q13",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q14",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q15",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q16",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q17",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q18",
+          "ans": "ans",
+          "exp": "exp"
+        },
+        {
+          "type": "fill",
+          "q": "Fill Q19",
+          "ans": "ans",
+          "exp": "exp"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "I have seen that movie before",
+            "extra": [
+              "saw",
+              "ago"
+            ]
+          },
+          {
+            "words": "Have you ever been to Paris ?",
+            "extra": [
+              "did",
+              "were"
+            ]
+          },
+          {
+            "words": "She has already finished her homework",
+            "extra": [
+              "did",
+              "yet"
+            ]
+          },
+          {
+            "words": "We haven't met him yet",
+            "extra": [
+              "didn't",
+              "already"
+            ]
+          },
+          {
+            "words": "They have lived here for ten years",
+            "extra": [
+              "since",
+              "ago"
+            ]
+          },
+          {
+            "words": "Has he called you today ?",
+            "extra": [
+              "did",
+              "yesterday"
+            ]
+          },
+          {
+            "words": "I have just lost my keys",
+            "extra": [
+              "lose",
+              "did"
+            ]
+          },
+          {
+            "words": "We have been friends since childhood",
+            "extra": [
+              "for",
+              "were"
+            ]
+          },
+          {
+            "words": "She hasn't seen him lately",
+            "extra": [
+              "didn't",
+              "ago"
+            ]
+          },
+          {
+            "words": "Have they finished the project yet ?",
+            "extra": [
+              "did",
+              "already"
+            ]
+          },
+          {
+            "words": "I have never eaten sushi",
+            "extra": [
+              "did",
+              "ate"
+            ]
+          },
+          {
+            "words": "He has worked here since May",
+            "extra": [
+              "for",
+              "ago"
+            ]
+          },
+          {
+            "words": "We have already bought the tickets",
+            "extra": [
+              "did",
+              "yet"
+            ]
+          },
+          {
+            "words": "Has it stopped raining yet ?",
+            "extra": [
+              "did",
+              "already"
+            ]
+          },
+          {
+            "words": "I have just finished my lunch",
+            "extra": [
+              "did",
+              "finish"
+            ]
+          },
+          {
+            "words": "They haven't arrived at the station",
+            "extra": [
+              "didn't",
+              "yet"
+            ]
+          },
+          {
+            "words": "Have you seen my glasses ?",
+            "extra": [
+              "did",
+              "saw"
+            ]
+          },
+          {
+            "words": "She has been to Italy twice",
+            "extra": [
+              "was",
+              "went"
+            ]
+          },
+          {
+            "words": "We haven't heard from him",
+            "extra": [
+              "didn't",
+              "yet"
+            ]
+          },
+          {
+            "words": "I have already done my laundry",
+            "extra": [
+              "did",
+              "yet"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "A: I {{1}} (see) Peter last night. B: I {{2}} (not/see) him since summer. A: {{3}} you {{4}} (see) film before? B: Yes, I {{5}} (see) it last night. A: What {{6}} (you/do) last weekend? B: I {{7}} (stay) home. A: {{8}} you {{9}} (meet) Tom in school? B: Yes, we {{10}} (be) friends since then.",
+            "blanks": {
+              "1": "saw",
+              "2": "haven't seen",
+              "3": "Have",
+              "4": "seen",
+              "5": "saw",
+              "6": "did you do",
+              "7": "stayed",
+              "8": "Did",
+              "9": "meet",
+              "10": "have been"
+            },
+            "wordbank": [
+              "saw",
+              "haven't seen",
+              "Have",
+              "seen",
+              "did you do",
+              "stayed",
+              "Did",
+              "meet",
+              "have been",
+              "was",
+              "were",
+              "be",
+              "do"
+            ]
+          },
+          {
+            "text": "I {{1}} (be) writer for years. I {{2}} (start) when I {{3}} (be) child. I {{4}} (write) first book in 2010. Since then, I {{5}} (publish) five books. Last year, I {{6}} (win) prize. I {{7}} (travel) a lot. I {{8}} (just/return) from Japan. I {{9}} (spend) two weeks there. It {{10}} (be) amazing.",
+            "blanks": {
+              "1": "have been",
+              "2": "started",
+              "3": "was",
+              "4": "wrote",
+              "5": "have published",
+              "6": "won",
+              "7": "have travelled",
+              "8": "have just returned",
+              "9": "spent",
+              "10": "was"
+            },
+            "wordbank": [
+              "have been",
+              "started",
+              "was",
+              "wrote",
+              "have published",
+              "won",
+              "have travelled",
+              "have just returned",
+              "spent",
+              "was",
+              "be",
+              "do",
+              "go"
+            ]
+          },
+          {
+            "text": "Mark {{1}} (live) in Canada for five years. He {{2}} (move) in 2019. Before that, he {{3}} (live) in London. I {{4}} (not/see) him since he {{5}} (leave). We {{6}} (talk) many times. Last week, he {{7}} (call). He {{8}} (just/buy) house. He {{9}} (invite) me. I {{10}} (never/be) there.",
+            "blanks": {
+              "1": "has lived",
+              "2": "moved",
+              "3": "lived",
+              "4": "haven't seen",
+              "5": "left",
+              "6": "have talked",
+              "7": "called",
+              "8": "has just bought",
+              "9": "invited",
+              "10": "have never been"
+            },
+            "wordbank": [
+              "has lived",
+              "moved",
+              "lived",
+              "haven't seen",
+              "left",
+              "have talked",
+              "called",
+              "has just bought",
+              "invited",
+              "have never been",
+              "was",
+              "were",
+              "be"
+            ]
+          },
+          {
+            "text": "A: {{1}} you ever {{2}} (eat) sushi? B: Yes, I {{3}} (eat) it many times. A: When {{4}} you first {{5}} (try) it? B: I {{6}} (try) it when I {{7}} (be) in Japan. I {{8}} (go) there three years ago. A: {{9}} you {{10}} (like) it? B: Yes, it was good.",
+            "blanks": {
+              "1": "Have",
+              "2": "eaten",
+              "3": "have eaten",
+              "4": "did",
+              "5": "try",
+              "6": "tried",
+              "7": "was",
+              "8": "went",
+              "9": "Did",
+              "10": "like"
+            },
+            "wordbank": [
+              "Have",
+              "eaten",
+              "have eaten",
+              "did",
+              "try",
+              "tried",
+              "was",
+              "went",
+              "Did",
+              "like",
+              "be",
+              "do",
+              "go"
+            ]
+          },
+          {
+            "text": "I {{1}} (lose) wallet yesterday. I {{2}} (look) everywhere. I {{3}} (not/find) it yet. I {{4}} (go) to station this morning. They {{5}} (ask) questions. I {{6}} (be) worried. Someone {{7}} (just/call). They {{8}} (find) it in park. I {{9}} (be) happy. I {{10}} (not/be) lucky for long.",
+            "blanks": {
+              "1": "lost",
+              "2": "looked",
+              "3": "haven't found",
+              "4": "went",
+              "5": "asked",
+              "6": "was",
+              "7": "has just called",
+              "8": "found",
+              "9": "was",
+              "10": "haven't been"
+            },
+            "wordbank": [
+              "lost",
+              "looked",
+              "haven't found",
+              "went",
+              "asked",
+              "was",
+              "has just called",
+              "found",
+              "was",
+              "haven't been",
+              "be",
+              "do",
+              "go"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy kể chi tiết về kỳ nghỉ hè năm ngoái của bạn (điểm đến, những hoạt động chính, bạn đi cùng ai và tại sao đó lại là một kỷ niệm đáng nhớ).",
+          "grammar_focus": "Past",
+          "hint_words": [
+            "last year",
+            "went to Da Lat",
+            "family vacation",
+            "escape the heat",
+            "famous flower gardens",
+            "cool weather",
+            "local street food",
+            "quality time"
+          ],
+          "min_words": 30,
+          "example": "Last year, I went to Da Lat with my family for a week-long summer vacation to escape the heat. We visited many famous flower gardens, enjoyed the cool weather, and ate delicious local street food. It was a memorable trip because we spent a lot of quality time together and took many beautiful photos."
+        },
+        {
+          "vi": "Hãy viết về trải nghiệm leo núi của bạn (ngọn núi nào, độ khó ra sao, thời tiết lúc đó thế nào và cảm giác khi bạn đứng trên đỉnh núi).",
+          "grammar_focus": "Perfect",
+          "hint_words": [
+            "climbed Fansipan",
+            "unique and challenging",
+            "heavy rain",
+            "clear skies",
+            "feeling of standing",
+            "on the peak",
+            "looking at the clouds"
+          ],
+          "min_words": 30,
+          "example": "I have climbed Fansipan twice in the last three years, and each time was a unique and challenging experience. The first time was quite difficult because of the heavy rain, but the second time was much better with clear skies. I have always loved the feeling of standing on the peak and looking at the clouds."
+        },
+        {
+          "vi": "Hãy kể về một lần bạn bị mất một món đồ quan trọng (mất khi nào, ở đâu, bạn đã làm gì để tìm lại và kết quả ra sao).",
+          "grammar_focus": "Past",
+          "hint_words": [
+            "lost smartphone",
+            "yesterday",
+            "commuting to work",
+            "crowded bus",
+            "reached the office",
+            "reported the loss",
+            "police",
+            "haven't found it yet"
+          ],
+          "min_words": 30,
+          "example": "I lost my expensive smartphone yesterday while I was commuting to work on a crowded bus. I realized it was gone when I reached the office and tried to call my colleague. I have already reported the loss to the police and the bus company, but I haven't found it yet."
+        },
+        {
+          "vi": "Hãy viết cảm nhận về một bộ phim bạn vừa mới xem xong (tên phim, nội dung chính, diễn xuất hoặc kỹ xảo có gì ấn tượng và bạn có muốn giới thiệu nó cho ai không).",
+          "grammar_focus": "Perfect",
+          "hint_words": [
+            "just watched",
+            "Inception",
+            "complex plot",
+            "visual effects",
+            "acting was superb",
+            "kept me interested",
+            "recommended",
+            "sci-fi films"
+          ],
+          "min_words": 30,
+          "example": "I have just watched a great movie called 'Inception' and I am still thinking about its complex plot and amazing visual effects. The acting was superb, and the story kept me interested from the beginning until the very end. I have already recommended it to all of my friends who love sci-fi films."
+        },
+        {
+          "vi": "Hãy kể về một lần tình cờ gặp lại người bạn cũ (gặp ở đâu, sau bao nhiêu năm, hai bạn đã trò chuyện về những gì và cảm xúc của bạn lúc đó).",
+          "grammar_focus": "Past",
+          "hint_words": [
+            "met old friend",
+            "high school",
+            "last week",
+            "shopping at the mall",
+            "nearly ten years",
+            "decided to have coffee",
+            "reminisce",
+            "school days"
+          ],
+          "min_words": 30,
+          "example": "I met my old friend from high school last week while I was shopping at the mall near my house. We hadn't seen each other for nearly ten years, so we decided to have coffee and talk about our lives. It was wonderful to hear about his success and reminisce about our school days."
+        }
+      ]
+    }
+  ]
+}

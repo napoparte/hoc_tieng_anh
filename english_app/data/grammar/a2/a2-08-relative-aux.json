@@ -1,0 +1,1879 @@
+{
+  "elementary": [
+    {
+      "icon": "🗣️",
+      "title": "A2 Defining relative clauses: who, which, that, where",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Định nghĩa</div>Chúng ta sử dụng <b>Defining relative clauses</b> (Mệnh đề quan hệ xác định) để xác định rõ người, vật hoặc nơi chốn mà chúng ta đang nói đến.</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">🔄 Who, which, where</div>• Chúng ta sử dụng <b>who</b> cho người.<br><i>He met the police officer <b>who</b> saved his life.</i><br>• Chúng ta sử dụng <b>which</b> cho vật và động vật.<br><i>He put on the suit <b>which</b> he wore for special occasions.</i><br>• Chúng ta sử dụng <b>where</b> cho nơi chốn.<br><i>This is the hotel <b>where</b> we spent our honeymoon.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ That</div>Chúng ta có thể sử dụng <b>that</b> thay cho <b>who</b> hoặc <b>which</b>. Nhưng chúng ta thường sử dụng <b>who</b> cho người và <b>which/that</b> cho vật.<br><i>He’s the neighbour <b>who/that</b> helped us to move out.</i><br><i>Change the cable <b>which/that</b> connects the computer to the printer.</i><br><br><b>Lưu ý:</b> Không sử dụng <b>what</b> hoặc đại từ nhân xưng (he/she/it...) thay cho đại từ quan hệ.<br>Sai: <i>That’s the student what I told you about.</i><br>Đúng: <i>That’s the student <b>that/who</b> I told you about.</i></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "The man ___ lives next door is very friendly.",
+          "opts": "who,which,where,what",
+          "ans": "A",
+          "exp": "Dùng 'who' cho người"
+        },
+        {
+          "type": "mc",
+          "q": "This is the book ___ I bought yesterday.",
+          "opts": "who,which,where,what",
+          "ans": "B",
+          "exp": "Dùng 'which' cho vật"
+        },
+        {
+          "type": "mc",
+          "q": "The restaurant ___ we had dinner was excellent.",
+          "opts": "who,which,where,that",
+          "ans": "C",
+          "exp": "Dùng 'where' cho nơi chốn"
+        },
+        {
+          "type": "mc",
+          "q": "I don't like people ___ are always complaining.",
+          "opts": "which,where,who,what",
+          "ans": "C",
+          "exp": "Dùng 'who' cho người"
+        },
+        {
+          "type": "mc",
+          "q": "The car ___ is parked outside is mine.",
+          "opts": "who,which,where,what",
+          "ans": "B",
+          "exp": "Dùng 'which' cho vật"
+        },
+        {
+          "type": "mc",
+          "q": "That's the hospital ___ my brother works.",
+          "opts": "who,which,where,that",
+          "ans": "C",
+          "exp": "Dùng 'where' cho nơi chốn"
+        },
+        {
+          "type": "mc",
+          "q": "She is the girl ___ won the competition.",
+          "opts": "which,where,who,what",
+          "ans": "C",
+          "exp": "Dùng 'who' cho người"
+        },
+        {
+          "type": "mc",
+          "q": "The shoes ___ I bought are very comfortable.",
+          "opts": "who,that,where,what",
+          "ans": "B",
+          "exp": "Dùng 'that' (hoặc which) cho vật"
+        },
+        {
+          "type": "mc",
+          "q": "This is the town ___ I was born.",
+          "opts": "who,which,where,that",
+          "ans": "C",
+          "exp": "Dùng 'where' cho nơi chốn"
+        },
+        {
+          "type": "mc",
+          "q": "A dentist is a person ___ treats sick people.",
+          "opts": "which,where,who,what",
+          "ans": "C",
+          "exp": "Dùng 'who' cho người"
+        },
+        {
+          "type": "mc",
+          "q": "The movie ___ we watched last night was boring.",
+          "opts": "who,which,where,what",
+          "ans": "B",
+          "exp": "Dùng 'which' cho vật"
+        },
+        {
+          "type": "mc",
+          "q": "Is this the place ___ you lost your keys?",
+          "opts": "who,which,where,that",
+          "ans": "C",
+          "exp": "Dùng 'where' cho nơi chốn"
+        },
+        {
+          "type": "mc",
+          "q": "I know a man ___ can speak five languages.",
+          "opts": "which,where,who,what",
+          "ans": "C",
+          "exp": "Dùng 'who' cho người"
+        },
+        {
+          "type": "mc",
+          "q": "The dog ___ is barking belongs to my neighbor.",
+          "opts": "who,which,where,what",
+          "ans": "B",
+          "exp": "Dùng 'which' cho động vật"
+        },
+        {
+          "type": "mc",
+          "q": "The park ___ we play football is very big.",
+          "opts": "who,which,where,that",
+          "ans": "C",
+          "exp": "Dùng 'where' cho nơi chốn"
+        },
+        {
+          "type": "mc",
+          "q": "The woman ___ called you is my aunt.",
+          "opts": "which,where,who,what",
+          "ans": "C",
+          "exp": "Dùng 'who' cho người"
+        },
+        {
+          "type": "mc",
+          "q": "The computer ___ I use is very old.",
+          "opts": "who,that,where,what",
+          "ans": "B",
+          "exp": "Dùng 'that' (hoặc which) cho vật"
+        },
+        {
+          "type": "mc",
+          "q": "That's the shop ___ I bought my phone.",
+          "opts": "who,which,where,that",
+          "ans": "C",
+          "exp": "Dùng 'where' cho nơi chốn"
+        },
+        {
+          "type": "mc",
+          "q": "A dictionary is a book ___ gives word meanings.",
+          "opts": "who,which,where,what",
+          "ans": "B",
+          "exp": "Dùng 'which' cho vật"
+        },
+        {
+          "type": "mc",
+          "q": "The boy ___ is wearing a red shirt is my son.",
+          "opts": "which,where,who,what",
+          "ans": "C",
+          "exp": "Dùng 'who' cho người"
+        },
+        {
+          "type": "fill",
+          "q": "The man ___ lives next door is very friendly.",
+          "ans": "who",
+          "exp": "Dùng 'who' cho người"
+        },
+        {
+          "type": "fill",
+          "q": "This is the book ___ I bought yesterday.",
+          "ans": "which",
+          "exp": "Dùng 'which' cho vật"
+        },
+        {
+          "type": "fill",
+          "q": "The restaurant ___ we had dinner was excellent.",
+          "ans": "where",
+          "exp": "Dùng 'where' cho nơi chốn"
+        },
+        {
+          "type": "fill",
+          "q": "I don't like people ___ are always complaining.",
+          "ans": "who",
+          "exp": "Dùng 'who' cho người"
+        },
+        {
+          "type": "fill",
+          "q": "The car ___ is parked outside is mine.",
+          "ans": "which",
+          "exp": "Dùng 'which' cho vật"
+        },
+        {
+          "type": "fill",
+          "q": "That's the hospital ___ my brother works.",
+          "ans": "where",
+          "exp": "Dùng 'where' cho nơi chốn"
+        },
+        {
+          "type": "fill",
+          "q": "She is the girl ___ won the competition.",
+          "ans": "who",
+          "exp": "Dùng 'who' cho người"
+        },
+        {
+          "type": "fill",
+          "q": "The shoes ___ I bought are very comfortable.",
+          "ans": "that",
+          "exp": "Dùng 'that' (hoặc which) cho vật"
+        },
+        {
+          "type": "fill",
+          "q": "This is the town ___ I was born.",
+          "ans": "where",
+          "exp": "Dùng 'where' cho nơi chốn"
+        },
+        {
+          "type": "fill",
+          "q": "A dentist is a person ___ treats sick people.",
+          "ans": "who",
+          "exp": "Dùng 'who' cho người"
+        },
+        {
+          "type": "fill",
+          "q": "The movie ___ we watched last night was boring.",
+          "ans": "which",
+          "exp": "Dùng 'which' cho vật"
+        },
+        {
+          "type": "fill",
+          "q": "Is this the place ___ you lost your keys?",
+          "ans": "where",
+          "exp": "Dùng 'where' cho nơi chốn"
+        },
+        {
+          "type": "fill",
+          "q": "I know a man ___ can speak five languages.",
+          "ans": "who",
+          "exp": "Dùng 'who' cho người"
+        },
+        {
+          "type": "fill",
+          "q": "The dog ___ is barking belongs to my neighbor.",
+          "ans": "which",
+          "exp": "Dùng 'which' cho động vật"
+        },
+        {
+          "type": "fill",
+          "q": "The park ___ we play football is very big.",
+          "ans": "where",
+          "exp": "Dùng 'where' cho nơi chốn"
+        },
+        {
+          "type": "fill",
+          "q": "The woman ___ called you is my aunt.",
+          "ans": "who",
+          "exp": "Dùng 'who' cho người"
+        },
+        {
+          "type": "fill",
+          "q": "The computer ___ I use is very old.",
+          "ans": "that",
+          "exp": "Dùng 'that' (hoặc which) cho vật"
+        },
+        {
+          "type": "fill",
+          "q": "That's the shop ___ I bought my phone.",
+          "ans": "where",
+          "exp": "Dùng 'where' cho nơi chốn"
+        },
+        {
+          "type": "fill",
+          "q": "A dictionary is a book ___ gives word meanings.",
+          "ans": "which",
+          "exp": "Dùng 'which' cho vật"
+        },
+        {
+          "type": "fill",
+          "q": "The boy ___ is wearing a red shirt is my son.",
+          "ans": "who",
+          "exp": "Dùng 'who' cho người"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "The man who lives next door is friendly",
+            "extra": [
+              "which",
+              "where"
+            ]
+          },
+          {
+            "words": "This is the book which I bought yesterday",
+            "extra": [
+              "who",
+              "where"
+            ]
+          },
+          {
+            "words": "The restaurant where we had dinner was excellent",
+            "extra": [
+              "which",
+              "who"
+            ]
+          },
+          {
+            "words": "I don't like people who are always complaining",
+            "extra": [
+              "which",
+              "where"
+            ]
+          },
+          {
+            "words": "The car which is parked outside is mine",
+            "extra": [
+              "who",
+              "where"
+            ]
+          },
+          {
+            "words": "That's the hospital where my brother works",
+            "extra": [
+              "which",
+              "who"
+            ]
+          },
+          {
+            "words": "She is the girl who won the competition",
+            "extra": [
+              "which",
+              "where"
+            ]
+          },
+          {
+            "words": "The shoes that I bought are very comfortable",
+            "extra": [
+              "who",
+              "where"
+            ]
+          },
+          {
+            "words": "This is the town where I was born",
+            "extra": [
+              "which",
+              "who"
+            ]
+          },
+          {
+            "words": "A dentist is a person who treats sick people",
+            "extra": [
+              "which",
+              "where"
+            ]
+          },
+          {
+            "words": "The movie which we watched last night was boring",
+            "extra": [
+              "who",
+              "where"
+            ]
+          },
+          {
+            "words": "Is this the place where you lost your keys",
+            "extra": [
+              "which",
+              "who"
+            ]
+          },
+          {
+            "words": "I know a man who can speak five languages",
+            "extra": [
+              "which",
+              "where"
+            ]
+          },
+          {
+            "words": "The dog which is barking belongs to my neighbor",
+            "extra": [
+              "who",
+              "where"
+            ]
+          },
+          {
+            "words": "The park where we play football is very big",
+            "extra": [
+              "which",
+              "who"
+            ]
+          },
+          {
+            "words": "The woman who called you is my aunt",
+            "extra": [
+              "which",
+              "where"
+            ]
+          },
+          {
+            "words": "The computer that I use is very old",
+            "extra": [
+              "who",
+              "where"
+            ]
+          },
+          {
+            "words": "That's the shop where I bought my phone",
+            "extra": [
+              "which",
+              "who"
+            ]
+          },
+          {
+            "words": "A dictionary is a book which gives word meanings",
+            "extra": [
+              "who",
+              "where"
+            ]
+          },
+          {
+            "words": "The boy who is wearing a red shirt is my son",
+            "extra": [
+              "which",
+              "where"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "I have a friend {{1}} (who) lives in London. He works in a hospital {{2}} (where) they treat children. He has a car {{3}} (which) is very fast. He often visits the park {{4}} (where) we used to play. He is a person {{5}} (who) loves helping others. He bought a house {{6}} (which) has a big garden. He likes the restaurant {{7}} (where) they serve Italian food. He has a dog {{8}} (which) is very playful. He is the man {{9}} (who) always smiles. He lives in a city {{10}} (where) it rains a lot.",
+            "blanks": {
+              "1": "who",
+              "2": "where",
+              "3": "which",
+              "4": "where",
+              "5": "who",
+              "6": "which",
+              "7": "where",
+              "8": "which",
+              "9": "who",
+              "10": "where"
+            },
+            "wordbank": [
+              "who",
+              "which",
+              "where",
+              "that",
+              "what",
+              "when",
+              "why"
+            ]
+          },
+          {
+            "text": "This is the school {{1}} (where) I study. I have a teacher {{2}} (who) is very kind. She gives us books {{3}} (which) are interesting. We have a classroom {{4}} (where) we learn English. She is the woman {{5}} (who) helped me pass the exam. I have a pen {{6}} (which) she gave me. We go to the library {{7}} (where) it is quiet. She has a cat {{8}} (which) waits for her outside. She is a teacher {{9}} (who) everyone loves. This is the place {{10}} (where) I feel happy.",
+            "blanks": {
+              "1": "where",
+              "2": "who",
+              "3": "which",
+              "4": "where",
+              "5": "who",
+              "6": "which",
+              "7": "where",
+              "8": "which",
+              "9": "who",
+              "10": "where"
+            },
+            "wordbank": [
+              "who",
+              "which",
+              "where",
+              "that",
+              "what",
+              "when",
+              "why"
+            ]
+          },
+          {
+            "text": "I bought a phone {{1}} (which) is very expensive. I went to the shop {{2}} (where) they sell electronics. I met a salesman {{3}} (who) was very helpful. He showed me a model {{4}} (which) has a great camera. This is the store {{5}} (where) I always buy gadgets. He is the guy {{6}} (who) fixed my old phone. I have a case {{7}} (which) protects it. I like the mall {{8}} (where) this shop is located. He is a person {{9}} (who) knows a lot about tech. This is the device {{10}} (which) I use every day.",
+            "blanks": {
+              "1": "which",
+              "2": "where",
+              "3": "who",
+              "4": "which",
+              "5": "where",
+              "6": "who",
+              "7": "which",
+              "8": "where",
+              "9": "who",
+              "10": "which"
+            },
+            "wordbank": [
+              "who",
+              "which",
+              "where",
+              "that",
+              "what",
+              "when",
+              "why"
+            ]
+          },
+          {
+            "text": "My sister is a girl {{1}} (who) loves animals. She works in a zoo {{2}} (where) they keep monkeys. She has a uniform {{3}} (which) is green. She feeds the animals {{4}} (which) are hungry. This is the place {{5}} (where) she spends her weekends. She is the one {{6}} (who) cleans the cages. She has a favorite monkey {{7}} (which) is very funny. She likes the area {{8}} (where) the birds live. She is a worker {{9}} (who) is very dedicated. This is the job {{10}} (which) she always wanted.",
+            "blanks": {
+              "1": "who",
+              "2": "where",
+              "3": "which",
+              "4": "which",
+              "5": "where",
+              "6": "who",
+              "7": "which",
+              "8": "where",
+              "9": "who",
+              "10": "which"
+            },
+            "wordbank": [
+              "who",
+              "which",
+              "where",
+              "that",
+              "what",
+              "when",
+              "why"
+            ]
+          },
+          {
+            "text": "I live in a house {{1}} (which) is near the beach. I go to the beach {{2}} (where) I can swim. I have a neighbor {{3}} (who) is a surfer. He has a surfboard {{4}} (which) is blue. This is the spot {{5}} (where) the waves are big. He is the man {{6}} (who) taught me how to surf. I have a towel {{7}} (which) I use to dry off. I love the cafe {{8}} (where) we drink coffee. He is a friend {{9}} (who) is very brave. This is the hobby {{10}} (which) I enjoy the most.",
+            "blanks": {
+              "1": "which",
+              "2": "where",
+              "3": "who",
+              "4": "which",
+              "5": "where",
+              "6": "who",
+              "7": "which",
+              "8": "where",
+              "9": "who",
+              "10": "which"
+            },
+            "wordbank": [
+              "who",
+              "which",
+              "where",
+              "that",
+              "what",
+              "when",
+              "why"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy viết một đoạn văn ngắn miêu tả về một người bạn thân của bạn, sử dụng mệnh đề quan hệ để cung cấp thêm thông tin về người đó, sở thích và nơi các bạn thường gặp nhau.",
+          "grammar_focus": "Defining relative clauses",
+          "hint_words": [
+            "have a best friend",
+            "who is very kind",
+            "always helps me",
+            "likes reading books",
+            "which are about history",
+            "often go to the library",
+            "where we can study",
+            "quietly together"
+          ],
+          "min_words": 30,
+          "example": "I have a best friend who is very kind and always helps me. He likes reading books which are about history. We often go to the library where we can study quietly together."
+        },
+        {
+          "vi": "Miêu tả về ngôi nhà hoặc căn hộ mà bạn đang sống, sử dụng mệnh đề quan hệ để nói về các phòng, đồ vật và những người sống cùng bạn.",
+          "grammar_focus": "Defining relative clauses",
+          "hint_words": [
+            "live in an apartment",
+            "which is very cozy",
+            "has a living room",
+            "where we watch TV",
+            "have a comfortable sofa",
+            "which I bought last year",
+            "live with my sister",
+            "who is a student"
+          ],
+          "min_words": 30,
+          "example": "I live in an apartment which is very cozy. It has a big living room where we watch TV every evening. We have a comfortable sofa which I bought last year. I live with my sister who is a university student."
+        },
+        {
+          "vi": "Kể về một nhà hàng hoặc quán cà phê yêu thích của bạn, sử dụng mệnh đề quan hệ để miêu tả món ăn, không gian và nhân viên ở đó.",
+          "grammar_focus": "Defining relative clauses",
+          "hint_words": [
+            "favorite restaurant",
+            "where they serve pizza",
+            "love the cheese pizza",
+            "which is very delicious",
+            "waiters are people",
+            "who are always friendly",
+            "place is decorated with paintings",
+            "which look beautiful"
+          ],
+          "min_words": 30,
+          "example": "My favorite restaurant is a place where they serve Italian pizza. I love the cheese pizza which is very delicious. The waiters are people who are always friendly and helpful. The place is decorated with paintings which look beautiful."
+        },
+        {
+          "vi": "Miêu tả một bộ phim hoặc cuốn sách mà bạn vừa xem/đọc gần đây, sử dụng mệnh đề quan hệ để nói về nội dung, nhân vật và cảm nhận của bạn.",
+          "grammar_focus": "Defining relative clauses",
+          "hint_words": [
+            "watched a movie",
+            "which was very exciting",
+            "about a superhero",
+            "who saves the world",
+            "action scenes",
+            "which were amazing",
+            "cinema",
+            "where I watched it"
+          ],
+          "min_words": 30,
+          "example": "I recently watched a movie which was very exciting. It is about a superhero who saves the world from danger. The action scenes which were amazing kept me on the edge of my seat. The cinema where I watched it was very crowded."
+        },
+        {
+          "vi": "Viết về một kỳ nghỉ đáng nhớ của bạn, sử dụng mệnh đề quan hệ để miêu tả địa điểm, những người bạn đã gặp và những món đồ bạn đã mua.",
+          "grammar_focus": "Defining relative clauses",
+          "hint_words": [
+            "went on a holiday",
+            "to a beautiful island",
+            "where the water is clear",
+            "met some locals",
+            "who were very welcoming",
+            "bought some souvenirs",
+            "which were handmade",
+            "hotel",
+            "where we stayed"
+          ],
+          "min_words": 30,
+          "example": "Last summer, I went on a holiday to a beautiful island where the water is crystal clear. I met some locals who were very welcoming and kind. I bought some souvenirs which were handmade. The hotel where we stayed was fantastic."
+        }
+      ]
+    },
+    {
+      "icon": "🗣️",
+      "title": "A2 So, neither: so am I, neither do I, etc.",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Định nghĩa</div>Để nói rằng A giống hoặc làm giống như B, chúng ta có thể sử dụng <b>so + trợ động từ + chủ ngữ</b> trong câu khẳng định và <b>neither + trợ động từ + chủ ngữ</b> trong câu phủ định.</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">🔄 Cách dùng So và Neither</div>• <b>Câu khẳng định (So):</b><br>A: <i>“I am from London.”</i> B: <i>“<b>So</b> am I.”</i> (= I am from London too.)<br>• <b>Câu phủ định (Neither):</b><br>A: <i>“I’m not tired.”</i> B: <i>“<b>Neither</b> am I.”</i> (= I am not tired either.)</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Trợ động từ nào được sử dụng?</div>Sau <b>so/neither</b>, chúng ta sử dụng cùng một trợ động từ hoặc động từ khuyết thiếu như trong câu đầu tiên: <b>be, do, have, can, will, must, v.v.</b><br>A: <i>“Tomas <b>is</b> not going to the party.”</i> B: <i>“Neither <b>is</b> Sally.”</i><br>A: <i>“I’<b>ll</b> be here at 7.”</i> B: <i>“So <b>will</b> I.”</i><br>A: <i>“Lisa <b>can</b> play the guitar.”</i> B: <i>“So <b>can</b> Tim.”</i><br><br>Khi không có trợ động từ hoặc động từ khuyết thiếu trong câu đầu tiên, chúng ta sử dụng <b>do/does</b> ở hiện tại và <b>did</b> ở quá khứ.<br>A: <i>“I want to leave.”</i> B: <i>“So <b>do</b> I.”</i><br>A: <i>“George loves chocolate.”</i> B: <i>“So <b>does</b> Bruno.”</i><br>A: <i>“I went to bed very late.”</i> B: <i>“So <b>did</b> I.”</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Lưu ý quan trọng</div>• <b>Nor = neither:</b> Chúng ta có thể dùng <b>nor</b> thay cho <b>neither</b>.<br>A: <i>“I wasn’t ready.”</i> B: <i>“<b>Nor/Neither</b> was I.”</i><br>• <b>Neither mang nghĩa phủ định:</b> Vì vậy, trợ động từ đi sau <b>neither</b> phải ở dạng khẳng định.<br>Sai: <i>Neither didn’t I.</i><br>Đúng: <i>Neither <b>did</b> I.</i><br>• <b>Too, either:</b> Một cách khác là dùng <b>too</b> (cho câu khẳng định) hoặc <b>either</b> (cho câu phủ định) ở cuối câu.<br>A: <i>“I want to leave.”</i> B: <i>“I want to leave <b>too</b>.”</i><br>A: <i>“I didn’t go.”</i> B: <i>“I didn’t go <b>either</b>.”</i></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "A: 'I am hungry.' B: '___ am I.'",
+          "opts": "So,Neither,Too,Either",
+          "ans": "A",
+          "exp": "Câu khẳng định dùng 'So'"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I don't like fish.' B: '___ do I.'",
+          "opts": "So,Neither,Too,Either",
+          "ans": "B",
+          "exp": "Câu phủ định dùng 'Neither'"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I can swim.' B: 'So ___ I.'",
+          "opts": "can,do,am,will",
+          "ans": "A",
+          "exp": "Dùng lại động từ khuyết thiếu 'can'"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I went to the park.' B: 'So ___ I.'",
+          "opts": "do,did,was,am",
+          "ans": "B",
+          "exp": "Quá khứ đơn dùng trợ động từ 'did'"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I won't be late.' B: 'Neither ___ I.'",
+          "opts": "will,won't,do,am",
+          "ans": "A",
+          "exp": "Sau neither dùng trợ động từ khẳng định 'will'"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I have finished.' B: 'So ___ I.'",
+          "opts": "have,do,did,am",
+          "ans": "A",
+          "exp": "Dùng lại trợ động từ 'have'"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I'm not tired.' B: '___ am I.'",
+          "opts": "So,Neither,Too,Either",
+          "ans": "B",
+          "exp": "Câu phủ định dùng 'Neither'"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I love pizza.' B: 'So ___ I.'",
+          "opts": "do,am,have,can",
+          "ans": "A",
+          "exp": "Hiện tại đơn dùng trợ động từ 'do'"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I didn't see him.' B: 'Neither ___ I.'",
+          "opts": "did,didn't,do,was",
+          "ans": "A",
+          "exp": "Sau neither dùng trợ động từ khẳng định 'did'"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I was sleeping.' B: 'So ___ I.'",
+          "opts": "was,did,am,do",
+          "ans": "A",
+          "exp": "Dùng lại trợ động từ 'was'"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I can't drive.' B: 'Neither ___ I.'",
+          "opts": "can,can't,do,am",
+          "ans": "A",
+          "exp": "Sau neither dùng trợ động từ khẳng định 'can'"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I will call you.' B: 'So ___ I.'",
+          "opts": "will,do,am,can",
+          "ans": "A",
+          "exp": "Dùng lại trợ động từ 'will'"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I haven't eaten.' B: 'Neither ___ I.'",
+          "opts": "have,haven't,do,did",
+          "ans": "A",
+          "exp": "Sau neither dùng trợ động từ khẳng định 'have'"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I play tennis.' B: 'So ___ my brother.'",
+          "opts": "does,do,is,has",
+          "ans": "A",
+          "exp": "Chủ ngữ số ít 'my brother' dùng 'does'"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I wasn't ready.' B: '___ was I.'",
+          "opts": "So,Neither,Too,Either",
+          "ans": "B",
+          "exp": "Câu phủ định dùng 'Neither'"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I like apples.' B: 'I like apples ___.'",
+          "opts": "too,either,so,neither",
+          "ans": "A",
+          "exp": "Cuối câu khẳng định dùng 'too'"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I don't smoke.' B: 'I don't smoke ___.'",
+          "opts": "too,either,so,neither",
+          "ans": "B",
+          "exp": "Cuối câu phủ định dùng 'either'"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I should go.' B: 'So ___ I.'",
+          "opts": "should,do,am,will",
+          "ans": "A",
+          "exp": "Dùng lại động từ khuyết thiếu 'should'"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I didn't know.' B: '___ did I.'",
+          "opts": "So,Nor,Too,Either",
+          "ans": "B",
+          "exp": "Nor = Neither"
+        },
+        {
+          "type": "mc",
+          "q": "A: 'I am working.' B: 'So ___ I.'",
+          "opts": "am,do,have,was",
+          "ans": "A",
+          "exp": "Dùng lại trợ động từ 'am'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I am hungry.' B: '___ am I.'",
+          "ans": "So",
+          "exp": "Câu khẳng định dùng 'So'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I don't like fish.' B: '___ do I.'",
+          "ans": "Neither",
+          "exp": "Câu phủ định dùng 'Neither'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I can swim.' B: 'So ___ I.'",
+          "ans": "can",
+          "exp": "Dùng lại động từ khuyết thiếu 'can'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I went to the park.' B: 'So ___ I.'",
+          "ans": "did",
+          "exp": "Quá khứ đơn dùng trợ động từ 'did'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I won't be late.' B: 'Neither ___ I.'",
+          "ans": "will",
+          "exp": "Sau neither dùng trợ động từ khẳng định 'will'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I have finished.' B: 'So ___ I.'",
+          "ans": "have",
+          "exp": "Dùng lại trợ động từ 'have'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I'm not tired.' B: '___ am I.'",
+          "ans": "Neither",
+          "exp": "Câu phủ định dùng 'Neither'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I love pizza.' B: 'So ___ I.'",
+          "ans": "do",
+          "exp": "Hiện tại đơn dùng trợ động từ 'do'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I didn't see him.' B: 'Neither ___ I.'",
+          "ans": "did",
+          "exp": "Sau neither dùng trợ động từ khẳng định 'did'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I was sleeping.' B: 'So ___ I.'",
+          "ans": "was",
+          "exp": "Dùng lại trợ động từ 'was'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I can't drive.' B: 'Neither ___ I.'",
+          "ans": "can",
+          "exp": "Sau neither dùng trợ động từ khẳng định 'can'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I will call you.' B: 'So ___ I.'",
+          "ans": "will",
+          "exp": "Dùng lại trợ động từ 'will'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I haven't eaten.' B: 'Neither ___ I.'",
+          "ans": "have",
+          "exp": "Sau neither dùng trợ động từ khẳng định 'have'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I play tennis.' B: 'So ___ my brother.'",
+          "ans": "does",
+          "exp": "Chủ ngữ số ít 'my brother' dùng 'does'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I wasn't ready.' B: '___ was I.'",
+          "ans": "Neither",
+          "exp": "Câu phủ định dùng 'Neither'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I like apples.' B: 'I like apples ___.'",
+          "ans": "too",
+          "exp": "Cuối câu khẳng định dùng 'too'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I don't smoke.' B: 'I don't smoke ___.'",
+          "ans": "either",
+          "exp": "Cuối câu phủ định dùng 'either'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I should go.' B: 'So ___ I.'",
+          "ans": "should",
+          "exp": "Dùng lại động từ khuyết thiếu 'should'"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I didn't know.' B: '___ did I.'",
+          "ans": "Nor",
+          "exp": "Nor = Neither"
+        },
+        {
+          "type": "fill",
+          "q": "A: 'I am working.' B: 'So ___ I.'",
+          "ans": "am",
+          "exp": "Dùng lại trợ động từ 'am'"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "So am I",
+            "extra": [
+              "do",
+              "Neither"
+            ]
+          },
+          {
+            "words": "Neither do I",
+            "extra": [
+              "am",
+              "So"
+            ]
+          },
+          {
+            "words": "So can I",
+            "extra": [
+              "do",
+              "Neither"
+            ]
+          },
+          {
+            "words": "So did I",
+            "extra": [
+              "was",
+              "Neither"
+            ]
+          },
+          {
+            "words": "Neither will I",
+            "extra": [
+              "won't",
+              "So"
+            ]
+          },
+          {
+            "words": "So have I",
+            "extra": [
+              "do",
+              "Neither"
+            ]
+          },
+          {
+            "words": "Neither am I",
+            "extra": [
+              "do",
+              "So"
+            ]
+          },
+          {
+            "words": "So do I",
+            "extra": [
+              "am",
+              "Neither"
+            ]
+          },
+          {
+            "words": "Neither did I",
+            "extra": [
+              "didn't",
+              "So"
+            ]
+          },
+          {
+            "words": "So was I",
+            "extra": [
+              "did",
+              "Neither"
+            ]
+          },
+          {
+            "words": "Neither can I",
+            "extra": [
+              "can't",
+              "So"
+            ]
+          },
+          {
+            "words": "So will I",
+            "extra": [
+              "do",
+              "Neither"
+            ]
+          },
+          {
+            "words": "Neither have I",
+            "extra": [
+              "haven't",
+              "So"
+            ]
+          },
+          {
+            "words": "So does my brother",
+            "extra": [
+              "do",
+              "Neither"
+            ]
+          },
+          {
+            "words": "Neither was I",
+            "extra": [
+              "did",
+              "So"
+            ]
+          },
+          {
+            "words": "I like apples too",
+            "extra": [
+              "either",
+              "so"
+            ]
+          },
+          {
+            "words": "I don't smoke either",
+            "extra": [
+              "too",
+              "neither"
+            ]
+          },
+          {
+            "words": "So should I",
+            "extra": [
+              "do",
+              "Neither"
+            ]
+          },
+          {
+            "words": "Nor did I",
+            "extra": [
+              "didn't",
+              "So"
+            ]
+          },
+          {
+            "words": "So am I",
+            "extra": [
+              "do",
+              "Neither"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "A: I am very tired today. B: {{1}} (So) am I. A: I didn't sleep well last night. B: {{2}} (Neither) did I. A: I have a lot of work to do. B: {{3}} (So) do I. A: I can't finish it all today. B: {{4}} (Neither) can I. A: I will ask for help. B: {{5}} (So) will I. A: I don't want to work late. B: {{6}} (Neither) do I. A: I am going to take a break. B: {{7}} (So) am I. A: I haven't eaten lunch yet. B: {{8}} (Neither) have I. A: I want a sandwich. B: {{9}} (So) do I. A: I won't eat at my desk. B: {{10}} (Neither) will I.",
+            "blanks": {
+              "1": "So",
+              "2": "Neither",
+              "3": "So",
+              "4": "Neither",
+              "5": "So",
+              "6": "Neither",
+              "7": "So",
+              "8": "Neither",
+              "9": "So",
+              "10": "Neither"
+            },
+            "wordbank": [
+              "So",
+              "Neither",
+              "Too",
+              "Either",
+              "Nor",
+              "do",
+              "did"
+            ]
+          },
+          {
+            "text": "A: I love playing football. B: {{1}} (So) do I. A: I am not very good at it, though. B: {{2}} (Neither) am I. A: I practice every weekend. B: {{3}} (So) do I. A: I didn't play last Sunday. B: {{4}} (Neither) did I. A: I was sick. B: {{5}} (So) was I. A: I can't run very fast. B: {{6}} (Neither) can I. A: I have bought new boots. B: {{7}} (So) have I. A: I won't miss the next game. B: {{8}} (Neither) will I. A: I am excited. B: {{9}} (So) am I. A: I don't like losing. B: {{10}} (Neither) do I.",
+            "blanks": {
+              "1": "So",
+              "2": "Neither",
+              "3": "So",
+              "4": "Neither",
+              "5": "So",
+              "6": "Neither",
+              "7": "So",
+              "8": "Neither",
+              "9": "So",
+              "10": "Neither"
+            },
+            "wordbank": [
+              "So",
+              "Neither",
+              "Too",
+              "Either",
+              "Nor",
+              "do",
+              "did"
+            ]
+          },
+          {
+            "text": "A: I went to Paris last year. B: {{1}} (So) did I. A: I didn't visit the Eiffel Tower. B: {{2}} (Neither) did I. A: I was too busy. B: {{3}} (So) was I. A: I can't speak French. B: {{4}} (Neither) can I. A: I loved the food. B: {{5}} (So) did I. A: I haven't tried snails. B: {{6}} (Neither) have I. A: I will go back someday. B: {{7}} (So) will I. A: I don't want to go in winter. B: {{8}} (Neither) do I. A: I am saving money for the trip. B: {{9}} (So) am I. A: I won't travel alone. B: {{10}} (Neither) will I.",
+            "blanks": {
+              "1": "So",
+              "2": "Neither",
+              "3": "So",
+              "4": "Neither",
+              "5": "So",
+              "6": "Neither",
+              "7": "So",
+              "8": "Neither",
+              "9": "So",
+              "10": "Neither"
+            },
+            "wordbank": [
+              "So",
+              "Neither",
+              "Too",
+              "Either",
+              "Nor",
+              "do",
+              "did"
+            ]
+          },
+          {
+            "text": "A: I am reading a great book. B: {{1}} (So) am I. A: I don't like boring stories. B: {{2}} (Neither) do I. A: I have read three chapters today. B: {{3}} (So) have I. A: I couldn't put it down. B: {{4}} (Neither) could I. A: I will finish it tonight. B: {{5}} (So) will I. A: I haven't seen the movie version. B: {{6}} (Neither) have I. A: I want to watch it. B: {{7}} (So) do I. A: I am not going to the cinema. B: {{8}} (Neither) am I. A: I prefer watching at home. B: {{9}} (So) do I. A: I won't invite anyone. B: {{10}} (Neither) will I.",
+            "blanks": {
+              "1": "So",
+              "2": "Neither",
+              "3": "So",
+              "4": "Neither",
+              "5": "So",
+              "6": "Neither",
+              "7": "So",
+              "8": "Neither",
+              "9": "So",
+              "10": "Neither"
+            },
+            "wordbank": [
+              "So",
+              "Neither",
+              "Too",
+              "Either",
+              "Nor",
+              "do",
+              "did"
+            ]
+          },
+          {
+            "text": "A: I like listening to music. B: {{1}} (So) do I. A: I don't enjoy loud concerts. B: {{2}} (Neither) do I. A: I was listening to jazz earlier. B: {{3}} (So) was I. A: I can't play any instruments. B: {{4}} (Neither) can I. A: I have bought a new speaker. B: {{5}} (So) have I. A: I didn't spend much money. B: {{6}} (Neither) did I. A: I will listen to it tonight. B: {{7}} (So) will I. A: I am not a fan of rock music. B: {{8}} (Neither) am I. A: I prefer classical. B: {{9}} (So) do I. A: I won't change my mind. B: {{10}} (Neither) will I.",
+            "blanks": {
+              "1": "So",
+              "2": "Neither",
+              "3": "So",
+              "4": "Neither",
+              "5": "So",
+              "6": "Neither",
+              "7": "So",
+              "8": "Neither",
+              "9": "So",
+              "10": "Neither"
+            },
+            "wordbank": [
+              "So",
+              "Neither",
+              "Too",
+              "Either",
+              "Nor",
+              "do",
+              "did"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Viết một đoạn hội thoại ngắn giữa bạn và một người bạn mới quen, trong đó hai người phát hiện ra nhiều điểm chung về sở thích (sử dụng So do I, So am I...).",
+          "grammar_focus": "So / Neither",
+          "hint_words": [
+            "I love playing sports",
+            "So do I",
+            "I am very active",
+            "So am I",
+            "I enjoy swimming",
+            "So do I",
+            "we have a lot in common",
+            "let's play together"
+          ],
+          "min_words": 30,
+          "example": "A: I love playing sports on weekends. B: So do I! A: I am very active and I enjoy swimming. B: So am I. We have a lot in common. Let's play together sometime."
+        },
+        {
+          "vi": "Viết một đoạn hội thoại ngắn giữa bạn và đồng nghiệp, trong đó hai người chia sẻ những điều mình không thích hoặc không thể làm (sử dụng Neither do I, Neither can I...).",
+          "grammar_focus": "So / Neither",
+          "hint_words": [
+            "I don't like working late",
+            "Neither do I",
+            "I can't wake up early",
+            "Neither can I",
+            "I haven't finished the report",
+            "Neither have I",
+            "we should ask for help"
+          ],
+          "min_words": 30,
+          "example": "A: I don't like working late on Fridays. B: Neither do I. A: I can't wake up early in the morning. B: Neither can I. A: I haven't finished the report yet. B: Neither have I. We should ask for help."
+        },
+        {
+          "vi": "Kể lại một cuộc trò chuyện với anh/chị/em của bạn về những kỷ niệm thời thơ ấu mà cả hai cùng trải qua (sử dụng So did I, So was I...).",
+          "grammar_focus": "So / Neither",
+          "hint_words": [
+            "I went to that old park",
+            "So did I",
+            "I was very happy there",
+            "So was I",
+            "I loved playing on the swings",
+            "So did I",
+            "great memories"
+          ],
+          "min_words": 30,
+          "example": "A: I went to that old park yesterday. B: So did I! A: I was very happy when we played there as kids. B: So was I. A: I loved playing on the swings. B: So did I. We have great memories."
+        },
+        {
+          "vi": "Viết một đoạn hội thoại thảo luận về kế hoạch tương lai giữa bạn và bạn thân, nơi cả hai có cùng dự định (sử dụng So will I, Neither will I...).",
+          "grammar_focus": "So / Neither",
+          "hint_words": [
+            "I will travel to Japan",
+            "So will I",
+            "I won't stay in a cheap hotel",
+            "Neither will I",
+            "I will try the local food",
+            "So will I",
+            "it will be fun"
+          ],
+          "min_words": 30,
+          "example": "A: I will travel to Japan next year. B: So will I! A: I won't stay in a cheap hotel. B: Neither will I. A: I will try all the local food. B: So will I. It will be a fun trip."
+        },
+        {
+          "vi": "Viết một đoạn hội thoại ngắn về những món ăn mà bạn và bạn của bạn không thích ăn (sử dụng Neither do I, I don't either...).",
+          "grammar_focus": "So / Neither",
+          "hint_words": [
+            "I don't like spicy food",
+            "Neither do I",
+            "I can't eat onions",
+            "Neither can I",
+            "I don't enjoy fast food",
+            "I don't either",
+            "let's cook at home"
+          ],
+          "min_words": 30,
+          "example": "A: I don't like spicy food at all. B: Neither do I. A: I can't eat onions. B: Neither can I. A: I don't enjoy fast food. B: I don't either. Let's just cook a healthy meal at home."
+        }
+      ]
+    },
+    {
+      "icon": "🗣️",
+      "title": "A2 Auxiliary verbs: do, be and have",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Định nghĩa</div>Trong tiếng Anh, có ba trợ động từ chính: <b>do, be</b> và <b>have</b>. Chúng có dạng phủ định và nghi vấn. Các động từ khác cần một trợ động từ để tạo thành các dạng này.<br>Các động từ khuyết thiếu (can, could, may, might, must, should, will, would) cũng là trợ động từ.</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">🔄 Be</div><b>1. Hiện tại và quá khứ tiếp diễn:</b> Chúng ta dùng <b>be + V-ing</b>.<br>• Hiện tại tiếp diễn (am/is/are + V-ing):<br><i>She <b>is reading</b> a book.</i><br><i><b>Are</b> you <b>studying</b> for the test?</i><br>• Quá khứ tiếp diễn (was/were + V-ing):<br><i>I <b>was cooking</b> dinner at 8 o’clock.</i><br><i><b>Were</b> they <b>playing</b> football?</i><br><br><b>2. Câu bị động hiện tại và quá khứ đơn:</b> Chúng ta dùng <b>be + past participle (V3/ed)</b>.<br>• Bị động hiện tại đơn (am/is/are + V3/ed):<br><i>English <b>is spoken</b> in many countries.</i><br>• Bị động quá khứ đơn (was/were + V3/ed):<br><i>The match <b>was cancelled</b>.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">🔄 Do</div>Chúng ta dùng <b>do/did + động từ nguyên thể</b> để tạo câu phủ định và nghi vấn cho thì hiện tại đơn và quá khứ đơn.<br>• Hiện tại đơn (don’t/doesn’t và do/does):<br><i>I <b>don’t like</b> spicy food.</i><br><i><b>Do</b> they <b>live</b> near here?</i><br>• Quá khứ đơn (didn’t và did):<br><i>We <b>didn’t go</b> to the party.</i><br><i><b>Did</b> you <b>finish</b> the report?</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">🔄 Have</div>Chúng ta dùng <b>have + past participle (V3/ed)</b> để tạo thì hiện tại hoàn thành và quá khứ hoàn thành.<br>• Hiện tại hoàn thành (have/has + V3/ed):<br><i>She <b>has finished</b> her homework.</i><br><i><b>Have</b> you <b>seen</b> this film?</i><br>• Quá khứ hoàn thành (had + V3/ed):<br><i>I <b>had left</b> before the meeting started.</i><br><i><b>Had</b> they <b>arrived</b> when you called?</i></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "She ___ reading a book right now.",
+          "opts": "is,does,has,was",
+          "ans": "A",
+          "exp": "Hiện tại tiếp diễn: is + V-ing"
+        },
+        {
+          "type": "mc",
+          "q": "___ you studying for the test yesterday?",
+          "opts": "Were,Are,Do,Did",
+          "ans": "A",
+          "exp": "Quá khứ tiếp diễn: Were + V-ing"
+        },
+        {
+          "type": "mc",
+          "q": "English ___ spoken in many countries.",
+          "opts": "is,does,has,be",
+          "ans": "A",
+          "exp": "Bị động hiện tại đơn: is + V3"
+        },
+        {
+          "type": "mc",
+          "q": "The match ___ cancelled last night.",
+          "opts": "was,did,had,is",
+          "ans": "A",
+          "exp": "Bị động quá khứ đơn: was + V3"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ like spicy food.",
+          "opts": "don't,am not,haven't,didn't",
+          "ans": "A",
+          "exp": "Phủ định hiện tại đơn: don't + V"
+        },
+        {
+          "type": "mc",
+          "q": "___ they live near here?",
+          "opts": "Do,Are,Have,Did",
+          "ans": "A",
+          "exp": "Nghi vấn hiện tại đơn: Do + S + V"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ go to the party last week.",
+          "opts": "didn't,weren't,haven't,don't",
+          "ans": "A",
+          "exp": "Phủ định quá khứ đơn: didn't + V"
+        },
+        {
+          "type": "mc",
+          "q": "___ you finish the report yesterday?",
+          "opts": "Did,Were,Had,Do",
+          "ans": "A",
+          "exp": "Nghi vấn quá khứ đơn: Did + S + V"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ finished her homework.",
+          "opts": "has,is,does,was",
+          "ans": "A",
+          "exp": "Hiện tại hoàn thành: has + V3"
+        },
+        {
+          "type": "mc",
+          "q": "___ you seen this film?",
+          "opts": "Have,Are,Do,Did",
+          "ans": "A",
+          "exp": "Nghi vấn hiện tại hoàn thành: Have + S + V3"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ left before the meeting started.",
+          "opts": "had,was,did,have",
+          "ans": "A",
+          "exp": "Quá khứ hoàn thành: had + V3"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ watching TV at 8 o'clock.",
+          "opts": "were,are,did,had",
+          "ans": "A",
+          "exp": "Quá khứ tiếp diễn: were + V-ing"
+        },
+        {
+          "type": "mc",
+          "q": "The windows ___ cleaned very often.",
+          "opts": "aren't,don't,haven't,weren't",
+          "ans": "A",
+          "exp": "Bị động hiện tại đơn: aren't + V3"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ work on Saturdays.",
+          "opts": "doesn't,isn't,hasn't,didn't",
+          "ans": "A",
+          "exp": "Phủ định hiện tại đơn: doesn't + V"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ understand the question.",
+          "opts": "didn't,wasn't,hadn't,doesn't",
+          "ans": "A",
+          "exp": "Phủ định quá khứ đơn: didn't + V"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ visited the museum yet.",
+          "opts": "haven't,aren't,don't,didn't",
+          "ans": "A",
+          "exp": "Phủ định hiện tại hoàn thành: haven't + V3"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ studied for the exam before she took it.",
+          "opts": "hadn't,wasn't,didn't,hasn't",
+          "ans": "A",
+          "exp": "Phủ định quá khứ hoàn thành: hadn't + V3"
+        },
+        {
+          "type": "mc",
+          "q": "___ the tickets booked online?",
+          "opts": "Were,Did,Had,Are",
+          "ans": "A",
+          "exp": "Nghi vấn bị động quá khứ đơn: Were + S + V3"
+        },
+        {
+          "type": "mc",
+          "q": "___ the homework finished?",
+          "opts": "Is,Does,Has,Was",
+          "ans": "A",
+          "exp": "Nghi vấn bị động hiện tại đơn: Is + S + V3"
+        },
+        {
+          "type": "mc",
+          "q": "___ they arrived when you called?",
+          "opts": "Had,Were,Did,Have",
+          "ans": "A",
+          "exp": "Nghi vấn quá khứ hoàn thành: Had + S + V3"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ reading a book right now.",
+          "ans": "is",
+          "exp": "Hiện tại tiếp diễn: is + V-ing"
+        },
+        {
+          "type": "fill",
+          "q": "___ you studying for the test yesterday?",
+          "ans": "Were",
+          "exp": "Quá khứ tiếp diễn: Were + V-ing"
+        },
+        {
+          "type": "fill",
+          "q": "English ___ spoken in many countries.",
+          "ans": "is",
+          "exp": "Bị động hiện tại đơn: is + V3"
+        },
+        {
+          "type": "fill",
+          "q": "The match ___ cancelled last night.",
+          "ans": "was",
+          "exp": "Bị động quá khứ đơn: was + V3"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ like spicy food.",
+          "ans": "don't",
+          "exp": "Phủ định hiện tại đơn: don't + V"
+        },
+        {
+          "type": "fill",
+          "q": "___ they live near here?",
+          "ans": "Do",
+          "exp": "Nghi vấn hiện tại đơn: Do + S + V"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ go to the party last week.",
+          "ans": "didn't",
+          "exp": "Phủ định quá khứ đơn: didn't + V"
+        },
+        {
+          "type": "fill",
+          "q": "___ you finish the report yesterday?",
+          "ans": "Did",
+          "exp": "Nghi vấn quá khứ đơn: Did + S + V"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ finished her homework.",
+          "ans": "has",
+          "exp": "Hiện tại hoàn thành: has + V3"
+        },
+        {
+          "type": "fill",
+          "q": "___ you seen this film?",
+          "ans": "Have",
+          "exp": "Nghi vấn hiện tại hoàn thành: Have + S + V3"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ left before the meeting started.",
+          "ans": "had",
+          "exp": "Quá khứ hoàn thành: had + V3"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ watching TV at 8 o'clock.",
+          "ans": "were",
+          "exp": "Quá khứ tiếp diễn: were + V-ing"
+        },
+        {
+          "type": "fill",
+          "q": "The windows ___ cleaned very often.",
+          "ans": "aren't",
+          "exp": "Bị động hiện tại đơn: aren't + V3"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ work on Saturdays.",
+          "ans": "doesn't",
+          "exp": "Phủ định hiện tại đơn: doesn't + V"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ understand the question.",
+          "ans": "didn't",
+          "exp": "Phủ định quá khứ đơn: didn't + V"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ visited the museum yet.",
+          "ans": "haven't",
+          "exp": "Phủ định hiện tại hoàn thành: haven't + V3"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ studied for the exam before she took it.",
+          "ans": "hadn't",
+          "exp": "Phủ định quá khứ hoàn thành: hadn't + V3"
+        },
+        {
+          "type": "fill",
+          "q": "___ the tickets booked online?",
+          "ans": "Were",
+          "exp": "Nghi vấn bị động quá khứ đơn: Were + S + V3"
+        },
+        {
+          "type": "fill",
+          "q": "___ the homework finished?",
+          "ans": "Is",
+          "exp": "Nghi vấn bị động hiện tại đơn: Is + S + V3"
+        },
+        {
+          "type": "fill",
+          "q": "___ they arrived when you called?",
+          "ans": "Had",
+          "exp": "Nghi vấn quá khứ hoàn thành: Had + S + V3"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "She is reading a book",
+            "extra": [
+              "does",
+              "has"
+            ]
+          },
+          {
+            "words": "Were you studying yesterday",
+            "extra": [
+              "Are",
+              "Did"
+            ]
+          },
+          {
+            "words": "English is spoken here",
+            "extra": [
+              "does",
+              "has"
+            ]
+          },
+          {
+            "words": "The match was cancelled",
+            "extra": [
+              "did",
+              "had"
+            ]
+          },
+          {
+            "words": "I don't like spicy food",
+            "extra": [
+              "am not",
+              "haven't"
+            ]
+          },
+          {
+            "words": "Do they live near here",
+            "extra": [
+              "Are",
+              "Have"
+            ]
+          },
+          {
+            "words": "We didn't go to the party",
+            "extra": [
+              "weren't",
+              "haven't"
+            ]
+          },
+          {
+            "words": "Did you finish the report",
+            "extra": [
+              "Were",
+              "Had"
+            ]
+          },
+          {
+            "words": "She has finished her homework",
+            "extra": [
+              "is",
+              "does"
+            ]
+          },
+          {
+            "words": "Have you seen this film",
+            "extra": [
+              "Are",
+              "Do"
+            ]
+          },
+          {
+            "words": "I had left before the meeting",
+            "extra": [
+              "was",
+              "did"
+            ]
+          },
+          {
+            "words": "They were watching TV",
+            "extra": [
+              "are",
+              "did"
+            ]
+          },
+          {
+            "words": "The windows aren't cleaned often",
+            "extra": [
+              "don't",
+              "haven't"
+            ]
+          },
+          {
+            "words": "She doesn't work on Saturdays",
+            "extra": [
+              "isn't",
+              "hasn't"
+            ]
+          },
+          {
+            "words": "He didn't understand the question",
+            "extra": [
+              "wasn't",
+              "hadn't"
+            ]
+          },
+          {
+            "words": "They haven't visited the museum",
+            "extra": [
+              "aren't",
+              "don't"
+            ]
+          },
+          {
+            "words": "She hadn't studied for the exam",
+            "extra": [
+              "wasn't",
+              "didn't"
+            ]
+          },
+          {
+            "words": "Were the tickets booked online",
+            "extra": [
+              "Did",
+              "Had"
+            ]
+          },
+          {
+            "words": "Is the homework finished",
+            "extra": [
+              "Does",
+              "Has"
+            ]
+          },
+          {
+            "words": "Had they arrived when you called",
+            "extra": [
+              "Were",
+              "Did"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "I {{1}} (am) writing an email right now. I {{2}} (don't) usually write emails in the evening. Yesterday, I {{3}} (was) watching TV when my friend called. He {{4}} (didn't) know I was busy. He asked if I {{5}} (had) finished my project. I told him that the project {{6}} (was) completed last week. He {{7}} (has) been very helpful to me recently. {{8}} (Do) you think he will visit me? I hope he {{9}} (does). We {{10}} (are) planning to meet soon.",
+            "blanks": {
+              "1": "am",
+              "2": "don't",
+              "3": "was",
+              "4": "didn't",
+              "5": "had",
+              "6": "was",
+              "7": "has",
+              "8": "Do",
+              "9": "does",
+              "10": "are"
+            },
+            "wordbank": [
+              "am",
+              "don't",
+              "was",
+              "didn't",
+              "had",
+              "has",
+              "Do",
+              "does",
+              "are",
+              "is",
+              "did",
+              "have"
+            ]
+          },
+          {
+            "text": "She {{1}} (is) studying for her exams. She {{2}} (doesn't) want to fail. Last night, she {{3}} (was) reading a thick book. She {{4}} (didn't) sleep until midnight. She {{5}} (has) studied all the chapters. The book {{6}} (was) borrowed from the library. {{7}} (Did) she understand everything? Yes, she {{8}} (did). She {{9}} (had) prepared well before the test started. They {{10}} (are) expecting good results.",
+            "blanks": {
+              "1": "is",
+              "2": "doesn't",
+              "3": "was",
+              "4": "didn't",
+              "5": "has",
+              "6": "was",
+              "7": "Did",
+              "8": "did",
+              "9": "had",
+              "10": "are"
+            },
+            "wordbank": [
+              "is",
+              "doesn't",
+              "was",
+              "didn't",
+              "has",
+              "Did",
+              "did",
+              "had",
+              "are",
+              "am",
+              "do",
+              "have"
+            ]
+          },
+          {
+            "text": "They {{1}} (are) playing football in the park. They {{2}} (don't) play when it rains. Yesterday, they {{3}} (were) playing when it started to rain. They {{4}} (didn't) stop immediately. They {{5}} (have) played together for years. The ball {{6}} (was) bought by their coach. {{7}} (Have) they won any matches? Yes, they {{8}} (have). They {{9}} (had) won a trophy before this season. We {{10}} (are) very proud of them.",
+            "blanks": {
+              "1": "are",
+              "2": "don't",
+              "3": "were",
+              "4": "didn't",
+              "5": "have",
+              "6": "was",
+              "7": "Have",
+              "8": "have",
+              "9": "had",
+              "10": "are"
+            },
+            "wordbank": [
+              "are",
+              "don't",
+              "were",
+              "didn't",
+              "have",
+              "was",
+              "Have",
+              "had",
+              "is",
+              "do",
+              "did",
+              "has"
+            ]
+          },
+          {
+            "text": "He {{1}} (is) cooking dinner. He {{2}} (doesn't) like eating out. Last week, he {{3}} (was) making a cake. He {{4}} (didn't) use enough sugar. He {{5}} (has) learned from his mistake. The cake {{6}} (was) eaten by his brother. {{7}} (Does) he cook every day? Yes, he {{8}} (does). He {{9}} (had) taken a cooking class before. We {{10}} (are) going to taste his food tonight.",
+            "blanks": {
+              "1": "is",
+              "2": "doesn't",
+              "3": "was",
+              "4": "didn't",
+              "5": "has",
+              "6": "was",
+              "7": "Does",
+              "8": "does",
+              "9": "had",
+              "10": "are"
+            },
+            "wordbank": [
+              "is",
+              "doesn't",
+              "was",
+              "didn't",
+              "has",
+              "Does",
+              "does",
+              "had",
+              "are",
+              "am",
+              "do",
+              "have"
+            ]
+          },
+          {
+            "text": "I {{1}} (am) cleaning my room. I {{2}} (don't) like a messy room. Yesterday, I {{3}} (was) sweeping the floor. I {{4}} (didn't) finish it all. I {{5}} (have) thrown away old papers. The trash {{6}} (was) taken out. {{7}} (Did) you help me? No, you {{8}} (didn't). I {{9}} (had) done it all by myself before you arrived. We {{10}} (are) happy it is clean now.",
+            "blanks": {
+              "1": "am",
+              "2": "don't",
+              "3": "was",
+              "4": "didn't",
+              "5": "have",
+              "6": "was",
+              "7": "Did",
+              "8": "didn't",
+              "9": "had",
+              "10": "are"
+            },
+            "wordbank": [
+              "am",
+              "don't",
+              "was",
+              "didn't",
+              "have",
+              "Did",
+              "had",
+              "are",
+              "is",
+              "do",
+              "has",
+              "were"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Viết một đoạn văn ngắn kể về những việc bạn đang làm hiện tại và những việc bạn không thường làm (sử dụng am/is/are + V-ing và don't/doesn't).",
+          "grammar_focus": "Auxiliary verbs (be, do)",
+          "hint_words": [
+            "I am writing",
+            "an email right now",
+            "I don't usually",
+            "work on weekends",
+            "my sister is reading",
+            "she doesn't like",
+            "watching TV",
+            "we are enjoying our time"
+          ],
+          "min_words": 30,
+          "example": "I am writing an email right now. I don't usually work on weekends, but this is important. My sister is reading a book because she doesn't like watching TV. We are enjoying our quiet time at home."
+        },
+        {
+          "vi": "Kể lại một sự việc xảy ra vào ngày hôm qua, bao gồm những gì bạn đang làm lúc đó và những gì bạn đã không làm (sử dụng was/were + V-ing và didn't).",
+          "grammar_focus": "Auxiliary verbs (be, do)",
+          "hint_words": [
+            "yesterday at 8 PM",
+            "I was having dinner",
+            "I didn't answer the phone",
+            "because I was busy",
+            "my parents were talking",
+            "they didn't notice",
+            "the rain outside"
+          ],
+          "min_words": 30,
+          "example": "Yesterday at 8 PM, I was having dinner with my family. I didn't answer the phone because I was busy eating. My parents were talking about their day and they didn't notice the heavy rain outside."
+        },
+        {
+          "vi": "Viết một đoạn văn miêu tả những thành tựu bạn đã đạt được cho đến nay và những việc bạn chưa làm (sử dụng have/has + V3 và haven't/hasn't).",
+          "grammar_focus": "Auxiliary verbs (have)",
+          "hint_words": [
+            "I have visited",
+            "many beautiful places",
+            "I haven't traveled",
+            "to Europe yet",
+            "my brother has learned",
+            "how to drive",
+            "he hasn't bought",
+            "a car"
+          ],
+          "min_words": 30,
+          "example": "I have visited many beautiful places in my country, but I haven't traveled to Europe yet. My brother has learned how to drive recently, but he hasn't bought a car because he is saving money."
+        },
+        {
+          "vi": "Miêu tả một quá trình chuẩn bị cho một sự kiện (ví dụ: bữa tiệc), sử dụng câu bị động (am/is/are/was/were + V3) để nói về những việc đã được hoàn thành.",
+          "grammar_focus": "Auxiliary verbs (be - passive)",
+          "hint_words": [
+            "the party is planned",
+            "for tomorrow",
+            "the invitations were sent",
+            "last week",
+            "the food is prepared",
+            "by my mother",
+            "the room was decorated",
+            "beautifully"
+          ],
+          "min_words": 30,
+          "example": "The party is planned for tomorrow evening. The invitations were sent to all our friends last week. The delicious food is prepared by my mother, and the living room was decorated beautifully with balloons and lights."
+        },
+        {
+          "vi": "Kể về một tình huống trong quá khứ mà một việc đã xảy ra trước một việc khác (sử dụng had + V3) và đặt một câu hỏi về tình huống đó (sử dụng Did).",
+          "grammar_focus": "Auxiliary verbs (have, do)",
+          "hint_words": [
+            "when I arrived",
+            "at the station",
+            "the train had left",
+            "I had forgotten",
+            "my ticket at home",
+            "did you catch",
+            "the next train",
+            "yes I did"
+          ],
+          "min_words": 30,
+          "example": "When I arrived at the station, the train had already left. I realized that I had forgotten my ticket at home. Did you catch the next train? Yes, I did, but I was very late for my meeting."
+        }
+      ]
+    }
+  ]
+}

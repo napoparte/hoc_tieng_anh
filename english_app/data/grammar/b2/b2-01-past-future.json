@@ -1,0 +1,2794 @@
+{
+  "upper": [
+    {
+      "icon": "📖",
+      "title": "Narrative Tenses, Used to, Would",
+      "level": "upper",
+      "badge": "📙 B2",
+      "badgeClass": "badge-amber",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Past Simple – Sự kiện chính trong câu chuyện</div>Dùng để kể các <b>sự kiện theo trình tự thời gian</b> (main events of a story).<br><br>• <i>When she <b>opened</b> the door, she <b>pretended</b> we weren't there.</i><br>• <i>He <b>called</b> me and <b>asked</b> me to pick him up.</i><br><br>Cũng dùng để nói về <b>thói quen</b> hoặc <b>trạng thái</b> trong quá khứ:<br>• <i>We often <b>went</b> to the bar before dinner.</i><br>• <i>He really <b>liked</b> sport and <b>was</b> very fit.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Past Continuous – Dựng bối cảnh câu chuyện</div>Dùng để <b>thiết lập bối cảnh</b> (set the scene) hoặc hành động đang diễn ra bị gián đoạn:<br><br>• <i>Last night, I <b>was walking</b> home when…</i><br>• <i>The sun <b>was shining</b>, and lots of tourists <b>were lying</b> on the beach. Suddenly…</i><br>• <i>When she opened the door, we <b>were talking</b> about her.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Past Perfect Simple – Sự kiện xảy ra trước</div>Dùng để nói về sự kiện <b>xảy ra trước</b> sự kiện chính (earlier past):<br><br>• <i>When she opened the door, he <b>had</b> already <b>left</b>.</i><br>• <i>I realised that I <b>had been</b> there before.</i><br><br>Dùng với động từ chỉ trạng thái (stative verbs) để diễn tả <b>khoảng thời gian</b>:<br>• <i>The day Anne died, they <b>had been</b> married for 48 years.</i><br><br>Dùng để nói <b>bao nhiêu / bao nhiêu lần</b> đã làm gì trước đó:<br>• <i>We <b>had driven</b> 500 miles, and we needed some rest.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Past Perfect Continuous – Hành động kéo dài trước sự kiện chính</div>Dùng với <b>dynamic verbs</b> để diễn tả hành động <b>kéo dài liên tục</b> hoặc <b>lặp đi lặp lại</b> trước thời điểm quá khứ:<br><br>• <i>I was very angry. I <b>had been waiting</b> for him in the cold.</i><br>• <i>We <b>had been driving</b> for less than an hour when the car broke down.</i><br>• <i>She <b>had been writing</b> a letter every day for over a year.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Used to + infinitive – Thói quen & trạng thái cũ</div>Dùng cho <b>hành động lặp lại</b> hoặc <b>trạng thái không còn đúng</b> ở hiện tại:<br><br>• <i>When I was a child, I <b>used to go</b> skiing every winter.</i><br>• <i>As a child, I <b>used to be</b> blond.</i><br>• <i>I <b>used to live</b> with my mum when I was a child.</i><br>• <i>I <b>didn't use to smoke</b> before I got this job.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Would + infinitive – Thói quen lặp lại (KHÔNG dùng cho trạng thái)</div>Dùng cho <b>hành động lặp đi lặp lại</b> trong quá khứ. <b>KHÔNG</b> dùng cho trạng thái (stative verbs):<br><br>• <i>Every Saturday we <b>would go</b> to the shopping centre with my parents.</i><br>• <i>My teacher <b>would tell</b> me to shut up at the beginning of every class.</i><br><br>❌ <s>I would be blond as a child.</s> → ✅ I <b>used to be</b> blond as a child.</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Lỗi thường gặp</div>❌ <s>When I arrived, she was leaving already.</s> → ✅ she <b>had already left</b> (hoàn tất trước)<br>❌ <s>I would live in Paris as a child.</s> → ✅ I <b>used to live</b> in Paris (trạng thái dùng used to)<br>❌ <s>He used to going</s> → ✅ He <b>used to go</b> (used to + bare infinitive)</div><div class=\"ex-sent\">I <b>was walking</b> home when I suddenly <b>remembered</b> that I <b>had left</b> my keys at the office.<span>Past Cont. (bối cảnh) + Past Simple (sự kiện) + Past Perf. (trước đó)</span></div><div class=\"ex-sent\">As a child, I <b>used to spend</b> summers at my grandparents' farm. We <b>would wake up</b> early and help with the animals.<span>Used to (trạng thái/thói quen) + Would (thói quen lặp lại)</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "When I arrived at the party, most guests ___ already ___.",
+          "opts": "had left,were leaving,left,would leave",
+          "ans": "A",
+          "exp": "Past Perfect: sự kiện hoàn tất TRƯỚC khi tôi đến"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ in London for three years when she finally got promoted.",
+          "opts": "had been working,was working,worked,used to work",
+          "ans": "A",
+          "exp": "Past Perfect Continuous: khoảng thời gian trước sự kiện quá khứ"
+        },
+        {
+          "type": "mc",
+          "q": "When I was young, my father ___ take us fishing every weekend.",
+          "opts": "would,used to,had,was going to",
+          "ans": "A",
+          "exp": "Would + infinitive: thói quen lặp lại trong quá khứ"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ live near the sea, but I moved to the city five years ago.",
+          "opts": "used to,would,had,was",
+          "ans": "A",
+          "exp": "Used to: trạng thái không còn đúng ở hiện tại (stative verb)"
+        },
+        {
+          "type": "mc",
+          "q": "The police found that someone ___ the window to break into the house.",
+          "opts": "had used,was using,used,would use",
+          "ans": "A",
+          "exp": "Past Perfect: hành động xảy ra TRƯỚC sự kiện phát hiện"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ for two hours when the car suddenly broke down.",
+          "opts": "had been driving,were driving,drove,would drive",
+          "ans": "A",
+          "exp": "Past Perfect Continuous: khoảng thời gian liên tục trước gián đoạn"
+        },
+        {
+          "type": "mc",
+          "q": "Last night, I ___ in the garden when it suddenly started to rain.",
+          "opts": "was sitting,sat,had sat,used to sit",
+          "ans": "A",
+          "exp": "Past Continuous: bối cảnh đang diễn ra khi sự kiện xảy ra"
+        },
+        {
+          "type": "mc",
+          "q": "My grandmother ___ make bread every Sunday morning. The smell was wonderful.",
+          "opts": "would,used to,had,was",
+          "ans": "A",
+          "exp": "Would: thói quen lặp lại (dynamic verb)"
+        },
+        {
+          "type": "mc",
+          "q": "She realised she ___ her phone at the restaurant.",
+          "opts": "had left,was leaving,left,would leave",
+          "ans": "A",
+          "exp": "Past Perfect: nhận ra sự kiện đã xảy ra trước đó"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ have a dog, but he passed away last year.",
+          "opts": "used to,would,had,was",
+          "ans": "A",
+          "exp": "Used to: trạng thái không còn đúng (stative)"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ letters to his friends every week while he was abroad.",
+          "opts": "would write,used to write,had written,was writing",
+          "ans": "A",
+          "exp": "Would: thói quen lặp lại (cả hai đúng nhưng would nhấn mạnh lặp lại)"
+        },
+        {
+          "type": "mc",
+          "q": "By the time the ambulance arrived, the patient ___ consciousness.",
+          "opts": "had lost,was losing,lost,would lose",
+          "ans": "A",
+          "exp": "Past Perfect: hoàn tất trước thời điểm quá khứ"
+        },
+        {
+          "type": "mc",
+          "q": "When she opened the box, she discovered that someone ___ all the chocolates.",
+          "opts": "had eaten,was eating,ate,would eat",
+          "ans": "A",
+          "exp": "Past Perfect: hành động hoàn tất trước khi phát hiện"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ be very shy, but now he's very outgoing.",
+          "opts": "used to,would,had,was",
+          "ans": "A",
+          "exp": "Used to: tính cách/trạng thái cũ (stative), không dùng would"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ there for 20 minutes when the train finally arrived.",
+          "opts": "had been waiting,were waiting,waited,would wait",
+          "ans": "A",
+          "exp": "Past Perfect Continuous: thời gian chờ đợi trước sự kiện"
+        },
+        {
+          "type": "mc",
+          "q": "While he ___ the news, his wife came in with a big smile.",
+          "opts": "was watching,watched,had watched,would watch",
+          "ans": "A",
+          "exp": "Past Continuous: bối cảnh đang diễn ra khi sự kiện ngắt vào"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ spend hours in the library reading history books when she was a student.",
+          "opts": "would,used to,had,was",
+          "ans": "A",
+          "exp": "Would: thói quen lặp lại trong quá khứ (dynamic verb)"
+        },
+        {
+          "type": "mc",
+          "q": "When I called her, I realised she ___ about me the whole morning.",
+          "opts": "had been thinking,was thinking,thought,would think",
+          "ans": "A",
+          "exp": "Past Perfect Continuous: hành động kéo dài liên tục trước thời điểm gọi"
+        },
+        {
+          "type": "mc",
+          "q": "The old town square ___ look very different 50 years ago.",
+          "opts": "used to,would,had,was",
+          "ans": "A",
+          "exp": "Used to: trạng thái khác biệt trong quá khứ"
+        },
+        {
+          "type": "mc",
+          "q": "I noticed she ___ because her eyes were red.",
+          "opts": "had been crying,was crying,cried,used to cry",
+          "ans": "A",
+          "exp": "Past Perfect Continuous: kết quả nhìn thấy ở hiện tại của hành động trước đó"
+        },
+        {
+          "type": "fill",
+          "q": "When we arrived at the cinema, the film ___ (already/start).",
+          "ans": "had already started",
+          "exp": "Past Perfect: sự kiện hoàn tất trước thời điểm quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "As a teenager, she ___ (spend) hours chatting with her friends online.",
+          "ans": "used to spend / would spend",
+          "exp": "Used to / Would: thói quen lặp lại trong quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (read) for about an hour when the power went out.",
+          "ans": "had been reading",
+          "exp": "Past Perfect Continuous: khoảng thời gian liên tục trước gián đoạn"
+        },
+        {
+          "type": "fill",
+          "q": "She couldn't sleep because she ___ (drink) three coffees that evening.",
+          "ans": "had drunk",
+          "exp": "Past Perfect: nguyên nhân xảy ra trước kết quả"
+        },
+        {
+          "type": "fill",
+          "q": "My grandfather ___ (tell) wonderful stories about his adventures when I was little.",
+          "ans": "would tell / used to tell",
+          "exp": "Would / Used to: thói quen lặp lại trong quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "While the children ___ (play) in the garden, their mother was preparing dinner.",
+          "ans": "were playing",
+          "exp": "Past Continuous: hai hành động song song diễn ra cùng lúc"
+        },
+        {
+          "type": "fill",
+          "q": "By the time she graduated, she ___ (study) for six years.",
+          "ans": "had been studying",
+          "exp": "Past Perfect Continuous: khoảng thời gian tính đến mốc quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (not/eat) meat when he was younger, but now he does.",
+          "ans": "didn't use to eat / used not to eat",
+          "exp": "Used to phủ định: thói quen/trạng thái cũ không còn đúng"
+        },
+        {
+          "type": "fill",
+          "q": "I saw from her face that she ___ (cry).",
+          "ans": "had been crying",
+          "exp": "Past Perfect Continuous: kết quả nhìn thấy gợi ý hành động liên tục trước đó"
+        },
+        {
+          "type": "fill",
+          "q": "The house ___ (be) much bigger before they sold part of the garden.",
+          "ans": "used to be",
+          "exp": "Used to: trạng thái không còn đúng (stative verb, không dùng would)"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (argue) for an hour when she finally hung up the phone.",
+          "ans": "had been arguing",
+          "exp": "Past Perfect Continuous: khoảng thời gian liên tục trước sự kiện"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (know) him for years before they got married.",
+          "ans": "had known",
+          "exp": "Past Perfect + stative verb: thời gian tính đến mốc quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "Every summer, my family ___ (rent) a cottage by the lake.",
+          "ans": "would rent / used to rent",
+          "exp": "Would / Used to: thói quen lặp lại trong quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "The detective noticed that the safe ___ (open) from the inside.",
+          "ans": "had been opened",
+          "exp": "Past Perfect Passive: hành động hoàn tất trước khi phát hiện"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (not/like) vegetables as a child, but I love them now.",
+          "ans": "didn't use to like / used not to like",
+          "exp": "Used to phủ định: thái độ cũ không còn đúng"
+        },
+        {
+          "type": "fill",
+          "q": "By the time the rescuers reached the climbers, they ___ (wait) on the ledge for nearly twelve hours.",
+          "ans": "had been waiting",
+          "exp": "Past Perfect Continuous: thời gian kéo dài liên tục trước thời điểm quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (never/travel) abroad before, so she was very nervous at the airport.",
+          "ans": "had never travelled",
+          "exp": "Past Perfect: kinh nghiệm chưa từng có trước thời điểm quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "When I was at school, my best friend and I ___ (walk) home together every afternoon.",
+          "ans": "would walk / used to walk",
+          "exp": "Would / Used to: thói quen lặp lại trong quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "The neighbours ___ (argue) so loudly that I could hear every word from my flat.",
+          "ans": "were arguing",
+          "exp": "Past Continuous: hành động đang diễn ra tại thời điểm quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (not/use/be) interested in politics, but working abroad changed his perspective completely.",
+          "ans": "didn't use to be / used not to be",
+          "exp": "Used to phủ định: trạng thái không còn đúng ở hiện tại (stative verb)"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "when she arrived the meeting had already finished",
+            "extra": [
+              "arrived",
+              "meeting",
+              "finished"
+            ]
+          },
+          {
+            "words": "he used to walk to school every day when he was young",
+            "extra": [
+              "used",
+              "walk",
+              "young"
+            ]
+          },
+          {
+            "words": "they had been waiting for two hours when the bus finally came",
+            "extra": [
+              "waiting",
+              "hours",
+              "finally"
+            ]
+          },
+          {
+            "words": "while I was cooking dinner the phone rang",
+            "extra": [
+              "cooking",
+              "dinner",
+              "rang"
+            ]
+          },
+          {
+            "words": "she would spend hours in the garden every summer",
+            "extra": [
+              "spend",
+              "hours",
+              "summer"
+            ]
+          },
+          {
+            "words": "I noticed he had been crying because his eyes were red",
+            "extra": [
+              "noticed",
+              "crying",
+              "red"
+            ]
+          },
+          {
+            "words": "my parents used to take us to the beach every August",
+            "extra": [
+              "used",
+              "take",
+              "August"
+            ]
+          },
+          {
+            "words": "by the time I arrived she had already left the house",
+            "extra": [
+              "arrived",
+              "already",
+              "house"
+            ]
+          },
+          {
+            "words": "we had been living there for ten years before we moved",
+            "extra": [
+              "living",
+              "years",
+              "moved"
+            ]
+          },
+          {
+            "words": "when I was a child I would read comics every evening",
+            "extra": [
+              "child",
+              "read",
+              "evening"
+            ]
+          },
+          {
+            "words": "she realised she had forgotten her passport at home",
+            "extra": [
+              "realised",
+              "forgotten",
+              "home"
+            ]
+          },
+          {
+            "words": "the sun was shining and birds were singing in the trees",
+            "extra": [
+              "shining",
+              "singing",
+              "trees"
+            ]
+          },
+          {
+            "words": "he did not use to eat meat but now he does",
+            "extra": [
+              "use",
+              "eat",
+              "now"
+            ]
+          },
+          {
+            "words": "I had been working for six hours when my boss finally arrived",
+            "extra": [
+              "working",
+              "hours",
+              "finally"
+            ]
+          },
+          {
+            "words": "she used to be very shy but she has changed a lot",
+            "extra": [
+              "used",
+              "shy",
+              "changed"
+            ]
+          },
+          {
+            "words": "when we entered the room everyone was talking loudly",
+            "extra": [
+              "entered",
+              "room",
+              "loudly"
+            ]
+          },
+          {
+            "words": "he had drunk three coffees so he could not sleep",
+            "extra": [
+              "drunk",
+              "coffees",
+              "sleep"
+            ]
+          },
+          {
+            "words": "my grandfather would tell stories about the war every Christmas",
+            "extra": [
+              "would",
+              "stories",
+              "Christmas"
+            ]
+          },
+          {
+            "words": "by the time she graduated she had studied for six years",
+            "extra": [
+              "graduated",
+              "studied",
+              "years"
+            ]
+          },
+          {
+            "words": "I was reading when I heard a strange noise outside",
+            "extra": [
+              "reading",
+              "heard",
+              "outside"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Anna {{1}} in a small fishing village on the coast of Scotland. Every morning, her father {{2}} up before dawn and {{3}} his nets ready. As a child, Anna {{4}} to wake up early just to watch him leave. The village {{5}} to have many fishing families, but over the years, most of them {{6}} to the city. By the time Anna was fifteen, she {{7}} several other languages because her mother {{8}} her every evening. One summer, while she {{9}} at the local market, she met an old sailor who {{10}} half the world. He told her he {{11}} at sea for over thirty years and {{12}} to every continent except Antarctica. Anna {{13}} always {{14}} of travelling, and that meeting changed everything. She {{15}} to leave the village she {{16}} up in and start a new chapter in her life.",
+            "blanks": {
+              "1": "grew up",
+              "2": "would get",
+              "3": "get",
+              "4": "used",
+              "5": "used",
+              "6": "had moved",
+              "7": "had already learned",
+              "8": "would teach",
+              "9": "was working",
+              "10": "had sailed",
+              "11": "had been",
+              "12": "had travelled",
+              "13": "had",
+              "14": "dreamed",
+              "15": "decided",
+              "16": "had grown"
+            },
+            "wordbank": [
+              "grow",
+              "get",
+              "wake",
+              "have",
+              "move",
+              "learn",
+              "teach",
+              "work",
+              "sail",
+              "travel",
+              "dream",
+              "decide",
+              "use",
+              "tell",
+              "watch"
+            ]
+          },
+          {
+            "text": "The old detective {{1}} on the case for three weeks when a new witness finally came forward. He {{2}} harder cases before, but this one {{3}} particularly complex. While he {{4}} through the files, he noticed that someone {{5}} a key piece of evidence. He {{6}} to trust his instincts in situations like this — it {{7}} never let him down before. Years ago, he {{8}} to work alone, but now he appreciated having a team. His partner {{9}} him closely as he {{10}} the new information. By the time they {{11}} all the evidence, they {{12}} already {{13}} the likely suspect. The detective remembered that in the past, similar cases {{14}} weeks to solve, but this one {{15}} to resolve itself much more quickly.",
+            "blanks": {
+              "1": "had been working",
+              "2": "had handled",
+              "3": "was",
+              "4": "was going",
+              "5": "had removed",
+              "6": "used",
+              "7": "had",
+              "8": "used",
+              "9": "was watching",
+              "10": "reviewed",
+              "11": "had examined",
+              "12": "had",
+              "13": "identified",
+              "14": "used to take",
+              "15": "seemed"
+            },
+            "wordbank": [
+              "work",
+              "handle",
+              "be",
+              "go",
+              "remove",
+              "use",
+              "have",
+              "watch",
+              "review",
+              "examine",
+              "identify",
+              "take",
+              "seem",
+              "trust",
+              "notice"
+            ]
+          },
+          {
+            "text": "The mountain village {{1}} to attract hundreds of tourists each summer, but those days {{2}} long gone by the time Maria returned. She {{3}} there as a child — she {{4}} to play in the fields and {{5}} explore the old ruins on the hill. As she {{6}} through the empty streets, she noticed that most of the houses {{7}} abandoned. The bakery where her grandmother {{8}} to buy fresh bread every morning {{9}} shut for years. While she {{10}} at the old fountain in the square, tears filled her eyes. She {{11}} up hoping one day she could return, and now she was here, but everything {{12}} completely. The village {{13}} to be full of laughter and music; now only the wind {{14}} through the empty windows. She realized she {{15}} a mistake by coming back.",
+            "blanks": {
+              "1": "used",
+              "2": "were",
+              "3": "had grown up",
+              "4": "used",
+              "5": "would",
+              "6": "was walking",
+              "7": "had been",
+              "8": "used",
+              "9": "had been",
+              "10": "was staring",
+              "11": "had grown",
+              "12": "had changed",
+              "13": "used",
+              "14": "blew",
+              "15": "had made"
+            },
+            "wordbank": [
+              "attract",
+              "be",
+              "grow",
+              "play",
+              "explore",
+              "walk",
+              "abandon",
+              "buy",
+              "shut",
+              "stare",
+              "change",
+              "blow",
+              "make",
+              "return",
+              "fill"
+            ]
+          },
+          {
+            "text": "James {{1}} for the marathon for five months when he twisted his ankle in training. He {{2}} up very early every day and {{3}} for hours through the park. Before he took up running, he {{4}} to spend his weekends watching TV. His friend {{5}} him for months to join the running club, and he was glad he finally did. While he {{6}} in hospital waiting for his scan results, he thought about everything he {{7}}. The doctor said he {{8}} to take six weeks off, which meant he {{9}} the race he {{10}} so hard for. James remembered his grandfather {{11}} him that setbacks {{12}} character. He {{13}} to be the kind of person who gave up, but this experience was testing him. By the time he {{14}} fit again, he {{15}} for nearly a year in total.",
+            "blanks": {
+              "1": "had been training",
+              "2": "would get",
+              "3": "run",
+              "4": "used",
+              "5": "had been encouraging",
+              "6": "was sitting",
+              "7": "had achieved",
+              "8": "had",
+              "9": "would miss",
+              "10": "had trained",
+              "11": "would tell",
+              "12": "built",
+              "13": "used",
+              "14": "was",
+              "15": "had been running"
+            },
+            "wordbank": [
+              "train",
+              "get",
+              "run",
+              "use",
+              "encourage",
+              "sit",
+              "achieve",
+              "have",
+              "miss",
+              "tell",
+              "build",
+              "be",
+              "test",
+              "spend",
+              "recover"
+            ]
+          },
+          {
+            "text": "The journalist {{1}} at the same desk for twenty years when the newspaper finally closed down. She {{2}} to write about local events, but over the years, her work {{3}} more political. While she {{4}} her final article, she reflected on all the stories she {{5}}. She remembered how she {{6}} to stay up late, {{7}} on nothing but coffee, to meet her deadlines. She {{8}} for the paper since she {{9}} university, and the job {{10}} her whole adult life. Her editor, who {{11}} with her since the beginning, {{12}} outside her office when she {{13}} her final column. They both knew an era {{14}}. As she packed her things, she realised she {{15}} to imagine a life outside this building.",
+            "blanks": {
+              "1": "had been sitting",
+              "2": "used",
+              "3": "had become",
+              "4": "was writing",
+              "5": "had covered",
+              "6": "used",
+              "7": "surviving",
+              "8": "had worked",
+              "9": "had left",
+              "10": "had defined",
+              "11": "had been",
+              "12": "was standing",
+              "13": "submitted",
+              "14": "had ended",
+              "15": "had never managed"
+            },
+            "wordbank": [
+              "sit",
+              "use",
+              "become",
+              "write",
+              "cover",
+              "survive",
+              "work",
+              "leave",
+              "define",
+              "be",
+              "stand",
+              "submit",
+              "end",
+              "manage",
+              "reflect"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Kể lại một câu chuyện về một chuyến đi đáng nhớ, sử dụng đầy đủ các thì quá khứ (past simple, past continuous, past perfect) để dựng bối cảnh và kể sự kiện.",
+          "grammar_focus": "Narrative tenses: Past Simple, Past Continuous, Past Perfect Simple & Continuous",
+          "hint_words": [
+            "was travelling",
+            "had never been",
+            "suddenly noticed",
+            "while we were",
+            "had been waiting",
+            "when I arrived",
+            "had already started",
+            "realised I had forgotten"
+          ],
+          "min_words": 60,
+          "example": "Last summer, I was travelling through the mountains of northern Vietnam when I suddenly noticed that I had taken the wrong path. I had been walking for nearly three hours and hadn't seen another person. While I was trying to find my bearings, it started to rain heavily. I realised I had left my map at the hotel. By the time I found a small village, it had been raining for over an hour and I was completely soaked. The villagers, who had never seen a foreigner in that area before, welcomed me warmly and offered me shelter."
+        },
+        {
+          "vi": "Mô tả cuộc sống của bạn hoặc một người thân khi còn nhỏ, so sánh thói quen và cuộc sống ngày xưa với hiện tại, sử dụng 'used to' và 'would'.",
+          "grammar_focus": "Used to + infinitive vs. Would + infinitive (past habits & states)",
+          "hint_words": [
+            "used to live",
+            "would spend",
+            "used to be",
+            "didn't use to",
+            "would always",
+            "we used to have",
+            "things have changed",
+            "no longer"
+          ],
+          "min_words": 55,
+          "example": "When I was a child, my family used to live in a small town in the countryside. We didn't use to have a television, so we would spend evenings listening to the radio together or playing board games. My grandmother would cook enormous meals every Sunday and the whole family would gather around the table. I used to be afraid of the dark and would always sleep with a small lamp on. Life used to be much simpler then — we didn't use to worry about social media or mobile phones. Things have changed enormously since those days."
+        },
+        {
+          "vi": "Viết một đoạn văn kể lại một sự kiện quan trọng trong lịch sử hoặc một tin tức bạn đã đọc, sử dụng kết hợp các thì tường thuật để trình bày sự kiện rõ ràng.",
+          "grammar_focus": "Narrative tenses combined: sequence of past events",
+          "hint_words": [
+            "had been planning",
+            "was announced",
+            "by the time",
+            "had already",
+            "while investigators were",
+            "it emerged that",
+            "had taken place",
+            "were still trying to"
+          ],
+          "min_words": 60,
+          "example": "It emerged last year that a group of scientists had been working on a revolutionary medical treatment for over a decade. By the time they announced their results, they had already conducted hundreds of clinical trials. While researchers were presenting their findings, journalists from around the world were waiting outside the conference hall. The team revealed that they had been collaborating with universities in five different countries, and that the breakthrough had come unexpectedly while they were testing a completely different compound. Many people who had been suffering from the condition for years finally had reason to hope."
+        },
+        {
+          "vi": "Kể về một ngày bạn đã có kế hoạch nhưng mọi thứ không diễn ra như mong đợi — mọi thứ đã xảy ra trước đó (past perfect) ảnh hưởng đến kế hoạch của bạn.",
+          "grammar_focus": "Past Perfect & Past Continuous for narrative complications",
+          "hint_words": [
+            "I had planned to",
+            "but when I arrived",
+            "had already closed",
+            "was raining",
+            "had forgotten",
+            "had been looking forward to",
+            "turned out",
+            "ended up"
+          ],
+          "min_words": 55,
+          "example": "I had been looking forward to the concert for weeks. I had bought the tickets months in advance and had already planned the whole evening. However, when I arrived at the venue, I discovered that the organisers had already cancelled the show — apparently, the main artist had fallen ill that morning. It was raining heavily and I had forgotten to bring an umbrella. I had also left my phone at home, so I couldn't contact my friends. The evening I had planned so carefully ended up being one of the most chaotic nights of my life, though I did laugh about it later."
+        },
+        {
+          "vi": "Viết về tuổi thơ của bạn hoặc của một nhân vật hư cấu — kết hợp dựng bối cảnh, thói quen cũ, và sự kiện quan trọng đã thay đổi mọi thứ.",
+          "grammar_focus": "Mixed narrative tenses + used to / would",
+          "hint_words": [
+            "used to dream of",
+            "would often",
+            "one day, while",
+            "had never imagined",
+            "suddenly realised",
+            "had been hoping",
+            "everything changed when",
+            "would never forget"
+          ],
+          "min_words": 60,
+          "example": "As a child, Maria used to dream of becoming a musician. She would practise the piano for hours every afternoon, and her parents would sit quietly in the next room listening. She had never imagined that one day she would perform on a real stage. Then, one afternoon while she was practising a particularly difficult piece, a famous composer who had been visiting the town heard her playing through the open window. He knocked on the door and what happened next changed her life completely. By the time she turned eighteen, she had already performed in three countries. She would never forget the moment everything changed."
+        }
+      ]
+    },
+    {
+      "icon": "🔮",
+      "title": "Future Forms: Expressing Future Time",
+      "level": "upper",
+      "badge": "📙 B2",
+      "badgeClass": "badge-amber",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Will – Quyết định tức thời & Dự đoán</div><b>Instant decisions</b> (quyết định ngay lúc nói):<br>• <i>'We don't have sugar.' 'Don't worry, I'<b>ll buy</b> some.'</i><br><br><b>Predictions</b> (dự đoán dựa trên suy nghĩ/quan điểm):<br>• <i>I think he'<b>ll win</b> the election.</i><br><br><b>Offers, promises, refusals, requests:</b><br>• <i>I'<b>ll carry</b> that bag for you.</i> (offer)<br>• <i><b>Will</b> you <b>open</b> the door?</i> (request)<br>• <i>I <b>won't lend</b> him my car.</i> (refusal)</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Be going to – Ý định & Dự đoán có bằng chứng hiện tại</div><b>Intentions/plans</b> (ý định chưa sắp xếp cụ thể):<br>• <i>I'<b>m going to</b> play tennis with Elisabeth today.</i><br><br><b>Predictions with present evidence</b> (thấy bằng chứng rõ ràng):<br>• <i>Don't drive like that. We'<b>re going to have</b> an accident!</i><br>• <i>The doctor said I'<b>m going to have</b> a girl.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Present Continuous – Kế hoạch đã sắp xếp sẵn</div>Dùng khi đã <b>xác định ngày giờ/địa điểm</b> cụ thể (sắp xếp, hẹn hò):<br><br>• <i>I'<b>m seeing</b> the dentist at 6.</i><br>• <i>We <b>are getting</b> married next week.</i><br>• <i>I'<b>m flying</b> to New York tomorrow morning.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Present Simple – Lịch trình & Thời gian biểu</div>Dùng cho các sự kiện <b>theo lịch cố định</b> (timetables, schedules):<br><br>• <i>The train <b>leaves</b> at 4.</i><br>• <i>Shops <b>close</b> at 6.</i><br>• <i>I <b>have</b> my yoga class tomorrow at 10.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Future Continuous – Hành động đang diễn ra ở tương lai</div>• Sự kiện <b>đang xảy ra tại một thời điểm cụ thể</b> trong tương lai:<br><i>This time next week, we'<b>ll be travelling</b> to Paris.</i><br><br>• Hỏi lịch sự về kế hoạch:<br><i><b>Will</b> you <b>be going</b> home this summer?</i><br><br>• Kế hoạch đã sắp xếp (thay cho Present Continuous):<br><i>We'<b>ll be leaving</b> at 8 a.m. tomorrow.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Future Perfect – Hoàn tất trước một thời điểm tương lai</div><b>Future Perfect Simple</b> (will have + V3): hành động hoàn tất trước mốc tương lai:<br>• <i>By 2050, researchers <b>will have found</b> a cure for cancer.</i><br>• <i>By this time next year, I'<b>ll have graduated</b>.</i><br><br><b>Future Perfect Continuous</b> (will have been + V-ing): thời gian kéo dài đến mốc tương lai:<br>• <i>By the end of the year, she <b>will have been working</b> on the publication for over ten years.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Future Time Clauses</div>Sau <b>when, as soon as, until, before, after</b> → dùng <b>Present Simple</b> (KHÔNG dùng will):<br><br>• <i>I'll retire when I'<b>m</b> 70.</i> ❌ <s>when I'll be</s><br>• <i>I won't call you until I <b>arrive</b>.</i> ❌ <s>until I will arrive</s></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Shall – Đề nghị & Gợi ý</div>• <b>Shall I</b> = đề nghị làm gì cho ai:<br><i><b>Shall</b> I <b>organise</b> the meeting?</i><br>• <b>Shall we</b> = gợi ý:<br><i><b>Shall</b> we <b>eat</b> out today?</i></div><div class=\"ex-sent\">He looks very pale. He'<b>s going to faint</b>!<span>Be going to: dự đoán có bằng chứng nhìn thấy</span></div><div class=\"ex-sent\">By the time she retires, she <b>will have been teaching</b> for 40 years.<span>Future Perfect Continuous: thời gian đến mốc tương lai</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "'There's no milk left.' 'Don't worry, I ___ some from the shop.'",
+          "opts": "'ll get,am getting,am going to get,get",
+          "ans": "A",
+          "exp": "Will: quyết định tức thời ngay lúc nói"
+        },
+        {
+          "type": "mc",
+          "q": "Look at those clouds! It ___ rain very soon.",
+          "opts": "is going to,will,is,shall",
+          "ans": "A",
+          "exp": "Be going to: dự đoán có bằng chứng nhìn thấy ngay lúc đó"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ Maria for dinner tomorrow evening. We've booked a table.",
+          "opts": "am meeting,will meet,am going to meet,meet",
+          "ans": "A",
+          "exp": "Present Continuous: kế hoạch đã sắp xếp sẵn (đã đặt bàn)"
+        },
+        {
+          "type": "mc",
+          "q": "The conference ___ at 9 o'clock sharp according to the programme.",
+          "opts": "starts,is starting,will start,is going to start",
+          "ans": "A",
+          "exp": "Present Simple: sự kiện theo lịch trình/thời gian biểu cố định"
+        },
+        {
+          "type": "mc",
+          "q": "By the end of this year, I ___ here for exactly a decade.",
+          "opts": "will have worked,will be working,am working,will work",
+          "ans": "A",
+          "exp": "Future Perfect Simple: hoàn tất trước mốc tương lai cụ thể"
+        },
+        {
+          "type": "mc",
+          "q": "This time next Monday, we ___ on the beach in Bali.",
+          "opts": "will be lying,will lie,are lying,lie",
+          "ans": "A",
+          "exp": "Future Continuous: hành động đang diễn ra tại thời điểm tương lai"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ call you as soon as I ___ at the airport.",
+          "opts": "will / arrive,will / will arrive,am going to / arrive,am going to / will arrive",
+          "ans": "A",
+          "exp": "Future time clause: as soon as + Present Simple (không dùng will)"
+        },
+        {
+          "type": "mc",
+          "q": "___ I help you with your luggage?",
+          "opts": "Shall,Will,Am I going to,Do",
+          "ans": "A",
+          "exp": "Shall I: đề nghị giúp đỡ (offer)"
+        },
+        {
+          "type": "mc",
+          "q": "I think he ___ a great leader. He has all the right qualities.",
+          "opts": "will make,is going to make,is making,makes",
+          "ans": "A",
+          "exp": "Will: dự đoán dựa trên quan điểm cá nhân"
+        },
+        {
+          "type": "mc",
+          "q": "I've decided — I ___ apply for that job next week.",
+          "opts": "am going to,will,am,shall",
+          "ans": "A",
+          "exp": "Be going to: quyết định/ý định đã suy nghĩ từ trước"
+        },
+        {
+          "type": "mc",
+          "q": "By the time the guests arrive, we ___ preparing dinner for three hours.",
+          "opts": "will have been,will be,are going to be,will have",
+          "ans": "A",
+          "exp": "Future Perfect Continuous: thời gian kéo dài đến mốc tương lai"
+        },
+        {
+          "type": "mc",
+          "q": "I won't leave until you ___ me the truth.",
+          "opts": "tell,will tell,are going to tell,are telling",
+          "ans": "A",
+          "exp": "Future time clause: until + Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "'Can someone answer the phone?' 'I ___ get it.'",
+          "opts": "'ll,am going to,'m,'m about to",
+          "ans": "A",
+          "exp": "Will: quyết định tức thời khi nghe yêu cầu"
+        },
+        {
+          "type": "mc",
+          "q": "He's been studying medicine for six years. By next June, he ___ and will be a fully qualified doctor.",
+          "opts": "will have graduated,will graduate,is going to graduate,graduates",
+          "ans": "A",
+          "exp": "Future Perfect Simple: hoàn tất trước thời điểm tương lai"
+        },
+        {
+          "type": "mc",
+          "q": "Will you ___ in the office tomorrow? I need to talk to you.",
+          "opts": "be working,work,have worked,have been working",
+          "ans": "A",
+          "exp": "Future Continuous: hỏi lịch sự về kế hoạch/tình trạng tương lai"
+        },
+        {
+          "type": "mc",
+          "q": "___ we take a break? We've been working for three hours.",
+          "opts": "Shall,Will,Are,Do",
+          "ans": "A",
+          "exp": "Shall we: gợi ý cùng làm gì đó"
+        },
+        {
+          "type": "mc",
+          "q": "She looks exhausted. She ___ collapse if she doesn't rest soon.",
+          "opts": "is going to,will,is,shall",
+          "ans": "A",
+          "exp": "Be going to: dự đoán có bằng chứng hiện tại rõ ràng"
+        },
+        {
+          "type": "mc",
+          "q": "I promise I ___ forget your birthday again.",
+          "opts": "won't,am not going to,don't,am not",
+          "ans": "A",
+          "exp": "Will (won't): lời hứa/cam kết"
+        },
+        {
+          "type": "mc",
+          "q": "The flight to Tokyo ___ at 6:15 in the morning.",
+          "opts": "departs,is departing,will depart,is going to depart",
+          "ans": "A",
+          "exp": "Present Simple: thông tin lịch trình cố định"
+        },
+        {
+          "type": "mc",
+          "q": "By next Christmas, they ___ together for twenty-five years.",
+          "opts": "will have been,will be,are going to be,have been",
+          "ans": "A",
+          "exp": "Future Perfect Simple: trạng thái kéo dài hoàn tất đến mốc tương lai"
+        },
+        {
+          "type": "fill",
+          "q": "Look at that child on the bike — he ___ (fall)! He's going too fast.",
+          "ans": "is going to fall",
+          "exp": "Be going to: dự đoán có bằng chứng hiện tại"
+        },
+        {
+          "type": "fill",
+          "q": "'The printer is broken.' 'Don't worry, I ___ (look) at it.'",
+          "ans": "will look",
+          "exp": "Will: quyết định tức thời"
+        },
+        {
+          "type": "fill",
+          "q": "By the time you read this letter, I ___ (leave) the country.",
+          "ans": "will have left",
+          "exp": "Future Perfect: hoàn tất trước mốc tương lai"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (fly) to Singapore on Tuesday — she's already bought her ticket.",
+          "ans": "is flying",
+          "exp": "Present Continuous: kế hoạch đã được sắp xếp cụ thể"
+        },
+        {
+          "type": "fill",
+          "q": "In June, they ___ (build) the new bridge for two years.",
+          "ans": "will have been building",
+          "exp": "Future Perfect Continuous: khoảng thời gian liên tục đến mốc tương lai"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (not/lend) him money again. He never pays it back.",
+          "ans": "won't lend",
+          "exp": "Will (negative): quyết định dứt khoát/từ chối"
+        },
+        {
+          "type": "fill",
+          "q": "The museum ___ (close) at 5 p.m. every day.",
+          "ans": "closes",
+          "exp": "Present Simple: thời gian biểu/lịch trình cố định"
+        },
+        {
+          "type": "fill",
+          "q": "This time tomorrow, I ___ (sit) in the waiting room before my surgery.",
+          "ans": "will be sitting",
+          "exp": "Future Continuous: hành động đang diễn ra tại thời điểm cụ thể trong tương lai"
+        },
+        {
+          "type": "fill",
+          "q": "I have decided — I ___ (start) learning Japanese next month.",
+          "ans": "am going to start",
+          "exp": "Be going to: ý định/quyết định đã suy nghĩ trước"
+        },
+        {
+          "type": "fill",
+          "q": "___ (Shall/I/help) you carry those boxes?",
+          "ans": "Shall I help",
+          "exp": "Shall I: đề nghị giúp đỡ (offer)"
+        },
+        {
+          "type": "fill",
+          "q": "I won't call her before she ___ (wake) up.",
+          "ans": "wakes",
+          "exp": "Future time clause: before + Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "By next year, our company ___ (operate) in twelve countries.",
+          "ans": "will have been operating / will be operating",
+          "exp": "Future Perfect Continuous hoặc Future Continuous"
+        },
+        {
+          "type": "fill",
+          "q": "___ (Shall/we/order) a pizza? I don't feel like cooking tonight.",
+          "ans": "Shall we order",
+          "exp": "Shall we: gợi ý cùng nhau làm gì"
+        },
+        {
+          "type": "fill",
+          "q": "As soon as the results come out, I ___ (let) you know.",
+          "ans": "will let",
+          "exp": "Main clause = will; time clause (as soon as) + Present Simple"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (have) a baby in March — she had her scan yesterday.",
+          "ans": "is going to have",
+          "exp": "Be going to: dự đoán có bằng chứng cụ thể"
+        },
+        {
+          "type": "fill",
+          "q": "By the time the guests arrive, we ___ (cook) for three hours already.",
+          "ans": "will have been cooking",
+          "exp": "Future Perfect Continuous: thời gian kéo dài tính đến một mốc tương lai"
+        },
+        {
+          "type": "fill",
+          "q": "If you need anything, just call — I ___ (be) in the office all afternoon.",
+          "ans": "will be / am going to be",
+          "exp": "Will / Going to: tình huống sẽ diễn ra trong tương lai"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (announce) the winner at tonight's ceremony — it's on the programme.",
+          "ans": "are announcing / will announce",
+          "exp": "Present Continuous (arrangement) / Will (fact): sự kiện chính thức đã được lên lịch"
+        },
+        {
+          "type": "fill",
+          "q": "Look at those dark clouds! It ___ (rain) very soon.",
+          "ans": "is going to rain",
+          "exp": "Be going to: dự đoán dựa trên bằng chứng cụ thể trước mắt"
+        },
+        {
+          "type": "fill",
+          "q": "By the end of this decade, renewable energy ___ (overtake) fossil fuels as the main power source.",
+          "ans": "will have overtaken",
+          "exp": "Future Perfect: hành động sẽ hoàn tất trước một mốc thời gian tương lai"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "look at those clouds it is going to rain heavily",
+            "extra": [
+              "going",
+              "rain",
+              "heavily"
+            ]
+          },
+          {
+            "words": "by next June she will have been teaching for twenty years",
+            "extra": [
+              "been",
+              "teaching",
+              "twenty"
+            ]
+          },
+          {
+            "words": "I will not leave until you tell me the truth",
+            "extra": [
+              "leave",
+              "tell",
+              "truth"
+            ]
+          },
+          {
+            "words": "this time next week we will be lying on the beach",
+            "extra": [
+              "time",
+              "lying",
+              "beach"
+            ]
+          },
+          {
+            "words": "shall we go for a walk after dinner tonight",
+            "extra": [
+              "shall",
+              "walk",
+              "dinner"
+            ]
+          },
+          {
+            "words": "I have decided I am going to apply for that position",
+            "extra": [
+              "decided",
+              "going",
+              "position"
+            ]
+          },
+          {
+            "words": "the train leaves at seven thirty every morning",
+            "extra": [
+              "leaves",
+              "seven",
+              "morning"
+            ]
+          },
+          {
+            "words": "I will call you as soon as I arrive at the hotel",
+            "extra": [
+              "call",
+              "soon",
+              "arrive"
+            ]
+          },
+          {
+            "words": "by the time she finishes she will have worked here for a decade",
+            "extra": [
+              "finishes",
+              "worked",
+              "decade"
+            ]
+          },
+          {
+            "words": "will you be using the car tomorrow I need a lift",
+            "extra": [
+              "using",
+              "tomorrow",
+              "lift"
+            ]
+          },
+          {
+            "words": "he looks pale he is going to faint any moment now",
+            "extra": [
+              "looks",
+              "going",
+              "moment"
+            ]
+          },
+          {
+            "words": "shall I organise the meeting room for Thursday",
+            "extra": [
+              "shall",
+              "organise",
+              "Thursday"
+            ]
+          },
+          {
+            "words": "they are getting married in June they booked the venue last year",
+            "extra": [
+              "married",
+              "booked",
+              "venue"
+            ]
+          },
+          {
+            "words": "by the end of the day I will have sent over fifty emails",
+            "extra": [
+              "end",
+              "sent",
+              "emails"
+            ]
+          },
+          {
+            "words": "I won't call you until I have the results",
+            "extra": [
+              "call",
+              "until",
+              "results"
+            ]
+          },
+          {
+            "words": "I think technology will change our lives dramatically in the next decade",
+            "extra": [
+              "think",
+              "change",
+              "dramatically"
+            ]
+          },
+          {
+            "words": "she is flying to Paris on Monday she has already packed her bags",
+            "extra": [
+              "flying",
+              "Monday",
+              "packed"
+            ]
+          },
+          {
+            "words": "in two years we will have been living here for a decade",
+            "extra": [
+              "years",
+              "living",
+              "decade"
+            ]
+          },
+          {
+            "words": "the shop closes at nine so we need to hurry",
+            "extra": [
+              "closes",
+              "nine",
+              "hurry"
+            ]
+          },
+          {
+            "words": "she will not lend him money because he never pays it back",
+            "extra": [
+              "lend",
+              "money",
+              "pays"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Sarah {{1}} her boss tomorrow morning to discuss a new project. She {{2}} the meeting last week and {{3}} already prepared all the necessary documents. She {{4}} to ask for a promotion — she {{5}} this decision for a long time. By the end of the year, she {{6}} at the company for five years. She thinks the meeting {{7}} well because she {{8}} an excellent track record. If she {{9}} the promotion, she {{10}} celebrate with her family. This time next month, she {{11}} the new team and {{12}} significant changes to the workflow. By the time her new contract {{13}}, she {{14}} hard to prove herself for several months. She knows that as soon as she {{15}} formal confirmation, she {{16}} everyone the good news.",
+            "blanks": {
+              "1": "is meeting",
+              "2": "arranged",
+              "3": "has",
+              "4": "is going to",
+              "5": "has been considering",
+              "6": "will have been working",
+              "7": "will go",
+              "8": "has",
+              "9": "gets",
+              "10": "will",
+              "11": "will be leading",
+              "12": "making",
+              "13": "begins",
+              "14": "will have been working",
+              "15": "receives",
+              "16": "will tell"
+            },
+            "wordbank": [
+              "meet",
+              "arrange",
+              "have",
+              "ask",
+              "consider",
+              "work",
+              "go",
+              "lead",
+              "make",
+              "begin",
+              "receive",
+              "tell",
+              "get",
+              "celebrate",
+              "prove"
+            ]
+          },
+          {
+            "text": "The city council {{1}} a major announcement next Monday about the new transport system. The project, which {{2}} in progress for three years, {{3}} the way citizens move around the city. By the time the new metro line {{4}}, engineers {{5}} on it for over four years. Local residents {{6}} their first glimpse of the new stations next spring. The mayor says she {{7}} the official ribbon-cutting ceremony personally. Many believe the system {{8}} a huge positive impact on air quality. By 2030, the city {{9}} to reduce traffic by forty percent. As soon as the construction {{10}}, the council {{11}} a public open day. Workers {{12}} on the final section next weekend, so some road closures {{13}} necessary. The mayor {{14}} a statement before the announcement goes public.",
+            "blanks": {
+              "1": "is making",
+              "2": "has been",
+              "3": "will transform",
+              "4": "opens",
+              "5": "will have been working",
+              "6": "will be getting",
+              "7": "will attend",
+              "8": "will have",
+              "9": "aims",
+              "10": "finishes",
+              "11": "will organise",
+              "12": "will be working",
+              "13": "will be",
+              "14": "will issue"
+            },
+            "wordbank": [
+              "make",
+              "be",
+              "transform",
+              "open",
+              "work",
+              "get",
+              "attend",
+              "have",
+              "aim",
+              "finish",
+              "organise",
+              "issue",
+              "close",
+              "reduce",
+              "build"
+            ]
+          },
+          {
+            "text": "Tom {{1}} a very busy week ahead. On Monday, he {{2}} his team about the new strategy — the meeting {{3}} at nine sharp. On Tuesday, he {{4}} to the client conference in the city. He {{5}} already {{6}} his presentation and {{7}} confident it {{8}} well. By Friday, he {{9}} over thirty meetings in one week. This time next Saturday, he {{10}} somewhere peaceful — he {{11}} a cottage by the lake and he cannot wait. By the time he {{12}} on holiday, he {{13}} for three months without a break. He thinks he {{14}} enjoy the rest, and he {{15}} immediately when he arrives.",
+            "blanks": {
+              "1": "has",
+              "2": "will be briefing",
+              "3": "starts",
+              "4": "is travelling",
+              "5": "has",
+              "6": "finished",
+              "7": "feels",
+              "8": "will go",
+              "9": "will have had",
+              "10": "will be sitting",
+              "11": "has rented",
+              "12": "goes",
+              "13": "will have been working",
+              "14": "will",
+              "15": "will switch off"
+            },
+            "wordbank": [
+              "have",
+              "brief",
+              "start",
+              "travel",
+              "finish",
+              "feel",
+              "go",
+              "sit",
+              "rent",
+              "work",
+              "enjoy",
+              "switch",
+              "plan",
+              "prepare",
+              "arrive"
+            ]
+          },
+          {
+            "text": "Emma has a packed schedule next week. On Monday, she {{1}} an important client from overseas — the meeting {{2}} at ten in the morning. She {{3}} the agenda for weeks and {{4}} everything is in order. By Tuesday evening, she {{5}} the first phase of the project, which {{6}} her team for three months. On Wednesday, she {{7}} a flight to Berlin for an international summit. She {{8}} there before — it {{9}} her first time visiting the city. The summit {{10}} two days, and by the time it {{11}}, she {{12}} with experts from over twenty countries. Her assistant reminded her that she {{13}} her hotel by Friday and that her report {{14}} to management no later than Sunday. Emma knows it {{15}} a challenging week, but she is confident everything will go smoothly.",
+            "blanks": {
+              "1": "is meeting",
+              "2": "starts",
+              "3": "has been preparing",
+              "4": "wants to make sure",
+              "5": "will have completed",
+              "6": "has occupied",
+              "7": "is catching",
+              "8": "has never been",
+              "9": "will be",
+              "10": "will last",
+              "11": "ends",
+              "12": "will have spoken",
+              "13": "must check out of",
+              "14": "is to be submitted",
+              "15": "is going to be"
+            },
+            "wordbank": [
+              "meet",
+              "start",
+              "prepare",
+              "complete",
+              "occupy",
+              "catch",
+              "be",
+              "last",
+              "end",
+              "speak",
+              "check",
+              "submit",
+              "want",
+              "have",
+              "go"
+            ]
+          },
+          {
+            "text": "The construction of the new city library {{1}} next spring, according to the mayor's announcement. By that time, architects {{2}} on the design for over four years. The building {{3}} five floors and {{4}} space for more than half a million books. Officials say the project {{5}} the cultural life of the district. By the end of the decade, the library {{6}} over two million visitors. The project team {{7}} a formal press conference next Thursday, where they {{8}} the detailed timeline. They {{9}} questions from journalists for two hours that afternoon. The main contractor confirmed that workers {{10}} the foundation by the end of this month. The council also announced that a temporary reading space {{11}} until construction {{12}}. Community groups, who {{13}} for years for a larger facility, {{14}} the news warmly. Officials stressed that the library {{15}} free to all residents.",
+            "blanks": {
+              "1": "will open",
+              "2": "will have been working",
+              "3": "will have",
+              "4": "will provide",
+              "5": "is going to transform",
+              "6": "will have welcomed",
+              "7": "is holding",
+              "8": "will present",
+              "9": "will be answering",
+              "10": "will have finished",
+              "11": "will remain open",
+              "12": "is complete",
+              "13": "have been campaigning",
+              "14": "welcomed",
+              "15": "will be"
+            },
+            "wordbank": [
+              "open",
+              "work",
+              "have",
+              "provide",
+              "transform",
+              "welcome",
+              "hold",
+              "present",
+              "answer",
+              "finish",
+              "remain",
+              "complete",
+              "campaign",
+              "welcome",
+              "be"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Mô tả kế hoạch cho một sự kiện lớn trong tương lai (đám cưới, chuyến đi, buổi ra mắt sản phẩm), sử dụng nhiều dạng thì tương lai khác nhau.",
+          "grammar_focus": "Mixed future forms: will, be going to, Present Continuous, Future Continuous, Future Perfect",
+          "hint_words": [
+            "we are getting married",
+            "we have already booked",
+            "by that time we will have",
+            "I am going to",
+            "this time next month we will be",
+            "the ceremony starts at",
+            "I think it will be",
+            "as soon as"
+          ],
+          "min_words": 60,
+          "example": "We are getting married in September and we have already booked the venue and the caterer. I am going to choose my dress next weekend — I've been looking at designs for months. I think the ceremony will be beautiful because we've planned every detail carefully. This time next year, we will be celebrating our first anniversary. By the time the reception starts, most of our guests will have been travelling for several hours, so we want to make sure there's plenty of food and entertainment. As soon as the ceremony finishes, the photographer will take pictures in the garden."
+        },
+        {
+          "vi": "Viết về kỳ vọng và mục tiêu của bạn trong 5 năm tới, kết hợp dự đoán, ý định và các mốc thời gian.",
+          "grammar_focus": "Will (predictions), be going to (intentions), Future Perfect, Future Continuous",
+          "hint_words": [
+            "by the time I am",
+            "I will have finished",
+            "I am going to apply",
+            "I think I will",
+            "will have been working",
+            "this time next year I will be",
+            "once I have",
+            "I shall not give up"
+          ],
+          "min_words": 55,
+          "example": "By the time I am thirty, I will have completed my postgraduate degree and hopefully launched my own business. I am going to apply for a scholarship next month — I've been preparing the application for weeks. I think the field of renewable energy will grow enormously in the next decade, which is why I want to specialise in that area. This time next year, I will probably be living in a different city. Once I have enough experience, I will set up my own consultancy. By then, I will have been working in the industry for at least three years."
+        },
+        {
+          "vi": "Bạn là một nhà báo. Viết một bản tin ngắn về các sự kiện sắp xảy ra trong tuần tới, dùng nhiều dạng tương lai.",
+          "grammar_focus": "Future forms in formal/news contexts: will, Present Simple (schedules), Future Continuous",
+          "hint_words": [
+            "the summit begins on",
+            "leaders will be discussing",
+            "the president is expected to",
+            "by the end of the week",
+            "the talks will last",
+            "delegates are meeting",
+            "a statement will be issued",
+            "will have concluded"
+          ],
+          "min_words": 55,
+          "example": "The international climate summit begins on Monday in Geneva, where delegates from over 150 countries are meeting to discuss carbon reduction targets. World leaders will be arriving throughout the day on Sunday. The talks are expected to last five days, and by Friday, negotiators will have reviewed proposals from every major economy. The president is going to deliver the opening address at 10 a.m. sharp. Many observers think an agreement will be reached, but some analysts believe the most difficult negotiations will only begin on day three, when specific targets come under discussion."
+        },
+        {
+          "vi": "Viết một đoạn hội thoại giữa hai người bạn đang lên kế hoạch cho một buổi tối ra ngoài, dùng đề nghị, gợi ý, và các hình thức tương lai.",
+          "grammar_focus": "Will (instant decisions, offers), Shall (suggestions), Present Continuous (arrangements), Be going to",
+          "hint_words": [
+            "shall we",
+            "I'll book",
+            "are you coming",
+            "I'm going to",
+            "will you be able to",
+            "I won't be",
+            "let's",
+            "what time does it start"
+          ],
+          "min_words": 55,
+          "example": "Shall we go out for dinner on Friday? I know a great new Italian place that opened last month. — Sounds good! What time does it close? — I think it stays open until midnight, but I'll check their website. Shall I book a table for seven o'clock? — Yes, please do. I'm going to finish work early that day, so I'll meet you outside the office at half six. Will you be bringing anyone else? — No, it's just the two of us. Oh, and I won't be drinking tonight — I'm driving. I'll order sparkling water."
+        },
+        {
+          "vi": "Viết về một thành phố trong tương lai — dự đoán cách mà công nghệ, giao thông và môi trường sẽ thay đổi.",
+          "grammar_focus": "Will (predictions), Future Perfect, Future Continuous, Be going to",
+          "hint_words": [
+            "by 2050",
+            "will have replaced",
+            "are going to redesign",
+            "will be using",
+            "it is likely that",
+            "self-driving cars will",
+            "will have been",
+            "cities will become"
+          ],
+          "min_words": 60,
+          "example": "By 2050, self-driving cars will have replaced most traditional vehicles in major cities. Governments are already going to invest billions in redesigning road infrastructure. Citizens will be using a combination of electric buses and high-speed rail for most of their daily journeys. It is likely that many office buildings will have been converted into green spaces or residential housing as remote work continues to grow. By that time, solar energy will have become the dominant power source, and cities will be generating more electricity than they consume. Pollution levels will have dropped dramatically, and urban populations will be living longer, healthier lives."
+        }
+      ]
+    },
+    {
+      "icon": "⏳",
+      "title": "Other Ways to Express Future",
+      "level": "upper",
+      "badge": "📙 B2",
+      "badgeClass": "badge-amber",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Be about to + infinitive – Sắp xảy ra ngay</div>Dùng để nói điều gì đó sẽ xảy ra <b>trong tương lai rất gần</b>:<br><br>• <i>Some apps <b>are about to disappear</b> from the market.</i><br>• <i>Scientists say they <b>are about to find</b> a vaccine.</i><br>• <i>Hurry up! The film <b>is about to start</b>.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Be on the brink/verge/point of + -ing – Sắp xảy ra (sắp đến mức nguy kịch/quan trọng)</div>• <i>Our economy is <b>on the brink of collapse</b>.</i><br>• <i>They are <b>on the verge of becoming</b> world champions.</i><br>• <i>The two enemies <b>are on the point of reaching</b> an agreement.</i><br><br>💡 Thường dùng cho sự kiện quan trọng, trọng đại, hoặc nguy hiểm.</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Be due to + infinitive – Dự kiến/Theo lịch</div>Dùng cho sự kiện <b>được lên kế hoạch hoặc dự kiến</b> xảy ra:<br><br>• <i>Greece <b>is due to repay</b> the loan next semester.</i><br>• <i>The secretary <b>is due to arrive</b> in Montreal tomorrow morning.</i><br>• <i>The train <b>is due to depart</b> at 14:30.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Be to + infinitive – Trang trọng & Chỉ thị</div><b>Tin tức/Sự kiện chính thức:</b><br>• <i>Prince William <b>is to visit</b> Paris next week.</i> (=It is expected)<br>• <i>Nine care homes <b>are to close</b> by March.</i><br><br><b>Chỉ thị/Lệnh chính thức (formal instructions):</b><br>• <i>All employees <b>are to attend</b> the orientation.</i><br>• <i>You <b>are not to leave</b> this room.</i> (prohibition)<br><br><b>Trong mệnh đề if (điều kiện):</b><br>• <i>If we <b>are to avoid</b> repeating mistakes, we must act now.</i><br>• <i>If he <b>is to succeed</b>, he must work harder.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Be bound to + infinitive – Chắc chắn sẽ xảy ra</div>Dùng khi điều gì đó <b>gần như chắc chắn</b> sẽ xảy ra:<br><br>• <i>They <b>are bound to like</b> him. He's so charming.</i><br>• <i>His new film <b>is bound to win</b> the hearts of audiences.</i><br>• <i>If you don't study, you <b>are bound to fail</b>.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Be likely/unlikely to + infinitive – Có/Không có khả năng</div><b>Be likely to</b>: dự đoán có thể xảy ra:<br>• <i>The government <b>is likely to pass</b> new regulations soon.</i><br>• <i><b>It's likely that</b> the company will pay damages.</i><br><br><b>Be unlikely to</b>: ít có khả năng xảy ra:<br>• <i>He <b>is unlikely to win</b> this match.</i><br>• <i><b>It's unlikely that</b> the weather will change.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ So sánh nhanh</div>• <b>Be about to</b> = ngay bây giờ, rất sắp<br>• <b>Be due to</b> = theo lịch, dự kiến<br>• <b>Be to</b> = tin tức chính thức / chỉ thị<br>• <b>Be bound to</b> = chắc chắn xảy ra<br>• <b>Be likely to</b> = có khả năng xảy ra<br>• <b>On the verge/brink/point of</b> = sắp đến mức (thường quan trọng/nghiêm trọng)</div><div class=\"ex-sent\">The company <b>is on the verge of announcing</b> a major merger.<span>On the verge of: sắp xảy ra sự kiện quan trọng</span></div><div class=\"ex-sent\">The prime minister <b>is to visit</b> the disaster zone tomorrow.<span>Be to: tin tức chính thức, ngôi 3</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "Hurry up! The train ___ leave. The doors are closing!",
+          "opts": "is about to,is due to,is bound to,is to",
+          "ans": "A",
+          "exp": "Be about to: sắp xảy ra ngay lập tức (bằng chứng trực tiếp)"
+        },
+        {
+          "type": "mc",
+          "q": "The prime minister ___ visit the affected regions next Tuesday.",
+          "opts": "is to,is about to,is bound to,is on the verge of",
+          "ans": "A",
+          "exp": "Be to: tin tức/sự kiện chính thức (formal news report)"
+        },
+        {
+          "type": "mc",
+          "q": "The president ___ arrive at the summit at 10 a.m. according to the official schedule.",
+          "opts": "is due to,is about to,is to,is bound to",
+          "ans": "A",
+          "exp": "Be due to: sự kiện theo lịch trình/dự kiến"
+        },
+        {
+          "type": "mc",
+          "q": "If you keep working this hard, you ___ succeed in your career.",
+          "opts": "are bound to,are about to,are due to,are to",
+          "ans": "A",
+          "exp": "Be bound to: chắc chắn xảy ra"
+        },
+        {
+          "type": "mc",
+          "q": "The country's economy is ___ a serious recession according to analysts.",
+          "opts": "on the verge of,about to,bound to,due to",
+          "ans": "A",
+          "exp": "On the verge of + -ing/-noun: sắp rơi vào tình trạng nghiêm trọng"
+        },
+        {
+          "type": "mc",
+          "q": "You ___ leave the exam room until all papers have been collected.",
+          "opts": "are not to,are not about to,are not due to,are not bound to",
+          "ans": "A",
+          "exp": "Be not to: cấm đoán chính thức (prohibition)"
+        },
+        {
+          "type": "mc",
+          "q": "The new tax reform ___ affect millions of families, according to economists.",
+          "opts": "is likely to,is about to,is bound to,is due to",
+          "ans": "A",
+          "exp": "Be likely to: dự đoán có thể xảy ra"
+        },
+        {
+          "type": "mc",
+          "q": "She was shaking and clearly ___ burst into tears at any moment.",
+          "opts": "about to,due to,bound to,to",
+          "ans": "A",
+          "exp": "About to: sắp xảy ra ngay (cảm xúc sắp bùng phát)"
+        },
+        {
+          "type": "mc",
+          "q": "The two rival nations are ___ signing a historic peace agreement.",
+          "opts": "on the point of,about to,due to,bound to",
+          "ans": "A",
+          "exp": "On the point of + -ing: sắp xảy ra (thường với sự kiện quan trọng)"
+        },
+        {
+          "type": "mc",
+          "q": "All staff ___ complete the online training before Friday.",
+          "opts": "are to,are about to,are likely to,are due to",
+          "ans": "A",
+          "exp": "Be to: chỉ thị/hướng dẫn chính thức"
+        },
+        {
+          "type": "mc",
+          "q": "He's been practising every day for months — he ___ win the championship.",
+          "opts": "is bound to,is about to,is due to,is to",
+          "ans": "A",
+          "exp": "Be bound to: chắc chắn xảy ra dựa trên bằng chứng rõ ràng"
+        },
+        {
+          "type": "mc",
+          "q": "The new regulations ___ come into effect on January 1st.",
+          "opts": "are due to,are about to,are bound to,are to",
+          "ans": "A",
+          "exp": "Be due to: ngày tháng cụ thể đã lên kế hoạch"
+        },
+        {
+          "type": "mc",
+          "q": "The politician's speech ___ cause controversy, given what she plans to say.",
+          "opts": "is likely to,is about to,is due to,is to",
+          "ans": "A",
+          "exp": "Be likely to: dự đoán có khả năng xảy ra"
+        },
+        {
+          "type": "mc",
+          "q": "If we ___ protect the environment, everyone must take responsibility.",
+          "opts": "are to,are about to,are likely to,are bound to",
+          "ans": "A",
+          "exp": "Be to trong if-clause: điều cần làm để đạt kết quả mong muốn"
+        },
+        {
+          "type": "mc",
+          "q": "The company ___ collapsing after losing its biggest client.",
+          "opts": "is on the brink of,is about to,is due to,is bound to",
+          "ans": "A",
+          "exp": "On the brink of + -ing/-noun: sắp sụp đổ (tình huống nghiêm trọng)"
+        },
+        {
+          "type": "mc",
+          "q": "Given her talent, she ___ become one of the greatest athletes of her generation.",
+          "opts": "is bound to,is likely to,is about to,is due to",
+          "ans": "A",
+          "exp": "Be bound to: chắc chắn (dựa trên tài năng rõ ràng)"
+        },
+        {
+          "type": "mc",
+          "q": "The vaccine ___ be approved by the health authority later this month.",
+          "opts": "is due to,is about to,is bound to,is on the verge of",
+          "ans": "A",
+          "exp": "Be due to: theo lịch trình/dự kiến phê duyệt"
+        },
+        {
+          "type": "mc",
+          "q": "The two teams are ___ starting. The referee is walking onto the field.",
+          "opts": "about to,due to,bound to,to",
+          "ans": "A",
+          "exp": "About to: sắp xảy ra ngay (trọng tài đang bước ra = bằng chứng trực tiếp)"
+        },
+        {
+          "type": "mc",
+          "q": "It ___ that negotiations will break down again unless both sides compromise.",
+          "opts": "is unlikely,is due,is bound,is about",
+          "ans": "A",
+          "exp": "It is unlikely that: ít có khả năng xảy ra"
+        },
+        {
+          "type": "mc",
+          "q": "The historic bridge ___ be demolished next spring to make way for the new development.",
+          "opts": "is to,is about to,is likely to,is on the verge of",
+          "ans": "A",
+          "exp": "Be to: tin tức chính thức / sự kiện đã lên kế hoạch trang trọng"
+        },
+        {
+          "type": "fill",
+          "q": "Look at him — he ___ (about/faint). Someone get a chair!",
+          "ans": "is about to faint",
+          "exp": "Be about to: sắp xảy ra ngay (nhìn thấy bằng chứng)"
+        },
+        {
+          "type": "fill",
+          "q": "The new hospital ___ (due/open) next March.",
+          "ans": "is due to open",
+          "exp": "Be due to: theo kế hoạch/lịch chính thức"
+        },
+        {
+          "type": "fill",
+          "q": "Passengers ___ (not/to) consume alcohol on board this flight.",
+          "ans": "are not to",
+          "exp": "Be not to: cấm đoán chính thức"
+        },
+        {
+          "type": "fill",
+          "q": "With that kind of talent, she ___ (bound/succeed) in the music industry.",
+          "ans": "is bound to succeed",
+          "exp": "Be bound to: chắc chắn sẽ thành công"
+        },
+        {
+          "type": "fill",
+          "q": "The film industry ___ (on the verge/transform) due to artificial intelligence.",
+          "ans": "is on the verge of transforming",
+          "exp": "On the verge of + V-ing: sắp xảy ra sự thay đổi lớn"
+        },
+        {
+          "type": "fill",
+          "q": "The scientist ___ (likely/discover) a significant breakthrough this year.",
+          "ans": "is likely to discover",
+          "exp": "Be likely to: dự đoán có khả năng"
+        },
+        {
+          "type": "fill",
+          "q": "If the company ___ (to/survive), it must cut costs immediately.",
+          "ans": "is to survive",
+          "exp": "Be to trong if-clause: điều kiện để đạt kết quả"
+        },
+        {
+          "type": "fill",
+          "q": "They were ___ (on the point/sign) the contract when the deal fell through.",
+          "ans": "on the point of signing",
+          "exp": "On the point of + V-ing: sắp làm thì sự việc xảy ra"
+        },
+        {
+          "type": "fill",
+          "q": "The prime minister ___ (to/address) the nation at 8 p.m. tonight.",
+          "ans": "is to address",
+          "exp": "Be to: thông báo chính thức"
+        },
+        {
+          "type": "fill",
+          "q": "The peace talks ___ (due/resume) following last week's ceasefire agreement.",
+          "ans": "are due to resume",
+          "exp": "Be due to: dự kiến nối lại theo thỏa thuận"
+        },
+        {
+          "type": "fill",
+          "q": "This documentary ___ (bound/change) the way people think about climate change.",
+          "ans": "is bound to change",
+          "exp": "Be bound to: chắc chắn tạo ra tác động"
+        },
+        {
+          "type": "fill",
+          "q": "She was ___ (on the brink/give up) when she received the unexpected phone call.",
+          "ans": "on the brink of giving up",
+          "exp": "On the brink of + V-ing: sắp từ bỏ thì có điều thay đổi"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (unlikely/pass) the exam unless he studies much harder.",
+          "ans": "is unlikely to pass",
+          "exp": "Be unlikely to: ít có khả năng xảy ra"
+        },
+        {
+          "type": "fill",
+          "q": "All guests ___ (to/register) at the front desk upon arrival.",
+          "ans": "are to register",
+          "exp": "Be to: hướng dẫn/quy định chính thức"
+        },
+        {
+          "type": "fill",
+          "q": "The volcano ___ (about/erupt) — scientists detected tremors this morning.",
+          "ans": "is about to erupt",
+          "exp": "Be about to: sắp xảy ra dựa trên bằng chứng khoa học"
+        },
+        {
+          "type": "fill",
+          "q": "The committee ___ (about/announce) its final decision — journalists are gathered outside.",
+          "ans": "is about to announce",
+          "exp": "Be about to: hành động sắp xảy ra ngay lập tức"
+        },
+        {
+          "type": "fill",
+          "q": "With his skills and experience, he ___ (bound/impress) the interview panel.",
+          "ans": "is bound to impress",
+          "exp": "Be bound to: điều gần như chắc chắn sẽ xảy ra"
+        },
+        {
+          "type": "fill",
+          "q": "All employees ___ (to/submit) their expense reports by the end of the month.",
+          "ans": "are to submit",
+          "exp": "Be to + infinitive: mệnh lệnh/quy định chính thức"
+        },
+        {
+          "type": "fill",
+          "q": "The endangered species ___ (on the brink/disappear) unless urgent action is taken.",
+          "ans": "is on the brink of disappearing",
+          "exp": "On the brink of + -ing: sắp xảy ra điều tiêu cực"
+        },
+        {
+          "type": "fill",
+          "q": "The new regulations ___ (due/come into) effect on the first of January.",
+          "ans": "are due to come into",
+          "exp": "Be due to: sự kiện được lên lịch/dự kiến chính thức"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "the train is about to leave please board immediately",
+            "extra": [
+              "about",
+              "leave",
+              "board"
+            ]
+          },
+          {
+            "words": "the president is to address the nation tonight at eight",
+            "extra": [
+              "address",
+              "nation",
+              "tonight"
+            ]
+          },
+          {
+            "words": "the company is on the verge of collapsing without new investment",
+            "extra": [
+              "verge",
+              "collapsing",
+              "investment"
+            ]
+          },
+          {
+            "words": "she is bound to win the competition she is so talented",
+            "extra": [
+              "bound",
+              "win",
+              "talented"
+            ]
+          },
+          {
+            "words": "the new regulations are due to come into effect next month",
+            "extra": [
+              "due",
+              "come",
+              "effect"
+            ]
+          },
+          {
+            "words": "all students are to submit their assignments before the deadline",
+            "extra": [
+              "submit",
+              "assignments",
+              "deadline"
+            ]
+          },
+          {
+            "words": "if we are to succeed we need to work as a team",
+            "extra": [
+              "are",
+              "succeed",
+              "team"
+            ]
+          },
+          {
+            "words": "the talks are on the point of breaking down completely",
+            "extra": [
+              "point",
+              "breaking",
+              "completely"
+            ]
+          },
+          {
+            "words": "it is unlikely that prices will fall before the end of the year",
+            "extra": [
+              "unlikely",
+              "prices",
+              "year"
+            ]
+          },
+          {
+            "words": "the new metro line is due to open in eighteen months",
+            "extra": [
+              "due",
+              "open",
+              "months"
+            ]
+          },
+          {
+            "words": "he is about to announce his resignation to the board",
+            "extra": [
+              "about",
+              "announce",
+              "board"
+            ]
+          },
+          {
+            "words": "the government is likely to introduce new environmental laws this year",
+            "extra": [
+              "likely",
+              "introduce",
+              "environmental"
+            ]
+          },
+          {
+            "words": "passengers are not to use mobile phones during takeoff and landing",
+            "extra": [
+              "mobile",
+              "during",
+              "landing"
+            ]
+          },
+          {
+            "words": "she is on the brink of making history as the youngest ever winner",
+            "extra": [
+              "brink",
+              "making",
+              "youngest"
+            ]
+          },
+          {
+            "words": "the conference is due to begin at nine thirty tomorrow morning",
+            "extra": [
+              "due",
+              "begin",
+              "morning"
+            ]
+          },
+          {
+            "words": "this discovery is bound to change our understanding of the universe",
+            "extra": [
+              "bound",
+              "change",
+              "universe"
+            ]
+          },
+          {
+            "words": "the ceasefire is about to expire and tensions are rising",
+            "extra": [
+              "about",
+              "expire",
+              "tensions"
+            ]
+          },
+          {
+            "words": "the prime minister is to meet her counterpart in Berlin next week",
+            "extra": [
+              "meet",
+              "counterpart",
+              "Berlin"
+            ]
+          },
+          {
+            "words": "he is unlikely to recover in time for the final match",
+            "extra": [
+              "unlikely",
+              "recover",
+              "final"
+            ]
+          },
+          {
+            "words": "the two sides are on the verge of reaching a historic deal",
+            "extra": [
+              "verge",
+              "reaching",
+              "historic"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "According to the latest reports, the global economy {{1}} entering a new period of uncertainty. Several major banks are {{2}} announcing significant losses, and the housing market {{3}} collapse without urgent intervention. The government {{4}} introduce an emergency package of measures next week — official sources confirm the announcement {{5}} be made on Friday. Analysts say it {{6}} be the most comprehensive economic reform in decades. However, critics argue that it {{7}} be enough to prevent long-term damage. Meanwhile, the central bank {{8}} raise interest rates for the fifth time this year. If the authorities {{9}} stabilise the situation, they must act decisively. Financial experts warn that investor confidence {{10}} disappear entirely unless bold action is taken within days. Some firms are {{11}} relocating to more stable markets, which could worsen the crisis further.",
+            "blanks": {
+              "1": "is",
+              "2": "on the verge of",
+              "3": "is likely to",
+              "4": "is to",
+              "5": "is due to",
+              "6": "is bound to",
+              "7": "is unlikely to",
+              "8": "is due to",
+              "9": "are to",
+              "10": "is likely to",
+              "11": "about to"
+            },
+            "wordbank": [
+              "be",
+              "enter",
+              "announce",
+              "collapse",
+              "introduce",
+              "raise",
+              "stabilise",
+              "disappear",
+              "relocate",
+              "prevent",
+              "act",
+              "confirm",
+              "widen",
+              "decline",
+              "recover"
+            ]
+          },
+          {
+            "text": "The small town of Millhaven {{1}} experiencing a remarkable transformation. According to the local council, the old factory district {{2}} be converted into a cultural quarter by 2027. Several local artists are {{3}} opening studios in the area — the first {{4}} open next month. The new arts centre {{5}} become the jewel in the crown of the region, say planners. A famous sculptor {{6}} unveil his latest installation in the town square on Saturday. The event {{7}} attract thousands of visitors, given the artist's international reputation. Local residents {{8}} attend the opening ceremony free of charge — this was confirmed in a council statement. If the town {{9}} preserve its unique character, it must balance tourism with the needs of local people. Officials say it {{10}} become a model for other towns facing similar challenges.",
+            "blanks": {
+              "1": "is",
+              "2": "is due to",
+              "3": "about to",
+              "4": "is due to",
+              "5": "is bound to",
+              "6": "is to",
+              "7": "is likely to",
+              "8": "are to",
+              "9": "is to",
+              "10": "is likely to"
+            },
+            "wordbank": [
+              "be",
+              "convert",
+              "open",
+              "attract",
+              "preserve",
+              "become",
+              "unveil",
+              "attend",
+              "face",
+              "transform",
+              "balance",
+              "confirm",
+              "plan",
+              "experience",
+              "invest"
+            ]
+          },
+          {
+            "text": "Scientists working at the research institute say they are {{1}} making a major announcement regarding cancer treatment. The team has been working on the project for over a decade and their results {{2}} revolutionise modern medicine. According to the research director, the new drug {{3}} begin clinical trials next spring — approval from regulators {{4}} come before then. Experts say the treatment {{5}} be a complete cure, but it {{6}} significantly reduce mortality rates. If this technology {{7}} reach patients, funding must be secured urgently. The institute is {{8}} losing its government grant, which could delay progress. Researchers are {{9}} submit their findings to a leading medical journal this week. Without further investment, the project {{10}} collapse, which would be a devastating setback for the millions of patients waiting for better options.",
+            "blanks": {
+              "1": "on the verge of",
+              "2": "are bound to",
+              "3": "is due to",
+              "4": "is due to",
+              "5": "is unlikely to",
+              "6": "is likely to",
+              "7": "is to",
+              "8": "on the brink of",
+              "9": "about to",
+              "10": "is likely to"
+            },
+            "wordbank": [
+              "make",
+              "revolutionise",
+              "begin",
+              "come",
+              "reach",
+              "reduce",
+              "lose",
+              "submit",
+              "collapse",
+              "secure",
+              "announce",
+              "delay",
+              "fund",
+              "approve",
+              "treat"
+            ]
+          },
+          {
+            "text": "Investors are watching the technology sector closely this week as several major companies {{1}} releasing their quarterly results. Analysts say that at least two of the biggest firms {{2}} to report record profits, while a third is {{3}} disappointing shareholders. The industry as a whole {{4}} on the verge of entering a new phase of consolidation, with mergers {{5}} to reshape the market over the coming months. Regulators, who {{6}} to step in if anti-competitive behaviour is detected, {{7}} the announcements carefully. One senior official noted that the authorities {{8}} to accept any deal that harms consumers. Meanwhile, a number of smaller start-ups {{9}} to benefit from the uncertainty, as investors {{10}} to diversify their portfolios. Experts agree that the decisions made this quarter {{11}} to define the direction of the entire sector for years to come. All company executives {{12}} to attend a regulatory briefing on Thursday, and industry leaders {{13}} on the point of agreeing a voluntary code of conduct. The outcome {{14}} to clarify the regulatory landscape significantly. Whatever happens, this week {{15}} to be a turning point for the industry.",
+            "blanks": {
+              "1": "are about to begin",
+              "2": "are likely",
+              "3": "about to",
+              "4": "is",
+              "5": "due",
+              "6": "are to",
+              "7": "are monitoring",
+              "8": "are unlikely",
+              "9": "are bound",
+              "10": "are looking",
+              "11": "are likely",
+              "12": "are to",
+              "13": "are",
+              "14": "is likely",
+              "15": "is bound"
+            },
+            "wordbank": [
+              "begin",
+              "likely",
+              "about",
+              "be",
+              "due",
+              "monitor",
+              "accept",
+              "benefit",
+              "diversify",
+              "define",
+              "attend",
+              "agree",
+              "clarify",
+              "look",
+              "turn"
+            ]
+          },
+          {
+            "text": "Dr. Chen is {{1}} publishing the results of her ten-year climate study. Her findings, which {{2}} to overturn several long-held assumptions, are {{3}} to provoke significant debate in the scientific community. She is {{4}} to present her work at the international conference next month — all speakers {{5}} to submit their papers two weeks in advance. Colleagues say her research {{6}} to influence climate policy for decades. The journal that {{7}} to publish the study confirmed that peer review {{8}} to be completed by Friday. Meanwhile, a rival team is {{9}} the brink of releasing a contradictory report, which {{10}} to complicate matters further. Government advisers, who {{11}} to act on the latest evidence, are watching both studies carefully. Campaigners say the findings {{12}} to accelerate the transition to clean energy. The public is {{13}} to learn the full implications until the conference ends. Officials are on the {{14}} of forming a new scientific taskforce, and the minister {{15}} to make a formal announcement by the end of the week.",
+            "blanks": {
+              "1": "about to",
+              "2": "are likely",
+              "3": "bound",
+              "4": "due",
+              "5": "are to",
+              "6": "is likely",
+              "7": "is due",
+              "8": "is due",
+              "9": "on",
+              "10": "is likely",
+              "11": "are to",
+              "12": "are likely",
+              "13": "unlikely",
+              "14": "verge",
+              "15": "is due"
+            },
+            "wordbank": [
+              "publish",
+              "overturn",
+              "provoke",
+              "present",
+              "submit",
+              "influence",
+              "complete",
+              "release",
+              "complicate",
+              "act",
+              "accelerate",
+              "learn",
+              "form",
+              "announce",
+              "confirm"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Bạn là phóng viên. Viết một bản tin về một sự kiện chính trị quan trọng sắp xảy ra, sử dụng be to, be due to, be bound to và be likely to.",
+          "grammar_focus": "Be to (official), be due to (scheduled), be bound to (certainty), be likely to (prediction)",
+          "hint_words": [
+            "the prime minister is to",
+            "the vote is due to take place",
+            "the result is bound to",
+            "observers say it is likely to",
+            "the new law is to",
+            "negotiations are on the verge of",
+            "a statement is due to be issued",
+            "the outcome is unlikely to"
+          ],
+          "min_words": 60,
+          "example": "The prime minister is to hold a crucial emergency summit next Thursday, where leaders from the G7 nations are due to discuss the ongoing energy crisis. The meeting is bound to attract significant media attention, given the urgency of the situation. Analysts say the talks are likely to produce a joint statement, though observers warn that a binding agreement is unlikely to be reached in a single session. According to government sources, a formal announcement is due to be made before the end of the week. If world leaders are to address the crisis effectively, they will need to demonstrate unprecedented unity."
+        },
+        {
+          "vi": "Viết đoạn văn về một nhân vật trong câu chuyện đang đứng trước một khoảnh khắc quan trọng — sắp đưa ra quyết định hoặc hành động lớn. Dùng be about to, on the brink of, on the verge of.",
+          "grammar_focus": "Be about to, on the brink of, on the verge of (imminent events in narrative)",
+          "hint_words": [
+            "she was about to",
+            "he stood on the brink of",
+            "they were on the verge of",
+            "just as she was about to",
+            "the crowd was on the point of",
+            "he realised he was about to make",
+            "everything was about to change",
+            "on the verge of giving up"
+          ],
+          "min_words": 55,
+          "example": "Clara stood backstage, her heart pounding. She was about to walk onto the stage and perform in front of five thousand people. After years of hard work, she was on the verge of achieving everything she had ever dreamed of. She had been on the brink of giving up countless times, but something had always pushed her forward. Just as she was about to step out, her phone buzzed — it was a message from her mother. Everything was about to change, and she knew it. She took a deep breath and walked into the light."
+        },
+        {
+          "vi": "Viết một bức thư trang trọng từ ban giám đốc đến nhân viên, thông báo các thay đổi sắp tới trong công ty. Sử dụng be to (chỉ thị), be due to (theo kế hoạch), be likely to, be bound to.",
+          "grammar_focus": "Be to (formal instructions), be due to (scheduled), be likely to / bound to (predictions)",
+          "hint_words": [
+            "all staff are to",
+            "the new policy is due to",
+            "employees are not to",
+            "changes are likely to",
+            "this transition is bound to",
+            "managers are to",
+            "the restructuring is due to begin",
+            "if the company is to"
+          ],
+          "min_words": 60,
+          "example": "Dear Team, We are writing to inform you of important upcoming changes to our organisation. The restructuring process is due to begin on 1st June, and all staff are to attend a briefing session during the week of 27th May. Employees are not to discuss details of the changes with external parties until the official announcement has been made. We recognise that this transition is bound to cause some uncertainty, and we want to reassure everyone that support will be available. The new structure is likely to create greater efficiency across all departments. If the company is to remain competitive, these changes are essential. Further details are due to be shared at next Monday's all-hands meeting."
+        },
+        {
+          "vi": "Viết về một vận động viên hoặc nghệ sĩ đang trên đỉnh cao sự nghiệp, sử dụng be bound to, be likely to, be on the verge of để nói về tương lai của họ.",
+          "grammar_focus": "Be bound to, be likely to, be on the verge of (strong predictions and near-future)",
+          "hint_words": [
+            "she is bound to",
+            "he is on the verge of",
+            "critics say she is likely to",
+            "this performance is bound to",
+            "he is unlikely to",
+            "her talent is bound to",
+            "is on the brink of breaking",
+            "are likely to follow"
+          ],
+          "min_words": 55,
+          "example": "At just twenty-three years old, Rafael is on the verge of becoming one of the most celebrated tennis players of his generation. After winning three consecutive titles this season, he is bound to enter the world's top five rankings by December. Critics say his aggressive playing style is likely to cause problems for even the most experienced opponents. His recent performance is on the verge of breaking several long-standing records, and commercial sponsorships are likely to follow. He is unlikely to slow down anytime soon — if anything, he seems to grow stronger with every match. His talent is bound to take him to the very top."
+        },
+        {
+          "vi": "Mô tả một cuộc khủng hoảng môi trường và các biện pháp cần thiết, sử dụng đa dạng các cách diễn đạt tương lai gồm be to, be on the brink of, be due to, be likely to, be unlikely to.",
+          "grammar_focus": "Mixed future expressions: be to, be on the brink of, be due to, be likely / unlikely to",
+          "hint_words": [
+            "the ecosystem is on the brink of",
+            "governments are to",
+            "new regulations are due to",
+            "species are likely to",
+            "it is unlikely that",
+            "if the world is to",
+            "the summit is due to",
+            "this loss is bound to"
+          ],
+          "min_words": 65,
+          "example": "Several critically endangered ecosystems are on the brink of irreversible collapse, according to a new report released this week. Governments around the world are to meet at an emergency summit next month, where new international agreements are due to be signed. Experts warn that dozens of species are likely to disappear within the next decade without urgent intervention. It is unlikely that voluntary commitments alone will be sufficient — binding targets are now essential. If the world is to prevent the worst consequences of biodiversity loss, this summit is bound to be a defining moment. The report makes clear that this loss is likely to affect food security and water supplies for billions of people. Activists say it is high time world leaders acted rather than simply issued statements."
+        }
+      ]
+    },
+    {
+      "icon": "⏪",
+      "title": "Future in the Past",
+      "level": "upper",
+      "badge": "📙 B2",
+      "badgeClass": "badge-amber",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Future in the Past – Tương lai nhìn từ quá khứ</div>Khi kể chuyện trong quá khứ và muốn đề cập đến điều <b>sẽ xảy ra (tương lai) tại thời điểm đó</b>, chúng ta dùng <b>dạng quá khứ của các thì tương lai</b>.<br><br><b>Nguyên tắc: Đổi sang dạng quá khứ tương ứng</b></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Bảng chuyển đổi Future → Future in the Past</div><table style=\"width:100%;border-collapse:collapse;font-size:0.9em\"><tr style=\"background:var(--bg2)\"><th style=\"padding:6px;text-align:left;border:1px solid var(--border,#ccc)\">Future (hiện tại)</th><th style=\"padding:6px;text-align:left;border:1px solid var(--border,#ccc)\">Future in the Past</th></tr><tr><td style=\"padding:6px;border:1px solid var(--border,#ccc)\">will + V</td><td style=\"padding:6px;border:1px solid var(--border,#ccc)\"><b>would</b> + V</td></tr><tr><td style=\"padding:6px;border:1px solid var(--border,#ccc)\">be going to + V</td><td style=\"padding:6px;border:1px solid var(--border,#ccc)\"><b>was/were going to</b> + V</td></tr><tr><td style=\"padding:6px;border:1px solid var(--border,#ccc)\">Present Continuous (future)</td><td style=\"padding:6px;border:1px solid var(--border,#ccc)\"><b>Past Continuous</b></td></tr><tr><td style=\"padding:6px;border:1px solid var(--border,#ccc)\">Present Simple (timetable)</td><td style=\"padding:6px;border:1px solid var(--border,#ccc)\"><b>Past Simple</b></td></tr><tr><td style=\"padding:6px;border:1px solid var(--border,#ccc)\">Future Continuous</td><td style=\"padding:6px;border:1px solid var(--border,#ccc)\"><b>would be</b> + V-ing</td></tr><tr><td style=\"padding:6px;border:1px solid var(--border,#ccc)\">Future Perfect</td><td style=\"padding:6px;border:1px solid var(--border,#ccc)\"><b>would have</b> + V3</td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Would – Tương lai trong quá khứ (chung)</div>• <i>I knew you <b>would fail</b> the exam. You didn't study at all!</i><br>• <i>She promised she <b>would call</b> me when she arrived.</i><br>• <i>He asked whether I <b>would help</b> him.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Was/Were going to – Kế hoạch/Ý định trong quá khứ (thường không thực hiện)</div>• <i>Sorry, I <b>was going to call</b> you today, but I forgot.</i> (có ý định nhưng không làm)<br>• <i>I <b>was going to buy</b> the car, but I decided not to.</i><br>• <i>He <b>was going to be sent</b> to Iraq, but he fell ill.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Past Continuous – Kế hoạch đã sắp xếp trong quá khứ</div>• <i>That night I was very excited because the next morning I <b>was going</b> back home.</i><br>• <i>I lost my passport the day before we <b>were leaving</b> for our honeymoon.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Would be + V-ing – Future Continuous in the Past</div>• <i>I told him not to call me that evening, because I <b>would be studying</b> all night.</i><br>• <i>She knew she <b>would be working</b> overtime that weekend.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Be about to / Be due to / Be on the verge of – trong quá khứ</div>• <i>He <b>was about to leave</b> when the phone rang.</i><br>• <i>The train <b>was due to arrive</b> at noon.</i><br>• <i>She <b>was on the verge of giving up</b> when she got the news.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Lỗi thường gặp</div>❌ <s>I knew you will fail.</s> → ✅ I knew you <b>would fail</b>.<br>❌ <s>She said she is going to call.</s> → ✅ She said she <b>was going to call</b>.<br>❌ <s>He lost his ticket the day before the flight will depart.</s> → ✅ the flight <b>was due to depart</b></div><div class=\"ex-sent\">She said she <b>was going to apply</b> for the job, but in the end she changed her mind.<span>Was going to: ý định trong quá khứ không thực hiện</span></div><div class=\"ex-sent\">I knew that this moment <b>would change</b> everything for both of us.<span>Would: dự đoán/biết trước trong quá khứ</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "I knew you ___ the exam. You hadn't studied at all.",
+          "opts": "would fail,will fail,were failing,had failed",
+          "ans": "A",
+          "exp": "Would: dự đoán/biết trước trong quá khứ (future in the past)"
+        },
+        {
+          "type": "mc",
+          "q": "She told me she ___ at the station at noon.",
+          "opts": "would be waiting,will be waiting,was waiting,had been waiting",
+          "ans": "A",
+          "exp": "Would be + V-ing: Future Continuous in the past"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ the report, but his computer crashed and he lost everything.",
+          "opts": "was going to finish,would finish,was finishing,had finished",
+          "ans": "A",
+          "exp": "Was going to: ý định trong quá khứ không thực hiện được"
+        },
+        {
+          "type": "mc",
+          "q": "I lost my phone the day before we ___ on our trip.",
+          "opts": "were leaving,would leave,had left,left",
+          "ans": "A",
+          "exp": "Past Continuous: kế hoạch đã sắp xếp trong quá khứ"
+        },
+        {
+          "type": "mc",
+          "q": "He was very nervous because he ___ his first solo performance the next day.",
+          "opts": "was giving,would give,had given,gave",
+          "ans": "A",
+          "exp": "Past Continuous: sắp xếp/kế hoạch tương lai nhìn từ quá khứ"
+        },
+        {
+          "type": "mc",
+          "q": "She promised she ___ to me as soon as she arrived home.",
+          "opts": "would write,will write,was writing,wrote",
+          "ans": "A",
+          "exp": "Would: lời hứa trong quá khứ"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ sent to the overseas office, but the project was cancelled.",
+          "opts": "was going to be,would be,was being,had been",
+          "ans": "A",
+          "exp": "Was going to be (passive): kế hoạch bị huỷ"
+        },
+        {
+          "type": "mc",
+          "q": "I told her not to come by that evening because I ___ all night for my exam.",
+          "opts": "would be studying,was studying,would study,had been studying",
+          "ans": "A",
+          "exp": "Would be + V-ing: Future Continuous in the past"
+        },
+        {
+          "type": "mc",
+          "q": "He was ___ resign when the board offered him a new contract.",
+          "opts": "about to,going to,due to,likely to",
+          "ans": "A",
+          "exp": "Was about to: sắp làm thì có chuyện xảy ra"
+        },
+        {
+          "type": "mc",
+          "q": "The flight ___ depart at 6 a.m. but was delayed due to bad weather.",
+          "opts": "was due to,was about to,would,was going to",
+          "ans": "A",
+          "exp": "Was due to: theo lịch dự kiến trong quá khứ"
+        },
+        {
+          "type": "mc",
+          "q": "I saw she had a gun, but I didn't think she ___ use it.",
+          "opts": "would,was going to,will,was",
+          "ans": "A",
+          "exp": "Would: dự đoán/suy nghĩ trong quá khứ (indirect thought)"
+        },
+        {
+          "type": "mc",
+          "q": "She was on the ___ crying when he walked in and apologised.",
+          "opts": "verge of,brink to,about to,point to",
+          "ans": "A",
+          "exp": "On the verge of + V-ing: sắp khóc trong quá khứ"
+        },
+        {
+          "type": "mc",
+          "q": "He asked me if I ___ come to his wedding.",
+          "opts": "would,will,am going to,was going",
+          "ans": "A",
+          "exp": "Would trong câu gián tiếp (reported speech): future in the past"
+        },
+        {
+          "type": "mc",
+          "q": "That night I went to bed early because the next day I ___ a long drive.",
+          "opts": "was going to have,would have,will have,had",
+          "ans": "A",
+          "exp": "Was going to: ý định/kế hoạch nhìn từ thời điểm quá khứ"
+        },
+        {
+          "type": "mc",
+          "q": "She told me she ___ help me whenever I needed it.",
+          "opts": "would,will,was,is going to",
+          "ans": "A",
+          "exp": "Would: lời hứa/cam kết trong câu gián tiếp"
+        },
+        {
+          "type": "mc",
+          "q": "The ceremony ___ start at 7 p.m. but the guest of honour was late.",
+          "opts": "was due to,was about to,would,was going to",
+          "ans": "A",
+          "exp": "Was due to: theo lịch chính thức trong quá khứ"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ call you this morning, but I got caught up in meetings.",
+          "opts": "was going to,would,was,had",
+          "ans": "A",
+          "exp": "Was going to: ý định không thực hiện được"
+        },
+        {
+          "type": "mc",
+          "q": "She said she ___ abroad for the entire summer.",
+          "opts": "would be travelling,will travel,was travelling,travelled",
+          "ans": "A",
+          "exp": "Would be + V-ing: Future Continuous in the past"
+        },
+        {
+          "type": "mc",
+          "q": "I knew it ___ a difficult conversation, but I had to have it.",
+          "opts": "would be,will be,was,is",
+          "ans": "A",
+          "exp": "Would be: dự đoán/biết trước trong quá khứ"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ announce the news the next day, but everything changed overnight.",
+          "opts": "was going to,would,was,will",
+          "ans": "A",
+          "exp": "Was going to: kế hoạch trong quá khứ không thực hiện"
+        },
+        {
+          "type": "fill",
+          "q": "I thought the project ___ (take) about three weeks, but it took three months.",
+          "ans": "would take",
+          "exp": "Would: dự đoán trong quá khứ (không đúng như thực tế)"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (go/to) accept the offer, but she had second thoughts at the last moment.",
+          "ans": "was going to",
+          "exp": "Was going to: ý định không thực hiện"
+        },
+        {
+          "type": "fill",
+          "q": "I told him I ___ (study) all evening and couldn't meet him.",
+          "ans": "would be studying",
+          "exp": "Would be + V-ing: Future Continuous in the past"
+        },
+        {
+          "type": "fill",
+          "q": "The conference ___ (due/start) at 9 a.m. but was postponed by an hour.",
+          "ans": "was due to start",
+          "exp": "Was due to: theo lịch trong quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (about/sign) the contract when her lawyer called with urgent news.",
+          "ans": "was about to sign",
+          "exp": "Was about to: sắp làm thì bị ngắt"
+        },
+        {
+          "type": "fill",
+          "q": "He knew he ___ (face) serious consequences if he told the truth.",
+          "ans": "would face",
+          "exp": "Would: hệ quả biết trước nhìn từ quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (leave) on Friday, but the flight was cancelled.",
+          "ans": "were leaving / were going to leave",
+          "exp": "Were leaving (Past Continuous) hoặc were going to leave: kế hoạch bị huỷ"
+        },
+        {
+          "type": "fill",
+          "q": "She was on the verge of ___ (give up) when she finally got a positive response.",
+          "ans": "giving up",
+          "exp": "On the verge of + V-ing: sắp bỏ cuộc trong quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "He promised he ___ (not/tell) anyone about our plans.",
+          "ans": "would not tell / wouldn't tell",
+          "exp": "Would (not): lời hứa trong quá khứ (reported)"
+        },
+        {
+          "type": "fill",
+          "q": "I thought she ___ (be/working) at that time, so I didn't call.",
+          "ans": "would be working",
+          "exp": "Would be + V-ing: hành động dự đoán đang diễn ra trong tương lai (nhìn từ QK)"
+        },
+        {
+          "type": "fill",
+          "q": "The athletes ___ (due/compete) in three events, but two were cancelled.",
+          "ans": "were due to compete",
+          "exp": "Were due to: theo lịch trong quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "He asked me where I ___ (stay) during the conference.",
+          "ans": "would be staying",
+          "exp": "Would be + V-ing: Future Continuous in the past (indirect question)"
+        },
+        {
+          "type": "fill",
+          "q": "Little did she know that this decision ___ (change) the course of her life.",
+          "ans": "would change",
+          "exp": "Would: irony/narrative device – tương lai trong quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (going to/announce) the winner that evening, but the event ran late.",
+          "ans": "were going to announce",
+          "exp": "Were going to: kế hoạch bị trì hoãn trong quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "Nobody realised that it ___ (be) the last time they would all meet together.",
+          "ans": "would be",
+          "exp": "Would be: nhận thức muộn về điều đã xảy ra trong tương lai từ quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "She told me she ___ (call) back, but I never heard from her again.",
+          "ans": "would call",
+          "exp": "Would: tương lai trong quá khứ (reported speech / intention)"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (about/leave) for the airport when we realised we had forgotten the passports.",
+          "ans": "were about to leave",
+          "exp": "Was/were about to: hành động sắp xảy ra nhưng bị ngăn lại"
+        },
+        {
+          "type": "fill",
+          "q": "He didn't realise that the decision he made that day ___ (change) his life forever.",
+          "ans": "was going to change / would change",
+          "exp": "Was going to / Would: hệ quả tương lai nhìn từ thời điểm quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "The match ___ (due/start) at three o'clock but was delayed because of the weather.",
+          "ans": "was due to start",
+          "exp": "Was due to: sự kiện được lên lịch trong quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (on the point/resign) when her manager offered her a better contract.",
+          "ans": "was on the point of resigning",
+          "exp": "Was on the point of + -ing: sắp làm điều gì đó tại thời điểm quá khứ"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "she said she would call me as soon as she arrived",
+            "extra": [
+              "call",
+              "arrived",
+              "would"
+            ]
+          },
+          {
+            "words": "I was going to visit her but I forgot completely",
+            "extra": [
+              "going",
+              "visit",
+              "forgot"
+            ]
+          },
+          {
+            "words": "he was about to leave when the phone suddenly rang",
+            "extra": [
+              "about",
+              "leave",
+              "suddenly"
+            ]
+          },
+          {
+            "words": "the train was due to depart at six but it was delayed",
+            "extra": [
+              "due",
+              "depart",
+              "delayed"
+            ]
+          },
+          {
+            "words": "I knew it would be a long and difficult journey",
+            "extra": [
+              "knew",
+              "would",
+              "difficult"
+            ]
+          },
+          {
+            "words": "she was on the verge of giving up when she got the news",
+            "extra": [
+              "verge",
+              "giving",
+              "news"
+            ]
+          },
+          {
+            "words": "he told me he would be working all weekend on the project",
+            "extra": [
+              "told",
+              "working",
+              "project"
+            ]
+          },
+          {
+            "words": "I lost my wallet the day before we were leaving for the trip",
+            "extra": [
+              "wallet",
+              "leaving",
+              "trip"
+            ]
+          },
+          {
+            "words": "they were going to get married but broke up the week before",
+            "extra": [
+              "going",
+              "married",
+              "week"
+            ]
+          },
+          {
+            "words": "nobody knew that it would be the last time they met",
+            "extra": [
+              "knew",
+              "would",
+              "time"
+            ]
+          },
+          {
+            "words": "she promised she would not tell anyone about the surprise",
+            "extra": [
+              "promised",
+              "would",
+              "surprise"
+            ]
+          },
+          {
+            "words": "I thought the meeting would last an hour but it went on for three",
+            "extra": [
+              "thought",
+              "would",
+              "three"
+            ]
+          },
+          {
+            "words": "he was going to be transferred but the decision was reversed",
+            "extra": [
+              "going",
+              "transferred",
+              "reversed"
+            ]
+          },
+          {
+            "words": "little did she know that this moment would change everything",
+            "extra": [
+              "little",
+              "would",
+              "everything"
+            ]
+          },
+          {
+            "words": "the ceremony was due to begin at seven but started late",
+            "extra": [
+              "due",
+              "begin",
+              "started"
+            ]
+          },
+          {
+            "words": "I told her I would be studying and could not come out",
+            "extra": [
+              "told",
+              "studying",
+              "come"
+            ]
+          },
+          {
+            "words": "she was about to accept the offer when she received another one",
+            "extra": [
+              "about",
+              "accept",
+              "received"
+            ]
+          },
+          {
+            "words": "he knew he would face consequences for his decision",
+            "extra": [
+              "knew",
+              "would",
+              "consequences"
+            ]
+          },
+          {
+            "words": "we were leaving for Paris the next morning so we packed early",
+            "extra": [
+              "leaving",
+              "Paris",
+              "packed"
+            ]
+          },
+          {
+            "words": "she said she would never forget what we had done for her",
+            "extra": [
+              "said",
+              "never",
+              "done"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Anna sat in the departure lounge with a mix of excitement and nerves. In just a few hours, she {{1}} on a plane for the first time in her life. She {{2}} buy a camera before leaving, but she had run out of time. The flight {{3}} take off at 10:15, and it was already 9:40. She had promised her mother she {{4}} call the moment she landed. Her boss had told her she {{5}} working with a new team once she arrived in Singapore. She {{6}} make the journey alone, but at the last minute her colleague decided to join her. Anna was on the verge of {{7}} when she heard her flight being announced. She {{8}} board in just minutes. Little did she know this trip {{9}} change the direction of her career entirely. She had no idea that the contacts she {{10}} on this trip {{11}} the foundation of her own company years later.",
+            "blanks": {
+              "1": "would be",
+              "2": "was going to",
+              "3": "was due to",
+              "4": "would",
+              "5": "would be",
+              "6": "was going to",
+              "7": "crying",
+              "8": "was about to",
+              "9": "would",
+              "10": "would make",
+              "11": "would become"
+            },
+            "wordbank": [
+              "be",
+              "buy",
+              "take",
+              "call",
+              "work",
+              "make",
+              "cry",
+              "board",
+              "change",
+              "become",
+              "meet",
+              "leave",
+              "travel",
+              "arrive",
+              "build"
+            ]
+          },
+          {
+            "text": "James had no idea when he woke up that morning that his life {{1}} never be the same again. He {{2}} attend an ordinary board meeting, but fate had other plans. The presentation {{3}} start at 9 a.m. sharp — he {{4}} prepared all the slides the evening before, convinced everything {{5}} go smoothly. He was about to {{6}} his opening remarks when the CEO unexpectedly entered the room. James {{7}} announce a routine update, but the CEO had brought news that changed everything. The company {{8}} be acquired by a global corporation — the deal {{9}} be signed later that week. James {{10}} be promoted to head the new division, but he {{11}} tell anyone yet. He knew that by this time next month, everything {{12}} differently.",
+            "blanks": {
+              "1": "would",
+              "2": "was going to",
+              "3": "was due to",
+              "4": "had",
+              "5": "would",
+              "6": "begin",
+              "7": "was going to",
+              "8": "was going to",
+              "9": "was due to",
+              "10": "would",
+              "11": "was not to",
+              "12": "would look"
+            },
+            "wordbank": [
+              "be",
+              "attend",
+              "start",
+              "have",
+              "go",
+              "begin",
+              "announce",
+              "acquire",
+              "sign",
+              "promote",
+              "tell",
+              "look",
+              "change",
+              "prepare",
+              "enter"
+            ]
+          },
+          {
+            "text": "The small fishing boat {{1}} depart at dawn. The crew {{2}} spend three weeks at sea, and the captain {{3}} already told his family he {{4}} call them every evening. His youngest daughter {{5}} cry when she said goodbye — she {{6}} give him a drawing she had made. The voyage {{7}} be their most profitable of the year, or so they hoped. Little did they know that a storm {{8}} hit them just two days into the journey. The captain {{9}} turn back when his radio failed. He {{10}} reach the shore before nightfall, but the waves were too strong. The crew {{11}} rescue, but they {{12}} wait nearly twelve hours before help arrived. It {{13}} be a close call that none of them {{14}} forget. Nobody {{15}} guess that the trip {{16}} become the subject of a documentary years later.",
+            "blanks": {
+              "1": "was due to",
+              "2": "would",
+              "3": "had",
+              "4": "would",
+              "5": "was going to",
+              "6": "was going to",
+              "7": "was going to",
+              "8": "would",
+              "9": "was about to",
+              "10": "was going to",
+              "11": "would be",
+              "12": "would",
+              "13": "would",
+              "14": "would",
+              "15": "could",
+              "16": "would"
+            },
+            "wordbank": [
+              "depart",
+              "spend",
+              "tell",
+              "call",
+              "cry",
+              "give",
+              "be",
+              "hit",
+              "turn",
+              "reach",
+              "rescue",
+              "wait",
+              "forget",
+              "guess",
+              "become"
+            ]
+          },
+          {
+            "text": "The actress stood in the wings, trembling. Tonight {{1}} her debut on Broadway. She {{2}} perform the lead role — a dream she had held since childhood. The curtain {{3}} rise in exactly three minutes. She {{4}} be replaced if her voice failed, the director had told her. She had promised herself she {{5}} let anyone down. She was on the verge of {{6}} backwards when her co-star whispered words of encouragement. She {{7}} walk out at that moment, but something made her stay. She thought of all the years she {{8}} work for this. The lights {{9}} dim — that was the signal. She {{10}} be the next star of stage and screen. Nobody watching that night {{11}} ever forget the performance. It {{12}} go on to win several awards, and the actress {{13}} become one of the most respected performers of her generation.",
+            "blanks": {
+              "1": "would be",
+              "2": "was going to",
+              "3": "was due to",
+              "4": "would",
+              "5": "would not",
+              "6": "stepping",
+              "7": "was about to",
+              "8": "would",
+              "9": "were about to",
+              "10": "was going to",
+              "11": "would",
+              "12": "would",
+              "13": "would"
+            },
+            "wordbank": [
+              "be",
+              "perform",
+              "rise",
+              "replace",
+              "let",
+              "step",
+              "walk",
+              "work",
+              "dim",
+              "become",
+              "forget",
+              "go",
+              "win",
+              "watch",
+              "encourage"
+            ]
+          },
+          {
+            "text": "The scientists sat around the table on the eve of their announcement. After eight years of research, they {{1}} change the world. The press conference {{2}} begin at noon the following day. They had promised the public they {{3}} share every detail of their findings. Dr Chen {{4}} present the data personally — she {{5}} already rehearsed her speech dozens of times. She {{6}} deliver a short summary, but her colleagues had convinced her to give a full presentation instead. One young researcher was on the brink of {{7}} — it was the culmination of her PhD. Nobody knew quite what {{8}} happen when the news broke. Some predicted the discovery {{9}} be controversial. Others believed it {{10}} be celebrated as one of the greatest breakthroughs of the century. By morning, everything {{11}} different. The team {{12}} be famous. Little did they know the announcement {{13}} spark a global debate that {{14}} last for years.",
+            "blanks": {
+              "1": "were about to",
+              "2": "was due to",
+              "3": "would",
+              "4": "was going to",
+              "5": "had",
+              "6": "was going to",
+              "7": "crying",
+              "8": "would",
+              "9": "would",
+              "10": "would",
+              "11": "would be",
+              "12": "would",
+              "13": "would",
+              "14": "would"
+            },
+            "wordbank": [
+              "change",
+              "begin",
+              "share",
+              "present",
+              "rehearse",
+              "deliver",
+              "cry",
+              "happen",
+              "celebrate",
+              "be",
+              "spark",
+              "last",
+              "predict",
+              "convince",
+              "know"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Kể lại một kỷ niệm quan trọng về một chuyến đi hoặc sự kiện — sử dụng future in the past để mô tả những gì bạn đã nghĩ hoặc lên kế hoạch tại thời điểm đó.",
+          "grammar_focus": "Would, was going to, was about to, would be + -ing (future in the past)",
+          "hint_words": [
+            "I thought it would be",
+            "we were going to",
+            "I was about to",
+            "little did I know",
+            "I had no idea it would",
+            "we were leaving the next day",
+            "I was going to",
+            "she promised she would"
+          ],
+          "min_words": 60,
+          "example": "The night before our expedition, we were all convinced it would be a straightforward climb. We were going to set off at dawn and reach the summit by midday — at least, that was the plan. I was about to go to sleep when I heard thunder in the distance, but I dismissed it. Little did I know that by the next morning, a severe storm would force us to turn back. I had been so excited because I thought this trip would be the highlight of my year. I had promised my friends I would take photos at the top. Instead, I would be telling a very different story when I returned home."
+        },
+        {
+          "vi": "Viết lại một cảnh trong phim hoặc tiểu thuyết yêu thích của bạn, dùng future in the past để kể về những gì nhân vật nghĩ sẽ xảy ra.",
+          "grammar_focus": "Was going to, would, was about to, was due to, was on the verge of",
+          "hint_words": [
+            "he was going to reveal",
+            "she had no idea what would happen",
+            "he was about to",
+            "nobody knew it would",
+            "she thought she would",
+            "he was on the verge of",
+            "little did she realise",
+            "the plan was due to"
+          ],
+          "min_words": 55,
+          "example": "In the final chapter, the detective was about to reveal the identity of the killer when the lights suddenly went out. He had planned the dramatic announcement carefully — it was going to be the moment that explained everything. Nobody in the room knew what was about to happen. The suspect was on the verge of escaping through the back door. Little did he realise that the detective had already called for backup, and officers were due to arrive at any moment. He thought he would be free, but in fact, the trap was about to close around him."
+        },
+        {
+          "vi": "Dùng future in the past để kể về một kế hoạch kinh doanh hoặc dự án mà bạn từng có nhưng đã thay đổi hướng đi.",
+          "grammar_focus": "Was going to (abandoned plans), would (expectations), was due to, was about to",
+          "hint_words": [
+            "we were going to launch",
+            "I thought it would work",
+            "we were about to sign",
+            "the product was due to",
+            "I had expected it would",
+            "the deal was going to",
+            "we realised it would not",
+            "we decided we would"
+          ],
+          "min_words": 55,
+          "example": "Three years ago, my business partner and I were going to launch an app that would connect local farmers directly with restaurants. We had secured initial funding and the product was due to go live in the spring. We were about to sign a major contract with a restaurant chain when the pandemic changed everything. I had expected the project would generate revenue within six months, but we quickly realised it would need to be completely redesigned. We were going to give up entirely, but we decided we would pivot to a subscription model instead. That decision would turn out to be the best one we ever made."
+        },
+        {
+          "vi": "Kể về một nhân vật lịch sử hoặc nhân vật hư cấu trong khoảnh khắc định mệnh, sử dụng future in the past để diễn tả sự kiện sắp xảy ra và hậu quả không ngờ.",
+          "grammar_focus": "Was about to, would, was going to, was due to, little did they know",
+          "hint_words": [
+            "she was about to make",
+            "he thought he would",
+            "the vote was due to",
+            "little did anyone know",
+            "this moment would",
+            "she was going to",
+            "he had no idea it would",
+            "everything was about to"
+          ],
+          "min_words": 60,
+          "example": "On the morning of 28th June 1914, Archduke Franz Ferdinand was going to attend a series of official events in Sarajevo. His motorcade was due to pass through the city centre at eleven o'clock. Security was lighter than usual — nobody thought there would be any serious threat. He was about to continue his journey when his driver made a wrong turn. Little did anyone know that this small mistake would place him directly in the path of history. He had no idea that the events of that morning would trigger a chain reaction that would lead to the First World War, reshaping the world for generations."
+        },
+        {
+          "vi": "Viết một câu chuyện ngắn sử dụng tất cả các dạng 'future in the past': would, was going to, was about to, was due to, would be + V-ing.",
+          "grammar_focus": "All future in the past forms combined in narrative",
+          "hint_words": [
+            "she knew it would be",
+            "she was going to",
+            "the train was due to",
+            "she was about to give up",
+            "she thought she would be sitting",
+            "would have arrived",
+            "little did she know",
+            "would change her life"
+          ],
+          "min_words": 70,
+          "example": "Maya checked her watch. The train was due to arrive in ten minutes, and she was going to use the journey to rehearse her speech one last time. She thought she would be sitting comfortably in first class by now, but there had been delays all morning. She was about to call the conference organisers when she spotted a familiar face on the platform — her old mentor, Professor Singh. She knew it would be a surprise to see him there. He had promised her he would be watching her presentation remotely. Little did she know that this chance encounter on a freezing train platform would change the direction of her research entirely, and that everything she had prepared would be set aside in favour of a completely new idea."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "beginner": [
+    {
+      "icon": "❓",
+      "title": "Question Words",
+      "level": "A1",
+      "badge": "🌱 A1",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Quy tắc QWASI</div>Thứ tự từ trong câu hỏi Hiện tại đơn là <b>QWASI</b>:<br>• <b>QW:</b> Question Word (Từ để hỏi: What, Where...)<br>• <b>A:</b> Auxiliary (Trợ động từ: Do, Does...)<br>• <b>S:</b> Subject (Chủ ngữ: you, she...)<br>• <b>I:</b> Infinitive (Động từ nguyên mẫu: live, work...)<br><br>Trong câu hỏi <b>Yes-No</b>, chúng ta không dùng từ để hỏi (QW):<br>• <i><b>Do</b> you <b>speak</b> English?</i><br>• <i><b>Does</b> she <b>live</b> here?</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Câu hỏi với AM / IS / ARE</div>Khi động từ chính là <b>be</b>, chúng ta dùng <b>am/is/are</b> làm trợ động từ đứng trước chủ ngữ. Thứ tự là <b>QWAS</b>:<br>• (Question Word) + <b>Am/Is/Are</b> + Subject<br>• <i>Where <b>is</b> your sister?</i><br>• <i><b>Are</b> you free?</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 What + Noun</div>Chúng ta thường dùng <b>What + danh từ</b> để hỏi cụ thể:<br>• <b>What colour</b> is your jacket?<br>• <b>What size</b> do you want?<br>• <b>What car</b> does he have?</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 How + Adj / Adv</div>Dùng <b>How + tính từ/trạng từ</b> để hỏi mức độ:<br>• <b>How often</b> do you play sports?<br>• <b>How old</b> is your sister?<br>• <b>How tall</b> is he?</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Lỗi thường gặp</div>❌ <s>What she does do?</s> → ✅ What <b>does</b> she <b>do</b>?<br>❌ <s>Where he works?</s> → ✅ Where <b>does</b> he <b>work</b>?<br>❌ <s>How old your sister is?</s> → ✅ How old <b>is</b> your sister?</div>",
+      "exercises": [
+        {"type": "mc", "q": "___ is your name?", "opts": "What,Who,Where,When", "ans": "A", "exp": "Hỏi tên dùng What"},
+        {"type": "mc", "q": "___ are you from?", "opts": "Where,What,Who,How", "ans": "A", "exp": "Hỏi nguồn gốc dùng Where"},
+        {"type": "mc", "q": "___ is that girl?", "opts": "Who,What,Where,When", "ans": "A", "exp": "Hỏi về người dùng Who"},
+        {"type": "mc", "q": "___ is your birthday?", "opts": "When,What,Who,How", "ans": "A", "exp": "Hỏi thời gian dùng When"},
+        {"type": "mc", "q": "___ are you sad?", "opts": "Why,What,Who,Where", "ans": "A", "exp": "Hỏi lý do dùng Why"},
+        {"type": "mc", "q": "___ old are you?", "opts": "How,What,Who,Where", "ans": "A", "exp": "Hỏi tuổi dùng How old"},
+        {"type": "mc", "q": "___ time is it?", "opts": "What,How,Who,Where", "ans": "A", "exp": "Hỏi giờ dùng What time"},
+        {"type": "mc", "q": "___ often do you swim?", "opts": "How,What,Who,When", "ans": "A", "exp": "Hỏi tần suất dùng How often"},
+        {"type": "mc", "q": "___ colour is your bag?", "opts": "What,How,Who,Where", "ans": "A", "exp": "Hỏi màu sắc dùng What colour"},
+        {"type": "mc", "q": "___ are you today?", "opts": "How,What,Who,Where", "ans": "A", "exp": "Hỏi sức khỏe/trạng thái dùng How"},
+        {"type": "mc", "q": "___ do you live with?", "opts": "Who,What,Where,When", "ans": "A", "exp": "Hỏi người ở cùng dùng Who"},
+        {"type": "mc", "q": "___ does the movie start?", "opts": "When,What,Who,How", "ans": "A", "exp": "Hỏi thời gian bắt đầu dùng When"},
+        {"type": "mc", "q": "___ is the library?", "opts": "Where,What,Who,When", "ans": "A", "exp": "Hỏi địa điểm dùng Where"},
+        {"type": "mc", "q": "___ size is this shirt?", "opts": "What,How,Who,Where", "ans": "A", "exp": "Hỏi kích cỡ dùng What size"},
+        {"type": "mc", "q": "___ do you want for lunch?", "opts": "What,Who,Where,When", "ans": "A", "exp": "Hỏi vật/đồ ăn dùng What"},
+        {"type": "mc", "q": "___ tall is your brother?", "opts": "How,What,Who,Where", "ans": "A", "exp": "Hỏi chiều cao dùng How tall"},
+        {"type": "mc", "q": "___ much is this book?", "opts": "How,What,Who,Where", "ans": "A", "exp": "Hỏi giá tiền dùng How much"},
+        {"type": "mc", "q": "___ many students are there?", "opts": "How,What,Who,Where", "ans": "A", "exp": "Hỏi số lượng dùng How many"},
+        {"type": "mc", "q": "___ is your favourite teacher?", "opts": "Who,What,Where,When", "ans": "A", "exp": "Hỏi người dùng Who"},
+        {"type": "mc", "q": "___ do you go to school?", "opts": "How,What,Who,Where", "ans": "A", "exp": "Hỏi cách thức dùng How"},
+        {"type": "fill", "q": "___ (What/Who) is your best friend?", "ans": "Who", "exp": "Hỏi về người"},
+        {"type": "fill", "q": "___ (Where/When) do you go on holiday?", "ans": "Where", "exp": "Hỏi địa điểm"},
+        {"type": "fill", "q": "___ (What/How) time does the train leave?", "ans": "What", "exp": "What time: mấy giờ"},
+        {"type": "fill", "q": "___ (How/Who) often do you wash your car?", "ans": "How", "exp": "How often: bao lâu một lần"},
+        {"type": "fill", "q": "___ (Why/What) are you wearing a coat?", "ans": "Why", "exp": "Hỏi lý do"},
+        {"type": "fill", "q": "___ (What/Who) is on the table?", "ans": "What", "exp": "Hỏi về vật"},
+        {"type": "fill", "q": "___ (When/Where) is the party?", "ans": "When", "exp": "Hỏi thời gian"},
+        {"type": "fill", "q": "___ (How/What) old is your cat?", "ans": "How", "exp": "How old: bao nhiêu tuổi"},
+        {"type": "fill", "q": "___ (Who/Where) is the keys?", "ans": "Where", "exp": "Hỏi địa điểm"},
+        {"type": "fill", "q": "___ (What/How) colour are her eyes?", "ans": "What", "exp": "What colour: màu gì"},
+        {"type": "fill", "q": "___ (Why/When) do you like English?", "ans": "Why", "exp": "Hỏi lý do"},
+        {"type": "fill", "q": "___ (How/Who) many brothers do you have?", "ans": "How", "exp": "How many: bao nhiêu"},
+        {"type": "fill", "q": "___ (What/Where) is your phone?", "ans": "Where", "exp": "Hỏi địa điểm"},
+        {"type": "fill", "q": "___ (Who/What) did you see at the park?", "ans": "Who", "exp": "Hỏi về người"},
+        {"type": "fill", "q": "___ (How/What) far is it from here?", "ans": "How", "exp": "How far: bao xa"},
+        {"type": "fill", "q": "___ (When/Why) do you go to bed?", "ans": "When", "exp": "Hỏi thời gian"},
+        {"type": "fill", "q": "___ (What/Who) is your favourite movie?", "ans": "What", "exp": "Hỏi về vật/sự việc"},
+        {"type": "fill", "q": "___ (How/Where) do you spell your name?", "ans": "How", "exp": "Hỏi cách thức"},
+        {"type": "fill", "q": "___ (Who/What) is calling you?", "ans": "Who", "exp": "Hỏi về người"},
+        {"type": "fill", "q": "___ (Why/How) are you so happy today?", "ans": "Why", "exp": "Hỏi lý do"}
+      ],
+      "practice": {
+        "reorder": [
+          {"words": "What is your name", "extra": ["name", "your", "is"]},
+          {"words": "Where do you live", "extra": ["live", "you", "do"]},
+          {"words": "How old is she", "extra": ["she", "is", "old"]},
+          {"words": "What time is it", "extra": ["it", "is", "time"]},
+          {"words": "Who is that man", "extra": ["man", "that", "is"]},
+          {"words": "When is the meeting", "extra": ["meeting", "the", "is"]},
+          {"words": "Why are you late", "extra": ["late", "you", "are"]},
+          {"words": "How are you today", "extra": ["today", "you", "are"]},
+          {"words": "What colour is it", "extra": ["it", "is", "colour"]},
+          {"words": "How often do you run", "extra": ["run", "you", "do"]},
+          {"words": "Where are my keys", "extra": ["keys", "my", "are"]},
+          {"words": "Who do you love", "extra": ["love", "you", "do"]},
+          {"words": "What do you want", "extra": ["want", "you", "do"]},
+          {"words": "When do you work", "extra": ["work", "you", "do"]},
+          {"words": "How many books are there", "extra": ["there", "are", "books"]},
+          {"words": "Why do you study English", "extra": ["English", "study", "you"]},
+          {"words": "What size do you need", "extra": ["need", "you", "do"]},
+          {"words": "How tall are you", "extra": ["you", "are", "tall"]},
+          {"words": "Where is the station", "extra": ["station", "the", "is"]},
+          {"words": "Who is your teacher", "extra": ["teacher", "your", "is"]}
+        ],
+        "passage": [
+          {
+            "text": "Every morning, I meet my friend. {{1}} is your name? I ask a new student. {{2}} do you live? He says he lives near the park. {{3}} do you come to school? He says he walks. {{4}} old are you? He is ten years old. {{5}} is your birthday? It is in May. {{6}} do you like English? Because it is fun. {{7}} is your favourite subject? He loves music. {{8}} often do you practice? Every day. {{9}} many instruments can you play? Two. {{10}} is your teacher? Mr. Smith.",
+            "blanks": {
+              "1": "What",
+              "2": "Where",
+              "3": "How",
+              "4": "How",
+              "5": "When",
+              "6": "Why",
+              "7": "What",
+              "8": "How",
+              "9": "How",
+              "10": "Who"
+            },
+            "wordbank": ["What", "Where", "How", "How", "When", "Why", "What", "How", "How", "Who", "apple", "blue", "run", "happy", "slowly"]
+          },
+          {
+            "text": "At the airport, the officer asks many questions. {{1}} is your passport? {{2}} are you from? {{3}} are you visiting our country? {{4}} long are you staying? {{5}} is your hotel address? {{6}} much money do you have? {{7}} is your job? {{8}} did you travel with? {{9}} was your flight? {{10}} will you return home?",
+            "blanks": {
+              "1": "Where",
+              "2": "Where",
+              "3": "Why",
+              "4": "How",
+              "5": "What",
+              "6": "How",
+              "7": "What",
+              "8": "Who",
+              "9": "How",
+              "10": "When"
+            },
+            "wordbank": ["Where", "Where", "Why", "How", "What", "How", "What", "Who", "How", "When", "book", "green", "jump", "sad", "quickly"]
+          },
+          {
+            "text": "In the interview, they ask: {{1}} do you want this job? {{2}} did you hear about us? {{3}} can you start? {{4}} is your greatest strength? {{5}} well do you speak English? {{6}} many years of experience do you have? {{7}} was your last boss? {{8}} do you see yourself in five years? {{9}} is your expected salary? {{10}} can we contact you?",
+            "blanks": {
+              "1": "Why",
+              "2": "How",
+              "3": "When",
+              "4": "What",
+              "5": "How",
+              "6": "How",
+              "7": "Who",
+              "8": "Where",
+              "9": "What",
+              "10": "How"
+            },
+            "wordbank": ["Why", "How", "When", "What", "How", "How", "Who", "Where", "What", "How", "pen", "red", "swim", "angry", "fast"]
+          },
+          {
+            "text": "At the doctor's office: {{1}} is the problem? {{2}} did it start? {{3}} does it hurt? {{4}} often do you feel this way? {{5}} is your temperature? {{6}} old are you? {{7}} do you live? {{8}} is your phone number? {{9}} can I help you today? {{10}} is your regular doctor?",
+            "blanks": {
+              "1": "What",
+              "2": "When",
+              "3": "Where",
+              "4": "How",
+              "5": "What",
+              "6": "How",
+              "7": "Where",
+              "8": "What",
+              "9": "How",
+              "10": "Who"
+            },
+            "wordbank": ["What", "When", "Where", "How", "What", "How", "Where", "What", "How", "Who", "desk", "yellow", "dance", "tired", "loudly"]
+          },
+          {
+            "text": "Planning a party: {{1}} shall we invite? {{2}} is the best date? {{3}} time should it start? {{4}} are we having it? At my house. {{5}} food should we buy? {{6}} many people are coming? {{7}} is the music? {{8}} will buy the drinks? {{9}} much will it cost? {{10}} are you so excited?",
+            "blanks": {
+              "1": "Who",
+              "2": "When",
+              "3": "What",
+              "4": "Where",
+              "5": "What",
+              "6": "How",
+              "7": "How",
+              "8": "Who",
+              "9": "How",
+              "10": "Why"
+            },
+            "wordbank": ["Who", "When", "What", "Where", "What", "How", "How", "Who", "How", "Why", "chair", "pink", "sing", "bored", "quietly"]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Viết 5 câu hỏi sử dụng các từ để hỏi khác nhau (Who, Where, When, What time, How often) để phỏng vấn một người bạn mới.",
+          "grammar_focus": "Question Words",
+          "hint_words": ["Who", "Where", "When", "What time", "How often"],
+          "min_words": 30,
+          "example": "Who is your favourite singer? Where do you live? When is your birthday? What time do you go to bed? How often do you play sports?"
+        },
+        {
+          "vi": "Viết một đoạn văn ngắn (khoảng 5 câu) hỏi về thông tin cá nhân của một người nổi tiếng mà bạn yêu thích.",
+          "grammar_focus": "Question Words",
+          "hint_words": ["What", "Where", "How old", "Why", "When"],
+          "min_words": 35,
+          "example": "What is his real name? Where was he born? How old is he now? Why is he so famous around the world? When did he start his career?"
+        },
+        {
+          "vi": "Tưởng tượng bạn đang ở một thành phố mới, hãy viết 5 câu hỏi để hỏi đường hoặc hỏi thông tin về thành phố đó.",
+          "grammar_focus": "Question Words",
+          "hint_words": ["Where", "How far", "What time", "How much", "Who"],
+          "min_words": 30,
+          "example": "Where is the nearest bus station? How far is it from here? What time does the museum open? How much is a taxi to the airport? Who can help me with the map?"
+        },
+        {
+          "vi": "Viết 5 câu hỏi về thói quen ăn uống của một người bạn.",
+          "grammar_focus": "Question Words",
+          "hint_words": ["What", "How often", "Where", "Who", "What time"],
+          "min_words": 30,
+          "example": "What do you usually have for breakfast? How often do you eat fast food? Where do you usually have lunch? Who do you cook with? What time do you have dinner?"
+        },
+        {
+          "vi": "Viết 5 câu hỏi để hỏi về kế hoạch nghỉ hè của gia đình bạn.",
+          "grammar_focus": "Question Words",
+          "hint_words": ["Where", "When", "How", "Who", "How long"],
+          "min_words": 30,
+          "example": "Where are we going this summer? When will we leave? How are we going to travel? Who is going with us? How long are we staying there?"
+        }
+      ]
+    },
+    {
+      "icon": "🔄",
+      "title": "Adverbs of Frequency",
+      "level": "A1",
+      "badge": "🌱 A1",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Trạng từ chỉ tần suất</div>Dùng để nói về mức độ thường xuyên của một hành động:<br>• <b>Always:</b> 100% (Luôn luôn)<br>• <b>Usually:</b> 90% (Thường xuyên)<br>• <b>Often:</b> 70% (Hay làm)<br>• <b>Sometimes:</b> 50% (Thỉnh thoảng)<br>• <b>Hardly ever:</b> 10% (Hiếm khi)<br>• <b>Never:</b> 0% (Không bao giờ)</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Vị trí trong câu</div>• <b>Trước động từ thường:</b> I <b>always</b> get up early.<br>• <b>Sau động từ TO BE:</b> She is <b>often</b> late.<br>• <b>Trong câu phủ định:</b> Đứng sau don't/doesn't (I don't <b>often</b> go out.)<br>• <b>Trong câu hỏi:</b> Đứng sau chủ ngữ (Do you <b>always</b> eat breakfast?)</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Lưu ý quan trọng</div>• <b>Never</b> và <b>Hardly ever</b> mang nghĩa phủ định nên KHÔNG dùng kèm 'not'.<br>❌ <s>I don't never eat meat.</s> → ✅ I <b>never</b> eat meat.<br>• Các cụm từ dài (every day, once a week...) thường đứng <b>cuối câu</b>.<br>✅ I go to the gym <b>every day</b>.</div><div class=\"ex-sent\">I <b>usually</b> go to bed at 10 PM.<span>Tôi thường đi ngủ lúc 10 giờ tối.</span></div><div class=\"ex-sent\">He is <b>never</b> late for school.<span>Anh ấy không bao giờ đi học muộn.</span></div><div class=\"ex-sent\">We go to the cinema <b>twice a month</b>.<span>Chúng tôi đi xem phim hai lần một tháng.</span></div>",
+      "exercises": [
+        {"type": "mc", "q": "I ___ get up at 6 AM. (100%)", "opts": "always,usually,often,never", "ans": "A", "exp": "100% → always"},
+        {"type": "mc", "q": "She is ___ late for work. (70%)", "opts": "often,always,sometimes,never", "ans": "A", "exp": "70% → often"},
+        {"type": "mc", "q": "We ___ go to the beach. (0%)", "opts": "never,always,often,sometimes", "ans": "A", "exp": "0% → never"},
+        {"type": "mc", "q": "They ___ play tennis on Sundays. (90%)", "opts": "usually,often,sometimes,never", "ans": "A", "exp": "90% → usually"},
+        {"type": "mc", "q": "I ___ eat breakfast. (50%)", "opts": "sometimes,always,usually,never", "ans": "A", "exp": "50% → sometimes"},
+        {"type": "mc", "q": "He ___ (10%) watches TV.", "opts": "hardly ever,always,often,sometimes", "ans": "A", "exp": "10% → hardly ever"},
+        {"type": "mc", "q": "Which is correct?", "opts": "I often am tired,I am often tired,Often I am tired,I am tired often", "ans": "B", "exp": "Trạng từ đứng sau to be"},
+        {"type": "mc", "q": "Which is correct?", "opts": "He never eats meat,He doesn't never eat meat,He eats never meat,Never he eats meat", "ans": "A", "exp": "Never không dùng với doesn't"},
+        {"type": "mc", "q": "Do you ___ go to the gym?", "opts": "often,never,always,usually", "ans": "A", "exp": "Trong câu hỏi, trạng từ đứng sau chủ ngữ"},
+        {"type": "mc", "q": "I drink coffee ___.", "opts": "every day,always,usually,often", "ans": "A", "exp": "Cụm từ chỉ tần suất đứng cuối câu"},
+        {"type": "mc", "q": "She ___ (90%) drinks tea.", "opts": "usually,always,often,never", "ans": "A", "exp": "90% → usually"},
+        {"type": "mc", "q": "We are ___ (100%) happy.", "opts": "always,usually,often,sometimes", "ans": "A", "exp": "100% → always"},
+        {"type": "mc", "q": "My dad ___ (0%) smokes.", "opts": "never,always,usually,often", "ans": "A", "exp": "0% → never"},
+        {"type": "mc", "q": "They ___ (50%) go out for dinner.", "opts": "sometimes,always,usually,often", "ans": "A", "exp": "50% → sometimes"},
+        {"type": "mc", "q": "I ___ (70%) read books at night.", "opts": "often,always,usually,sometimes", "ans": "A", "exp": "70% → often"},
+        {"type": "mc", "q": "Which is correct?", "opts": "She doesn't usually drive,She usually doesn't drive,She doesn't drive usually,Usually she doesn't drive", "ans": "A", "exp": "Trạng từ đứng sau doesn't"},
+        {"type": "mc", "q": "He is ___ (10%) angry.", "opts": "hardly ever,always,usually,often", "ans": "A", "exp": "10% → hardly ever"},
+        {"type": "mc", "q": "I see my grandparents ___.", "opts": "once a week,always,usually,often", "ans": "A", "exp": "Cụm từ chỉ tần suất đứng cuối câu"},
+        {"type": "mc", "q": "Are you ___ (100%) sure?", "opts": "always,usually,often,sometimes", "ans": "A", "exp": "100% → always"},
+        {"type": "mc", "q": "We ___ (90%) finish work at 5.", "opts": "usually,always,often,sometimes", "ans": "A", "exp": "90% → usually"},
+        {"type": "fill", "q": "I ___ (always) brush my teeth.", "ans": "always", "exp": "Trạng từ chỉ tần suất"},
+        {"type": "fill", "q": "She is ___ (often) happy.", "ans": "often", "exp": "Sau to be"},
+        {"type": "fill", "q": "We ___ (never) go to school on Sundays.", "ans": "never", "exp": "Trước động từ thường"},
+        {"type": "fill", "q": "Do you ___ (usually) walk to work?", "ans": "usually", "exp": "Sau chủ ngữ trong câu hỏi"},
+        {"type": "fill", "q": "He doesn't ___ (often) play football.", "ans": "often", "exp": "Sau doesn't"},
+        {"type": "fill", "q": "They are ___ (sometimes) late.", "ans": "sometimes", "exp": "Sau to be"},
+        {"type": "fill", "q": "I ___ (hardly ever) drink soda.", "ans": "hardly ever", "exp": "Trước động từ thường"},
+        {"type": "fill", "q": "My sister ___ (always) helps me.", "ans": "always", "exp": "Trước động từ thường"},
+        {"type": "fill", "q": "Are they ___ (usually) at home?", "ans": "usually", "exp": "Sau chủ ngữ trong câu hỏi"},
+        {"type": "fill", "q": "It ___ (often) rains in London.", "ans": "often", "exp": "Trước động từ thường"},
+        {"type": "fill", "q": "I go to the park ___ (once a week).", "ans": "once a week", "exp": "Cuối câu"},
+        {"type": "fill", "q": "She ___ (never) tells lies.", "ans": "never", "exp": "Trước động từ thường"},
+        {"type": "fill", "q": "We don't ___ (always) agree.", "ans": "always", "exp": "Sau don't"},
+        {"type": "fill", "q": "Is he ___ (often) busy?", "ans": "often", "exp": "Sau chủ ngữ trong câu hỏi"},
+        {"type": "fill", "q": "I eat fruit ___ (every day).", "ans": "every day", "exp": "Cuối câu"},
+        {"type": "fill", "q": "They ___ (usually) arrive on time.", "ans": "usually", "exp": "Trước động từ thường"},
+        {"type": "fill", "q": "She is ___ (hardly ever) sad.", "ans": "hardly ever", "exp": "Sau to be"},
+        {"type": "fill", "q": "Do you ___ (sometimes) feel tired?", "ans": "sometimes", "exp": "Sau chủ ngữ trong câu hỏi"},
+        {"type": "fill", "q": "He ___ (often) calls his mother.", "ans": "often", "exp": "Trước động từ thường"},
+        {"type": "fill", "q": "We are ___ (always) ready.", "ans": "always", "exp": "Sau to be"}
+      ],
+      "practice": {
+        "reorder": [
+          {"words": "I always get up early", "extra": ["early", "up", "get"]},
+          {"words": "She is often late", "extra": ["late", "is", "often"]},
+          {"words": "We never eat meat", "extra": ["meat", "eat", "never"]},
+          {"words": "They usually play tennis", "extra": ["tennis", "play", "usually"]},
+          {"words": "Do you often go out", "extra": ["out", "go", "often"]},
+          {"words": "He is never angry", "extra": ["angry", "is", "never"]},
+          {"words": "I sometimes read books", "extra": ["books", "read", "sometimes"]},
+          {"words": "She doesn't usually drive", "extra": ["drive", "usually", "doesn't"]},
+          {"words": "Are you always happy", "extra": ["happy", "always", "are"]},
+          {"words": "We often visit them", "extra": ["them", "visit", "often"]},
+          {"words": "I go there every day", "extra": ["day", "every", "there"]},
+          {"words": "He hardly ever smiles", "extra": ["smiles", "ever", "hardly"]},
+          {"words": "They are usually busy", "extra": ["busy", "usually", "are"]},
+          {"words": "Does she often call", "extra": ["call", "often", "does"]},
+          {"words": "We always study hard", "extra": ["hard", "study", "always"]},
+          {"words": "I am sometimes tired", "extra": ["tired", "sometimes", "is"]},
+          {"words": "She never drinks coffee", "extra": ["coffee", "drinks", "never"]},
+          {"words": "They don't often travel", "extra": ["travel", "often", "don't"]},
+          {"words": "Is it always cold", "extra": ["cold", "always", "is"]},
+          {"words": "We usually have lunch", "extra": ["lunch", "have", "usually"]}
+        ],
+        "passage": [
+          {
+            "text": "My daily routine is very consistent. I {{1}} get up at 7 AM because I love mornings. I {{2}} have a big breakfast, but {{3}} I only have a coffee if I am in a hurry. I {{4}} walk to work, about four times a week. My boss is {{5}} late; he is always on time. We {{6}} have meetings on Mondays. I {{7}} eat lunch at my desk; I prefer the cafeteria. In the evening, I {{8}} go to the gym. I {{9}} watch TV before bed. I {{10}} go to sleep before 11 PM.",
+            "blanks": {
+              "1": "always",
+              "2": "usually",
+              "3": "sometimes",
+              "4": "often",
+              "5": "never",
+              "6": "always",
+              "7": "hardly ever",
+              "8": "usually",
+              "9": "often",
+              "10": "always"
+            },
+            "wordbank": ["always", "usually", "sometimes", "often", "never", "always", "hardly ever", "usually", "often", "always", "bread", "red", "run", "happy", "quickly"]
+          },
+          {
+            "text": "My friend Sarah has a busy life. She {{1}} travels for work. She is {{2}} at home during the week. She {{3}} calls me on weekends. We {{4}} go to the cinema together. Sarah {{5}} eats fast food because she loves healthy cooking. She {{6}} exercises in the morning. She is {{7}} tired after work. We {{8}} talk for hours. She {{9}} forgets my birthday. She is {{10}} a great friend.",
+            "blanks": {
+              "1": "often",
+              "2": "hardly ever",
+              "3": "usually",
+              "4": "sometimes",
+              "5": "never",
+              "6": "always",
+              "7": "often",
+              "8": "usually",
+              "9": "never",
+              "10": "always"
+            },
+            "wordbank": ["often", "hardly ever", "usually", "sometimes", "never", "always", "often", "usually", "never", "always", "milk", "green", "jump", "sad", "slowly"]
+          },
+          {
+            "text": "In our family, we {{1}} have dinner together. My father {{2}} cooks, but my mother {{3}} helps him. We {{4}} talk about our day. My brother {{5}} washes the dishes; he hates it! We {{6}} watch a movie on Fridays. My parents {{7}} go out at night. We are {{8}} happy to be together. We {{9}} argue about small things. Family is {{10}} important to us.",
+            "blanks": {
+              "1": "always",
+              "2": "usually",
+              "3": "often",
+              "4": "sometimes",
+              "5": "hardly ever",
+              "6": "usually",
+              "7": "sometimes",
+              "8": "always",
+              "9": "never",
+              "10": "always"
+            },
+            "wordbank": ["always", "usually", "often", "sometimes", "hardly ever", "usually", "sometimes", "always", "never", "always", "water", "blue", "swim", "angry", "fast"]
+          },
+          {
+            "text": "At school, I {{1}} arrive early. I {{2}} do my homework on time. My teacher is {{3}} kind to us. We {{4}} have tests on Fridays. I {{5}} fail my exams because I study hard. We {{6}} play games in class. The library is {{7}} quiet. I {{8}} borrow books. My friends are {{9}} helpful. School is {{10}} interesting.",
+            "blanks": {
+              "1": "always",
+              "2": "usually",
+              "3": "often",
+              "4": "sometimes",
+              "5": "never",
+              "6": "often",
+              "7": "always",
+              "8": "usually",
+              "9": "always",
+              "10": "always"
+            },
+            "wordbank": ["always", "usually", "often", "sometimes", "never", "often", "always", "usually", "always", "always", "pen", "yellow", "dance", "tired", "loudly"]
+          },
+          {
+            "text": "On holidays, we {{1}} go to the beach. We {{2}} stay in a hotel. I {{3}} swim in the ocean. My sister {{4}} sunbathes. We {{5}} visit museums. The weather is {{6}} sunny. We {{7}} eat local food. We {{8}} take many photos. We {{9}} want to come home. Holidays are {{10}} too short!",
+            "blanks": {
+              "1": "usually",
+              "2": "often",
+              "3": "always",
+              "4": "sometimes",
+              "5": "often",
+              "6": "always",
+              "7": "usually",
+              "8": "always",
+              "9": "never",
+              "10": "always"
+            },
+            "wordbank": ["usually", "often", "always", "sometimes", "often", "always", "usually", "always", "never", "always", "chair", "pink", "sing", "bored", "quietly"]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Viết về thói quen hàng ngày của bạn sử dụng ít nhất 5 trạng từ chỉ tần suất khác nhau.",
+          "grammar_focus": "Adverbs of Frequency",
+          "hint_words": ["always", "usually", "often", "sometimes", "never"],
+          "min_words": 35,
+          "example": "I always get up at 6 AM. I usually have breakfast at home. I often walk to work, but sometimes I take the bus. I never go to bed late during the week."
+        },
+        {
+          "vi": "Viết về thói quen của một thành viên trong gia đình bạn.",
+          "grammar_focus": "Adverbs of Frequency",
+          "hint_words": ["always", "usually", "often", "hardly ever", "never"],
+          "min_words": 35,
+          "example": "My mother always cooks delicious meals. She usually goes shopping on Saturdays. She often visits her friends. She hardly ever watches TV and she never smokes."
+        },
+        {
+          "vi": "Viết về những việc bạn làm vào cuối tuần.",
+          "grammar_focus": "Adverbs of Frequency",
+          "hint_words": ["usually", "often", "sometimes", "always", "never"],
+          "min_words": 35,
+          "example": "On weekends, I usually sleep until 9 AM. I often go out with my friends for coffee. Sometimes we go to the cinema. I always visit my grandparents on Sundays. I never work on weekends."
+        },
+        {
+          "vi": "Viết về thói quen học tập của bạn.",
+          "grammar_focus": "Adverbs of Frequency",
+          "hint_words": ["always", "usually", "often", "sometimes", "hardly ever"],
+          "min_words": 35,
+          "example": "I always do my homework after dinner. I usually study in the library. I often listen to music while studying. Sometimes I study with my friends. I hardly ever fail my tests."
+        },
+        {
+          "vi": "Viết về thói quen ăn uống lành mạnh của bạn.",
+          "grammar_focus": "Adverbs of Frequency",
+          "hint_words": ["always", "usually", "often", "sometimes", "never"],
+          "min_words": 35,
+          "example": "I always drink a lot of water. I usually eat fruit and vegetables. I often cook at home. Sometimes I eat a little chocolate. I never drink soda."
+        }
+      ]
+    },
+    {
+      "icon": "🔀",
+      "title": "Word Order in Questions",
+      "level": "A1",
+      "badge": "🌱 A1",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Quy tắc QWASI</div>Thứ tự từ trong câu hỏi tiếng Anh thường tuân theo quy tắc <b>QWASI</b>:<br>• <b>Q:</b> Question Word (Từ để hỏi: What, Where...)<br>• <b>W:</b> (Auxiliary) Word (Trợ động từ: Do, Does, Is, Are...)<br>• <b>A:</b> (Subject) Agent (Chủ ngữ: you, she, they...)<br>• <b>S:</b> (Main Verb) Subject (Động từ chính: live, go, work...)<br>• <b>I:</b> Infinitive (Động từ nguyên mẫu)</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Với động từ TO BE</div>Thứ tự là <b>QWAS</b> (không có động từ chính ở cuối):<br>• (Question Word) + <b>Am/Is/Are</b> + Subject + ...?<br>• <i>Where <b>is</b> your sister?</i><br>• <i><b>Are</b> you a student?</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Với động từ thường</div>Dùng trợ động từ <b>Do/Does</b>:<br>• (Question Word) + <b>Do/Does</b> + Subject + <b>V (nguyên mẫu)</b>?<br>• <i>What <b>do</b> you <b>do</b>?</i><br>• <i><b>Does</b> she <b>live</b> here?</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Lỗi thường gặp</div>❌ <s>Where she lives?</s> → ✅ Where <b>does</b> she <b>live</b>?<br>❌ <s>What time she gets up?</s> → ✅ What time <b>does</b> she <b>get up</b>?<br>❌ <s>Are you live here?</s> → ✅ <b>Do</b> you <b>live</b> here?</div><div class=\"ex-sent\"><b>Do</b> you <b>speak</b> English?<span>Bạn có nói tiếng Anh không?</span></div><div class=\"ex-sent\"><b>Where does</b> he <b>work</b>?<span>Anh ấy làm việc ở đâu?</span></div><div class=\"ex-sent\"><b>Why are</b> you <b>angry</b>?<span>Tại sao bạn lại giận dữ?</span></div>",
+      "exercises": [
+        {"type": "mc", "q": "___ to the gym?", "opts": "How often you go,How often do you go,How often you do go,How often go you", "ans": "B", "exp": "Cấu trúc QWASI: QW (How often) + A (do) + S (you) + I (go)"},
+        {"type": "mc", "q": "___?", "opts": "What time does she get up,What time she gets up,What time she does get up,What time gets up she", "ans": "A", "exp": "QW (What time) + A (does) + S (she) + I (get up)"},
+        {"type": "mc", "q": "___ the man over there?", "opts": "Who is,Who are,Who does,Who do", "ans": "A", "exp": "Với to be: QW + be + S"},
+        {"type": "mc", "q": "___ your sister from?", "opts": "Where is,Where does,Where are,Where do", "ans": "A", "exp": "Hỏi về nguồn gốc với to be"},
+        {"type": "mc", "q": "___ exercise?", "opts": "Does he do,He does,Do he does,Does he does", "ans": "A", "exp": "A (Does) + S (he) + I (do)"},
+        {"type": "mc", "q": "___ this job?", "opts": "Why do you want,Why you want,Why you do want,Why want you", "ans": "A", "exp": "QW + A + S + I"},
+        {"type": "mc", "q": "What ___ for breakfast?", "opts": "do they have,they have,they do have,have they", "ans": "A", "exp": "QW + A + S + I"},
+        {"type": "mc", "q": "When ___ free?", "opts": "are you,you are,do you be,free are you", "ans": "A", "exp": "Với to be: QW + be + S"},
+        {"type": "mc", "q": "How old ___?", "opts": "is your sister,your sister is,does your sister be,is sister your", "ans": "A", "exp": "QW + be + S"},
+        {"type": "mc", "q": "___ from Canada?", "opts": "Is your friend,Your friend is,Does your friend be,Is from Canada your friend", "ans": "A", "exp": "Yes/No question với to be: Be + S"},
+        {"type": "mc", "q": "Where ___ now?", "opts": "do you live,you live,does you live,live you", "ans": "A", "exp": "QW + A + S + I"},
+        {"type": "mc", "q": "___ English?", "opts": "Does she speak,She speaks,Do she speak,She does speak", "ans": "A", "exp": "A + S + I"},
+        {"type": "mc", "q": "What ___ like?", "opts": "does he,he does,is he,he is", "ans": "A", "exp": "Hỏi về sở thích: QW + A + S + I"},
+        {"type": "mc", "q": "___ you tired?", "opts": "Are,Do,Is,Does", "ans": "A", "exp": "Câu hỏi trạng thái dùng to be"},
+        {"type": "mc", "q": "Why ___ here?", "opts": "are they,they are,do they be,are them", "ans": "A", "exp": "QW + be + S"},
+        {"type": "mc", "q": "___ your father work?", "opts": "Where does,Where is,Where do,Where", "ans": "A", "exp": "QW + A + S + I"},
+        {"type": "mc", "q": "___ have a car?", "opts": "Do you,Are you,Does you,You have", "ans": "A", "exp": "A + S + I"},
+        {"type": "mc", "q": "When ___ the lesson finish?", "opts": "does,is,do,are", "ans": "A", "exp": "A (does) vì lesson là số ít"},
+        {"type": "mc", "q": "___ hungry?", "opts": "Are you,Do you,Is you,You are", "ans": "A", "exp": "Be + S"},
+        {"type": "mc", "q": "What ___ doing?", "opts": "are they,do they,they are,is they", "ans": "A", "exp": "Present continuous: QW + be + S + V-ing"},
+        {"type": "fill", "q": "___ (Do/Are) you like pizza?", "ans": "Do", "exp": "Động từ thường dùng Do"},
+        {"type": "fill", "q": "Where ___ (is/does) she live?", "ans": "does", "exp": "Động từ thường dùng does"},
+        {"type": "fill", "q": "___ (Is/Does) your brother a doctor?", "ans": "Is", "exp": "Danh từ dùng to be"},
+        {"type": "fill", "q": "What time ___ (do/are) you get up?", "ans": "do", "exp": "Động từ thường dùng do"},
+        {"type": "fill", "q": "___ (Are/Do) they happy today?", "ans": "Are", "exp": "Tính từ dùng to be"},
+        {"type": "fill", "q": "Why ___ (does/is) he late?", "ans": "is", "exp": "Tính từ dùng to be"},
+        {"type": "fill", "q": "___ (Do/Does) it rain often here?", "ans": "Does", "exp": "It dùng Does"},
+        {"type": "fill", "q": "How ___ (is/are) your parents?", "ans": "are", "exp": "Số nhiều dùng are"},
+        {"type": "fill", "q": "___ (Do/Are) you have any siblings?", "ans": "Do", "exp": "Động từ have dùng Do"},
+        {"type": "fill", "q": "When ___ (is/does) the concert start?", "ans": "does", "exp": "Động từ start dùng does"},
+        {"type": "fill", "q": "___ (Are/Do) you listening to me?", "ans": "Are", "exp": "V-ing dùng to be"},
+        {"type": "fill", "q": "What ___ (does/is) your father do?", "ans": "does", "exp": "Động từ do dùng does"},
+        {"type": "fill", "q": "___ (Is/Are) there a bank near here?", "ans": "Is", "exp": "There is → Is there"},
+        {"type": "fill", "q": "How much ___ (is/does) this costs?", "ans": "does", "exp": "Động từ cost dùng does"},
+        {"type": "fill", "q": "___ (Do/Are) you want some water?", "ans": "Do", "exp": "Động từ want dùng Do"},
+        {"type": "fill", "q": "Where ___ (are/do) the children?", "ans": "are", "exp": "Hỏi vị trí dùng to be"},
+        {"type": "fill", "q": "___ (Does/Is) she speak French?", "ans": "Does", "exp": "Động từ speak dùng Does"},
+        {"type": "fill", "q": "Why ___ (do/are) you crying?", "ans": "are", "exp": "V-ing dùng to be"},
+        {"type": "fill", "q": "___ (Is/Does) the shop open?", "ans": "Is", "exp": "Tính từ open dùng to be"},
+        {"type": "fill", "q": "What ___ (do/are) you thinking about?", "ans": "are", "exp": "V-ing dùng to be"}
+      ],
+      "practice": {
+        "reorder": [
+          {"words": "Do you speak English", "extra": ["English", "speak", "do"]},
+          {"words": "Where does she live", "extra": ["live", "she", "does"]},
+          {"words": "Are you a student", "extra": ["student", "a", "are"]},
+          {"words": "What do you do", "extra": ["do", "you", "do"]},
+          {"words": "Does he like coffee", "extra": ["coffee", "like", "does"]},
+          {"words": "When is your birthday", "extra": ["birthday", "your", "is"]},
+          {"words": "Why are you here", "extra": ["here", "you", "are"]},
+          {"words": "How old are you", "extra": ["you", "are", "old"]},
+          {"words": "Do they have kids", "extra": ["kids", "have", "do"]},
+          {"words": "Is she your sister", "extra": ["sister", "your", "is"]},
+          {"words": "What time is it", "extra": ["it", "is", "time"]},
+          {"words": "Where are my shoes", "extra": ["shoes", "my", "are"]},
+          {"words": "Do you want help", "extra": ["help", "want", "you"]},
+          {"words": "Does it rain often", "extra": ["often", "rain", "does"]},
+          {"words": "How are your parents", "extra": ["parents", "your", "how"]},
+          {"words": "Who is that boy", "extra": ["boy", "that", "is"]},
+          {"words": "When do you start", "extra": ["start", "you", "do"]},
+          {"words": "Why is he sad", "extra": ["sad", "he", "is"]},
+          {"words": "Are they at home", "extra": ["home", "at", "they"]},
+          {"words": "What does she want", "extra": ["want", "she", "does"]}
+        ],
+        "passage": [
+          {
+            "text": "Meeting a new person: {{1}} do you do? I am a designer. {{2}} do you work? In the city centre. {{3}} you like your job? Yes, I love it. {{4}} is your office? It is on the 5th floor. {{5}} you have any colleagues? Yes, I have three. {{6}} often do you travel? Once a month. {{7}} is your boss? She is very nice. {{8}} you speak other languages? Yes, I speak Spanish. {{9}} you married? No, I'm single. {{10}} old are you? I'm 28.",
+            "blanks": {
+              "1": "What",
+              "2": "Where",
+              "3": "Do",
+              "4": "Where",
+              "5": "Do",
+              "6": "How",
+              "7": "Who",
+              "8": "Do",
+              "9": "Are",
+              "10": "How"
+            },
+            "wordbank": ["What", "Where", "Do", "Where", "Do", "How", "Who", "Do", "Are", "How", "apple", "blue", "run", "happy", "slowly"]
+          },
+          {
+            "text": "At the hotel: {{1}} can I help you? I want a room. {{2}} many nights are you staying? Three nights. {{3}} is your name? John Smith. {{4}} you have a reservation? No, I don't. {{5}} is the room price? It's $100. {{6}} is breakfast served? From 7 to 10. {{7}} is the gym? On the top floor. {{8}} I pay by card? Yes, of course. {{9}} is the Wi-Fi password? It's 'guest123'. {{10}} you need anything else?",
+            "blanks": {
+              "1": "How",
+              "2": "How",
+              "3": "What",
+              "4": "Do",
+              "5": "What",
+              "6": "When",
+              "7": "Where",
+              "8": "Can",
+              "9": "What",
+              "10": "Do"
+            },
+            "wordbank": ["How", "How", "What", "Do", "What", "When", "Where", "Can", "What", "Do", "book", "green", "jump", "sad", "quickly"]
+          },
+          {
+            "text": "Asking about a friend: {{1}} is your best friend? His name is Tom. {{2}} did you meet? At university. {{3}} he live near you? Yes, he does. {{4}} often do you see him? Every weekend. {{5}} is he like? He is very funny. {{6}} you go out together? Yes, we do. {{7}} is his hobby? He likes football. {{8}} old is he? He is 25. {{9}} is his favourite food? Pizza. {{10}} you have his phone number?",
+            "blanks": {
+              "1": "Who",
+              "2": "Where",
+              "3": "Does",
+              "4": "How",
+              "5": "What",
+              "6": "Do",
+              "7": "What",
+              "8": "How",
+              "9": "What",
+              "10": "Do"
+            },
+            "wordbank": ["Who", "Where", "Does", "How", "What", "Do", "What", "How", "What", "Do", "pen", "red", "swim", "angry", "fast"]
+          },
+          {
+            "text": "In the classroom: {{1}} is the teacher? She is in the office. {{2}} time does the class start? At 9 AM. {{3}} you have a pen? Yes, here it is. {{4}} page are we on? Page 12. {{5}} you understand the lesson? Yes, I do. {{6}} is the homework? Exercises 1 to 5. {{7}} we have a break? Yes, in ten minutes. {{8}} is your partner? It's Maria. {{9}} do you spell this word? S-T-U-D-Y. {{10}} is the exam?",
+            "blanks": {
+              "1": "Where",
+              "2": "What",
+              "3": "Do",
+              "4": "What",
+              "5": "Do",
+              "6": "What",
+              "7": "Do",
+              "8": "Who",
+              "9": "How",
+              "10": "When"
+            },
+            "wordbank": ["Where", "What", "Do", "What", "Do", "What", "Do", "Who", "How", "When", "desk", "yellow", "dance", "tired", "loudly"]
+          },
+          {
+            "text": "Shopping: {{1}} can I help you? I'm looking for a shirt. {{2}} size do you need? Medium. {{3}} colour do you prefer? Blue. {{4}} is the changing room? Over there. {{5}} it fit you? Yes, it's perfect. {{6}} much is it? It's £20. {{7}} you have a smaller one? Let me check. {{8}} is the manager? He is busy. {{9}} I pay in cash? Yes. {{10}} is the exit?",
+            "blanks": {
+              "1": "How",
+              "2": "What",
+              "3": "What",
+              "4": "Where",
+              "5": "Does",
+              "6": "How",
+              "7": "Do",
+              "8": "Who",
+              "9": "Can",
+              "10": "Where"
+            },
+            "wordbank": ["How", "What", "What", "Where", "Does", "How", "Do", "Who", "Can", "Where", "chair", "pink", "sing", "bored", "quietly"]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Viết 5 câu hỏi sử dụng các từ để hỏi khác nhau (Who, Where, When, What time, How often) để phỏng vấn một người bạn mới.",
+          "grammar_focus": "Word Order in Questions",
+          "hint_words": ["Who", "Where", "When", "What time", "How often"],
+          "min_words": 30,
+          "example": "Who is your favourite singer? Where do you live? When is your birthday? What time do you go to bed? How often do you play sports?"
+        },
+        {
+          "vi": "Viết một đoạn văn ngắn (khoảng 5 câu) hỏi về thông tin cá nhân của một người nổi tiếng mà bạn yêu thích.",
+          "grammar_focus": "Word Order in Questions",
+          "hint_words": ["What", "Where", "How old", "Why", "When"],
+          "min_words": 35,
+          "example": "What is his real name? Where was he born? How old is he now? Why is he so famous around the world? When did he start his career?"
+        },
+        {
+          "vi": "Tưởng tượng bạn đang ở một thành phố mới, hãy viết 5 câu hỏi để hỏi đường hoặc hỏi thông tin về thành phố đó.",
+          "grammar_focus": "Word Order in Questions",
+          "hint_words": ["Where", "How far", "What time", "How much", "Who"],
+          "min_words": 30,
+          "example": "Where is the nearest bus station? How far is it from here? What time does the museum open? How much is a taxi to the airport? Who can help me with the map?"
+        },
+        {
+          "vi": "Viết 5 câu hỏi về thói quen ăn uống của một người bạn.",
+          "grammar_focus": "Word Order in Questions",
+          "hint_words": ["What", "How often", "Where", "Who", "What time"],
+          "min_words": 30,
+          "example": "What do you usually have for breakfast? How often do you eat fast food? Where do you usually have lunch? Who do you cook with? What time do you have dinner?"
+        },
+        {
+          "vi": "Viết 5 câu hỏi để hỏi về kế hoạch nghỉ hè của gia đình bạn.",
+          "grammar_focus": "Word Order in Questions",
+          "hint_words": ["Where", "When", "How", "Who", "How long"],
+          "min_words": 30,
+          "example": "Where are we going this summer? When will we leave? How are we going to travel? Who is going with us? How long are we staying there?"
+        }
+      ]
+    }
+  ]
+}

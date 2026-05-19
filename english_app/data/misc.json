@@ -1,0 +1,412 @@
+{
+  "wordOfDay": [
+    {
+      "en": "persevere",
+      "ipa": "/ˌpɜːrsɪˈvɪər/",
+      "type": "Verb - Động từ",
+      "vi": "kiên trì, bền bỉ",
+      "ex": "\"You must persevere if you want to succeed.\""
+    },
+    {
+      "en": "eloquent",
+      "ipa": "/ˈɛləkwənt/",
+      "type": "Adj - Tính từ",
+      "vi": "hùng hồn, ăn nói lưu loát",
+      "ex": "\"She gave an eloquent speech.\""
+    },
+    {
+      "en": "meticulous",
+      "ipa": "/mɪˈtɪkjʊləs/",
+      "type": "Adj - Tính từ",
+      "vi": "tỉ mỉ, cẩn thận",
+      "ex": "\"He is meticulous about his work.\""
+    },
+    {
+      "en": "resilient",
+      "ipa": "/rɪˈzɪliənt/",
+      "type": "Adj - Tính từ",
+      "vi": "kiên cường, có sức bật",
+      "ex": "\"Children are surprisingly resilient.\""
+    },
+    {
+      "en": "endeavor",
+      "ipa": "/ɪnˈdɛvər/",
+      "type": "Noun/Verb",
+      "vi": "nỗ lực, cố gắng",
+      "ex": "\"Every endeavor deserves respect.\""
+    },
+    {
+      "en": "profound",
+      "ipa": "/prəˈfaʊnd/",
+      "type": "Adj - Tính từ",
+      "vi": "sâu sắc",
+      "ex": "\"A profound change happened.\""
+    },
+    {
+      "en": "diligent",
+      "ipa": "/ˈdɪlɪdʒənt/",
+      "type": "Adj - Tính từ",
+      "vi": "siêng năng, cần cù",
+      "ex": "\"She is a diligent student.\""
+    },
+    {
+      "en": "gratitude",
+      "ipa": "/ˈɡrætɪtjuːd/",
+      "type": "Noun - Danh từ",
+      "vi": "lòng biết ơn",
+      "ex": "\"Express gratitude to those who help you.\""
+    },
+    {
+      "en": "curious",
+      "ipa": "/ˈkjʊəriəs/",
+      "type": "Adj - Tính từ",
+      "vi": "tò mò, hiếu kỳ",
+      "ex": "\"Children are naturally curious.\""
+    },
+    {
+      "en": "achieve",
+      "ipa": "/əˈtʃiːv/",
+      "type": "Verb - Động từ",
+      "vi": "đạt được",
+      "ex": "\"She achieved her goal.\""
+    },
+    {
+      "en": "generous",
+      "ipa": "/ˈdʒɛnərəs/",
+      "type": "Adj - Tính từ",
+      "vi": "hào phóng, rộng lượng",
+      "ex": "\"He is very generous with his time.\""
+    },
+    {
+      "en": "confident",
+      "ipa": "/ˈkɒnfɪdənt/",
+      "type": "Adj - Tính từ",
+      "vi": "tự tin",
+      "ex": "\"Stay confident during the interview.\""
+    },
+    {
+      "en": "patience",
+      "ipa": "/ˈpeɪʃəns/",
+      "type": "Noun - Danh từ",
+      "vi": "sự kiên nhẫn",
+      "ex": "\"Learning a language requires patience.\""
+    },
+    {
+      "en": "creative",
+      "ipa": "/kriˈeɪtɪv/",
+      "type": "Adj - Tính từ",
+      "vi": "sáng tạo",
+      "ex": "\"She has a creative mind.\""
+    },
+    {
+      "en": "ambitious",
+      "ipa": "/æmˈbɪʃəs/",
+      "type": "Adj - Tính từ",
+      "vi": "đầy tham vọng",
+      "ex": "\"He is ambitious about his career.\""
+    },
+    {
+      "en": "humble",
+      "ipa": "/ˈhʌmbəl/",
+      "type": "Adj - Tính từ",
+      "vi": "khiêm tốn",
+      "ex": "\"Stay humble when you succeed.\""
+    },
+    {
+      "en": "grateful",
+      "ipa": "/ˈɡreɪtfəl/",
+      "type": "Adj - Tính từ",
+      "vi": "biết ơn",
+      "ex": "\"I am grateful for your help.\""
+    },
+    {
+      "en": "optimistic",
+      "ipa": "/ˌɒptɪˈmɪstɪk/",
+      "type": "Adj - Tính từ",
+      "vi": "lạc quan",
+      "ex": "\"She remains optimistic about the future.\""
+    },
+    {
+      "en": "determined",
+      "ipa": "/dɪˈtɜːmɪnd/",
+      "type": "Adj - Tính từ",
+      "vi": "quyết tâm",
+      "ex": "\"He is determined to pass the exam.\""
+    },
+    {
+      "en": "compassion",
+      "ipa": "/kəmˈpæʃən/",
+      "type": "Noun - Danh từ",
+      "vi": "lòng trắc ẩn",
+      "ex": "\"Show compassion to people in need.\""
+    },
+    {
+      "en": "innovative",
+      "ipa": "/ˈɪnəveɪtɪv/",
+      "type": "Adj - Tính từ",
+      "vi": "đổi mới, sáng tạo",
+      "ex": "\"The company is highly innovative.\""
+    },
+    {
+      "en": "authentic",
+      "ipa": "/ɔːˈθɛntɪk/",
+      "type": "Adj - Tính từ",
+      "vi": "chân thật, đích thực",
+      "ex": "\"Give an authentic answer in the interview.\""
+    },
+    {
+      "en": "versatile",
+      "ipa": "/ˈvɜːrsətaɪl/",
+      "type": "Adj - Tính từ",
+      "vi": "đa năng",
+      "ex": "\"English is a versatile skill.\""
+    },
+    {
+      "en": "mindful",
+      "ipa": "/ˈmaɪndfəl/",
+      "type": "Adj - Tính từ",
+      "vi": "chú tâm, ý thức",
+      "ex": "\"Be mindful of your pronunciation.\""
+    },
+    {
+      "en": "thrive",
+      "ipa": "/θraɪv/",
+      "type": "Verb - Động từ",
+      "vi": "phát triển mạnh",
+      "ex": "\"Plants thrive in good soil.\""
+    },
+    {
+      "en": "clarify",
+      "ipa": "/ˈklærɪfaɪ/",
+      "type": "Verb - Động từ",
+      "vi": "làm rõ",
+      "ex": "\"Could you clarify your question?\""
+    },
+    {
+      "en": "insight",
+      "ipa": "/ˈɪnsaɪt/",
+      "type": "Noun - Danh từ",
+      "vi": "sự thấu hiểu",
+      "ex": "\"The book offers deep insight.\""
+    },
+    {
+      "en": "reliable",
+      "ipa": "/rɪˈlaɪəbəl/",
+      "type": "Adj - Tính từ",
+      "vi": "đáng tin cậy",
+      "ex": "\"She is a reliable teammate.\""
+    },
+    {
+      "en": "efficient",
+      "ipa": "/ɪˈfɪʃənt/",
+      "type": "Adj - Tính từ",
+      "vi": "hiệu quả",
+      "ex": "\"Study efficiently every day.\""
+    },
+    {
+      "en": "collaborate",
+      "ipa": "/kəˈlæbəreɪt/",
+      "type": "Verb - Động từ",
+      "vi": "hợp tác",
+      "ex": "\"Teams collaborate on big projects.\""
+    },
+    {
+      "en": "genuine",
+      "ipa": "/ˈdʒɛnjuɪn/",
+      "type": "Adj - Tính từ",
+      "vi": "chân thành",
+      "ex": "\"He gave a genuine smile.\""
+    }
+  ],
+  "pron": {
+    "hello": {
+      "word": "hello",
+      "ipa_us": "/həˈloʊ/",
+      "ipa_uk": "/həˈlɒʊ/",
+      "vi": "Xin chào",
+      "tip": "💡 Âm \"h\" ở đầu phát âm nhẹ thở hơi ra. Trọng âm ở âm tiết thứ 2: hel-LO. Người Việt hay quên trọng âm này."
+    },
+    "beautiful": {
+      "word": "beautiful",
+      "ipa_us": "/ˈbjuːtɪfəl/",
+      "ipa_uk": "/ˈbjuːtɪfəl/",
+      "vi": "Đẹp, xinh đẹp",
+      "tip": "💡 Phát âm: BYOO-ti-ful. 3 âm tiết, trọng âm ở âm đầu. Âm \"eau\" đọc là /juː/. Đừng đọc từng chữ!"
+    },
+    "pronunciation": {
+      "word": "pronunciation",
+      "ipa_us": "/prəˌnʌnsiˈeɪʃən/",
+      "ipa_uk": "/prəˌnʌnsiˈeɪʃən/",
+      "vi": "Phát âm (danh từ)",
+      "tip": "💡 Lưu ý: \"pronounce\" → \"pronunciation\" (thay đổi cách đọc). Trọng âm: pro-NUN-ci-AY-tion. 5 âm tiết!"
+    },
+    "comfortable": {
+      "word": "comfortable",
+      "ipa_us": "/ˈkʌmftərbəl/",
+      "ipa_uk": "/ˈkʌmftəbəl/",
+      "vi": "Thoải mái, dễ chịu",
+      "tip": "💡 Người Việt hay đọc thành \"com-FOR-ta-ble\" (4 âm tiết). Thực ra chỉ có 3: CUMF-ter-ble. Âm \"or\" gần như không nghe thấy."
+    },
+    "especially": {
+      "word": "especially",
+      "ipa_us": "/ɪˈspɛʃəli/",
+      "ipa_uk": "/ɪˈspɛʃəli/",
+      "vi": "Đặc biệt, nhất là",
+      "tip": "💡 Trọng âm: e-SPE-cial-ly. Âm \"esp\" ở đầu, đừng thêm âm \"k\": không phải /ekspecially/."
+    },
+    "interesting": {
+      "word": "interesting",
+      "ipa_us": "/ˈɪntrɪstɪŋ/",
+      "ipa_uk": "/ˈɪntrəstɪŋ/",
+      "vi": "Thú vị, hấp dẫn",
+      "tip": "💡 Chỉ có 3 âm tiết: IN-tres-ting (không phải in-TER-est-ing). Rất phổ biến khi nói nhanh."
+    },
+    "necessary": {
+      "word": "necessary",
+      "ipa_us": "/ˈnɛsɪˌsɛri/",
+      "ipa_uk": "/ˈnɛsɪsəri/",
+      "vi": "Cần thiết",
+      "tip": "💡 Mẹo nhớ chính tả: 1 chữ C, 2 chữ S. NE-ces-sa-ry. Trọng âm ở âm đầu."
+    },
+    "vegetable": {
+      "word": "vegetable",
+      "ipa_us": "/ˈvɛdʒtəbəl/",
+      "ipa_uk": "/ˈvɛdʒtəbəl/",
+      "vi": "Rau, rau củ",
+      "tip": "💡 Chỉ 3 âm tiết: VEJ-ta-bul (không phải ve-ge-ta-ble). Âm \"ge\" thứ 2 hầu như biến mất."
+    },
+    "world": {
+      "word": "world",
+      "ipa_us": "/wɜːrld/",
+      "ipa_uk": "/wɜːld/",
+      "vi": "Thế giới",
+      "tip": "💡 Phát âm: WORLD — âm \"or\" đọc /ɜːr/ (Mỹ) hoặc /ɜː/ (Anh). Đừng đọc thành \"word\"."
+    },
+    "development": {
+      "word": "development",
+      "ipa_us": "/dɪˈvɛləpmənt/",
+      "ipa_uk": "/dɪˈvɛləpmənt/",
+      "vi": "Sự phát triển",
+      "tip": "💡 Trọng âm: de-VEL-op-ment. Âm \"op\" rất nhẹ, không nhấn mạnh."
+    },
+    "education": {
+      "word": "education",
+      "ipa_us": "/ˌɛdʒuˈkeɪʃən/",
+      "ipa_uk": "/ˌɛdʒuˈkeɪʃən/",
+      "vi": "Giáo dục",
+      "tip": "💡 ed-u-CA-tion — chú ý /ʃən/ ở cuối, giống nhiều danh từ -tion."
+    },
+    "schedule": {
+      "word": "schedule",
+      "ipa_us": "/ˈskɛdʒuːl/",
+      "ipa_uk": "/ˈʃɛdjuːl/",
+      "vi": "Lịch trình",
+      "tip": "💡 Mỹ: SKED-jool | Anh: SHED-yool. Hai cách đọc đều đúng!"
+    },
+    "literature": {
+      "word": "literature",
+      "ipa_us": "/ˈlɪtərətʃər/",
+      "ipa_uk": "/ˈlɪtrətʃə/",
+      "vi": "Văn học",
+      "tip": "💡 LIT-er-a-ture — 4 âm tiết, trọng âm đầu. Cuối từ /tʃər/ như \"nature\"."
+    },
+    "opportunity": {
+      "word": "opportunity",
+      "ipa_us": "/ˌɒpərˈtuːnɪti/",
+      "ipa_uk": "/ˌɒpəˈtjuːnɪti/",
+      "vi": "Cơ hội",
+      "tip": "💡 op-por-TU-ni-ty — trọng âm ở âm thứ 3. Người Việt hay bỏ âm \"tu\"."
+    },
+    "responsibility": {
+      "word": "responsibility",
+      "ipa_us": "/rɪˌspɒnsəˈbɪlɪti/",
+      "ipa_uk": "/rɪˌspɒnsəˈbɪlɪti/",
+      "vi": "Trách nhiệm",
+      "tip": "💡 re-spon-si-BI-li-ty — trọng âm âm thứ 4. Nói chậm từng cụm khi mới học."
+    },
+    "entrepreneur": {
+      "word": "entrepreneur",
+      "ipa_us": "/ˌɒntrəprəˈnɜːr/",
+      "ipa_uk": "/ˌɒntrəprəˈnɜː/",
+      "vi": "Doanh nhân / người khởi nghiệp",
+      "tip": "💡 on-trə-prə-NUR — từ tiếng Pháp, âm cuối /ɜːr/ nhẹ."
+    }
+  },
+  "hardSounds": [
+    {
+      "sound": "TH (/θ/ và /ð/)",
+      "vi": "Âm \"th\" — không có trong tiếng Việt",
+      "examples": [
+        "\"th\" vô thanh /θ/: think, three, through, tooth",
+        "  \"th\" hữu thanh /ð/: this, that, there, mother"
+      ],
+      "tip": "👅 Đặt đầu lưỡi chạm nhẹ vào mặt sau răng trên, thổi hơi qua. Đừng đọc thành \"t\" hoặc \"d\"!"
+    },
+    {
+      "sound": "R (/r/)",
+      "vi": "Âm \"r\" của tiếng Anh khác tiếng Việt",
+      "examples": [
+        "right, run, red, around, very, car"
+      ],
+      "tip": "👅 Cuộn lưỡi lên nhưng KHÔNG chạm vào vòm miệng. Môi hơi tròn. Khác hoàn toàn với \"r\" tiếng Việt!"
+    },
+    {
+      "sound": "L vs R cuối từ",
+      "vi": "Phân biệt khi ở cuối từ",
+      "examples": [
+        "ball /bɔːl/ vs bar /bɑːr/",
+        "call /kɔːl/ vs car /kɑːr/"
+      ],
+      "tip": "👅 Âm \"l\" cuối: chạm đầu lưỡi vào nướu trên. Âm \"r\" cuối: cuộn lưỡi, không chạm gì cả."
+    },
+    {
+      "sound": "V (/v/) vs W (/w/)",
+      "vi": "Hay bị nhầm lẫn",
+      "examples": [
+        "very /ˈvɛri/ vs wary /ˈwɛri/",
+        "vine vs wine, vet vs wet"
+      ],
+      "tip": "👅 \"v\": môi dưới chạm răng trên, thổi hơi. \"w\": tròn môi như thổi nến, không dùng răng."
+    },
+    {
+      "sound": "Âm cuối -ed",
+      "vi": "3 cách đọc khác nhau",
+      "examples": [
+        "/ɪd/ sau t,d: wanted, needed, decided",
+        "  /t/ sau vô thanh: talked, stopped, kissed",
+        "  /d/ sau hữu thanh: played, called, loved"
+      ],
+      "tip": "💡 Quy tắc: nếu đuôi từ kết thúc bằng /t/ hoặc /d/ → thêm âm /ɪd/. Còn lại nghe theo âm gốc."
+    },
+    {
+      "sound": "SH vs CH (/ʃ/ vs /tʃ/)",
+      "vi": "Phân biệt \"sh\" và \"ch\"",
+      "examples": [
+        "ship /ʃɪp/ vs chip /tʃɪp/",
+        "she /ʃiː/ vs cheese /tʃiːz/",
+        "wash vs watch"
+      ],
+      "tip": "👅 \"sh\": môi tròn, lưỡi cao, hơi dài. \"ch\": có \"dừng\" nhẹ rồi bật ra, giống âm \"ch\" trong tiếng Việt nhưng mềm hơn."
+    },
+    {
+      "sound": "Âm /æ/ (cat, man, bad)",
+      "vi": "Âm \"a\" ngắn — hay đọc thành \"e\"",
+      "examples": [
+        "cat /kæt/",
+        "man /mæn/",
+        "bad /bæd/",
+        "happy /ˈhæpi/"
+      ],
+      "tip": "👅 Mở miệng rộng, hạ hàm, âm giữa a và e. Không đọc thành \"cét\" hay \"mén\"."
+    },
+    {
+      "sound": "Ngã âm (stress) trong từ dài",
+      "vi": "Trọng âm sai làm người nghe khó hiểu",
+      "examples": [
+        "PHOtograph vs phoTOgraphy",
+        "REcord (danh từ) vs reCORD (động từ)"
+      ],
+      "tip": "💡 Học cả cụm IPA + nghe mẫu. Trong câu, trọng âm từ nội dung (danh từ, động từ chính) thường mạnh hơn."
+    }
+  ]
+}

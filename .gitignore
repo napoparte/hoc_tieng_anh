@@ -1,0 +1,11 @@
+dist/
+node_modules/
+npm-debug.log*
+.DS_Store
+Thumbs.db
+build-obfuscate.js
+package.json
+package-lock.json
+pre-push
+setup.sh
+!english_app/

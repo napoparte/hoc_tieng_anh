@@ -1,0 +1,2353 @@
+{
+  "upper_intermediate": [
+    {
+      "icon": "🔵",
+      "title": "Zero & First Conditional + Future Time Clauses",
+      "level": "upper_intermediate",
+      "badge": "📘 B1+",
+      "badgeClass": "badge-green",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Zero Conditional – Sự thật chung, kết quả luôn xảy ra</div><b>Cấu trúc:</b> <code>If/When + Present Simple, Present Simple</code><br><br><b>Dùng để diễn đạt:</b><br>✦ Sự thật khoa học, quy luật tự nhiên:<br><i>If you <b>heat</b> water to 100°C, it <b>boils</b>.</i><br><i>When the sun <b>goes</b> down, it <b>gets</b> dark.</i><br><br>✦ Thói quen, kết quả luôn xảy ra khi điều kiện xảy ra:<br><i>If I <b>drink</b> too much coffee, I can't sleep.</i><br><i>If people <b>are</b> talking all the time, I can't concentrate.</i><br><br>✦ <b>Lưu ý:</b> Có thể thay <b>if</b> bằng <b>when</b> mà không thay đổi nghĩa.<br><i>Dogs can attack you <b>when</b> you are scared.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 First Conditional – Điều kiện có thể xảy ra trong tương lai</div><b>Cấu trúc:</b> <code>If/Unless + Present Simple, will/can/may/might/must/should + infinitive</code><br><br><b>1. Dùng để nói về những điều có thể xảy ra ở tương lai:</b><br><i>If it <b>rains</b>, we <b>will stay</b> home.</i><br><i>I <b>will call</b> you if I <b>need</b> your help.</i><br><br><b>2. KHÔNG dùng will trong mệnh đề if:</b><br><i>❌ I'll help you if you <b>will need</b> me.</i><br><i>✅ I'll help you if you <b>need</b> me.</i><br><br><b>3. Dùng <u>unless</u> = if ... not:</b><br><i>I <b>won't go</b> on holiday <b>unless</b> I save some money.</i><br>(= I won't go on holiday <b>if I don't</b> save some money.)<br><br><b>4. Dùng <u>in case</u> – đề phòng khả năng xảy ra:</b><br><i>I'll take my umbrella <b>in case</b> it rains.</i><br>⚠️ Khác <b>if</b>: <i>in case</i> = mang dù dù trời có mưa hay không (chuẩn bị trước); <i>if</i> = chỉ mang dù khi trời mưa.<br><i>I'll take my umbrella <b>if</b> it rains.</i> (= chỉ mang khi có mưa)</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Future Time Clauses – Mệnh đề thời gian tương lai</div><b>Cấu trúc:</b> <code>When/After/Before/Until/As soon as/Once + Present Simple/Present Perfect, will + infinitive</code><br><br><b>Điểm quan trọng:</b> Sau <b>when, after, before, until, as soon as, once</b>... → dùng thì <b>hiện tại</b> (KHÔNG dùng will):<br><i>When I <b>am</b> 65, I will retire.</i> ❌ ~~When I will be~~<br><i>I'll call you as soon as I <b>get</b> back.</i><br><br><b>Dùng Present Perfect sau mệnh đề thời gian</b> → nhấn mạnh hành động sẽ <b>hoàn thành trước</b>:<br><i>I'll go to bed as soon as I <b>have finished</b> my homework.</i><br><i>I won't leave until you <b>have arrived</b>.</i><br><br><b>Dấu phẩy:</b><br>✦ Mệnh đề thời gian đầu câu → có dấu phẩy: <i><b>When I am 65,</b> I will retire.</i><br>✦ Mệnh đề thời gian cuối câu → không dấu phẩy: <i>I will retire <b>when I am 65.</b></i></div><div class=\"ex-sent\">If you <b>heat</b> ice, it <b>melts</b>.<span>Zero conditional – quy luật tự nhiên</span></div><div class=\"ex-sent\">I <b>will call</b> you if I <b>need</b> help.<span>First conditional – khả năng có thể xảy ra</span></div><div class=\"ex-sent\">I <b>will text</b> you as soon as I <b>arrive</b>.<span>Future time clause – dùng hiện tại sau as soon as</span></div><div class=\"ex-sent\">I'll take a jacket <b>in case</b> it gets cold.<span>in case – chuẩn bị trước cho khả năng xảy ra</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "If you ___ ice, it turns to water.",
+          "opts": "heat,will heat,heated,are heating",
+          "ans": "A",
+          "exp": "Zero conditional – sự thật khoa học → if + present simple"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ you if I need any help.",
+          "opts": "will call,would call,call,am calling",
+          "ans": "A",
+          "exp": "First conditional – khả năng tương lai → will + infinitive"
+        },
+        {
+          "type": "mc",
+          "q": "She won't pass the exam ___ she studies harder.",
+          "opts": "unless,if,when,in case",
+          "ans": "A",
+          "exp": "unless = if ... not → She won't pass if she doesn't study harder"
+        },
+        {
+          "type": "mc",
+          "q": "I'll take some cash ___ the ATMs aren't working.",
+          "opts": "in case,if,unless,when",
+          "ans": "A",
+          "exp": "in case = đề phòng khả năng → mang tiền dù có hay không có ATM"
+        },
+        {
+          "type": "mc",
+          "q": "Call me as soon as you ___ home.",
+          "opts": "get,will get,are getting,got",
+          "ans": "A",
+          "exp": "Future time clause – sau as soon as → present simple, KHÔNG dùng will"
+        },
+        {
+          "type": "mc",
+          "q": "When I ___ 30, I want to own my own business.",
+          "opts": "am,will be,would be,were",
+          "ans": "A",
+          "exp": "Future time clause – sau when → present simple"
+        },
+        {
+          "type": "mc",
+          "q": "If dogs ___ scared, they sometimes bite.",
+          "opts": "are,will be,were,had been",
+          "ans": "A",
+          "exp": "Zero conditional – hành vi chung của động vật → present simple"
+        },
+        {
+          "type": "mc",
+          "q": "I won't eat anything ___ I finish work. I'm too busy.",
+          "opts": "until,when,as soon as,unless",
+          "ans": "A",
+          "exp": "until = cho đến khi → phù hợp nhất với ngữ cảnh"
+        },
+        {
+          "type": "mc",
+          "q": "She might fail the test ___ she doesn't revise.",
+          "opts": "if,unless,in case,when",
+          "ans": "A",
+          "exp": "First conditional với might → if + present simple"
+        },
+        {
+          "type": "mc",
+          "q": "Once you ___ the instructions, the task will be easy.",
+          "opts": "read,will read,have read,would read",
+          "ans": "C",
+          "exp": "once + present perfect → nhấn mạnh hành động phải hoàn thành trước"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ the dinner ready before you get home.",
+          "opts": "will have,have,would have,am having",
+          "ans": "A",
+          "exp": "Future perfect trong mệnh đề chính – hoàn thành trước một mốc tương lai"
+        },
+        {
+          "type": "mc",
+          "q": "Plants die if you ___ them enough water.",
+          "opts": "don't give,won't give,didn't give,hadn't given",
+          "ans": "A",
+          "exp": "Zero conditional – sự thật chung → present simple (phủ định)"
+        },
+        {
+          "type": "mc",
+          "q": "I'll wait here ___ she comes back.",
+          "opts": "until,in case,unless,while",
+          "ans": "A",
+          "exp": "until = cho đến khi → hành động tiếp tục cho đến khi điều kiện xảy ra"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ to the beach if the weather is good this weekend.",
+          "opts": "will go,would go,went,go",
+          "ans": "A",
+          "exp": "First conditional – điều kiện có thể xảy ra → will + infinitive"
+        },
+        {
+          "type": "mc",
+          "q": "I'll send you the report as soon as I ___ finished it.",
+          "opts": "have,will have,had,would have",
+          "ans": "A",
+          "exp": "as soon as + present perfect → nhấn mạnh báo cáo phải hoàn thành trước"
+        },
+        {
+          "type": "mc",
+          "q": "If she ___ late again, her boss will be very angry.",
+          "opts": "is,will be,were,would be",
+          "ans": "A",
+          "exp": "First conditional – if + present simple trong mệnh đề điều kiện"
+        },
+        {
+          "type": "mc",
+          "q": "I'll bring my laptop ___ we need to look something up.",
+          "opts": "in case,unless,until,once",
+          "ans": "A",
+          "exp": "in case = đề phòng nếu cần dùng → chuẩn bị trước"
+        },
+        {
+          "type": "mc",
+          "q": "When water ___ 0°C, it freezes.",
+          "opts": "reaches,will reach,reached,has reached",
+          "ans": "A",
+          "exp": "Zero conditional – quy luật vật lý → present simple"
+        },
+        {
+          "type": "mc",
+          "q": "Don't move ___ the doctor tells you it's safe.",
+          "opts": "until,if,in case,when",
+          "ans": "A",
+          "exp": "until = cho đến khi → phù hợp với lệnh/cảnh báo"
+        },
+        {
+          "type": "mc",
+          "q": "Before you ___ to bed, make sure you lock the door.",
+          "opts": "go,will go,went,have gone",
+          "ans": "A",
+          "exp": "Future time clause – sau before → present simple"
+        },
+        {
+          "type": "fill",
+          "q": "If you ___ (touch) a hot stove, you burn yourself.",
+          "ans": "touch",
+          "exp": "Zero conditional – hành động và kết quả luôn xảy ra cùng nhau"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (call) you as soon as I land at the airport.",
+          "ans": "will call",
+          "exp": "First conditional / future time clause – will + infinitive trong mệnh đề chính"
+        },
+        {
+          "type": "fill",
+          "q": "She won't leave ___ (unless) you apologize to her.",
+          "ans": "unless",
+          "exp": "unless = if not → phù hợp với ngữ cảnh"
+        },
+        {
+          "type": "fill",
+          "q": "When you ___ (arrive), give me a call straight away.",
+          "ans": "arrive",
+          "exp": "Future time clause – sau when → present simple"
+        },
+        {
+          "type": "fill",
+          "q": "I'm taking a first-aid kit ___ (in case) someone gets hurt.",
+          "ans": "in case",
+          "exp": "in case = đề phòng khả năng xảy ra"
+        },
+        {
+          "type": "fill",
+          "q": "Once you ___ (finish) this exercise, you can take a break.",
+          "ans": "have finished / finish",
+          "exp": "once + present perfect/simple → hoàn thành trước khi nghỉ"
+        },
+        {
+          "type": "fill",
+          "q": "If metal ___ (get) hot enough, it melts.",
+          "ans": "gets",
+          "exp": "Zero conditional – sự thật vật lý → present simple"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (not / pass) unless he starts studying immediately.",
+          "ans": "will not pass / won't pass",
+          "exp": "First conditional phủ định với unless"
+        },
+        {
+          "type": "fill",
+          "q": "I'll wait ___ (until) you have finished your meal.",
+          "ans": "until",
+          "exp": "until = cho đến khi, phù hợp với ngữ cảnh"
+        },
+        {
+          "type": "fill",
+          "q": "After she ___ (graduate), she wants to travel for a year.",
+          "ans": "graduates / has graduated",
+          "exp": "Future time clause – sau after → present simple hoặc present perfect"
+        },
+        {
+          "type": "fill",
+          "q": "If you ___ (mix) red and blue, you get purple.",
+          "ans": "mix",
+          "exp": "Zero conditional – sự thật về màu sắc → present simple"
+        },
+        {
+          "type": "fill",
+          "q": "She might cry ___ (if) she hears this news.",
+          "ans": "if",
+          "exp": "First conditional với might → if + present simple"
+        },
+        {
+          "type": "fill",
+          "q": "I'll text you before I ___ (leave) the office.",
+          "ans": "leave",
+          "exp": "Future time clause – sau before → present simple"
+        },
+        {
+          "type": "fill",
+          "q": "Write this down ___ (in case) you forget later.",
+          "ans": "in case",
+          "exp": "in case = đề phòng trường hợp quên → chuẩn bị trước"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (start) cooking as soon as I get home.",
+          "ans": "will start",
+          "exp": "Future time clause – mệnh đề chính dùng will"
+        },
+        {
+          "type": "fill",
+          "q": "___ (unless) you book in advance, you won't get a table.",
+          "ans": "Unless",
+          "exp": "unless = if not"
+        },
+        {
+          "type": "fill",
+          "q": "She'll text me as soon as she ___ (know) the result.",
+          "ans": "knows",
+          "exp": "Future time clause – as soon as + present simple"
+        },
+        {
+          "type": "fill",
+          "q": "If it ___ (snow) tomorrow, the match might be cancelled.",
+          "ans": "snows",
+          "exp": "First conditional – if + present simple"
+        },
+        {
+          "type": "fill",
+          "q": "I'll make extra food ___ (in case) more guests arrive.",
+          "ans": "in case",
+          "exp": "in case = đề phòng"
+        },
+        {
+          "type": "fill",
+          "q": "When you ___ (see) him, please give him this message.",
+          "ans": "see",
+          "exp": "Future time clause – when + present simple"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "if you heat water to one hundred degrees it boils",
+            "extra": [
+              "would boil",
+              "heated"
+            ]
+          },
+          {
+            "words": "I will call you as soon as I arrive at the hotel",
+            "extra": [
+              "will arrive",
+              "arrived"
+            ]
+          },
+          {
+            "words": "she won't pass the exam unless she studies harder",
+            "extra": [
+              "would study",
+              "studied"
+            ]
+          },
+          {
+            "words": "I am taking an umbrella in case it rains later",
+            "extra": [
+              "will rain",
+              "rained"
+            ]
+          },
+          {
+            "words": "when you finish your homework you can watch television",
+            "extra": [
+              "will finish",
+              "finished"
+            ]
+          },
+          {
+            "words": "if metal gets hot enough it melts completely",
+            "extra": [
+              "will get",
+              "got"
+            ]
+          },
+          {
+            "words": "I will wait here until she comes back home",
+            "extra": [
+              "will come",
+              "came"
+            ]
+          },
+          {
+            "words": "once you have read the instructions the task will be easy",
+            "extra": [
+              "will read",
+              "read"
+            ]
+          },
+          {
+            "words": "before you go to bed lock the front door please",
+            "extra": [
+              "will go",
+              "went"
+            ]
+          },
+          {
+            "words": "I will send you the file as soon as I have finished it",
+            "extra": [
+              "finish",
+              "will finish"
+            ]
+          },
+          {
+            "words": "if dogs are scared they sometimes bite people",
+            "extra": [
+              "will be",
+              "were"
+            ]
+          },
+          {
+            "words": "she might be angry if you arrive late again",
+            "extra": [
+              "arrived",
+              "will arrive"
+            ]
+          },
+          {
+            "words": "we will go to the park if the weather is nice tomorrow",
+            "extra": [
+              "would be",
+              "were"
+            ]
+          },
+          {
+            "words": "plants die if you do not give them enough water",
+            "extra": [
+              "won't give",
+              "didn't give"
+            ]
+          },
+          {
+            "words": "I will bring my charger in case the battery runs out",
+            "extra": [
+              "ran",
+              "would run"
+            ]
+          },
+          {
+            "words": "don't move until the doctor says it is safe",
+            "extra": [
+              "will say",
+              "said"
+            ]
+          },
+          {
+            "words": "after she graduates she wants to work abroad",
+            "extra": [
+              "will graduate",
+              "graduated"
+            ]
+          },
+          {
+            "words": "if you mix yellow and blue you get green",
+            "extra": [
+              "will get",
+              "got"
+            ]
+          },
+          {
+            "words": "he will not get the job unless he improves his English",
+            "extra": [
+              "would improve",
+              "improved"
+            ]
+          },
+          {
+            "words": "when I am sixty five I will retire from work",
+            "extra": [
+              "will be",
+              "was"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Tom is planning a road trip for next weekend. If the weather {{1}} good, he {{2}} early in the morning. He is packing extra supplies {{3}} something goes wrong on the road. As soon as he {{4}} his car ready, he {{5}} his friends to confirm the plan. Unless everyone {{6}}, they {{7}} the trip until the following weekend. Before they {{8}}, Tom {{9}} all the routes carefully. Once they {{10}} a decision about the destination, nothing will change it.",
+            "blanks": {
+              "1": "is",
+              "2": "will leave",
+              "3": "in case",
+              "4": "gets",
+              "5": "will call",
+              "6": "agrees",
+              "7": "will postpone",
+              "8": "leave",
+              "9": "will check",
+              "10": "have made"
+            },
+            "wordbank": [
+              "be",
+              "leave",
+              "call",
+              "agree",
+              "postpone",
+              "check",
+              "make",
+              "pack",
+              "confirm",
+              "prepare",
+              "decide",
+              "go"
+            ]
+          },
+  {
+    "text": "Every year, thousands of students choose to study abroad. If a student {{1}} a scholarship, the financial pressure becomes much easier. As soon as they {{2}} their visa, the preparation begins in earnest. Before they {{3}}, most students attend an orientation session at their university. Once they {{4}} abroad, culture shock often sets in quickly. If a student {{5}} the local language, settling in becomes far easier. Unless they {{6}} proactive about making friends, loneliness can become a real problem. When students {{7}} how different daily life is, they usually adapt their expectations. If a student {{8}} in touch with family regularly, homesickness tends to decrease. Once they {{9}} a routine, most students find the experience incredibly rewarding. If they {{10}} hard, they will return home with both a degree and a new perspective on life.",
+    "blanks": {
+      "1": "gets",
+      "2": "have received",
+      "3": "leave",
+      "4": "arrive",
+      "5": "speaks",
+      "6": "are",
+      "7": "realise",
+      "8": "stays",
+      "9": "establish",
+      "10": "work"
+    },
+    "wordbank": ["get", "receive", "leave", "arrive", "speak", "be", "realise", "stay", "establish", "work", "apply", "prepare"]
+  },
+  {
+    "text": "Climate scientists warn that if governments {{1}} action now, the consequences will be severe. When global temperatures {{2}} by two degrees, extreme weather events become far more frequent. Unless countries {{3}} their carbon emissions significantly, coastal cities will face serious flooding. If renewable energy {{4}} cheaper, more nations will adopt it faster. As soon as a major economy {{5}} the transition, others tend to follow. If forests {{6}}, the planet loses a vital carbon sink. When citizens {{7}} informed about the issues, they are more likely to demand political change. Unless international cooperation {{8}}, individual efforts will not be enough. If technology {{9}} to advance rapidly, solutions may emerge sooner than expected. Once the global community {{10}} the scale of the problem, real progress can begin.",
+    "blanks": {
+      "1": "don't take",
+      "2": "rise",
+      "3": "reduce",
+      "4": "becomes",
+      "5": "makes",
+      "6": "are destroyed",
+      "7": "are",
+      "8": "improves",
+      "9": "continues",
+      "10": "fully understands"
+    },
+    "wordbank": ["take", "rise", "reduce", "become", "make", "destroy", "be", "improve", "continue", "understand", "invest", "act"]
+  },
+  {
+    "text": "Mai is a young entrepreneur launching her first online business. She is taking a business course in case she {{1}} any gaps in her knowledge. Unless she {{2}} a strong social media presence, reaching customers will be difficult. If she {{3}} her target audience carefully, her marketing will be much more effective. As soon as she {{4}} her website, she will start accepting pre-orders. Once the first orders {{5}}, she will learn a great deal about customer expectations. If a customer {{6}} unsatisfied, she will offer a full refund immediately. When she {{7}} enough profit, she plans to hire a part-time assistant. If her business {{8}} well in the first year, she will expand the product range. Unless she {{9}} her finances carefully, cash flow problems could appear. If everything {{10}} as planned, she hopes to be running a thriving business within two years.",
+    "blanks": {
+      "1": "has",
+      "2": "builds",
+      "3": "researches",
+      "4": "has launched",
+      "5": "come in",
+      "6": "is",
+      "7": "makes",
+      "8": "performs",
+      "9": "manages",
+      "10": "goes"
+    },
+    "wordbank": ["have", "build", "research", "launch", "come", "be", "make", "perform", "manage", "go", "grow", "plan"]
+  },
+          {
+            "text": "Scientists say that if you {{1}} plants to extreme cold, the cells {{2}}. When temperatures {{3}} below freezing, most tropical plants {{4}}. Farmers always cover their crops {{5}} the temperature {{6}} unexpectedly overnight. If a frost {{7}}, the entire harvest could be destroyed. Once the frost {{8}}, farmers {{9}} the damage. Unless action {{10}} quickly, the losses will be enormous.",
+            "blanks": {
+              "1": "expose",
+              "2": "die",
+              "3": "drop",
+              "4": "suffer",
+              "5": "in case",
+              "6": "drops",
+              "7": "comes",
+              "8": "has passed",
+              "9": "will assess",
+              "10": "is taken"
+            },
+            "wordbank": [
+              "expose",
+              "die",
+              "drop",
+              "suffer",
+              "cover",
+              "pass",
+              "assess",
+              "take",
+              "freeze",
+              "damage",
+              "protect",
+              "check"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Viết về kế hoạch của bạn cho kỳ nghỉ sắp tới – những điều kiện để kế hoạch thành công và những gì bạn sẽ làm trong các tình huống khác nhau. Sử dụng first conditional, unless, in case và future time clauses.",
+          "grammar_focus": "First conditional, unless, in case, future time clauses (when/as soon as/before/after)",
+          "hint_words": [
+            "if the weather is",
+            "unless we book",
+            "as soon as we arrive",
+            "in case it rains",
+            "before we leave",
+            "will definitely",
+            "might also",
+            "once we have"
+          ],
+          "min_words": 35,
+          "example": "I am planning a trip to Da Lat next month and I am really looking forward to it. If the weather is good, we will spend most of our time hiking in the mountains and visiting the flower farms. However, unless we book the accommodation early, we might not find a good place to stay, so I am going to do that as soon as I finish work today. I am also packing warm clothes in case the temperature drops at night, since it can be surprisingly cold there. Before we leave, I will check the road conditions and plan the best route. Once we have arrived, the first thing I want to do is visit the local market and try the famous strawberry desserts. If everything goes to plan, this will be one of our best trips yet."
+        },
+  {
+    "vi": "Bạn đang lên kế hoạch cho một dự án nhóm quan trọng ở trường hoặc công việc. Mô tả những điều kiện cần thiết để dự án thành công, những rủi ro có thể xảy ra và cách bạn sẽ phòng ngừa chúng. Dùng first conditional, unless, in case và future time clauses.",
+    "grammar_focus": "First conditional, unless, in case, future time clauses",
+    "hint_words": ["if everyone contributes", "unless we set clear deadlines", "in case someone drops out", "as soon as we agree on", "if the budget runs out", "unless communication improves", "we will not succeed unless", "once we have a plan"],
+    "min_words": 35,
+    "example": "Our team is working on a major presentation for next month, and I want to make sure we approach it as professionally as possible. If everyone contributes equally from the start, the workload will be manageable and the quality will be much higher. Unless we set clear deadlines at the very beginning, some team members will inevitably leave everything until the last minute. I am going to create a shared document in case anyone forgets which tasks they have been assigned. As soon as we all agree on the structure of the presentation, I will book a meeting room for our rehearsal sessions. If the research phase takes longer than expected, we might have to reduce the number of slides, but that is a decision we can make once we have seen how things develop. Unless communication within the group improves significantly, we will struggle to deliver a coherent final product. I will send weekly progress updates in case anyone feels confused about where we are in the process."
+  },
+  {
+    "vi": "Mô tả những quy tắc sống hoặc thói quen lành mạnh mà bạn tin là có tác dụng với bất kỳ ai. Sử dụng zero conditional để diễn đạt những sự thật chung, và first conditional để nói về những thay đổi cụ thể có thể thực hiện.",
+    "grammar_focus": "Zero conditional (universal truths about health/habits), First conditional (specific changes and their results)",
+    "hint_words": ["if you exercise regularly", "when people sleep less than", "if you reduce screen time", "unless you manage stress", "if someone builds a routine", "when you eat whole foods", "if a person surrounds themselves", "unless you make time for rest"],
+    "min_words": 35,
+    "example": "Over the years, I have come to believe that a small number of consistent habits make an enormous difference to how a person feels. If you exercise regularly, even just thirty minutes a day, your energy levels and mood improve noticeably — this seems to hold true regardless of age or fitness level. When people sleep fewer than seven hours a night, concentration drops and decision-making suffers, which is simply how human biology works. If you reduce screen time in the hour before bed, you will almost certainly fall asleep more quickly and wake up feeling more rested. Unless you manage stress through some form of regular outlet — exercise, journalling, talking to friends — it tends to build up and affect every area of your life. On a social level, if a person surrounds themselves with supportive and honest people, they are much more likely to stay motivated through difficult periods. If you build just one new healthy habit this month, the positive effects will begin to ripple outwards into other areas of your life."
+  },
+  {
+    "vi": "Viết về một thành phố hoặc quốc gia bạn muốn sống trong tương lai. Mô tả những điều kiện khiến cuộc sống ở đó tốt hơn hoặc khó khăn hơn, và những bước bạn sẽ thực hiện để đạt được mục tiêu đó. Dùng zero conditional, first conditional và future time clauses.",
+    "grammar_focus": "Zero conditional (facts about the place), First conditional (plans and conditions), Future time clauses",
+    "hint_words": ["if you live in", "when the weather is", "unless the cost of living", "as soon as I save enough", "if I get a job offer", "once I have learned the language", "before I move", "when I arrive"],
+    "min_words": 35,
+    "example": "I have always been drawn to the idea of living in Lisbon, Portugal, and I genuinely believe that if everything goes to plan, I could make that move within the next three years. When the weather is warm and the light falls on the old buildings in the afternoon, the city has an atmosphere that is almost impossible to describe — it simply makes people happy. Unless the cost of living continues to rise sharply, Lisbon will remain one of the most affordable capital cities in Western Europe for foreign workers. As soon as I have saved enough money to cover at least six months of expenses, I will start applying for jobs there seriously. If I get a solid job offer, I will give notice at my current position and begin the practical preparations immediately. Before I move, I want to reach at least a conversational level of Portuguese, because I think that if you make the effort to learn the local language, people respond to you very differently. Once I have arrived and settled in, I plan to spend my weekends exploring the surrounding regions."
+  },
+        {
+          "vi": "Hãy mô tả một số quy tắc hoặc sự thật chung trong cuộc sống, khoa học hoặc xã hội mà bạn tin là đúng. Sử dụng zero conditional và first conditional để phân biệt giữa sự thật luôn đúng và khả năng có thể xảy ra.",
+          "grammar_focus": "Zero conditional (general truths), First conditional (likely future situations)",
+          "hint_words": [
+            "if you don't sleep enough",
+            "when people are stressed",
+            "if a government ignores",
+            "if you practise regularly",
+            "when prices rise",
+            "people tend to",
+            "society will",
+            "individuals will"
+          ],
+          "min_words": 35,
+          "example": "There are certain truths about human behaviour that seem to hold across all cultures and generations. If you do not get enough sleep, your concentration drops and you make more mistakes — this is simply how the brain works. When people feel financially insecure, they tend to save rather than spend, which is why the economy often slows down during uncertain times. On a more personal level, if you practise a skill regularly, you will almost certainly improve, regardless of natural talent. However, some consequences are less automatic. If governments fail to invest in education, future generations will struggle to compete in a changing world. When social inequality grows too large, people will eventually demand change. These patterns remind me that small habits and big policies both have real and predictable consequences."
+        }
+      ]
+    },
+    {
+      "icon": "🟡",
+      "title": "When I do vs When I have done: Future Time Clauses",
+      "level": "upper_intermediate",
+      "badge": "📘 B1+",
+      "badgeClass": "badge-green",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Future Time Clauses – Present Simple vs Present Perfect</div>Sau các liên từ thời gian (<b>when, after, before, until, as soon as, once, while</b>), ta dùng <b>thì hiện tại</b> – <b>KHÔNG BAO GIỜ</b> dùng will.<br><br><b>Present Simple</b> → hành động xảy ra <b>đồng thời</b> với mệnh đề chính:<br><i>I'll move out <b>when I find</b> a job.</i> (tìm được việc → chuyển ra → cùng lúc)<br><i>We won't eat <b>until the guests arrive</b>.</i><br><br><b>Present Perfect</b> → nhấn mạnh hành động trong mệnh đề thời gian phải <b>hoàn thành TRƯỚC</b>:<br><i>I'll move out <b>when I've found</b> a job.</i> (đã tìm được việc xong → rồi mới chuyển ra)</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Khi nào Present Simple và Present Perfect đều được?</div>Khi hành động trong mệnh đề thời gian cần hoàn thành TRƯỚC hành động chính, thường cả hai đều dùng được và có nghĩa tương tự:<br><br><i>I'll go to bed as soon as I <b>finish</b> / <b>have finished</b> my homework.</i><br><i>I won't leave until you <b>arrive</b> / <b>have arrived</b>.</i><br><br>⚠️ Nhưng đôi khi nghĩa thay đổi hoàn toàn:<br><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Present Simple</th><th style=\"padding:4px 8px;text-align:left\">Present Perfect</th></tr><tr><td style=\"padding:4px 8px\">We can discuss this <b>when we have dinner</b>.<br><i>(= trong khi ăn tối)</i></td><td style=\"padding:4px 8px\">We can discuss this <b>when we've had dinner</b>.<br><i>(= sau khi ăn tối xong)</i></td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">When I <b>cook dinner</b>, I'll watch the episode.<br><i>(= trong khi nấu)</i></td><td style=\"padding:4px 8px\">When I <b>have cooked dinner</b>, I'll watch the episode.<br><i>(= sau khi nấu xong)</i></td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Khi nào PHẢI dùng Present Simple (không dùng Perfect)?</div>Khi hành động trong mệnh đề thời gian xảy ra <b>đồng thời</b> với mệnh đề chính (không phải trước):<br><br><i>When I <b>go</b> to France, I'll eat snails.</i> ✅<br><i>❌ When I <b>have gone</b> to France, I'll eat snails.</i> (sai – đã đi rồi thì không ăn ốc được)<br><br><i>When I <b>call</b> Jack, I'll invite him.</i> ✅<br><i>❌ When I <b>have called</b> Jack, I'll invite him.</i> (sai về logic)</div><div class=\"ex-sent\">I'll send you the report when I <b>finish</b> it.<span>Hành động đồng thời → Present Simple phù hợp hơn</span></div><div class=\"ex-sent\">I'll send you the report when I <b>have finished</b> it.<span>Nhấn mạnh báo cáo phải xong trước → Present Perfect</span></div><div class=\"ex-sent\">We can chat when we <b>have dinner</b>.<span>Đồng thời – trong khi ăn → Present Simple</span></div><div class=\"ex-sent\">We can chat when we <b>have had</b> dinner.<span>Sau khi ăn xong → Present Perfect</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "I'll call you when I ___ at the station. (arriving at the same time as the call)",
+          "opts": "arrive,have arrived,will arrive,arrived",
+          "ans": "A",
+          "exp": "Hành động đồng thời (vừa đến vừa gọi) → Present Simple"
+        },
+        {
+          "type": "mc",
+          "q": "Once she ___ the course, she'll apply for the promotion.",
+          "opts": "has completed,completes,will complete,completed",
+          "ans": "A",
+          "exp": "once + present perfect → nhấn mạnh phải hoàn thành khóa học trước"
+        },
+        {
+          "type": "mc",
+          "q": "Let's discuss the plan when we ___ dinner. (= while eating)",
+          "opts": "have,have had,will have,are having",
+          "ans": "A",
+          "exp": "Đồng thời trong khi ăn → Present Simple 'have dinner'"
+        },
+        {
+          "type": "mc",
+          "q": "Let's discuss the plan when we ___  dinner. (= after finishing dinner)",
+          "opts": "have had,have,will have,are having",
+          "ans": "A",
+          "exp": "Sau khi ăn xong → Present Perfect 'have had dinner'"
+        },
+        {
+          "type": "mc",
+          "q": "I won't sign the contract until my lawyer ___ it.",
+          "opts": "has checked,checks,will check,checked",
+          "ans": "A",
+          "exp": "until + present perfect → nhấn mạnh luật sư phải kiểm tra xong trước"
+        },
+        {
+          "type": "mc",
+          "q": "As soon as she ___ the exam results, she'll contact you.",
+          "opts": "gets,has got,will get,got",
+          "ans": "A",
+          "exp": "as soon as + present simple → hành động xảy ra ngay khi điều kiện đến"
+        },
+        {
+          "type": "mc",
+          "q": "When I ___ Paris, I'll visit the Louvre. (= during the trip)",
+          "opts": "visit,have visited,will visit,visited",
+          "ans": "A",
+          "exp": "Hành động đồng thời với chuyến đi → không dùng perfect"
+        },
+        {
+          "type": "mc",
+          "q": "I'll relax once I ___ all my deadlines.",
+          "opts": "have met,meet,will meet,met",
+          "ans": "A",
+          "exp": "once + present perfect → phải hoàn thành deadline trước khi thư giãn"
+        },
+        {
+          "type": "mc",
+          "q": "Before you ___ the email, check it for errors.",
+          "opts": "send,have sent,will send,sent",
+          "ans": "A",
+          "exp": "Before + present simple → kiểm tra trước khi gửi"
+        },
+        {
+          "type": "mc",
+          "q": "They won't make a decision until they ___ all the options.",
+          "opts": "have considered,consider,will consider,considered",
+          "ans": "A",
+          "exp": "until + present perfect → phải xem xét hết các lựa chọn trước"
+        },
+        {
+          "type": "mc",
+          "q": "She'll feel much better after she ___ a good night's sleep.",
+          "opts": "has had,has,will have,had",
+          "ans": "A",
+          "exp": "after + present perfect → ngủ đủ giấc xong → mới cảm thấy tốt hơn"
+        },
+        {
+          "type": "mc",
+          "q": "I'll watch the movie while I ___ dinner. (= at the same time)",
+          "opts": "cook,have cooked,will cook,cooked",
+          "ans": "A",
+          "exp": "while + present simple → đồng thời"
+        },
+        {
+          "type": "mc",
+          "q": "When I ___ cooked dinner, I'll watch the movie. (= after cooking)",
+          "opts": "have,will have,had,am having",
+          "ans": "A",
+          "exp": "When I have cooked → present perfect → sau khi nấu xong"
+        },
+        {
+          "type": "mc",
+          "q": "She'll announce the news as soon as she ___ confirmation.",
+          "opts": "receives,has received,will receive,received",
+          "ans": "A",
+          "exp": "as soon as + present simple → nhận được ngay lập tức sẽ thông báo"
+        },
+        {
+          "type": "mc",
+          "q": "Don't throw away the receipt until you ___ sure the item works.",
+          "opts": "are,have been,will be,were",
+          "ans": "A",
+          "exp": "until + present simple → trạng thái đồng thời"
+        },
+        {
+          "type": "mc",
+          "q": "He'll start the project once he ___ the budget.",
+          "opts": "has approved,approves,will approve,approved",
+          "ans": "A",
+          "exp": "once + present perfect → ngân sách phải được duyệt xong trước"
+        },
+        {
+          "type": "mc",
+          "q": "I'll write to you as soon as I ___ in my new flat.",
+          "opts": "am settled,have settled,will settle,settle",
+          "ans": "A",
+          "exp": "as soon as + present simple → khi đã ổn định sẽ viết thư ngay"
+        },
+        {
+          "type": "mc",
+          "q": "After you ___ the form, hand it to the receptionist.",
+          "opts": "have filled in,fill in,will fill in,filled in",
+          "ans": "A",
+          "exp": "after + present perfect → điền xong rồi mới nộp"
+        },
+        {
+          "type": "mc",
+          "q": "When the guests ___, we'll start the presentation.",
+          "opts": "arrive,have arrived,will arrive,arrived",
+          "ans": "A",
+          "exp": "when + present simple → khách đến thì bắt đầu ngay"
+        },
+        {
+          "type": "mc",
+          "q": "Once I ___ the report, my boss will review it immediately.",
+          "opts": "have submitted,submit,will submit,submitted",
+          "ans": "A",
+          "exp": "once + present perfect → nộp xong thì sếp xem ngay"
+        },
+        {
+          "type": "fill",
+          "q": "I'll go to bed as soon as I ___ (finish) this chapter.",
+          "ans": "finish / have finished",
+          "exp": "as soon as + present simple/perfect – cả hai đều phù hợp"
+        },
+        {
+          "type": "fill",
+          "q": "Once you ___ (read) the report, please give me your feedback.",
+          "ans": "have read",
+          "exp": "once + present perfect → đọc xong mới đưa ra phản hồi"
+        },
+        {
+          "type": "fill",
+          "q": "We can eat when she ___ (cook) dinner. (= while she's cooking)",
+          "ans": "cooks",
+          "exp": "Đồng thời → present simple"
+        },
+        {
+          "type": "fill",
+          "q": "We can eat when she ___ (cook) dinner. (= after she finishes cooking)",
+          "ans": "has cooked",
+          "exp": "Sau khi nấu xong → present perfect"
+        },
+        {
+          "type": "fill",
+          "q": "Before you ___ (sign) anything, read the terms carefully.",
+          "ans": "sign",
+          "exp": "before + present simple → đọc trước khi ký"
+        },
+        {
+          "type": "fill",
+          "q": "They won't give you the keys until you ___ (pay) the deposit.",
+          "ans": "have paid / pay",
+          "exp": "until → đặt cọc xong mới nhận chìa khóa"
+        },
+        {
+          "type": "fill",
+          "q": "She'll feel relieved once she ___ (tell) him the truth.",
+          "ans": "has told",
+          "exp": "once + present perfect → nói ra sự thật xong mới nhẹ nhõm"
+        },
+        {
+          "type": "fill",
+          "q": "I'll call you when I ___ (get) home tonight.",
+          "ans": "get",
+          "exp": "when + present simple → về đến nhà sẽ gọi ngay"
+        },
+        {
+          "type": "fill",
+          "q": "He won't speak to anyone until the meeting ___ (end).",
+          "ans": "has ended / ends",
+          "exp": "until + present simple/perfect → họp xong mới nói chuyện"
+        },
+        {
+          "type": "fill",
+          "q": "After they ___ (discuss) all the options, they'll make a final decision.",
+          "ans": "have discussed",
+          "exp": "after + present perfect → thảo luận xong mới quyết định"
+        },
+        {
+          "type": "fill",
+          "q": "She'll call me when she ___ (land). (= at the moment of landing)",
+          "ans": "lands",
+          "exp": "Hành động đồng thời → present simple"
+        },
+        {
+          "type": "fill",
+          "q": "I won't decide until I ___ (think) it over properly.",
+          "ans": "have thought",
+          "exp": "until + present perfect"
+        },
+        {
+          "type": "fill",
+          "q": "We can leave as soon as he ___ (sign) the documents.",
+          "ans": "has signed",
+          "exp": "as soon as + present perfect"
+        },
+        {
+          "type": "fill",
+          "q": "Don't delete the file until you ___ (make) a backup.",
+          "ans": "have made",
+          "exp": "until + present perfect"
+        },
+        {
+          "type": "fill",
+          "q": "I'll relax once I ___ (submit) the final assignment.",
+          "ans": "have submitted",
+          "exp": "once + present perfect"
+        },
+        {
+          "type": "fill",
+          "q": "After they ___ (review) the proposal, they'll give feedback.",
+          "ans": "have reviewed",
+          "exp": "after + present perfect"
+        },
+        {
+          "type": "fill",
+          "q": "She'll be happy when she ___ (hear) the good news.",
+          "ans": "hears",
+          "exp": "when + present simple – nghe tin là vui ngay"
+        },
+        {
+          "type": "fill",
+          "q": "I'll start cooking as soon as I ___ (get) home tonight.",
+          "ans": "get",
+          "exp": "as soon as + present simple"
+        },
+        {
+          "type": "fill",
+          "q": "Before I ___ (decide), I need to check all the facts.",
+          "ans": "decide",
+          "exp": "before + present simple"
+        },
+        {
+          "type": "fill",
+          "q": "He won't leave until he ___ (finish) everything on his list.",
+          "ans": "has finished",
+          "exp": "until + present perfect"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "I will call you as soon as I arrive at the hotel",
+            "extra": [
+              "have arrived",
+              "will arrive"
+            ]
+          },
+          {
+            "words": "once she has finished the course she will apply for the job",
+            "extra": [
+              "finishes",
+              "will finish"
+            ]
+          },
+          {
+            "words": "when we have dinner we can discuss the problem together",
+            "extra": [
+              "have had dinner",
+              "will have dinner"
+            ]
+          },
+          {
+            "words": "when we have had dinner we can discuss the problem properly",
+            "extra": [
+              "have dinner",
+              "will have dinner"
+            ]
+          },
+          {
+            "words": "she will not sign until her lawyer has checked the contract",
+            "extra": [
+              "checks",
+              "will check"
+            ]
+          },
+          {
+            "words": "after you have filled in the form hand it to reception",
+            "extra": [
+              "fill in",
+              "will fill"
+            ]
+          },
+          {
+            "words": "once I have submitted my thesis I will take a long holiday",
+            "extra": [
+              "submit",
+              "will submit"
+            ]
+          },
+          {
+            "words": "before you send the email read it through carefully",
+            "extra": [
+              "have sent",
+              "will send"
+            ]
+          },
+          {
+            "words": "they will start eating as soon as the food arrives",
+            "extra": [
+              "has arrived",
+              "will arrive"
+            ]
+          },
+          {
+            "words": "I will watch television while I cook dinner this evening",
+            "extra": [
+              "have cooked",
+              "will cook"
+            ]
+          },
+          {
+            "words": "when I have cooked dinner I will relax on the sofa",
+            "extra": [
+              "cook",
+              "will cook"
+            ]
+          },
+          {
+            "words": "she will feel better after she has had a good sleep",
+            "extra": [
+              "has",
+              "will have"
+            ]
+          },
+          {
+            "words": "don't throw the receipt away until you are sure it works",
+            "extra": [
+              "have been",
+              "will be"
+            ]
+          },
+          {
+            "words": "he will announce the result once he has received confirmation",
+            "extra": [
+              "receives",
+              "will receive"
+            ]
+          },
+          {
+            "words": "I will not leave until you have given me a proper answer",
+            "extra": [
+              "give",
+              "will give"
+            ]
+          },
+          {
+            "words": "when the guests arrive we will begin the welcome speech",
+            "extra": [
+              "have arrived",
+              "will arrive"
+            ]
+          },
+          {
+            "words": "once she has told him the truth she will feel much better",
+            "extra": [
+              "tells",
+              "will tell"
+            ]
+          },
+          {
+            "words": "after we have visited the museum we will have lunch nearby",
+            "extra": [
+              "visit",
+              "will visit"
+            ]
+          },
+          {
+            "words": "as soon as he gets back from holiday I will update him",
+            "extra": [
+              "has got",
+              "will get"
+            ]
+          },
+          {
+            "words": "before you go to bed make sure you have done your homework",
+            "extra": [
+              "will go",
+              "went"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Linh is preparing for her final university exam next week. As soon as she {{1}} her revision timetable, she will share it with her study group. Once she {{2}} all the key topics, she plans to do past papers under exam conditions. Before the exam {{3}}, she will make sure she {{4}} at least eight hours of sleep. When she {{5}} the exam hall, she will take a few deep breaths to calm herself. As soon as she {{6}} the paper, she will spend five minutes planning her answers. After she {{7}} all the questions, she will go back and check her work carefully. Once the exam {{8}}, she will call her family immediately. When she {{9}} home, she will celebrate with a big meal. She has promised herself that once everything {{10}}, she will take a two-week break.",
+            "blanks": {
+              "1": "has made",
+              "2": "has reviewed",
+              "3": "starts",
+              "4": "has had",
+              "5": "enters",
+              "6": "has read",
+              "7": "has answered",
+              "8": "has finished",
+              "9": "gets",
+              "10": "is over"
+            },
+            "wordbank": [
+              "make",
+              "review",
+              "start",
+              "have",
+              "enter",
+              "read",
+              "answer",
+              "finish",
+              "get",
+              "be",
+              "prepare",
+              "submit"
+            ]
+          },
+  {
+    "text": "Sophie is preparing to launch her podcast next month. As soon as she {{1}} the first five episodes, she will upload them all at once. Once the podcast {{2}} live, she will promote it on all her social media accounts. Before she {{3}} each episode, she always writes a detailed script. When she {{4}} a guest for the show, she sends them a list of questions in advance. After each recording {{5}}, she edits the audio carefully before publishing. As soon as listeners {{6}} leaving reviews, she will analyse the feedback. Once she {{7}} a steady audience, she plans to approach sponsors. She won't change the format until she {{8}} at least fifty episodes. When the podcast {{9}} a thousand subscribers, she will celebrate with a special live episode. Once everything {{10}} smoothly, she hopes to turn it into a full-time project.",
+    "blanks": {
+      "1": "has recorded",
+      "2": "goes",
+      "3": "records",
+      "4": "invites",
+      "5": "has finished",
+      "6": "start",
+      "7": "has built",
+      "8": "has released",
+      "9": "reaches",
+      "10": "is running"
+    },
+    "wordbank": ["record", "go", "write", "invite", "finish", "start", "build", "release", "reach", "run", "edit", "promote"]
+  },
+  {
+    "text": "The construction of the new city library is almost complete. As soon as the builders {{1}} the final safety checks, the building inspector will visit. Once the inspector {{2}} everything, the council will issue an opening permit. Before the library {{3}} to the public, staff will need to arrange all the books and set up the computer systems. When the cataloguing system {{4}}, volunteers will be able to start shelving books. After the manager {{5}} all the staff, she will run a training day. Once the training {{6}}, everyone will be ready for the opening ceremony. As soon as the mayor {{7}} the ribbon, members of the public can enter. While visitors {{8}} the building on opening day, staff will be on hand to assist. Once the library {{9}} successfully for one month, the council will review the usage data. After they {{10}} the data, they will decide whether to extend the opening hours.",
+    "blanks": {
+      "1": "have completed",
+      "2": "has approved",
+      "3": "opens",
+      "4": "has been installed",
+      "5": "has hired",
+      "6": "has finished",
+      "7": "cuts",
+      "8": "are exploring",
+      "9": "has been operating",
+      "10": "have reviewed"
+    },
+    "wordbank": ["complete", "approve", "open", "install", "hire", "finish", "cut", "explore", "operate", "review", "arrange", "train"]
+  },
+  {
+    "text": "Dr Nguyen is about to submit years of research for publication. Before the journal {{1}} her paper, it must pass a rigorous peer review process. As soon as she {{2}} the final draft to her supervisor, the review process will begin. Once the reviewers {{3}} their reports, the editor will make a decision. If changes are requested, she will revise the paper after she {{4}} the feedback carefully. When the paper {{5}} officially accepted, she will present it at an international conference. As soon as the conference organisers {{6}} her abstract, they will send her an invitation. Before she {{7}} her presentation, she will rehearse it many times. Once she {{8}} her research to a live audience for the first time, she expects to feel both nervous and proud. After the conference {{9}}, she plans to begin her next research project. Once she {{10}} the next topic, she will write a new funding proposal.",
+    "blanks": {
+      "1": "publishes",
+      "2": "has submitted",
+      "3": "have completed",
+      "4": "has read",
+      "5": "has been",
+      "6": "have accepted",
+      "7": "gives",
+      "8": "has presented",
+      "9": "has ended",
+      "10": "has chosen"
+    },
+    "wordbank": ["publish", "submit", "complete", "read", "accept", "give", "present", "end", "choose", "revise", "begin", "prepare"]
+  },
+          {
+            "text": "David is preparing to move to a new city for work. As soon as he {{1}} a flat to rent, he will inform his current landlord. Before he {{2}}, he wants to make sure he {{3}} all his belongings carefully. Once he {{4}} his boxes, the removal company will come to collect them. After he {{5}} into the new place, he will register with a local doctor. While he {{6}} in, his sister will stay to help him organise the furniture. As soon as he {{7}} his internet set up, he will video call his parents. Once he {{8}} settled in his new neighbourhood, he plans to explore the local area. He will feel much happier once he {{9}} a few people and built a social circle. By the time everything {{10}}, he hopes to feel fully at home.",
+            "blanks": {
+              "1": "has found",
+              "2": "leaves",
+              "3": "has packed",
+              "4": "has labelled",
+              "5": "has moved",
+              "6": "is settling",
+              "7": "has got",
+              "8": "has felt",
+              "9": "has met",
+              "10": "has settled down"
+            },
+            "wordbank": [
+              "find",
+              "leave",
+              "pack",
+              "label",
+              "move",
+              "settle",
+              "get",
+              "meet",
+              "explore",
+              "feel",
+              "organise",
+              "register"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Mô tả một kế hoạch quan trọng trong cuộc sống của bạn (ví dụ: tốt nghiệp, chuyển nhà, bắt đầu công việc mới). Mô tả trình tự các bước và điều gì sẽ xảy ra sau khi mỗi bước hoàn thành. Sử dụng when/once/after/as soon as + present perfect để nhấn mạnh hoàn thành, và present simple khi cần.",
+          "grammar_focus": "Future time clauses with present simple vs present perfect (when, once, after, as soon as, before, until)",
+          "hint_words": [
+            "as soon as I have",
+            "once I have finished",
+            "when I get",
+            "after I have saved",
+            "before I leave",
+            "until I find",
+            "I will then",
+            "once everything is sorted"
+          ],
+          "min_words": 35,
+          "example": "I have a very clear plan for the next two years and I feel excited just thinking about it. As soon as I have passed my final exams this summer, I will start applying for graduate positions in the field of data science. Once I have sent out at least twenty applications, I will start preparing for the technical interview stage, which I know will be challenging. When I get my first serious job offer, I will discuss it carefully with my family before making a decision. After I have worked for about a year and saved some money, I will move out of my parents' house and rent a flat closer to the city centre. Before I sign any rental agreement, I will have a lawyer look at the terms. Once I have settled into my new place and my new role, I will finally feel like a proper adult with a real life ahead of me."
+        },
+  {
+    "vi": "Kể về quá trình chuẩn bị cho một kỳ thi quan trọng (thực tế hoặc tưởng tượng). Mô tả chi tiết trình tự các bước chuẩn bị và dùng when/once/after/as soon as + present perfect để nhấn mạnh mỗi giai đoạn phải hoàn thành trước khi bước tiếp theo bắt đầu.",
+    "grammar_focus": "Future time clauses with present perfect (sequential preparation steps)",
+    "hint_words": ["as soon as I have made", "once I have reviewed", "after I have completed", "when I have covered all", "before I sit the exam", "once I have done enough", "as soon as I have identified", "after I have practised"],
+    "min_words": 35,
+    "example": "I have a very important language certification exam in two months, and I am determined to be as well-prepared as possible. As soon as I have made a detailed revision timetable, I will share it with my study partner so we can keep each other accountable. Once I have reviewed all the grammar points that appeared in previous exam papers, I will move on to practising full past papers under timed conditions. After I have completed at least four full mock exams, I will carefully analyse my mistakes and identify the areas where I am weakest. Once I have identified these gaps, I will spend extra time targeting them specifically. As soon as I have covered all the major topic areas, I will do a final full revision in the week before the exam. Before I sit the exam itself, I will make sure I have had a proper meal and a full night of sleep, because I know from experience that mental freshness is just as important as knowledge. Once I have submitted my answers and walked out of the exam hall, I will treat myself to a proper celebration."
+  },
+  {
+    "vi": "Bạn đang lên kế hoạch tổ chức một sự kiện đặc biệt (sinh nhật, hội thảo, buổi gặp mặt, v.v.). Mô tả trình tự cụ thể của các công việc chuẩn bị, dùng when/after/once/as soon as kết hợp cả present simple và present perfect một cách tự nhiên.",
+    "grammar_focus": "Future time clauses: present simple (immediate sequence) and present perfect (completed steps before next action)",
+    "hint_words": ["as soon as I have confirmed", "once I have sent", "when everyone arrives", "before the event starts", "after we have eaten", "as soon as the last guest", "once I have booked", "while guests are"],
+    "min_words": 35,
+    "example": "I am organising a surprise thirtieth birthday party for my closest friend next month, and the planning is already in full swing. As soon as I have confirmed the venue, I will send out informal invitations to all her friends and family. Once I have received replies from everyone, I will book the catering and give them a final number. Before the event starts, I will arrive at least two hours early to decorate the space and brief the staff. As soon as I have finished arranging the decorations, I will collect the birthday cake from the bakery. When everyone arrives, I will make sure they know to hide and stay quiet — the surprise element is crucial. Once she has walked through the door and seen everyone, I will start the music and the celebrations will begin properly. After we have eaten, I have arranged a short slideshow of photographs from her life, which I think will make everyone emotional. As soon as the slideshow has finished, her best friend will give a short speech. Once the formal parts are over, people can simply relax, dance, and enjoy themselves until late."
+  },
+        {
+          "vi": "Hãy mô tả kế hoạch học tập hoặc phát triển bản thân trong 6 tháng tới. Nêu rõ trình tự các bước và dùng when/once/after/as soon as + present perfect để nhấn mạnh rằng mỗi bước cần hoàn thành trước khi bước tiếp theo bắt đầu.",
+          "grammar_focus": "Future time clauses with present perfect (when, once, after, as soon as) – sequential steps",
+          "hint_words": [
+            "as soon as I have",
+            "once I have completed",
+            "after I have mastered",
+            "when I have built",
+            "I will then move on to",
+            "once I have saved enough",
+            "before I start",
+            "as soon as I have finished"
+          ],
+          "min_words": 35,
+          "example": "My plan for the next six months is focused entirely on improving my professional skills and physical health. As soon as I have finished my current work project, I will enrol in an online data analysis course that I have been putting off for months. Once I have completed the first module, I will start practising with real datasets on my own. After I have built enough confidence, I will take on a small freelance project to test my skills in a real environment. In parallel, I am going to start running three times a week. Before I attempt any long distances, I will make sure I have built a solid foundation with shorter runs. Once I have run my first five kilometres without stopping, I will sign up for a local 10K race. As soon as I have done that, I plan to register for a half marathon. I find that breaking big goals into clear sequential steps makes everything feel much more manageable and motivating."
+        },
+        {
+          "vi": "Kể về một ngày dài và bận rộn sắp tới của bạn (thực hoặc tưởng tượng). Mô tả chi tiết trình tự sự kiện, dùng when/after/once/as soon as + present simple hoặc present perfect để cho thấy sự nối tiếp tự nhiên của các hành động.",
+          "grammar_focus": "Future time clauses: present simple (simultaneous/immediate actions) vs present perfect (completed before next action)",
+          "hint_words": [
+            "as soon as I wake up",
+            "once I have had breakfast",
+            "after I have dropped",
+            "when I arrive at",
+            "as soon as the meeting finishes",
+            "once I have dealt with",
+            "before I go to bed",
+            "after I have eaten"
+          ],
+          "min_words": 35,
+          "example": "Tomorrow is going to be one of those extremely busy days that requires military-level planning. As soon as I wake up, I will check my emails and messages before I even get out of bed. Once I have had a quick breakfast, I will drive my daughter to school before heading to the office. When I arrive at work, I will have a full morning of back-to-back meetings, which I am not looking forward to at all. As soon as the last meeting finishes, I will grab a sandwich at my desk and work straight through lunch. After I have dealt with the most urgent emails, I will spend the afternoon preparing a presentation for the following day. Once I have finished that, I will pick my daughter up from school and cook dinner. As soon as we have eaten, I will help her with her homework. Before I go to bed, I will review my notes one more time and set everything out for the next morning. I just hope nothing unexpected comes up."
+        }
+      ]
+    },
+    {
+      "icon": "🔴",
+      "title": "Second & Third Conditionals: Unreal Conditionals",
+      "level": "upper_intermediate",
+      "badge": "📘 B1+",
+      "badgeClass": "badge-green",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Second Conditional – Tình huống giả định ở hiện tại/tương lai</div><b>Cấu trúc:</b> <code>If + Past Simple/Continuous, would/could/might + infinitive</code><br><br><b>Dùng để nói về:</b><br>✦ Tình huống <b>không có thực</b> hoặc <b>khó xảy ra</b> ở hiện tại/tương lai:<br><i>If there <b>were</b> a fire, it <b>would be</b> impossible to escape.</i><br><i>If you <b>weren't making</b> so much noise, I <b>could concentrate</b>.</i><br><i>I <b>wouldn't have</b> a car if I <b>lived</b> in the city.</i><br><br>✦ Cho lời khuyên với <b>if I were you</b>:<br><i>If I <b>were</b> you, I <b>would talk</b> to the teacher.</i> (LUÔN dùng <b>were</b>, không dùng was)<br><br>⚠️ Với động từ <b>be</b>: dùng <b>were</b> (trang trọng) hoặc <b>was</b> (thông thường) sau I/he/she/it:<br><i>If he <b>was/were</b> rich, he wouldn't live here.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Third Conditional – Tình huống giả định trong quá khứ</div><b>Cấu trúc:</b> <code>If + Past Perfect, would/could/might + have + past participle</code><br><br><b>Dùng để nói về tình huống <u>không có thực trong quá khứ</u> và kết quả của nó:</b><br><i>If you <b>had come</b> to class more often, you <b>would have passed</b> the test.</i><br><i>If he <b>hadn't taken</b> his helmet, he <b>could have died</b>.</i><br><i>If the jacket <b>had been</b> a bit cheaper, I <b>might have bought</b> it.</i><br><br>⚠️ KHÔNG dùng <b>would</b> trong mệnh đề <b>if</b>:<br>❌ <i>If I <b>would have known</b>, I would have called.</i><br>✅ <i>If I <b>had known</b>, I would have called.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ So sánh Second vs Third Conditional</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Second Conditional</th><th style=\"padding:4px 8px;text-align:left\">Third Conditional</th></tr><tr><td style=\"padding:4px 8px\">Giả định <b>hiện tại/tương lai</b></td><td style=\"padding:4px 8px\">Giả định <b>quá khứ</b></td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">if + past simple</td><td style=\"padding:4px 8px\">if + past perfect</td></tr><tr><td style=\"padding:4px 8px\">would/could/might + infinitive</td><td style=\"padding:4px 8px\">would/could/might + have + p.p.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><i>If I <b>had</b> more money, I <b>would travel</b> more.</i></td><td style=\"padding:4px 8px\"><i>If I <b>had had</b> more money, I <b>would have travelled</b>.</i></td></tr></table></div><div class=\"ex-sent\">If I <b>won</b> the lottery, I <b>would buy</b> a house.<span>Second conditional – giả định không có thực ở hiện tại</span></div><div class=\"ex-sent\">If I <b>had won</b> the lottery, I <b>would have bought</b> a house.<span>Third conditional – giả định quá khứ, điều đã không xảy ra</span></div><div class=\"ex-sent\">If I <b>were</b> you, I <b>would apologize</b> immediately.<span>Lời khuyên – luôn dùng were với if I were you</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "If I ___ the answer, I would tell you. (But I don't know.)",
+          "opts": "knew,had known,know,would know",
+          "ans": "A",
+          "exp": "Second conditional – không biết hiện tại → if + past simple"
+        },
+        {
+          "type": "mc",
+          "q": "If she ___ more carefully, she wouldn't have made that mistake.",
+          "opts": "had read,read,would read,reads",
+          "ans": "A",
+          "exp": "Third conditional – đọc không kỹ trong quá khứ → if + past perfect"
+        },
+        {
+          "type": "mc",
+          "q": "I would travel more if I ___ more free time.",
+          "opts": "had,had had,have,would have",
+          "ans": "A",
+          "exp": "Second conditional – giả định hiện tại → if + past simple"
+        },
+        {
+          "type": "mc",
+          "q": "If he ___ his helmet, he could have died.",
+          "opts": "hadn't worn,didn't wear,wouldn't wear,doesn't wear",
+          "ans": "A",
+          "exp": "Third conditional – đội mũ bảo hiểm trong quá khứ → if + past perfect"
+        },
+        {
+          "type": "mc",
+          "q": "If I ___ you, I would look for another job.",
+          "opts": "were,was,am,would be",
+          "ans": "A",
+          "exp": "if I were you – luôn dùng were khi cho lời khuyên"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ the promotion if she had applied on time.",
+          "opts": "might have got,might get,got,would get",
+          "ans": "A",
+          "exp": "Third conditional – không nộp đơn đúng hạn → might have + p.p."
+        },
+        {
+          "type": "mc",
+          "q": "If it ___ raining, we could go for a walk.",
+          "opts": "stopped,had stopped,stops,would stop",
+          "ans": "A",
+          "exp": "Second conditional – hiện trời đang mưa → if + past simple"
+        },
+        {
+          "type": "mc",
+          "q": "They would have won the match if the striker ___ injured.",
+          "opts": "hadn't been,wasn't,weren't,wouldn't be",
+          "ans": "A",
+          "exp": "Third conditional – tiền đạo bị chấn thương trong quá khứ → past perfect phủ định"
+        },
+        {
+          "type": "mc",
+          "q": "If you ___ so much junk food, you would feel better.",
+          "opts": "didn't eat,hadn't eaten,don't eat,wouldn't eat",
+          "ans": "A",
+          "exp": "Second conditional – thói quen hiện tại → if + past simple"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ you to the party if I had known you were in town.",
+          "opts": "would have invited,would invite,had invited,invited",
+          "ans": "A",
+          "exp": "Third conditional – không biết → would have + past participle trong mệnh đề chính"
+        },
+        {
+          "type": "mc",
+          "q": "If she ___ the truth from the start, there would be no problem now.",
+          "opts": "had told,told,would tell,tells",
+          "ans": "A",
+          "exp": "Third conditional – không nói thật ngay từ đầu → if + past perfect"
+        },
+        {
+          "type": "mc",
+          "q": "Would you take the job if the salary ___ higher?",
+          "opts": "were,had been,is,would be",
+          "ans": "A",
+          "exp": "Second conditional – giả định hiện tại → if + past simple (were)"
+        },
+        {
+          "type": "mc",
+          "q": "If I ___ a car, I would drive you to the airport.",
+          "opts": "had,had had,have,would have",
+          "ans": "A",
+          "exp": "Second conditional – hiện không có xe → if + past simple"
+        },
+        {
+          "type": "mc",
+          "q": "If you ___ more sleep last night, you wouldn't be so tired now.",
+          "opts": "had got,got,would get,have got",
+          "ans": "A",
+          "exp": "Third conditional – ngủ không đủ giấc tối qua → if + past perfect"
+        },
+        {
+          "type": "mc",
+          "q": "She could speak French better if she ___ more.",
+          "opts": "practised,had practised,practises,would practise",
+          "ans": "A",
+          "exp": "Second conditional – không luyện tập đủ hiện tại → if + past simple"
+        },
+        {
+          "type": "mc",
+          "q": "If it ___ for her advice, I might have quit my job.",
+          "opts": "weren't,hadn't been,isn't,wasn't",
+          "ans": "B",
+          "exp": "Third conditional với cấu trúc 'if it hadn't been for' → nhờ vào lời khuyên của cô ấy trong quá khứ"
+        },
+        {
+          "type": "mc",
+          "q": "They wouldn't be in this mess if they ___ more carefully.",
+          "opts": "had planned,planned,would plan,have planned",
+          "ans": "A",
+          "exp": "Third conditional – không lên kế hoạch kỹ trong quá khứ → past perfect"
+        },
+        {
+          "type": "mc",
+          "q": "If he ___ in the city, he might use public transport more often.",
+          "opts": "lived,had lived,lives,would live",
+          "ans": "A",
+          "exp": "Second conditional – không sống trong thành phố hiện tại → past simple"
+        },
+        {
+          "type": "mc",
+          "q": "What would you have done if you ___ in my position?",
+          "opts": "had been,were,would be,have been",
+          "ans": "A",
+          "exp": "Third conditional – câu hỏi về quá khứ giả định → past perfect"
+        },
+        {
+          "type": "mc",
+          "q": "If only she ___ earlier – she would have caught the train.",
+          "opts": "had left,left,would leave,leaves",
+          "ans": "A",
+          "exp": "Third conditional với if only → tiếc nuối về quá khứ → past perfect"
+        },
+        {
+          "type": "fill",
+          "q": "If I ___ (be) you, I would apologize to her straight away.",
+          "ans": "were",
+          "exp": "if I were you – lời khuyên, luôn dùng were"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (not / make) that mistake if she had been more careful.",
+          "ans": "would not have made / wouldn't have made",
+          "exp": "Third conditional – mệnh đề chính với would have + p.p."
+        },
+        {
+          "type": "fill",
+          "q": "If it ___ (not / rain), we would go for a picnic today.",
+          "ans": "weren't raining / wasn't raining",
+          "exp": "Second conditional – trời đang mưa hiện tại → past continuous phủ định"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (win) the championship if they had trained harder.",
+          "ans": "would have won / might have won / could have won",
+          "exp": "Third conditional – không tập luyện đủ → would/might/could have won"
+        },
+        {
+          "type": "fill",
+          "q": "If he ___ (speak) English fluently, he could apply for that international position.",
+          "ans": "spoke",
+          "exp": "Second conditional – hiện anh ấy không nói tiếng Anh giỏi → past simple"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (call) you sooner if I had found out the news earlier.",
+          "ans": "would have called",
+          "exp": "Third conditional – không biết tin sớm hơn → would have + p.p."
+        },
+        {
+          "type": "fill",
+          "q": "If the weather ___ (be) better, we might go camping this weekend.",
+          "ans": "were / was",
+          "exp": "Second conditional – thời tiết xấu → past simple (were/was)"
+        },
+        {
+          "type": "fill",
+          "q": "She wouldn't have been so upset if you ___ (not / say) that.",
+          "ans": "hadn't said",
+          "exp": "Third conditional phủ định – điều đã nói trong quá khứ → past perfect"
+        },
+        {
+          "type": "fill",
+          "q": "If I ___ (have) more experience, I would apply for the manager role.",
+          "ans": "had",
+          "exp": "Second conditional – hiện không đủ kinh nghiệm → past simple"
+        },
+        {
+          "type": "fill",
+          "q": "The project ___ (be) a success if the team had communicated better.",
+          "ans": "would have been / could have been / might have been",
+          "exp": "Third conditional – giao tiếp kém trong quá khứ → would/could/might have been"
+        },
+        {
+          "type": "fill",
+          "q": "If I ___ (be) taller, I would have played basketball professionally.",
+          "ans": "had been",
+          "exp": "Third conditional – past perfect"
+        },
+        {
+          "type": "fill",
+          "q": "What ___ you ___ (do) if you had found a wallet full of cash?",
+          "ans": "would / have done",
+          "exp": "Third conditional – câu hỏi giả định quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "She could ___ (reach) the final if she hadn't injured her knee.",
+          "ans": "have reached",
+          "exp": "Third conditional – could have + p.p."
+        },
+        {
+          "type": "fill",
+          "q": "If I ___ (not / be) so tired right now, I would help you move.",
+          "ans": "weren't / wasn't",
+          "exp": "Second conditional – mệt hiện tại → past simple phủ định"
+        },
+        {
+          "type": "fill",
+          "q": "They would have finished if the client ___ (not / keep) changing the brief.",
+          "ans": "hadn't kept",
+          "exp": "Third conditional – past perfect phủ định"
+        },
+        {
+          "type": "fill",
+          "q": "If only the doctor ___ (diagnose) it sooner, he might have recovered fully.",
+          "ans": "had diagnosed",
+          "exp": "If only + past perfect"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (not / embarrass) himself if he had prepared properly.",
+          "ans": "wouldn't have embarrassed",
+          "exp": "Third conditional phủ định"
+        },
+        {
+          "type": "fill",
+          "q": "If she ___ (have) more confidence, she would speak up in meetings.",
+          "ans": "had",
+          "exp": "Second conditional – thiếu tự tin hiện tại"
+        },
+        {
+          "type": "fill",
+          "q": "Could you ___ (finish) the project if you had had more time?",
+          "ans": "have finished",
+          "exp": "Third conditional – could have + p.p. trong câu hỏi"
+        },
+        {
+          "type": "fill",
+          "q": "If it ___ (not / be) so expensive, I would buy it immediately.",
+          "ans": "weren't / wasn't",
+          "exp": "Second conditional – đắt tiền hiện tại → past simple phủ định"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "if I were you I would look for another job immediately",
+            "extra": [
+              "was",
+              "would be"
+            ]
+          },
+          {
+            "words": "she would have got the promotion if she had applied on time",
+            "extra": [
+              "applied",
+              "would apply"
+            ]
+          },
+          {
+            "words": "if it stopped raining we could go for a long walk",
+            "extra": [
+              "had stopped",
+              "will stop"
+            ]
+          },
+          {
+            "words": "I would tell you the answer if I knew it",
+            "extra": [
+              "had known",
+              "know"
+            ]
+          },
+          {
+            "words": "they wouldn't be in this mess if they had planned more carefully",
+            "extra": [
+              "planned",
+              "would plan"
+            ]
+          },
+          {
+            "words": "if he hadn't worn his helmet he could have died",
+            "extra": [
+              "didn't wear",
+              "wouldn't wear"
+            ]
+          },
+          {
+            "words": "would you take the job if the salary were higher",
+            "extra": [
+              "had been",
+              "would be"
+            ]
+          },
+          {
+            "words": "she could speak better if she practised more every day",
+            "extra": [
+              "had practised",
+              "would practise"
+            ]
+          },
+          {
+            "words": "I would have invited you if I had known you were in town",
+            "extra": [
+              "knew",
+              "know"
+            ]
+          },
+          {
+            "words": "if you had got more sleep you would not feel so tired",
+            "extra": [
+              "got",
+              "have got"
+            ]
+          },
+          {
+            "words": "what would you have done if you had been in my position",
+            "extra": [
+              "were",
+              "would be"
+            ]
+          },
+          {
+            "words": "she might not have quit if the boss had treated her better",
+            "extra": [
+              "treated",
+              "would treat"
+            ]
+          },
+          {
+            "words": "if he lived in the city he might use public transport more",
+            "extra": [
+              "had lived",
+              "would live"
+            ]
+          },
+          {
+            "words": "if I had a car I would drive you to the airport",
+            "extra": [
+              "had had",
+              "have"
+            ]
+          },
+          {
+            "words": "the team would have won if the striker hadn't been injured",
+            "extra": [
+              "wasn't",
+              "wouldn't be"
+            ]
+          },
+          {
+            "words": "if you didn't eat so much junk food you would feel healthier",
+            "extra": [
+              "hadn't eaten",
+              "don't eat"
+            ]
+          },
+          {
+            "words": "she wouldn't have been upset if you hadn't said that to her",
+            "extra": [
+              "didn't say",
+              "wouldn't say"
+            ]
+          },
+          {
+            "words": "if I had more free time I would travel around the world",
+            "extra": [
+              "had had",
+              "have"
+            ]
+          },
+          {
+            "words": "could have been a doctor if she had studied medicine at university",
+            "extra": [
+              "studied",
+              "would study"
+            ]
+          },
+          {
+            "words": "if the project had been planned better it would have succeeded",
+            "extra": [
+              "was planned",
+              "would be planned"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Jake is a talented but unlucky musician. If he {{1}} a better manager years ago, his career {{2}} very differently. When he was twenty, a major label {{3}} him a contract, but he turned it down because he {{4}} too proud at the time. If he {{5}} that deal, he {{6}} a household name by now. His friend Nina says, 'If I {{7}} you, I would have taken any opportunity that came my way.' Jake admits, 'If I {{8}} how competitive the industry was, I {{9}} differently.' These days, he still plays small venues. If only things {{10}} differently, he might be performing in arenas tonight.",
+            "blanks": {
+              "1": "had found",
+              "2": "would have gone",
+              "3": "offered",
+              "4": "was",
+              "5": "had accepted",
+              "6": "would be",
+              "7": "were",
+              "8": "had known",
+              "9": "would have acted",
+              "10": "had gone"
+            },
+            "wordbank": [
+              "find",
+              "go",
+              "offer",
+              "be",
+              "accept",
+              "know",
+              "act",
+              "turn",
+              "decide",
+              "perform",
+              "succeed",
+              "regret"
+            ]
+          },
+  {
+    "text": "Clara is a talented painter who gave up art years ago to pursue a more 'practical' career. Now she regrets it deeply. If she {{1}} her passion, she might be a well-known artist today. If only she {{2}} to her art teacher, who told her she had real talent. She often thinks: if I {{3}} more courageous at twenty, I {{4}} a completely different life now. Her friend says, 'If I {{5}} you, I would start painting again immediately — it's never too late.' Clara admits that if she {{6}} so much time worrying about money, she {{7}} more of her early opportunities. She wonders what {{8}} if she {{9}} that first gallery invitation ten years ago. If she {{10}} right now, she would sign up for an evening art class tonight.",
+    "blanks": {
+      "1": "had pursued",
+      "2": "had listened",
+      "3": "had been",
+      "4": "would have",
+      "5": "were",
+      "6": "hadn't spent",
+      "7": "would have taken",
+      "8": "would have happened",
+      "9": "had accepted",
+      "10": "were braver"
+    },
+    "wordbank": ["pursue", "listen", "be", "have", "spend", "take", "happen", "accept", "start", "give", "follow", "decide"]
+  },
+  {
+    "text": "The history of the internet might have been very different. If Tim Berners-Lee {{1}} the World Wide Web freely available, companies might have controlled it entirely from the beginning. If early internet pioneers {{2}} so openly, the technology would not have spread so quickly. The dot-com boom of the 1990s {{3}} differently if investors {{4}} more cautious. If social media {{5}} in the early 2000s, the way people communicate would look completely unrecognisable today. Many experts argue that if governments {{6}} stronger regulations earlier, certain online harms {{7}}. If data privacy {{8}} treated more seriously from the start, millions of users {{9}} control over their personal information. If the internet {{10}} to evolve as it has, the global economy would function in a fundamentally different way.",
+    "blanks": {
+      "1": "hadn't made",
+      "2": "hadn't shared",
+      "3": "would have ended",
+      "4": "had been",
+      "5": "hadn't emerged",
+      "6": "had introduced",
+      "7": "would have been prevented",
+      "8": "had been",
+      "9": "would have retained",
+      "10": "hadn't continued"
+    },
+    "wordbank": ["make", "share", "end", "be", "emerge", "introduce", "prevent", "treat", "retain", "continue", "develop", "regulate"]
+  },
+  {
+    "text": "Sam has just failed his driving test for the third time. He is reflecting on what went wrong. If he {{1}} more lessons before the test, he {{2}} more confident behind the wheel. If only he {{3}} the night before — he was exhausted on the day. His instructor said that if Sam {{4}} the road signs more carefully during the test, he {{5}} those points. Sam thinks: if I {{6}} so nervous, I {{7}} all those mistakes. His mother says, 'If I {{8}} you, I would take a few weeks off and then book another test.' If Sam {{9}} to her advice sooner, things {{10}} differently. He is determined to pass next time.",
+    "blanks": {
+      "1": "had taken",
+      "2": "would have felt",
+      "3": "hadn't stayed up",
+      "4": "had observed",
+      "5": "wouldn't have lost",
+      "6": "hadn't been",
+      "7": "wouldn't have made",
+      "8": "were",
+      "9": "had listened",
+      "10": "might have turned out"
+    },
+    "wordbank": ["take", "feel", "stay", "observe", "lose", "be", "make", "listen", "turn", "practise", "prepare", "pass"]
+  },
+          {
+            "text": "Maria is thinking about her life choices. If she {{1}} architecture instead of law, she {{2}} much happier. Her parents pushed her into law, and if they {{3}} her more freedom, she {{4}} a different path. Looking back, if she {{5}} her instincts at eighteen, everything {{6}} out differently. Now she's considering a career change. If she {{7}} enough savings, she {{8}} a postgraduate course in design. Her colleague says that if she {{9}} afraid of starting over, she {{10}} more successful in the long run.",
+            "blanks": {
+              "1": "had studied",
+              "2": "would have been",
+              "3": "had given",
+              "4": "would have chosen",
+              "5": "had followed",
+              "6": "would have turned",
+              "7": "had",
+              "8": "would do",
+              "9": "weren't",
+              "10": "would be"
+            },
+            "wordbank": [
+              "study",
+              "be",
+              "give",
+              "choose",
+              "follow",
+              "turn",
+              "have",
+              "do",
+              "fear",
+              "pursue",
+              "decide",
+              "change"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Nghĩ về một quyết định quan trọng trong quá khứ mà bạn đã đưa ra (hoặc không đưa ra). Nếu bạn quyết định khác, cuộc sống của bạn sẽ thay đổi thế nào? Sử dụng third conditional để nói về quá khứ và second conditional nếu liên quan đến hiện tại.",
+          "grammar_focus": "Third conditional (past regrets/alternatives), Second conditional (present hypothetical consequences)",
+          "hint_words": [
+            "if I had chosen",
+            "I would have been",
+            "I might never have",
+            "had I known",
+            "if I hadn't decided to",
+            "my life would be",
+            "I wouldn't have met",
+            "things would have turned out",
+            "looking back",
+            "if I were in that situation now"
+          ],
+          "min_words": 40,
+          "example": "One of the most significant decisions of my life was choosing to study abroad for a year. At the time, I almost didn't go — if my teacher hadn't encouraged me, I would never have applied. Had I stayed home, I would have missed out on experiences that completely shaped the person I am today. If I hadn't moved to a new country at eighteen, I would never have developed the confidence to speak in front of large groups, which is now a core part of my job. I also met some of my closest friends during that year, and if things had gone differently, I would never have known them. Of course, there were difficulties too — if I had prepared better financially, I wouldn't have struggled so much in the first few months. But looking back, I wouldn't change a thing. If I were ever in that position again, I would make exactly the same choice."
+        },
+  {
+    "vi": "Hãy viết về một quyết định quan trọng trong tương lai mà bạn đang cân nhắc (chuyển thành phố, đổi nghề, bắt đầu kinh doanh). Dùng second conditional để nói về các kịch bản giả định và hệ quả của chúng.",
+    "grammar_focus": "Second conditional (hypothetical present/future decisions and consequences)",
+    "hint_words": ["if I decided to", "I would probably", "if I moved to", "I might feel", "if I left my job", "I could build", "if I had more", "I would be able to", "if I took the risk", "I wouldn't regret", "if things didn't work out"],
+    "min_words": 35,
+    "example": "I have been seriously considering leaving my stable office job and starting my own small business, and I find myself going around in circles thinking about the second conditional implications of that decision. If I quit my job tomorrow and launched the business straight away, the financial pressure would be enormous, and I am not sure I could handle that stress. If I saved for one more year first, I would feel much more secure and could invest properly in the setup costs. If I moved to a smaller city at the same time, the cost of living would drop significantly, which would give the business more time to grow before I needed it to be profitable. Of course, if the business didn't perform well in the first year, I would need to be willing to return to employment without feeling like a failure. If I had a business partner to share the burden with, I think I would feel far more confident about the whole idea. The honest truth is that if I stayed in my current role for the next ten years without trying, I would always wonder what might have been."
+  },
+  {
+    "vi": "Viết về một sự kiện thể thao, cuộc thi hoặc biểu diễn trong quá khứ mà bạn biết (thực hoặc tưởng tượng). Nếu các yếu tố chính diễn ra khác đi, kết quả sẽ thay đổi thế nào? Dùng third conditional.",
+    "grammar_focus": "Third conditional (alternative outcomes in a past event)",
+    "hint_words": ["if the team had", "they would have won", "had the coach decided", "the result might have been", "if only the player hadn't", "the crowd would have", "if the conditions had been", "the final score could have", "had they prepared differently", "the championship would have"],
+    "min_words": 35,
+    "example": "The 2019 Rugby World Cup final between England and South Africa remains one of the most discussed sporting events in recent memory, at least among English rugby supporters who still find it painful to revisit. England went into the match as favourites, and if they had managed to replicate the performance they delivered against New Zealand in the semi-final, the outcome might have been entirely different. If their key ball carrier had not picked up that injury in training during the week before the final, England would have had a much stronger carrying game and could have applied far more physical pressure on the South African defence. Had the English pack held together better in the scrum during the first half, South Africa's forwards would not have been able to dominate as they did. If the tactical decisions in the first twenty minutes had been more conservative, England might have avoided giving away those early penalties. However, South Africa were simply outstanding on the day, and even if England had made all the right decisions, the Springboks would probably still have deserved to win. It is a reminder that in sport, as in life, the difference between victory and defeat often comes down to a handful of moments."
+  },
+  {
+    "vi": "Viết một đoạn văn về một vấn đề cá nhân hoặc tình huống khó khăn bạn đã trải qua. Hãy dùng cả second và third conditional: third conditional để phản ánh về quá khứ, second conditional để nói về những gì bạn có thể làm khác đi nếu đối mặt với tình huống tương tự bây giờ.",
+    "grammar_focus": "Third conditional (reflecting on what happened), Second conditional (what you would do differently now)",
+    "hint_words": ["if I had known", "I would have handled", "had I been more", "things would have gone", "if I faced the same situation now", "I would approach it differently", "I wouldn't make the same", "if I were in that position today", "I would be more", "had I asked for help"],
+    "min_words": 40,
+    "example": "A few years ago, I went through a period of intense work-related stress that, looking back, I handled very poorly. At the time, I tried to manage everything alone, and if I had asked for help earlier, the situation would never have escalated as it did. Had I been more open with my manager about the volume of work I was carrying, she would have redistributed the workload and I would not have ended up burning out completely. If I had recognised the warning signs sooner — the poor sleep, the constant anxiety, the inability to switch off — I could have intervened before the problem became serious. I also wish I had maintained some kind of physical routine during that period, because if I had kept exercising even once or twice a week, I would have coped far better mentally. If I were in that same situation today, I would approach it completely differently. I would be much more willing to say directly that I was overwhelmed. I wouldn't try to appear capable of handling everything alone, because I now know that asking for support is not a sign of weakness. If I had understood that back then, I would have saved myself months of unnecessary suffering."
+  },
+        {
+          "vi": "Hãy viết về một vấn đề xã hội hay môi trường mà bạn quan tâm. Nếu con người hành động khác đi trong quá khứ, tình hình sẽ ra sao hiện nay? Và nếu chúng ta hành động ngay bây giờ, tương lai sẽ thay đổi như thế nào?",
+          "grammar_focus": "Third conditional (what could have been different), Second conditional (what could change now)",
+          "hint_words": [
+            "if governments had acted",
+            "millions of people would not have",
+            "if companies had invested",
+            "we would not be facing",
+            "if we reduced",
+            "the situation would improve",
+            "had the world taken",
+            "could have been prevented",
+            "if individuals chose",
+            "might still be reversible"
+          ],
+          "min_words": 40,
+          "example": "The issue of plastic pollution is one that troubles me deeply, largely because I believe it could have been avoided. If manufacturers had invested in biodegradable materials decades ago, we would not be facing the scale of ocean contamination we see today. Had governments introduced stricter regulations in the 1970s, millions of tonnes of plastic waste might never have entered our ecosystems. The damage done to marine life, in particular, could have been significantly reduced if consumers had been educated earlier about the consequences of single-use products. However, it is not too late to act. If every country were to ban non-essential plastics immediately, scientists believe the recovery of ocean environments could begin within a generation. If corporations redirected even a fraction of their profits into sustainable packaging research, we would see dramatic improvements within a decade. The situation is serious, but it is not irreversible — if only we had the political will to act collectively and urgently."
+        }
+      ]
+    },
+    {
+      "icon": "💛",
+      "title": "Wishes & Regrets: I wish / If only",
+      "level": "upper_intermediate",
+      "badge": "📘 B1+",
+      "badgeClass": "badge-green",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 I wish / If only – Cấu trúc và cách dùng</div><b>I wish</b> và <b>if only</b> có nghĩa tương tự. <b>If only</b> thường mạnh hơn, thể hiện cảm xúc mạnh hơn (tiếc nuối, thất vọng).<br><br><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px\">Dùng</th><th style=\"padding:4px 8px\">Cấu trúc</th><th style=\"padding:4px 8px\">Ví dụ</th></tr><tr><td style=\"padding:4px 8px\">Mong muốn điều khác đi ở <b>hiện tại/tương lai</b> (không có thực)</td><td style=\"padding:4px 8px\">wish/if only + Past Simple</td><td style=\"padding:4px 8px\"><i>I wish I <b>had</b> more money. (Tôi ước tôi có nhiều tiền hơn)</i></td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">Tiếc về điều đã xảy ra ở <b>quá khứ</b></td><td style=\"padding:4px 8px\">wish/if only + Past Perfect</td><td style=\"padding:4px 8px\"><i>I wish I <b>hadn't quit</b> my job. (Ước gì tôi không nghỉ việc)</i></td></tr><tr><td style=\"padding:4px 8px\">Muốn ai đó (hoặc gì đó) thay đổi hành vi – bực bội, khó chịu</td><td style=\"padding:4px 8px\">wish + person/thing + would</td><td style=\"padding:4px 8px\"><i>I wish you <b>would stop</b> biting your nails. (Bực vì cứ cắn móng tay)</i></td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 Phân biệt chi tiết</div><b>1. Wish + Past Simple → Mong muốn điều ngược lại với HIỆN TẠI:</b><br><i>I wish I <b>spoke</b> Japanese. (= Tôi không nói được tiếng Nhật, tôi ước mình có thể)</i><br><i>I wish things <b>were</b> different. (= Nhưng thực tế không thể thay đổi được)</i><br><i>I wish I <b>could</b> be there for you.</i><br><br><b>2. Wish + Past Perfect → Tiếc nuối về QUÁKHỨ:</b><br><i>I wish I <b>hadn't wasted</b> all that money.</i><br><i>If only she <b>had studied</b> harder – she could have passed.</i><br><br><b>3. Wish + would → Phàn nàn, muốn ai/cái gì thay đổi (thường dùng về người khác):</b><br><i>I wish it <b>would stop</b> raining. (= Trời vẫn đang mưa, tôi bực quá)</i><br><i>I wish you <b>would listen</b> to me for once!</i><br><br>⚠️ KHÔNG dùng wish + I/we + would:<br>❌ <i>I wish I <b>would</b> be taller.</i> → ✅ <i>I wish I <b>were</b> taller.</i></div><div class=\"ex-sent\">I wish I <b>lived</b> closer to work.<span>Wish + past simple → mong muốn ngược với thực tế hiện tại</span></div><div class=\"ex-sent\">If only I <b>had studied</b> harder at school!<span>If only + past perfect → tiếc nuối về quá khứ</span></div><div class=\"ex-sent\">I wish you <b>would turn</b> down the music.<span>Wish + would → bực bội, muốn người khác thay đổi</span></div><div class=\"ex-sent\">She wishes she <b>could</b> afford a holiday this year.<span>Wish + could + infinitive → muốn nhưng không thể</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "I wish I ___ more time to study for this exam.",
+          "opts": "had,have,would have,had had",
+          "ans": "A",
+          "exp": "Wish + past simple → mong muốn điều ngược với hiện tại (không có đủ thời gian)"
+        },
+        {
+          "type": "mc",
+          "q": "If only she ___ harder at school. She regrets it now.",
+          "opts": "had studied,studied,would study,has studied",
+          "ans": "A",
+          "exp": "If only + past perfect → tiếc nuối về quá khứ"
+        },
+        {
+          "type": "mc",
+          "q": "I wish you ___ make so much noise. I'm trying to concentrate!",
+          "opts": "wouldn't,didn't,hadn't,won't",
+          "ans": "A",
+          "exp": "Wish + would (phủ định) → phàn nàn về hành vi của người khác"
+        },
+        {
+          "type": "mc",
+          "q": "He wishes he ___ to the concert last night. He missed it.",
+          "opts": "had gone,went,would go,goes",
+          "ans": "A",
+          "exp": "Wish + past perfect → tiếc đã không đi tối qua"
+        },
+        {
+          "type": "mc",
+          "q": "I wish the weather ___ warmer. It's freezing outside.",
+          "opts": "were,would be,has been,had been",
+          "ans": "A",
+          "exp": "Wish + past simple (were) → mong thực tế hiện tại khác đi"
+        },
+        {
+          "type": "mc",
+          "q": "If only I ___ the email before sending it! There were so many errors.",
+          "opts": "had checked,checked,would check,have checked",
+          "ans": "A",
+          "exp": "If only + past perfect → tiếc không kiểm tra email trước khi gửi"
+        },
+        {
+          "type": "mc",
+          "q": "She wishes her neighbours ___ play loud music every night.",
+          "opts": "wouldn't,didn't,hadn't,don't",
+          "ans": "A",
+          "exp": "Wish + would (phủ định) → bực bội vì hàng xóm hay mở nhạc to"
+        },
+        {
+          "type": "mc",
+          "q": "I wish I ___ speak Chinese. It would help me so much at work.",
+          "opts": "could,can,would,might",
+          "ans": "A",
+          "exp": "Wish + could + infinitive → mong có khả năng nói tiếng Trung"
+        },
+        {
+          "type": "mc",
+          "q": "If only I ___ that advice earlier. It would have saved so much time.",
+          "opts": "had received,received,would receive,have received",
+          "ans": "A",
+          "exp": "If only + past perfect → tiếc không nhận được lời khuyên sớm hơn"
+        },
+        {
+          "type": "mc",
+          "q": "I wish she ___ stop interrupting me every time I speak!",
+          "opts": "would,could,might,should",
+          "ans": "A",
+          "exp": "Wish + would → bực bội vì ai đó liên tục ngắt lời"
+        },
+        {
+          "type": "mc",
+          "q": "He wishes he ___ in a bigger city. Life here is too quiet for him.",
+          "opts": "lived,had lived,would live,lives",
+          "ans": "A",
+          "exp": "Wish + past simple → mong muốn ngược với thực tế hiện tại"
+        },
+        {
+          "type": "mc",
+          "q": "If only I ___ about the traffic – I would have left earlier.",
+          "opts": "had known,knew,would know,know",
+          "ans": "A",
+          "exp": "If only + past perfect → tiếc không biết về kẹt xe"
+        },
+        {
+          "type": "mc",
+          "q": "She wishes she ___ accepted that job offer two years ago.",
+          "opts": "had,hasn't,would have,has",
+          "ans": "A",
+          "exp": "Wish + past perfect → tiếc nuối → wish she had accepted"
+        },
+        {
+          "type": "mc",
+          "q": "I wish it ___ stop raining. We've been stuck inside for days!",
+          "opts": "would,could,might,should",
+          "ans": "A",
+          "exp": "Wish + would → trời vẫn đang mưa, bực bội muốn thay đổi"
+        },
+        {
+          "type": "mc",
+          "q": "If only I ___ a better relationship with my parents when I was young.",
+          "opts": "had had,had,would have,have had",
+          "ans": "A",
+          "exp": "If only + past perfect → tiếc về mối quan hệ trong quá khứ"
+        },
+        {
+          "type": "mc",
+          "q": "I wish you ___ listen when I'm explaining something important.",
+          "opts": "would,could,should,might",
+          "ans": "A",
+          "exp": "Wish + would → phàn nàn ai đó không lắng nghe"
+        },
+        {
+          "type": "mc",
+          "q": "She wishes she ___ more languages. It opens so many doors.",
+          "opts": "spoke,had spoken,would speak,speaks",
+          "ans": "A",
+          "exp": "Wish + past simple → mong muốn khả năng nói nhiều ngoại ngữ hơn (hiện tại)"
+        },
+        {
+          "type": "mc",
+          "q": "I wish I ___ so nervous before presentations. It's really affecting me.",
+          "opts": "weren't,hadn't been,wouldn't be,am not",
+          "ans": "A",
+          "exp": "Wish + past simple (weren't) → mong muốn thực tế hiện tại khác đi"
+        },
+        {
+          "type": "mc",
+          "q": "If only we ___ more time together before she moved abroad.",
+          "opts": "had spent,spent,would spend,have spent",
+          "ans": "A",
+          "exp": "If only + past perfect → tiếc về thời gian bên nhau trong quá khứ"
+        },
+        {
+          "type": "mc",
+          "q": "I wish my phone ___ run out of battery at such a bad time.",
+          "opts": "hadn't,didn't,wouldn't,hasn't",
+          "ans": "A",
+          "exp": "Wish + past perfect phủ định → tiếc chuyện đã xảy ra"
+        },
+        {
+          "type": "fill",
+          "q": "I wish I ___ (live) closer to my family. I miss them so much.",
+          "ans": "lived",
+          "exp": "Wish + past simple → mong muốn ngược với thực tế hiện tại"
+        },
+        {
+          "type": "fill",
+          "q": "If only she ___ (not / quit) her job last month. Now she regrets it.",
+          "ans": "hadn't quit",
+          "exp": "If only + past perfect phủ định → tiếc đã nghỉ việc"
+        },
+        {
+          "type": "fill",
+          "q": "I wish you ___ (stop) leaving your clothes all over the floor!",
+          "ans": "would stop",
+          "exp": "Wish + would → phàn nàn về thói quen của người khác"
+        },
+        {
+          "type": "fill",
+          "q": "He wishes he ___ (study) medicine instead of engineering.",
+          "ans": "had studied",
+          "exp": "Wish + past perfect → tiếc lựa chọn ngành học trong quá khứ"
+        },
+        {
+          "type": "fill",
+          "q": "I wish I ___ (can) afford to travel more. Flights are so expensive.",
+          "ans": "could",
+          "exp": "Wish + could → mong có khả năng đi du lịch nhiều hơn"
+        },
+        {
+          "type": "fill",
+          "q": "If only we ___ (know) about the event – we would have gone.",
+          "ans": "had known",
+          "exp": "If only + past perfect → tiếc không biết về sự kiện"
+        },
+        {
+          "type": "fill",
+          "q": "She wishes her boss ___ (not / send) emails at midnight.",
+          "ans": "wouldn't send",
+          "exp": "Wish + would (phủ định) → bực về thói quen của sếp"
+        },
+        {
+          "type": "fill",
+          "q": "I wish the internet connection ___ (be) faster. This is so frustrating.",
+          "ans": "were",
+          "exp": "Wish + past simple (were) → mong thực tế hiện tại khác"
+        },
+        {
+          "type": "fill",
+          "q": "If only I ___ (take) that opportunity when I had the chance.",
+          "ans": "had taken",
+          "exp": "If only + past perfect → tiếc đã không nắm bắt cơ hội"
+        },
+        {
+          "type": "fill",
+          "q": "I wish the neighbours ___ (turn) their music down. I can't sleep!",
+          "ans": "would turn",
+          "exp": "Wish + would → bực bội muốn người khác thay đổi"
+        },
+        {
+          "type": "fill",
+          "q": "If only he ___ (not / spend) all his savings on that car.",
+          "ans": "hadn't spent",
+          "exp": "If only + past perfect phủ định"
+        },
+        {
+          "type": "fill",
+          "q": "I wish my boss ___ (give) us more feedback on our work.",
+          "ans": "would give",
+          "exp": "Wish + would – muốn sếp thay đổi hành vi"
+        },
+        {
+          "type": "fill",
+          "q": "She wishes she ___ (be) more outgoing at university.",
+          "ans": "had been",
+          "exp": "Wish + past perfect – tiếc về tính cách"
+        },
+        {
+          "type": "fill",
+          "q": "I wish I ___ (know) how to cook better. Everything I make is awful.",
+          "ans": "knew",
+          "exp": "Wish + past simple – mong muốn kỹ năng tốt hơn hiện tại"
+        },
+        {
+          "type": "fill",
+          "q": "If only the traffic ___ (not / be) so bad every single morning.",
+          "ans": "weren't",
+          "exp": "If only + past simple phủ định – bực bội thực tế"
+        },
+        {
+          "type": "fill",
+          "q": "He wishes he ___ (apologize) before she moved away.",
+          "ans": "had apologized",
+          "exp": "Wish + past perfect – tiếc không xin lỗi"
+        },
+        {
+          "type": "fill",
+          "q": "I wish people ___ (not / throw) rubbish in the streets.",
+          "ans": "wouldn't throw",
+          "exp": "Wish + would (phủ định) – bực bội hành vi"
+        },
+        {
+          "type": "fill",
+          "q": "If only I ___ (have) a better memory for names.",
+          "ans": "had",
+          "exp": "If only + past simple – mong muốn hiện tại khác đi"
+        },
+        {
+          "type": "fill",
+          "q": "She wishes she ___ (not / argue) with her mum before leaving.",
+          "ans": "hadn't argued",
+          "exp": "Wish + past perfect phủ định"
+        },
+        {
+          "type": "fill",
+          "q": "I wish my laptop ___ (work) properly. It keeps crashing!",
+          "ans": "would work",
+          "exp": "Wish + would – bực bội sự cố kỹ thuật"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "I wish I lived closer to my workplace every day",
+            "extra": [
+              "had lived",
+              "would live"
+            ]
+          },
+          {
+            "words": "if only she had studied harder at school for her exams",
+            "extra": [
+              "studied",
+              "would study"
+            ]
+          },
+          {
+            "words": "I wish you would stop making so much noise right now",
+            "extra": [
+              "stopped",
+              "had stopped"
+            ]
+          },
+          {
+            "words": "he wishes he had gone to the concert last night",
+            "extra": [
+              "went",
+              "would go"
+            ]
+          },
+          {
+            "words": "if only I had checked the email before I sent it",
+            "extra": [
+              "checked",
+              "would check"
+            ]
+          },
+          {
+            "words": "she wishes she could speak more languages for her work",
+            "extra": [
+              "spoke",
+              "had spoken"
+            ]
+          },
+          {
+            "words": "I wish the weather were warmer at this time of year",
+            "extra": [
+              "would be",
+              "had been"
+            ]
+          },
+          {
+            "words": "if only I had known about the traffic I would have left earlier",
+            "extra": [
+              "knew",
+              "would know"
+            ]
+          },
+          {
+            "words": "I wish my neighbours would not play music so loud at night",
+            "extra": [
+              "didn't play",
+              "hadn't played"
+            ]
+          },
+          {
+            "words": "she wishes she had accepted the job offer two years ago",
+            "extra": [
+              "accepted",
+              "would accept"
+            ]
+          },
+          {
+            "words": "if only we had spent more time together before she moved away",
+            "extra": [
+              "spent",
+              "would spend"
+            ]
+          },
+          {
+            "words": "I wish I weren't so nervous before every presentation at work",
+            "extra": [
+              "hadn't been",
+              "wouldn't be"
+            ]
+          },
+          {
+            "words": "he wishes he had taken that opportunity when he had the chance",
+            "extra": [
+              "took",
+              "would take"
+            ]
+          },
+          {
+            "words": "I wish you would listen when I am trying to explain something",
+            "extra": [
+              "listened",
+              "had listened"
+            ]
+          },
+          {
+            "words": "if only I had saved more money when I was younger",
+            "extra": [
+              "saved",
+              "would save"
+            ]
+          },
+          {
+            "words": "she wishes she had not quit her job without another one ready",
+            "extra": [
+              "didn't quit",
+              "wouldn't quit"
+            ]
+          },
+          {
+            "words": "I wish it would stop raining so we could go outside",
+            "extra": [
+              "stopped",
+              "had stopped"
+            ]
+          },
+          {
+            "words": "if only I had a better memory for names and faces",
+            "extra": [
+              "had had",
+              "would have"
+            ]
+          },
+          {
+            "words": "he wishes he could afford to buy his own flat this year",
+            "extra": [
+              "could have afforded",
+              "had afforded"
+            ]
+          },
+          {
+            "words": "I wish my phone hadn't run out of battery at such a bad moment",
+            "extra": [
+              "didn't run",
+              "wouldn't run"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Anna is sitting at her desk thinking about her past choices. She wishes she {{1}} her health more when she was younger. If only she {{2}} so many late nights working – she is exhausted now. She also wishes she {{3}} closer to her family – she misses them terribly. Her colleague keeps interrupting her, and she wishes he {{4}} when she is busy. Looking back, if only she {{5}} the chance to study abroad – she turned it down out of fear. She now wishes she {{6}} more courage back then. She wishes things {{7}} different now, but she knows that dwelling on the past is not helpful. She tells herself: if only I {{8}} these lessons earlier, I {{9}} so much time. Still, she wishes today {{10}} a better day than yesterday.",
+            "blanks": {
+              "1": "had looked after",
+              "2": "hadn't worked",
+              "3": "lived",
+              "4": "would stop interrupting her",
+              "5": "had taken",
+              "6": "had had",
+              "7": "were",
+              "8": "had learned",
+              "9": "wouldn't have wasted",
+              "10": "would be"
+            },
+            "wordbank": [
+              "look after",
+              "work",
+              "live",
+              "stop",
+              "take",
+              "have",
+              "be",
+              "learn",
+              "waste",
+              "change",
+              "regret",
+              "miss"
+            ]
+          },
+  {
+    "text": "Ben is a retired football coach with many regrets about his career. He wishes he {{1}} the young players more during his early years as a coach — he was too focused on winning. If only he {{2}} how quickly the top players would retire, he {{3}} more time developing the younger squad. He also wishes the club {{4}} better facilities when he was in charge — training in poor conditions held everyone back. There is one player in particular he thinks about often. He wishes he {{5}} up on him so quickly when the boy showed early signs of struggling. If only he {{6}} — the player might have had a very different career. He wishes his own coaching style {{7}} less rigid. Now he watches matches on television and thinks: if only teams {{8}} differently, the game would be so much more exciting. He wishes he {{9}} a coaching journal throughout his career. If only someone {{10}} him that advice at the very beginning.",
+    "blanks": {
+      "1": "had encouraged",
+      "2": "had known",
+      "3": "would have spent",
+      "4": "had had",
+      "5": "hadn't given",
+      "6": "had been more patient",
+      "7": "had been",
+      "8": "played",
+      "9": "had kept",
+      "10": "had given"
+    },
+    "wordbank": ["encourage", "know", "spend", "have", "give", "be", "play", "keep", "teach", "support", "train", "develop"]
+  },
+  {
+    "text": "Hana is a university student who often wishes things in her life were different. She wishes she {{1}} a subject she was truly passionate about instead of choosing what her parents expected. If only she {{2}} more time exploring different options before applying. She wishes her university {{3}} more support for students who are struggling emotionally — she has felt very alone at times. There is a flat she saw last year that she still thinks about; she wishes she {{4}} it when she had the chance. Her flatmate is noisy and inconsiderate, and she wishes he {{5}} so much mess in the kitchen. If only her parents {{6}} that she needs more independence. She also wishes she {{7}} more money saved before starting university — the financial stress is constant. If only someone {{8}} her what student life was really like. She wishes things {{9}} different, but she is determined to make the best of her situation. Above all, she wishes she {{10}} more time — there is never enough of it.",
+    "blanks": {
+      "1": "had chosen",
+      "2": "had spent",
+      "3": "offered",
+      "4": "had rented",
+      "5": "wouldn't make",
+      "6": "understood",
+      "7": "had saved",
+      "8": "had told",
+      "9": "were",
+      "10": "had"
+    },
+    "wordbank": ["choose", "spend", "offer", "rent", "make", "understand", "save", "tell", "be", "have", "prepare", "support"]
+  },
+          {
+            "text": "Tom is an experienced traveller who has many regrets about trips gone wrong. He wishes he {{1}} his passport before leaving for the airport last summer. If only he {{2}} travel insurance – the medical bill was enormous. He wishes some tourists {{3}} littering in beautiful places – it ruins the experience. On his last trip, if only he {{4}} the local language better, things {{5}} so much easier. He also wishes he {{6}} in better shape so he could hike longer distances. Looking back, he wishes he {{7}} more money before his first big trip – he was always running out. If only young people {{8}} how precious travel experiences are before it is too late. He now wishes he {{9}} those early trips more, and that he {{10}} to keep a travel journal from the very beginning.",
+            "blanks": {
+              "1": "had checked",
+              "2": "had bought",
+              "3": "would stop",
+              "4": "had spoken",
+              "5": "would have been",
+              "6": "were",
+              "7": "had saved",
+              "8": "understood / would understand",
+              "9": "had appreciated",
+              "10": "had remembered"
+            },
+            "wordbank": [
+              "check",
+              "buy",
+              "stop",
+              "speak",
+              "be",
+              "save",
+              "understand",
+              "appreciate",
+              "remember",
+              "prepare",
+              "pack",
+              "learn"
+            ]
+          },
+          {
+            "text": "Maria is a retired teacher who often reflects on her career. She wishes she {{1}} more patient with difficult students earlier in her career. If only she {{2}} technology more effectively – she missed so many opportunities to engage learners. She wishes her school {{3}} more funding for resources – classes were always too large. If only she {{4}} more professional development courses during her working years. She also wishes she {{5}} a work-life balance sooner – she often brought work stress home. Looking back, she wishes she {{6}} more often, even just to local places. A former student once told her that if only more teachers {{7}} like her, education would be very different. She wishes she {{8}} that earlier in her career – it might have changed how she saw herself. She wishes her younger self {{9}} that doing your best is always enough, and she wishes she {{10}} so much time doubting herself.",
+            "blanks": {
+              "1": "had been",
+              "2": "had used",
+              "3": "had received",
+              "4": "had attended",
+              "5": "had found",
+              "6": "had travelled",
+              "7": "were",
+              "8": "had heard",
+              "9": "had known",
+              "10": "hadn't spent"
+            },
+            "wordbank": [
+              "be",
+              "use",
+              "receive",
+              "attend",
+              "find",
+              "travel",
+              "hear",
+              "know",
+              "spend",
+              "give",
+              "teach",
+              "support"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy viết về những điều bạn ước muốn trong cuộc sống hiện tại và những điều bạn tiếc nuối trong quá khứ. Sử dụng 'I wish', 'If only' với past simple (hiện tại) và past perfect (quá khứ), kèm wish + would cho những điều bạn muốn thay đổi ở người khác hoặc tình huống bên ngoài.",
+          "grammar_focus": "I wish/if only + past simple (present wishes), past perfect (past regrets), would (complaints/annoyances)",
+          "hint_words": [
+            "I wish I had",
+            "if only I had chosen",
+            "I wish I could",
+            "I wish people would",
+            "if only I had known",
+            "I wish things were",
+            "I wish I hadn't",
+            "if only the world would",
+            "I sometimes wish",
+            "looking back I wish"
+          ],
+          "min_words": 40,
+          "example": "When I reflect honestly on my life, there are quite a few things I wish were different. I wish I lived somewhere with more open space — I love the city, but I miss the countryside where I grew up. I also wish I could play a musical instrument. I tried to learn guitar as a teenager, but I gave up too quickly, and now I regret it deeply. If only I had been more patient with myself back then — I think I would have kept going. Looking back on my education, I wish I had studied a language more seriously at university. I had the opportunity to do a language module, but I chose something else without much thought. If only I had known how important communication skills would be in my career. On a more everyday level, I wish people would be more considerate on public transport — it is such a small thing, but it makes a big difference to how you feel. And I wish my neighbours would stop slamming doors at midnight. Despite these wishes, I do feel grateful for many things. But acknowledging what we would change is, I think, part of growing."
+        },
+        {
+          "vi": "Tưởng tượng bạn đang viết một lá thư gửi cho bản thân trẻ hơn (ví dụ: lúc 16 tuổi). Chia sẻ những điều bạn ước gì mình đã biết hoặc làm, sử dụng wish/if only, và lời khuyên ở dạng conditional.",
+          "grammar_focus": "I wish + past perfect (regrets about the past), If only + past perfect, Second conditional (advice)",
+          "hint_words": [
+            "I wish you had known",
+            "if only you had",
+            "I wish I had told you",
+            "if you had listened",
+            "you would have avoided",
+            "if only someone had explained",
+            "I wish you had trusted",
+            "had you taken the time to",
+            "you would have been",
+            "if only we had understood"
+          ],
+          "min_words": 40,
+          "example": "Dear sixteen-year-old me, there are so many things I wish I could tell you, though I know you probably wouldn't have listened. I wish you had known that the friendships you are so desperate to hold onto will fade naturally, and that is completely normal. If only you had spent less energy trying to fit in and more time figuring out what you actually enjoyed. I wish you hadn't been so afraid of being different — if you had embraced your individuality earlier, you would have been so much happier in your twenties. I also wish you had taken your health more seriously. If you had exercised regularly and slept properly, you would have had so much more energy during those exhausting university years. If only someone had explained that failure is not the end of anything — it is how you learn. I wish you had applied for that creative writing competition. You would probably have won, or at least grown enormously from the experience. Most of all, I wish you had trusted yourself more. If you had believed in your own judgment, you would have made fewer decisions based on fear and more based on genuine hope."
+        },
+  {
+    "vi": "Viết một đoạn văn về những điều bạn ước muốn thay đổi ở môi trường xung quanh bạn — thành phố, trường học, nơi làm việc, hoặc xã hội nói chung. Sử dụng I wish/if only với past simple (thực tế hiện tại) và wish + would (phàn nàn về hành vi).",
+    "grammar_focus": "I wish + past simple (present wishes about surroundings), wish + would (complaints about behaviour or situations)",
+    "hint_words": ["I wish my city had", "if only there were", "I wish people would", "I wish the government would", "if only public transport", "I wish drivers wouldn't", "I wish our school had", "if only workplaces were", "I wish society placed more", "I wish the air were"],
+    "min_words": 35,
+    "example": "When I look at the environment I live and work in, there are quite a few things I wish were different. I wish my city had more green spaces and parks where people could walk, relax, and breathe clean air. The roads are permanently congested, and I wish drivers would be more considerate of cyclists and pedestrians — the aggression I witness on my commute every morning is genuinely exhausting. If only public transport were more reliable and affordable, fewer people would feel the need to drive at all. I wish the government would invest more seriously in cycling infrastructure instead of simply announcing plans that never seem to materialise. On a wider social level, if only workplaces were more flexible about remote working arrangements — the technology exists and many jobs could easily be done from home. I also wish society placed more genuine value on rest and balance, rather than glorifying people who work themselves into the ground. I wish the air in this city were cleaner and the streets quieter. These might sound like small complaints, but together they add up to something significant: the quality of the environment we live in shapes our wellbeing in ways we often underestimate."
+  },
+  {
+    "vi": "Tưởng tượng bạn đang ở cuối cuộc đời và nhìn lại. Bạn ước gì mình đã làm khác đi? Bạn ước gì mình đã biết sớm hơn? Dùng I wish/if only với past perfect (tiếc nuối quá khứ) một cách phong phú và sâu sắc.",
+    "grammar_focus": "I wish/if only + past perfect (deep regrets about a lifetime of choices)",
+    "hint_words": ["I wish I had spent more", "if only I had told", "I wish I hadn't wasted", "if only I had been brave enough to", "I wish I had listened", "if only I had known how quickly", "I wish I hadn't let fear", "if only I had travelled", "I wish I had said", "if only I had realised"],
+    "min_words": 40,
+    "example": "Looking back across a long life from this quiet final chapter, I find my thoughts returning again and again to the things I wish I had done differently. I wish I had spent more unhurried time with my parents while they were still alive — I was always too busy, always assuming there would be more time, and there wasn't. If only I had told the people I loved, more often and more clearly, how much they meant to me. I was raised to believe that feelings were better kept inside, and I wish I hadn't let that belief steal so many moments of genuine connection from me. I wish I hadn't wasted so many years worrying about what other people thought of my choices. If only I had been brave enough to pursue the kind of work that truly excited me, instead of the kind that simply seemed sensible and safe. I wish I had travelled more when I was young and physically capable — if only I had realised how much those experiences would have shaped my understanding of the world. Above all, I wish I had been kinder to myself. I spent decades holding myself to a standard of perfection that no human being could ever meet, and I wish I had understood far sooner that being imperfect is not the same as being inadequate."
+  },
+        {
+          "vi": "Hãy viết về một nhân vật lịch sử hoặc nhân vật trong một cuốn sách/phim mà bạn biết. Nếu họ đã hành động khác đi ở một thời điểm quan trọng, lịch sử hoặc câu chuyện sẽ thay đổi như thế nào? Sử dụng third conditional và if only.",
+          "grammar_focus": "Third conditional (alternative history), if only (regret from perspective of character or narrator)",
+          "hint_words": [
+            "if only he had",
+            "if she had decided",
+            "the outcome would have been",
+            "if only they had listened",
+            "history would have changed",
+            "if he hadn't",
+            "she would never have",
+            "if only the world had known",
+            "things might have turned out",
+            "if they had acted sooner"
+          ],
+          "min_words": 40,
+          "example": "Romeo and Juliet is perhaps the most famous example of a tragedy that could have been entirely avoided. If only the two families had put aside their ancient rivalry, two young people would not have lost their lives. If Friar Lawrence had sent the message about Juliet's plan more reliably, Romeo would not have believed she was dead. Had Romeo waited just a few more minutes before acting in despair, he would have seen her wake up, and the entire story would have ended differently. If only Juliet had woken even a few moments earlier, she would have stopped Romeo in time. Looking at the broader picture, if the Prince had intervened sooner in the feud between the families, the tragedy might have been prevented altogether. The play leaves us with a profound sense of loss and the painful feeling that so much suffering could have been avoided with better communication, less pride, and a little more time. If only the world of the play had allowed these young people to love freely — how different everything would have been."
+        }
+      ]
+    }
+  ]
+}

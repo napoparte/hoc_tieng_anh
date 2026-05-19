@@ -1,0 +1,2528 @@
+{
+  "intermediate": [
+    {
+      "icon": "🔗",
+      "title": "Verb + Preposition",
+      "level": "intermediate",
+      "badge": "📘 B1",
+      "badgeClass": "badge-green",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Verb + Preposition – Giới từ phụ thuộc sau động từ</div>Trong tiếng Anh, nhiều động từ thường đi kèm với một giới từ cố định trước tân ngữ. Những giới từ này được gọi là <b>dependent prepositions</b> (giới từ phụ thuộc). Không có quy tắc chung để xác định giới từ nào đi sau động từ nào — bạn cần <b>học thuộc từng cụm</b>.<br><br>⚠️ Khi một động từ đứng sau giới từ, động từ đó phải ở dạng <b>-ing</b>:<br><i>He apologised for <b>being</b> late. (NOT: for be late)</i><br><i>They are thinking about <b>moving</b> abroad.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📋 Danh sách Verb + Preposition thông dụng</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Giới từ</th><th style=\"padding:4px 8px;text-align:left\">Động từ + ví dụ</th></tr><tr><td style=\"padding:4px 8px;font-weight:bold\">TO</td><td style=\"padding:4px 8px\"><b>belong to</b> – She belongs to a book club.<br><b>listen to</b> – I always listen to music on my way to work.<br><b>look forward to</b> – I look forward to the weekend.<br><b>get married to</b> – He got married to his high school sweetheart.<br><b>talk to</b> – We talk to our parents every weekend.<br><b>say to</b> – He said to me that he would be late.<br><b>write to</b> – She writes to her pen pal every month.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;font-weight:bold\">FOR</td><td style=\"padding:4px 8px\"><b>ask for</b> – She asked for a piece of advice.<br><b>apply for</b> – He applied for the job but didn't get it.<br><b>look for</b> – They are looking for the keys.<br><b>pay for</b> – I paid for the groceries.<br><b>wait for</b> – I'm waiting for Sandra.<br><b>apologise for</b> – She apologised for being late.<br><b>thank (sb) for</b> – He thanked me for the flowers.</td></tr><tr><td style=\"padding:4px 8px;font-weight:bold\">AT</td><td style=\"padding:4px 8px\"><b>arrive at</b> – She arrived at the airport on time.<br><b>laugh at</b> – He laughed at the comedian's joke.<br><b>look at</b> – He looked at the painting in awe.<br><b>shout at</b> – Please don't shout at me.<br><b>smile at</b> – She smiled at me warmly.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;font-weight:bold\">ABOUT</td><td style=\"padding:4px 8px\"><b>argue about</b> – She argues about politics frequently.<br><b>complain about</b> – He complains about the weather constantly.<br><b>dream about</b> – She dreams about becoming an astronaut.<br><b>talk about</b> – We often talk about our future plans.<br><b>think about</b> – He thinks about changing his job frequently.<br><b>worry about</b> – Don't worry about the exam.</td></tr><tr><td style=\"padding:4px 8px;font-weight:bold\">WITH</td><td style=\"padding:4px 8px\"><b>agree with</b> – I agree with Mike.<br><b>compare with</b> – They compare with each other too often.<br><b>spend time with</b> – We spend time with our family.<br><b>stay with</b> – He decided to stay with his cousin.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;font-weight:bold\">OF</td><td style=\"padding:4px 8px\"><b>consist of</b> – The team consists of ten people.<br><b>think of</b> – What do you think of the idea?<br><b>accuse (sb) of</b> – He was accused of stealing.<br><b>remind (sb) of</b> – This song reminds me of my childhood.</td></tr><tr><td style=\"padding:4px 8px;font-weight:bold\">IN</td><td style=\"padding:4px 8px\"><b>believe in</b> – I believe in hard work.<br><b>succeed in</b> – She succeeded in passing the exam.<br><b>specialise in</b> – He specialises in Italian cuisine.<br><b>result in</b> – Careless driving can result in accidents.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;font-weight:bold\">ON</td><td style=\"padding:4px 8px\"><b>depend on</b> – Everything depends on the weather.<br><b>concentrate on</b> – Please concentrate on your work.<br><b>insist on</b> – She insisted on paying the bill.<br><b>rely on</b> – I'm relying on my co-worker to help me.</td></tr><tr><td style=\"padding:4px 8px;font-weight:bold\">FROM</td><td style=\"padding:4px 8px\"><b>protect (sb) from</b> – Sun cream protects you from getting burnt.<br><b>suffer from</b> – She suffers from headaches.</td></tr></table></div><div class=\"ex-sent\">He apologised <b>for being</b> late to the meeting.<span>apologise for + -ing (không dùng infinitive)</span></div><div class=\"ex-sent\">I look forward <b>to hearing</b> from you soon.<span>look forward to + -ing (to là giới từ, không phải to-infinitive)</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "She applied ___ the position of marketing manager last week.",
+          "opts": "for,to,at,about",
+          "ans": "A",
+          "exp": "apply for = nộp đơn xin → giới từ for"
+        },
+        {
+          "type": "mc",
+          "q": "He apologised ___ being late to the meeting.",
+          "opts": "for,to,about,at",
+          "ans": "A",
+          "exp": "apologise for + -ing → giới từ for"
+        },
+        {
+          "type": "mc",
+          "q": "I always listen ___ classical music while I'm studying.",
+          "opts": "to,at,for,about",
+          "ans": "A",
+          "exp": "listen to = nghe → giới từ to"
+        },
+        {
+          "type": "mc",
+          "q": "She doesn't agree ___ the new company policy at all.",
+          "opts": "with,to,about,in",
+          "ans": "A",
+          "exp": "agree with = đồng ý với → giới từ with"
+        },
+        {
+          "type": "mc",
+          "q": "The students are looking forward ___ the school trip next month.",
+          "opts": "to,for,at,about",
+          "ans": "A",
+          "exp": "look forward to + -ing → to là giới từ"
+        },
+        {
+          "type": "mc",
+          "q": "He always complains ___ the food at the office canteen.",
+          "opts": "about,of,to,for",
+          "ans": "A",
+          "exp": "complain about = phàn nàn về → giới từ about"
+        },
+        {
+          "type": "mc",
+          "q": "The bag belongs ___ the woman who just left.",
+          "opts": "to,of,for,with",
+          "ans": "A",
+          "exp": "belong to = thuộc về → giới từ to"
+        },
+        {
+          "type": "mc",
+          "q": "The team consists ___ five experienced engineers.",
+          "opts": "of,from,with,in",
+          "ans": "A",
+          "exp": "consist of = bao gồm → giới từ of"
+        },
+        {
+          "type": "mc",
+          "q": "Everything depends ___ how much time we have.",
+          "opts": "on,about,from,with",
+          "ans": "A",
+          "exp": "depend on = phụ thuộc vào → giới từ on"
+        },
+        {
+          "type": "mc",
+          "q": "She was accused ___ taking money from the cash register.",
+          "opts": "of,for,about,with",
+          "ans": "A",
+          "exp": "accuse of + -ing → giới từ of"
+        },
+        {
+          "type": "mc",
+          "q": "He succeeded ___ passing his driving test on the third try.",
+          "opts": "in,at,with,for",
+          "ans": "A",
+          "exp": "succeed in + -ing → giới từ in"
+        },
+        {
+          "type": "mc",
+          "q": "I'm waiting ___ the bus – it's already fifteen minutes late.",
+          "opts": "for,to,at,on",
+          "ans": "A",
+          "exp": "wait for = đợi → giới từ for"
+        },
+        {
+          "type": "mc",
+          "q": "This perfume reminds me ___ my grandmother's house.",
+          "opts": "of,about,from,with",
+          "ans": "A",
+          "exp": "remind of = gợi nhớ đến → giới từ of"
+        },
+        {
+          "type": "mc",
+          "q": "She insists ___ doing everything herself.",
+          "opts": "on,about,with,for",
+          "ans": "A",
+          "exp": "insist on + -ing → giới từ on"
+        },
+        {
+          "type": "mc",
+          "q": "He dreams ___ becoming a professional footballer one day.",
+          "opts": "about,of,for,at",
+          "ans": "A",
+          "exp": "dream about/of + -ing → cả about và of đều đúng, nhưng about phổ biến hơn"
+        },
+        {
+          "type": "mc",
+          "q": "The charity relies ___ donations from the public to continue its work.",
+          "opts": "on,about,for,with",
+          "ans": "A",
+          "exp": "rely on = dựa vào → giới từ on"
+        },
+        {
+          "type": "mc",
+          "q": "He paid ___ dinner and wouldn't accept any money from us.",
+          "opts": "for,to,at,of",
+          "ans": "A",
+          "exp": "pay for = trả tiền cho → giới từ for"
+        },
+        {
+          "type": "mc",
+          "q": "She suffers ___ terrible migraines at least twice a week.",
+          "opts": "from,of,with,about",
+          "ans": "A",
+          "exp": "suffer from = mắc phải/chịu đựng → giới từ from"
+        },
+        {
+          "type": "mc",
+          "q": "Please concentrate ___ what I'm saying and stop looking at your phone.",
+          "opts": "on,at,about,to",
+          "ans": "A",
+          "exp": "concentrate on = tập trung vào → giới từ on"
+        },
+        {
+          "type": "mc",
+          "q": "He specialises ___ treating rare tropical diseases.",
+          "opts": "in,at,on,about",
+          "ans": "A",
+          "exp": "specialise in = chuyên về → giới từ in"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (look forward / see) you at the conference next week.",
+          "ans": "is looking forward to seeing",
+          "exp": "look forward to + -ing (to là giới từ)"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (apply / the scholarship) but unfortunately didn't get it.",
+          "ans": "applied for the scholarship",
+          "exp": "apply for = nộp đơn xin"
+        },
+        {
+          "type": "fill",
+          "q": "I always ___ (listen / music) when I'm cooking.",
+          "ans": "listen to music",
+          "exp": "listen to = nghe → giới từ to"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (complain / the noise) coming from her neighbours every night.",
+          "ans": "complains about the noise",
+          "exp": "complain about = phàn nàn về"
+        },
+        {
+          "type": "fill",
+          "q": "This old photo ___ (remind / me / my school days).",
+          "ans": "reminds me of my school days",
+          "exp": "remind someone of = gợi nhớ → giới từ of"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (apologise / forget) her birthday last year.",
+          "ans": "apologised for forgetting",
+          "exp": "apologise for + -ing → giới từ for"
+        },
+        {
+          "type": "fill",
+          "q": "The organisation ___ (consist / more than 200 volunteers).",
+          "ans": "consists of more than 200 volunteers",
+          "exp": "consist of = gồm có → giới từ of"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (succeed / get) a promotion after just one year.",
+          "ans": "succeeded in getting",
+          "exp": "succeed in + -ing → giới từ in"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (depend / you) to finish this before the deadline.",
+          "ans": "depend on you",
+          "exp": "depend on = dựa vào → giới từ on"
+        },
+        {
+          "type": "fill",
+          "q": "He was ___ (accuse / steal) from his employer.",
+          "ans": "accused of stealing",
+          "exp": "accuse of + -ing → giới từ of"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (talk / our future plans) during the long drive.",
+          "ans": "talked about our future plans",
+          "exp": "talk about = nói về → giới từ about"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (insist / pay) for everyone's meal.",
+          "ans": "insisted on paying",
+          "exp": "insist on + -ing → giới từ on"
+        },
+        {
+          "type": "fill",
+          "q": "My grandfather ___ (suffer / arthritis) for many years.",
+          "ans": "suffered from arthritis",
+          "exp": "suffer from = mắc bệnh → giới từ from"
+        },
+        {
+          "type": "fill",
+          "q": "Please ___ (concentrate / the task) at hand and stop daydreaming.",
+          "ans": "concentrate on the task",
+          "exp": "concentrate on = tập trung vào → giới từ on"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (believe / working hard) to achieve success.",
+          "ans": "believes in working hard",
+          "exp": "believe in + -ing → giới từ in"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (thank / me / help) her with the project.",
+          "ans": "thanked me for helping",
+          "exp": "thank someone for + -ing → giới từ for"
+        },
+        {
+          "type": "fill",
+          "q": "The company ___ (specialise / providing) eco-friendly packaging.",
+          "ans": "specialises in providing",
+          "exp": "specialise in + -ing → giới từ in"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (write / her pen pal) in Australia every month.",
+          "ans": "writes to her pen pal",
+          "exp": "write to = viết thư cho → giới từ to"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (look / the painting) for a long time without saying a word.",
+          "ans": "looked at the painting",
+          "exp": "look at = nhìn vào → giới từ at"
+        },
+        {
+          "type": "fill",
+          "q": "The new policy ___ (result / many complaints) from staff members.",
+          "ans": "resulted in many complaints",
+          "exp": "result in = dẫn đến → giới từ in"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "She applied for the job but did not get it",
+            "extra": [
+              "to",
+              "about"
+            ]
+          },
+          {
+            "words": "I always listen to music on my way to work",
+            "extra": [
+              "at",
+              "about"
+            ]
+          },
+          {
+            "words": "He apologised for being late to the meeting",
+            "extra": [
+              "about",
+              "to"
+            ]
+          },
+          {
+            "words": "We are looking forward to seeing you next week",
+            "extra": [
+              "for",
+              "at"
+            ]
+          },
+          {
+            "words": "She complained about the noise from her neighbours",
+            "extra": [
+              "of",
+              "to"
+            ]
+          },
+          {
+            "words": "The bag belongs to the woman who just left the room",
+            "extra": [
+              "for",
+              "from"
+            ]
+          },
+          {
+            "words": "Everything depends on how much money we have",
+            "extra": [
+              "about",
+              "from"
+            ]
+          },
+          {
+            "words": "He was accused of stealing money from the company",
+            "extra": [
+              "about",
+              "for"
+            ]
+          },
+          {
+            "words": "She succeeded in passing her driving test on the first try",
+            "extra": [
+              "at",
+              "for"
+            ]
+          },
+          {
+            "words": "This song always reminds me of my childhood",
+            "extra": [
+              "about",
+              "from"
+            ]
+          },
+          {
+            "words": "He insisted on paying for dinner despite our protests",
+            "extra": [
+              "about",
+              "to"
+            ]
+          },
+          {
+            "words": "She suffers from terrible headaches every week",
+            "extra": [
+              "of",
+              "with"
+            ]
+          },
+          {
+            "words": "Please concentrate on your work and stop talking",
+            "extra": [
+              "about",
+              "for"
+            ]
+          },
+          {
+            "words": "I believe in working hard and being honest",
+            "extra": [
+              "at",
+              "on"
+            ]
+          },
+          {
+            "words": "She thanked him for helping her with the assignment",
+            "extra": [
+              "about",
+              "to"
+            ]
+          },
+          {
+            "words": "We rely on volunteers to run the community centre",
+            "extra": [
+              "at",
+              "about"
+            ]
+          },
+          {
+            "words": "He dreams about becoming a famous musician one day",
+            "extra": [
+              "for",
+              "at"
+            ]
+          },
+          {
+            "words": "She specialises in treating children with learning difficulties",
+            "extra": [
+              "at",
+              "on"
+            ]
+          },
+          {
+            "words": "The team consists of twelve members from different countries",
+            "extra": [
+              "from",
+              "in"
+            ]
+          },
+          {
+            "words": "I paid for the groceries and she paid for the drinks",
+            "extra": [
+              "to",
+              "about"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "My friend Laura has always been passionate about her career. Last year, she decided to {{1}} for a position at a well-known environmental organisation. She had to {{2}} for several interviews before finally getting the job. In her new role, she {{3}} in developing policies that protect local wildlife {{4}} the harmful effects of pollution. She often {{5}} about the challenges of convincing businesses to change their practices. However, she always {{6}} in people's ability to make positive change. She {{7}} on the support of her colleagues to get things done. Last week, she {{8}} to the entire team for missing a deadline, admitting that she had {{9}} too much on a single project. But everyone agreed {{10}} her that the final result was worth the wait.",
+            "blanks": {
+              "1": "apply",
+              "2": "go through",
+              "3": "specialises",
+              "4": "from",
+              "5": "complains",
+              "6": "believes",
+              "7": "relies",
+              "8": "apologised",
+              "9": "concentrated",
+              "10": "with"
+            },
+            "wordbank": [
+              "apply",
+              "specialise",
+              "complain",
+              "believe",
+              "rely",
+              "apologise",
+              "concentrate",
+              "protect",
+              "agree",
+              "depend",
+              "argue",
+              "insist"
+            ]
+          },
+          {
+            "text": "Tom has been waiting {{1}} a reply from the university since he submitted his application three weeks ago. He {{2}} for a postgraduate scholarship and is very anxious about the result. His older brother, who {{3}} in medical research, told him not to worry. 'Everything {{4}} on your grades and your personal statement,' he said. 'You should {{5}} on what you can control.' Tom {{6}} about the competition from other candidates, but his mentor reminded him {{7}} all the hard work he had already done. 'You succeeded {{8}} getting excellent marks in every module,' she said. 'That's what matters.' Tom is now looking forward {{9}} starting a new chapter, whatever the outcome. He {{10}} to the process and trusts that things will work out.",
+            "blanks": {
+              "1": "for",
+              "2": "applied",
+              "3": "specialises",
+              "4": "depends",
+              "5": "concentrate",
+              "6": "worries",
+              "7": "of",
+              "8": "in",
+              "9": "to",
+              "10": "belongs"
+            },
+            "wordbank": [
+              "apply",
+              "specialise",
+              "depend",
+              "concentrate",
+              "worry",
+              "remind",
+              "succeed",
+              "look",
+              "belong",
+              "wait",
+              "argue",
+              "insist"
+            ]
+          },
+          {
+            "text": "During the team meeting, everyone {{1}} about the best way to handle the budget cuts. Maria {{2}} on reducing marketing spend, while David {{3}} with her and suggested cutting travel costs instead. The manager asked everyone to {{4}} on the long-term goals rather than short-term savings. She also reminded them that the company's success {{5}} on everyone working together. Later, the finance director {{6}} the team for their hard work, but also {{7}} them of the tight deadline. He said, 'I {{8}} in this team's ability to find a solution.' By the end of the day, they had agreed {{9}} a plan that everyone felt happy with. The whole team {{10}} to making it work.",
+            "blanks": {
+              "1": "argued",
+              "2": "insisted",
+              "3": "disagreed",
+              "4": "concentrate",
+              "5": "depends",
+              "6": "thanked",
+              "7": "reminded",
+              "8": "believe",
+              "9": "on",
+              "10": "committed"
+            },
+            "wordbank": [
+              "argue",
+              "insist",
+              "disagree",
+              "concentrate",
+              "depend",
+              "thank",
+              "remind",
+              "believe",
+              "agree",
+              "commit",
+              "complain",
+              "worry"
+            ]
+          },
+          {
+            "text": "Anna has been {{1}} from anxiety for most of her adult life. She often {{2}} about small things that most people would not notice. Her therapist encouraged her to {{3}} on the positive aspects of her day and to stop {{4}} about things she cannot control. Anna also started {{5}} to meditation podcasts every morning, which she said helped her a lot. She {{6}} in the idea that small daily habits can make a big difference. Little by little, she succeeded {{7}} managing her stress levels. She now {{8}} on her breathing exercises when she feels overwhelmed. Last month, her doctor {{9}} to her that her progress had been remarkable. Anna looks forward {{10}} continuing her recovery journey.",
+            "blanks": {
+              "1": "suffering",
+              "2": "worries",
+              "3": "concentrate",
+              "4": "worrying",
+              "5": "listening",
+              "6": "believes",
+              "7": "in",
+              "8": "concentrates",
+              "9": "said",
+              "10": "to"
+            },
+            "wordbank": [
+              "suffer",
+              "worry",
+              "concentrate",
+              "listen",
+              "believe",
+              "succeed",
+              "rely",
+              "say",
+              "look",
+              "apply",
+              "depend",
+              "complain"
+            ]
+          },
+          {
+            "text": "The local youth centre {{1}} of volunteers from all walks of life. It {{2}} on funding from the local council and private donations to continue its work. Last year, the director {{3}} for a government grant and was thrilled to receive it. The centre specialises {{4}} helping young people who struggle at school. Staff always {{5}} to the students and try to understand their problems. They {{6}} them of their strengths and encourage them to {{7}} in themselves. One student, Marco, said: 'Before I came here, I {{8}} about everything and felt hopeless. Now I look forward {{9}} coming every day.' The centre's success {{10}} on a simple idea: that every young person deserves support.",
+            "blanks": {
+              "1": "consists",
+              "2": "relies",
+              "3": "applied",
+              "4": "in",
+              "5": "listen",
+              "6": "remind",
+              "7": "believe",
+              "8": "worried",
+              "9": "to",
+              "10": "depends"
+            },
+            "wordbank": [
+              "consist",
+              "rely",
+              "apply",
+              "specialise",
+              "listen",
+              "remind",
+              "believe",
+              "worry",
+              "look",
+              "depend",
+              "complain",
+              "argue"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Viết về một công việc hoặc cơ hội bạn đã từng nộp đơn ứng tuyển – bạn đã làm gì để chuẩn bị, bạn lo lắng điều gì và kết quả ra sao",
+          "grammar_focus": "Verb + preposition: apply for, concentrate on, worry about, depend on, believe in",
+          "hint_words": [
+            "applied for",
+            "concentrated on",
+            "worried about",
+            "relied on",
+            "believed in",
+            "succeeded in",
+            "looked forward to"
+          ],
+          "min_words": 30,
+          "example": "Last year, I applied for a position at a technology company in the city centre. I concentrated on preparing for the interview by researching the company and practising common questions. I worried about competing with more experienced candidates, but my mentor reminded me of my strengths. I relied on her advice and believed in my ability to learn quickly. In the end, I succeeded in getting the job and I look forward to growing in this new role."
+        },
+        {
+          "vi": "Kể về một người bạn hay người thân thường xuyên phàn nàn về điều gì đó – họ phàn nàn về gì, tại sao, và bạn thường làm gì để giúp họ",
+          "grammar_focus": "Verb + preposition: complain about, argue about, agree with, think about, talk about",
+          "hint_words": [
+            "complains about",
+            "argues about",
+            "agrees with",
+            "thinks about",
+            "talks about",
+            "insists on",
+            "concentrates on"
+          ],
+          "min_words": 30,
+          "example": "My flatmate constantly complains about the mess in our shared kitchen. He argues about it almost every evening and insists on keeping everything perfectly clean at all times. I usually agree with him that cleanliness is important, but I think he worries about it too much. We have talked about the situation several times and I now concentrate on tidying up immediately after cooking. He thanked me for making the effort, and things have improved since then."
+        },
+        {
+          "vi": "Mô tả một vấn đề sức khoẻ hoặc khó khăn mà bạn hoặc ai đó bạn biết đã từng trải qua – họ đã phải đối mặt với điều gì và làm thế nào để vượt qua",
+          "grammar_focus": "Verb + preposition: suffer from, rely on, succeed in, believe in, look forward to",
+          "hint_words": [
+            "suffered from",
+            "relied on",
+            "succeeded in",
+            "believed in",
+            "looked forward to",
+            "apologised for",
+            "concentrated on"
+          ],
+          "min_words": 30,
+          "example": "My father suffered from a serious back injury for almost two years after an accident. He relied on physiotherapy sessions three times a week to recover. At first, he found it very difficult and apologised to the family for not being able to help around the house. However, he believed in the treatment and concentrated on following his therapist's advice carefully. Eventually, he succeeded in making a full recovery and now looks forward to going on long walks again at the weekends."
+        },
+        {
+          "vi": "Viết về một tổ chức, câu lạc bộ hoặc nhóm bạn thuộc về – nó gồm những ai, phụ thuộc vào điều gì để hoạt động, và bạn đóng góp thế nào",
+          "grammar_focus": "Verb + preposition: belong to, consist of, depend on, rely on, specialise in",
+          "hint_words": [
+            "belongs to",
+            "consists of",
+            "depends on",
+            "relies on",
+            "specialises in",
+            "contributes to",
+            "believes in"
+          ],
+          "min_words": 30,
+          "example": "I belong to a small community theatre group that has been running for over fifteen years. The group consists of around thirty members, ranging from teenagers to retired professionals. It relies on ticket sales and local sponsorships to fund its productions. The director specialises in adapting classic novels into stage performances. Our success depends on everyone working together and believing in the project. I concentrate on building the stage sets and I really look forward to the opening night of every new show."
+        },
+        {
+          "vi": "Kể về một ước mơ hoặc mục tiêu lớn mà bạn đang theo đuổi – bạn đang làm gì để đạt được nó và ai hoặc điều gì bạn đang dựa vào",
+          "grammar_focus": "Verb + preposition: dream about, look forward to, rely on, believe in, succeed in, concentrate on",
+          "hint_words": [
+            "dream about",
+            "look forward to",
+            "rely on",
+            "believe in",
+            "succeed in",
+            "concentrate on",
+            "depend on",
+            "think about"
+          ],
+          "min_words": 30,
+          "example": "I have always dreamed about opening my own café with a focus on locally sourced food. I think about it almost every day and have been saving money for two years. I rely on advice from a friend who already runs a small restaurant, and I look forward to our monthly meetings where we talk about ideas and challenges. I believe in slow but steady progress and concentrate on learning as much as I can about the business side. I am determined to succeed in making this dream a reality within the next three years."
+        }
+      ]
+    },
+    {
+      "icon": "🏷️",
+      "title": "Adjective + Preposition",
+      "level": "intermediate",
+      "badge": "📘 B1",
+      "badgeClass": "badge-green",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Adjective + Preposition – Giới từ phụ thuộc sau tính từ</div>Tương tự verb + preposition, nhiều tính từ trong tiếng Anh cũng đi kèm với một giới từ cố định. Không có quy tắc chung — bạn cần <b>học thuộc từng cụm</b>. Dưới đây là danh sách các cụm thông dụng nhất ở trình độ B1.</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📋 Danh sách Adjective + Preposition thông dụng</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Giới từ</th><th style=\"padding:4px 8px;text-align:left\">Tính từ + ví dụ</th></tr><tr><td style=\"padding:4px 8px;font-weight:bold\">TO</td><td style=\"padding:4px 8px\"><b>addicted to</b> – She is addicted to coffee.<br><b>close to</b> – He is very close to his grandmother.<br><b>different to/from</b> – This is different to the one I usually use.<br><b>kind to</b> – It's important to be kind to animals.<br><b>married to</b> – My aunt is married to a musician.<br><b>similar to</b> – Your handwriting is similar to mine.<br><b>rude to</b> – It's not nice to be rude to strangers.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;font-weight:bold\">FOR</td><td style=\"padding:4px 8px\"><b>bad for</b> – Smoking is bad for your health.<br><b>famous for</b> – Italy is famous for its delicious food.<br><b>good for</b> – Walking is good for your heart.<br><b>sorry for</b> – I am sorry for any inconvenience caused.<br><b>responsible for</b> – He is responsible for the whole department.<br><b>ready for</b> – Are you ready for the exam?</td></tr><tr><td style=\"padding:4px 8px;font-weight:bold\">AT</td><td style=\"padding:4px 8px\"><b>good at</b> – She is good at mathematics.<br><b>bad at</b> – He's bad at lying; you can always tell.<br><b>angry at</b> – He was angry at himself for making that mistake.<br><b>surprised at/by</b> – We were surprised at the news.<br><b>skilled at</b> – She is skilled at solving complex problems.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;font-weight:bold\">ABOUT</td><td style=\"padding:4px 8px\"><b>worried about</b> – I'm worried about the exam results.<br><b>excited about</b> – She's excited about her new job.<br><b>upset about</b> – He was upset about missing the party.<br><b>happy about</b> – They are happy about the decision.<br><b>serious about</b> – She is very serious about her fitness goals.<br><b>nervous about</b> – He was nervous about the presentation.</td></tr><tr><td style=\"padding:4px 8px;font-weight:bold\">OF</td><td style=\"padding:4px 8px\"><b>afraid of</b> – She's afraid of spiders.<br><b>ashamed of</b> – He was ashamed of his behaviour.<br><b>aware of</b> – Are you aware of the risks?<br><b>capable of</b> – I know you are capable of doing better.<br><b>fond of</b> – She is very fond of her nephew.<br><b>proud of</b> – His parents are very proud of him.<br><b>tired of</b> – I'm tired of waiting.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;font-weight:bold\">WITH</td><td style=\"padding:4px 8px\"><b>bored with</b> – She's bored with her current job.<br><b>happy with</b> – Are you happy with the result?<br><b>pleased with</b> – The teacher was pleased with the students.<br><b>satisfied with</b> – He wasn't satisfied with his exam score.<br><b>familiar with</b> – Are you familiar with this software?</td></tr><tr><td style=\"padding:4px 8px;font-weight:bold\">IN</td><td style=\"padding:4px 8px\"><b>interested in</b> – I'm interested in learning Japanese.<br><b>involved in</b> – She is involved in several charity projects.<br><b>experienced in</b> – He is experienced in data analysis.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px;font-weight:bold\">ON</td><td style=\"padding:4px 8px\"><b>keen on</b> – My brother is keen on playing the guitar.<br><b>dependent on</b> – The project's success is dependent on funding.</td></tr></table></div><div class=\"ex-sent\">She is <b>addicted to</b> checking her phone every five minutes.<span>addicted to + noun/-ing</span></div><div class=\"ex-sent\">He is very <b>good at</b> drawing but <b>bad at</b> painting.<span>good at / bad at + noun/-ing</span></div><div class=\"ex-sent\">Are you <b>aware of</b> the changes to the schedule?<span>aware of + noun</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "She's very good ___ solving complicated maths problems.",
+          "opts": "at,in,for,about",
+          "ans": "A",
+          "exp": "good at = giỏi về → giới từ at"
+        },
+        {
+          "type": "mc",
+          "q": "He was ashamed ___ his behaviour at the dinner party.",
+          "opts": "of,about,for,at",
+          "ans": "A",
+          "exp": "ashamed of = xấu hổ về → giới từ of"
+        },
+        {
+          "type": "mc",
+          "q": "Italy is famous ___ its incredible art, food, and history.",
+          "opts": "for,about,of,in",
+          "ans": "A",
+          "exp": "famous for = nổi tiếng về → giới từ for"
+        },
+        {
+          "type": "mc",
+          "q": "Are you aware ___ the new regulations that came into effect last month?",
+          "opts": "of,about,at,in",
+          "ans": "A",
+          "exp": "aware of = nhận thức được → giới từ of"
+        },
+        {
+          "type": "mc",
+          "q": "She is very excited ___ her holiday to Japan next summer.",
+          "opts": "about,for,of,at",
+          "ans": "A",
+          "exp": "excited about = hào hứng về → giới từ about"
+        },
+        {
+          "type": "mc",
+          "q": "I'm really tired ___ hearing the same excuses every time.",
+          "opts": "of,about,with,at",
+          "ans": "A",
+          "exp": "tired of = chán ngán → giới từ of"
+        },
+        {
+          "type": "mc",
+          "q": "His parents are very proud ___ everything he has achieved.",
+          "opts": "of,about,for,at",
+          "ans": "A",
+          "exp": "proud of = tự hào về → giới từ of"
+        },
+        {
+          "type": "mc",
+          "q": "She is very interested ___ learning about different cultures.",
+          "opts": "in,at,about,for",
+          "ans": "A",
+          "exp": "interested in = quan tâm đến → giới từ in"
+        },
+        {
+          "type": "mc",
+          "q": "He's not satisfied ___ his performance in the last exam.",
+          "opts": "with,about,of,for",
+          "ans": "A",
+          "exp": "satisfied with = hài lòng với → giới từ with"
+        },
+        {
+          "type": "mc",
+          "q": "She's very fond ___ her little cousin who visits every summer.",
+          "opts": "of,about,for,with",
+          "ans": "A",
+          "exp": "fond of = yêu thích/quý mến → giới từ of"
+        },
+        {
+          "type": "mc",
+          "q": "He was really nervous ___ his first job interview.",
+          "opts": "about,of,at,for",
+          "ans": "A",
+          "exp": "nervous about = lo lắng về → giới từ about"
+        },
+        {
+          "type": "mc",
+          "q": "My sister is addicted ___ watching reality TV shows.",
+          "opts": "to,in,about,on",
+          "ans": "A",
+          "exp": "addicted to = nghiện → giới từ to"
+        },
+        {
+          "type": "mc",
+          "q": "She is deeply involved ___ several environmental campaigns.",
+          "opts": "in,with,about,at",
+          "ans": "A",
+          "exp": "involved in = tham gia vào → giới từ in"
+        },
+        {
+          "type": "mc",
+          "q": "He is responsible ___ managing the accounts department.",
+          "opts": "for,of,about,at",
+          "ans": "A",
+          "exp": "responsible for = chịu trách nhiệm về → giới từ for"
+        },
+        {
+          "type": "mc",
+          "q": "Are you familiar ___ this new accounting software?",
+          "opts": "with,to,about,in",
+          "ans": "A",
+          "exp": "familiar with = quen thuộc với → giới từ with"
+        },
+        {
+          "type": "mc",
+          "q": "He's really keen ___ photography and spends hours editing photos.",
+          "opts": "on,about,in,for",
+          "ans": "A",
+          "exp": "keen on = hứng thú với → giới từ on"
+        },
+        {
+          "type": "mc",
+          "q": "Your accent is very similar ___ my English teacher's.",
+          "opts": "to,with,as,from",
+          "ans": "A",
+          "exp": "similar to = tương tự như → giới từ to"
+        },
+        {
+          "type": "mc",
+          "q": "She's afraid ___ flying, so she always takes the train.",
+          "opts": "of,about,at,from",
+          "ans": "A",
+          "exp": "afraid of = sợ → giới từ of"
+        },
+        {
+          "type": "mc",
+          "q": "The children were upset ___ not being allowed to go to the party.",
+          "opts": "about,of,with,for",
+          "ans": "A",
+          "exp": "upset about = buồn phiền về → giới từ about"
+        },
+        {
+          "type": "mc",
+          "q": "He's very capable ___ leading a team, but he lacks confidence.",
+          "opts": "of,at,for,in",
+          "ans": "A",
+          "exp": "capable of = có khả năng → giới từ of"
+        },
+        {
+          "type": "fill",
+          "q": "She is ___ (good / cook) – everyone loves coming to her dinner parties.",
+          "ans": "good at cooking",
+          "exp": "good at + -ing → giới từ at"
+        },
+        {
+          "type": "fill",
+          "q": "He is ___ (proud / his daughter) for winning the science competition.",
+          "ans": "proud of his daughter",
+          "exp": "proud of → giới từ of"
+        },
+        {
+          "type": "fill",
+          "q": "Are you ___ (aware / the changes) to the timetable this week?",
+          "ans": "aware of the changes",
+          "exp": "aware of → giới từ of"
+        },
+        {
+          "type": "fill",
+          "q": "She has been ___ (interested / study) marine biology since she was a child.",
+          "ans": "interested in studying",
+          "exp": "interested in + -ing → giới từ in"
+        },
+        {
+          "type": "fill",
+          "q": "He felt ___ (ashamed / behave) so rudely to his colleague.",
+          "ans": "ashamed of behaving",
+          "exp": "ashamed of + -ing → giới từ of"
+        },
+        {
+          "type": "fill",
+          "q": "I'm completely ___ (bored / do) the same tasks every single day.",
+          "ans": "bored with doing",
+          "exp": "bored with + -ing → giới từ with"
+        },
+        {
+          "type": "fill",
+          "q": "She was very ___ (excited / start) her new job in the city.",
+          "ans": "excited about starting",
+          "exp": "excited about + -ing → giới từ about"
+        },
+        {
+          "type": "fill",
+          "q": "Is she ___ (familiar / the new system) we installed last month?",
+          "ans": "familiar with the new system",
+          "exp": "familiar with → giới từ with"
+        },
+        {
+          "type": "fill",
+          "q": "He is ___ (responsible / train) new staff members.",
+          "ans": "responsible for training",
+          "exp": "responsible for + -ing → giới từ for"
+        },
+        {
+          "type": "fill",
+          "q": "She is very ___ (fond / spend) time outdoors in nature.",
+          "ans": "fond of spending",
+          "exp": "fond of + -ing → giới từ of"
+        },
+        {
+          "type": "fill",
+          "q": "He is ___ (capable / achieve) much more if he just tried harder.",
+          "ans": "capable of achieving",
+          "exp": "capable of + -ing → giới từ of"
+        },
+        {
+          "type": "fill",
+          "q": "My brother is ___ (keen / collect) vintage comic books.",
+          "ans": "keen on collecting",
+          "exp": "keen on + -ing → giới từ on"
+        },
+        {
+          "type": "fill",
+          "q": "This new design is quite different ___ (the original version).",
+          "ans": "different from/to the original version",
+          "exp": "different from / different to → cả hai đều được chấp nhận"
+        },
+        {
+          "type": "fill",
+          "q": "He is ___ (nervous / speak) in front of large audiences.",
+          "ans": "nervous about speaking",
+          "exp": "nervous about + -ing → giới từ about"
+        },
+        {
+          "type": "fill",
+          "q": "She is very ___ (proud / her son) for winning the competition.",
+          "ans": "proud of her son",
+          "exp": "proud of → giới từ of"
+        },
+        {
+          "type": "fill",
+          "q": "Are you ___ (familiar / work) with this new database software?",
+          "ans": "familiar with working",
+          "exp": "familiar with → giới từ with"
+        },
+        {
+          "type": "fill",
+          "q": "He was ___ (angry / himself) for missing such an easy question.",
+          "ans": "angry at himself",
+          "exp": "angry at → giới từ at"
+        },
+        {
+          "type": "fill",
+          "q": "She has always been ___ (addicted / check) social media late at night.",
+          "ans": "addicted to checking",
+          "exp": "addicted to + -ing → giới từ to"
+        },
+        {
+          "type": "fill",
+          "q": "I'm completely ___ (satisfied / result) — it's even better than I expected.",
+          "ans": "satisfied with the result",
+          "exp": "satisfied with → giới từ with"
+        },
+        {
+          "type": "fill",
+          "q": "He is ___ (afraid / make) mistakes in front of his boss.",
+          "ans": "afraid of making",
+          "exp": "afraid of + -ing → giới từ of"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "She is very good at solving complicated problems",
+            "extra": [
+              "in",
+              "about"
+            ]
+          },
+          {
+            "words": "Italy is famous for its beautiful art and food",
+            "extra": [
+              "of",
+              "about"
+            ]
+          },
+          {
+            "words": "He was ashamed of his behaviour at the party",
+            "extra": [
+              "about",
+              "for"
+            ]
+          },
+          {
+            "words": "Are you aware of the new company policy",
+            "extra": [
+              "about",
+              "in"
+            ]
+          },
+          {
+            "words": "She is very excited about her trip to Japan",
+            "extra": [
+              "for",
+              "of"
+            ]
+          },
+          {
+            "words": "I am really tired of waiting for the bus every morning",
+            "extra": [
+              "about",
+              "at"
+            ]
+          },
+          {
+            "words": "His parents are very proud of everything he has achieved",
+            "extra": [
+              "about",
+              "for"
+            ]
+          },
+          {
+            "words": "He is very interested in learning about different cultures",
+            "extra": [
+              "about",
+              "for"
+            ]
+          },
+          {
+            "words": "She is not satisfied with the results of her last project",
+            "extra": [
+              "about",
+              "of"
+            ]
+          },
+          {
+            "words": "My sister is addicted to checking her phone every morning",
+            "extra": [
+              "about",
+              "in"
+            ]
+          },
+          {
+            "words": "She is very fond of spending time with her grandchildren",
+            "extra": [
+              "about",
+              "for"
+            ]
+          },
+          {
+            "words": "He was nervous about presenting in front of the whole class",
+            "extra": [
+              "of",
+              "at"
+            ]
+          },
+          {
+            "words": "She is responsible for managing the marketing team",
+            "extra": [
+              "of",
+              "about"
+            ]
+          },
+          {
+            "words": "Are you familiar with this kind of software",
+            "extra": [
+              "about",
+              "of"
+            ]
+          },
+          {
+            "words": "He is really keen on cooking and tries new recipes every weekend",
+            "extra": [
+              "about",
+              "in"
+            ]
+          },
+          {
+            "words": "Your answer is very similar to the one in the answer key",
+            "extra": [
+              "as",
+              "with"
+            ]
+          },
+          {
+            "words": "She is afraid of flying so she always goes by train",
+            "extra": [
+              "about",
+              "at"
+            ]
+          },
+          {
+            "words": "He is deeply involved in several local community projects",
+            "extra": [
+              "about",
+              "with"
+            ]
+          },
+          {
+            "words": "The children were upset about not being allowed to go",
+            "extra": [
+              "of",
+              "for"
+            ]
+          },
+          {
+            "words": "She is capable of doing much more if she tries harder",
+            "extra": [
+              "for",
+              "about"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "My cousin Elena has always been {{1}} in languages and has studied four so far. She is particularly {{2}} at speaking French and says it is similar {{3}} Italian, which she also knows well. She is {{4}} on travelling and hopes to visit every country in Europe. Recently, she became {{5}} of an opportunity to work abroad as a translator. She is {{6}} about the idea but also {{7}} about leaving her family. Her parents are {{8}} of her ambition and say she is capable {{9}} achieving whatever she puts her mind to. She is responsible {{10}} managing her own finances now and takes this very seriously.",
+            "blanks": {
+              "1": "interested",
+              "2": "good",
+              "3": "to",
+              "4": "keen",
+              "5": "aware",
+              "6": "excited",
+              "7": "nervous",
+              "8": "proud",
+              "9": "of",
+              "10": "for"
+            },
+            "wordbank": [
+              "interest",
+              "good",
+              "keen",
+              "aware",
+              "excite",
+              "nervous",
+              "proud",
+              "capable",
+              "responsible",
+              "familiar",
+              "fond",
+              "similar"
+            ]
+          },
+          {
+            "text": "James has worked in the same office for ten years and has become quite {{1}} with all the software systems they use. He is very {{2}} at his job, but lately he has been {{3}} with doing the same routine every day. He told his manager he was {{4}} of repeating the same tasks and felt he was capable {{5}} taking on more responsibility. His manager, who has always been {{6}} of James's hard work, agreed and said he would be {{7}} for training the new team. James is now {{8}} about the challenge and no longer feels {{9}} about the future. He is {{10}} to completing this new role and is already planning how to start.",
+            "blanks": {
+              "1": "familiar",
+              "2": "skilled",
+              "3": "bored",
+              "4": "tired",
+              "5": "of",
+              "6": "proud",
+              "7": "responsible",
+              "8": "excited",
+              "9": "nervous",
+              "10": "committed"
+            },
+            "wordbank": [
+              "familiar",
+              "skill",
+              "bore",
+              "tire",
+              "proud",
+              "responsible",
+              "excite",
+              "nervous",
+              "commit",
+              "fond",
+              "keen",
+              "aware"
+            ]
+          },
+          {
+            "text": "Mia is {{1}} on environmental issues and is very {{2}} of the damage that human activity is causing to the planet. She is {{3}} about fast fashion and is not {{4}} with buying cheap clothes that fall apart quickly. She believes everyone is {{5}} for the choices they make as a consumer. She is {{6}} at explaining these issues to others and is deeply {{7}} in several campaigns to reduce plastic waste. Some people are {{8}} of making changes to their lifestyle, but Mia says that small steps can make a big difference. She is {{9}} about what she can achieve and believes that no goal is too big. Her friends are {{10}} of everything she does for the environment.",
+            "blanks": {
+              "1": "keen",
+              "2": "aware",
+              "3": "upset",
+              "4": "satisfied",
+              "5": "responsible",
+              "6": "good",
+              "7": "involved",
+              "8": "afraid",
+              "9": "serious",
+              "10": "proud"
+            },
+            "wordbank": [
+              "keen",
+              "aware",
+              "upset",
+              "satisfy",
+              "responsible",
+              "good",
+              "involve",
+              "afraid",
+              "serious",
+              "proud",
+              "fond",
+              "excited"
+            ]
+          },
+          {
+            "text": "Tom is {{1}} of public speaking but is very {{2}} at one-to-one communication. He is deeply {{3}} in his work as a counsellor and is {{4}} with helping people through difficult times. He is {{5}} of every client he has supported over the years. He is always {{6}} about their wellbeing and never ignores a concern, no matter how small. He is also {{7}} for making sure that all case notes are completed on time. His colleagues say he is {{8}} of becoming a senior therapist one day. His manager is always {{9}} with his progress and often tells him he should be proud {{10}} what he has built in such a short career.",
+            "blanks": {
+              "1": "afraid",
+              "2": "skilled",
+              "3": "involved",
+              "4": "satisfied",
+              "5": "proud",
+              "6": "worried",
+              "7": "responsible",
+              "8": "capable",
+              "9": "pleased",
+              "10": "of"
+            },
+            "wordbank": [
+              "afraid",
+              "skill",
+              "involve",
+              "satisfy",
+              "proud",
+              "worry",
+              "responsible",
+              "capable",
+              "please",
+              "fond",
+              "aware",
+              "keen"
+            ]
+          },
+          {
+            "text": "Nina has always been {{1}} of making friends because she is so {{2}} to everyone she meets. She is {{3}} on outdoor activities and is particularly {{4}} at hiking and rock climbing. She is very {{5}} of her achievements and often posts about them online. However, she is also {{6}} about the environmental impact of tourism in natural areas. She is {{7}} in several campaigns to protect mountain ecosystems. Her friends say she is never {{8}} with the easy option and is always pushing herself further. She is not {{9}} of hard physical challenges and is {{10}} about taking on a multi-day mountain trail next summer.",
+            "blanks": {
+              "1": "good",
+              "2": "kind",
+              "3": "keen",
+              "4": "skilled",
+              "5": "proud",
+              "6": "worried",
+              "7": "involved",
+              "8": "satisfied",
+              "9": "afraid",
+              "10": "excited"
+            },
+            "wordbank": [
+              "good",
+              "kind",
+              "keen",
+              "skill",
+              "proud",
+              "worry",
+              "involve",
+              "satisfy",
+              "afraid",
+              "excite",
+              "aware",
+              "fond"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Mô tả một người bạn hoặc thành viên gia đình mà bạn ngưỡng mộ – họ giỏi điều gì, họ đam mê điều gì và tại sao bạn tự hào về họ",
+          "grammar_focus": "Adjective + preposition: good at, interested in, proud of, keen on, passionate about, fond of",
+          "hint_words": [
+            "good at",
+            "interested in",
+            "proud of",
+            "keen on",
+            "fond of",
+            "famous for",
+            "capable of"
+          ],
+          "min_words": 30,
+          "example": "My older sister is someone I am genuinely proud of. She is exceptionally good at mathematics and has always been keen on solving complex problems. From a young age, she was interested in computer science and became involved in coding competitions at school. She is now responsible for developing software at a well-known technology firm. She is also very kind to everyone she meets and never makes others feel bad for not understanding something. Our whole family is proud of her achievements and she is a role model for me."
+        },
+        {
+          "vi": "Kể về một điều bạn sợ hoặc lo lắng – tại sao bạn cảm thấy như vậy và bạn đang làm gì để vượt qua nó",
+          "grammar_focus": "Adjective + preposition: afraid of, worried about, nervous about, capable of, excited about",
+          "hint_words": [
+            "afraid of",
+            "worried about",
+            "nervous about",
+            "capable of",
+            "satisfied with",
+            "aware of",
+            "serious about"
+          ],
+          "min_words": 30,
+          "example": "For most of my life, I have been afraid of speaking in front of large groups. Even in class, I would feel nervous about answering questions out loud. I was always worried about making mistakes and being judged by others. However, I have become more aware of the fact that this fear is holding me back. I now know that I am capable of improving if I practise regularly. I recently joined a public speaking club and am excited about the progress I have made in just a few weeks. I am serious about overcoming this fear completely."
+        },
+        {
+          "vi": "Viết về một sở thích hoặc hoạt động mà bạn rất say mê – bạn đã bắt đầu như thế nào và điều gì khiến bạn thích nó",
+          "grammar_focus": "Adjective + preposition: keen on, good at, interested in, excited about, bored with, fond of, satisfied with",
+          "hint_words": [
+            "keen on",
+            "good at",
+            "interested in",
+            "excited about",
+            "bored with",
+            "fond of",
+            "satisfied with",
+            "addicted to"
+          ],
+          "min_words": 30,
+          "example": "I have been keen on photography since I was about thirteen years old. I became interested in it after borrowing my father's old film camera during a family holiday. I was amazed at the results and became almost addicted to taking photos of everything around me. I am particularly fond of landscape photography and love capturing the beauty of natural places. Over the years, I have become quite good at composing shots and using natural lighting effectively. I am never fully satisfied with my work, which keeps me motivated to improve. I am always excited about exploring new places with my camera."
+        },
+        {
+          "vi": "Mô tả một nơi bạn biết mà nổi tiếng vì điều gì đó đặc biệt – địa điểm đó có gì khiến người ta thích đến và khác với những nơi khác",
+          "grammar_focus": "Adjective + preposition: famous for, different from, similar to, good for, popular with, close to, proud of",
+          "hint_words": [
+            "famous for",
+            "different from",
+            "similar to",
+            "good for",
+            "popular with",
+            "close to",
+            "proud of"
+          ],
+          "min_words": 30,
+          "example": "The small coastal town where my grandparents live is famous for its fresh seafood and colourful fishing boats. It is quite different from the busy city where I grew up, which makes visiting feel like a real escape. The town is popular with tourists in summer but feels very calm and familiar in winter. It is close to several beautiful beaches that are good for swimming and snorkelling. The local community is very proud of its traditions and holds a seafood festival every August. The atmosphere there is unlike anything else I have experienced — warm, relaxed and completely unique."
+        },
+        {
+          "vi": "Viết về một kỹ năng bạn muốn cải thiện – tại sao bạn chưa giỏi, bạn đang làm gì để học và bạn hy vọng đạt được gì",
+          "grammar_focus": "Adjective + preposition: bad at, good at, capable of, serious about, excited about, satisfied with",
+          "hint_words": [
+            "bad at",
+            "good at",
+            "capable of",
+            "serious about",
+            "excited about",
+            "satisfied with",
+            "nervous about"
+          ],
+          "min_words": 30,
+          "example": "I have always been quite bad at time management and often feel frustrated when I fail to meet deadlines. I know I am capable of doing better, but I tend to get distracted easily. I am now serious about improving and have started using a daily planner to organise my tasks. I am not yet satisfied with my progress, but I can already see some improvement. I am excited about developing this skill because I know it will help me in both my studies and my future career. I no longer feel as nervous about deadlines as I used to, which is already a big step forward for me."
+        }
+      ]
+    },
+    {
+      "icon": "⏱️",
+      "title": "During, For, While",
+      "level": "intermediate",
+      "badge": "📘 B1",
+      "badgeClass": "badge-green",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 DURING + danh từ → Trả lời câu hỏi: WHEN? (Khi nào?)</div>Dùng <b>during + noun</b> để nói về <b>thời điểm</b> một việc xảy ra trong một khoảng thời gian nhất định.<br><br><i>Some people got lost <b>during the journey</b>.</i><br><i>I will finish the novel <b>during the summer break</b>.</i><br><i>Most burglaries happen <b>during the night</b>.</i><br><br>✦ Sau <b>during</b> luôn là <b>danh từ (noun)</b> hoặc <b>cụm danh từ</b> — KHÔNG dùng mệnh đề (clause).</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 FOR + khoảng thời gian → Trả lời câu hỏi: HOW LONG? (Bao lâu?)</div>Dùng <b>for + length of time</b> để nói về <b>thời lượng</b> của một hành động hoặc trạng thái.<br><br><i>We have known each other <b>for a long time</b>.</i><br><i>I waited <b>for more than an hour</b>, but I finally left.</i><br><i>He worked in this company <b>for over twenty years</b>.</i><br><br>✦ Sau <b>for</b> luôn là <b>khoảng thời gian</b>: for two hours, for a week, for several months...</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 WHILE + subject + verb → Hai việc xảy ra đồng thời</div>Dùng <b>while + subject + verb</b> để nói về <b>hai sự việc xảy ra cùng lúc</b>.<br><br><i>I had breakfast <b>while you were in the shower</b>.</i><br><i>I always listen to the radio <b>while I'm cleaning</b>.</i><br><i>You shouldn't use your phone <b>while you are driving</b>.</i><br><br>✦ Sau <b>while</b> luôn là <b>mệnh đề</b> (subject + verb) — KHÔNG dùng danh từ đơn thuần.</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Phân biệt DURING và FOR</div>Sự khác biệt chính: <b>during = when</b> (thời điểm) / <b>for = how long</b> (thời lượng).<br><br><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px\">During</th><th style=\"padding:4px 8px\">For</th></tr><tr><td style=\"padding:4px 8px\">I fell asleep <b>during the film</b>.</td><td style=\"padding:4px 8px\">I slept <b>for two hours</b>.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">She left <b>during the meeting</b>.</td><td style=\"padding:4px 8px\">The meeting lasted <b>for three hours</b>.</td></tr></table></div><div class=\"ex-sent\">I always listen to the radio <b>while</b> I'm cleaning the house.<span>while + clause = hai việc xảy ra đồng thời</span></div><div class=\"ex-sent\">I fell asleep <b>during</b> the lecture and missed the important points.<span>during + noun = thời điểm xảy ra</span></div><div class=\"ex-sent\">She waited <b>for</b> nearly two hours before anyone called her back.<span>for + khoảng thời gian = trả lời how long</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "I fell asleep ___ the film. It was so boring.",
+          "opts": "during,while,for,in",
+          "ans": "A",
+          "exp": "during + noun (the film) → thời điểm xảy ra"
+        },
+        {
+          "type": "mc",
+          "q": "She waited ___ over an hour before the doctor finally called her.",
+          "opts": "for,during,while,since",
+          "ans": "A",
+          "exp": "for + khoảng thời gian (over an hour) → trả lời how long"
+        },
+        {
+          "type": "mc",
+          "q": "You shouldn't use your phone ___ you are driving.",
+          "opts": "while,during,for,when",
+          "ans": "A",
+          "exp": "while + subject + verb = hai việc xảy ra đồng thời"
+        },
+        {
+          "type": "mc",
+          "q": "Most of the damage happened ___ the storm last night.",
+          "opts": "during,while,for,in",
+          "ans": "A",
+          "exp": "during + noun (the storm) → thời điểm xảy ra"
+        },
+        {
+          "type": "mc",
+          "q": "He has been living in Paris ___ three years.",
+          "opts": "for,during,while,since",
+          "ans": "A",
+          "exp": "for + khoảng thời gian (three years) → thời lượng"
+        },
+        {
+          "type": "mc",
+          "q": "I always listen to music ___ I'm cooking dinner.",
+          "opts": "while,during,for,as",
+          "ans": "A",
+          "exp": "while + clause = hai việc đồng thời"
+        },
+        {
+          "type": "mc",
+          "q": "The power went out ___ the night and we had no electricity.",
+          "opts": "during,while,for,at",
+          "ans": "A",
+          "exp": "during + noun (the night) → thời điểm"
+        },
+        {
+          "type": "mc",
+          "q": "She worked at that school ___ more than twenty years.",
+          "opts": "for,during,while,over",
+          "ans": "A",
+          "exp": "for + khoảng thời gian (more than twenty years) → how long"
+        },
+        {
+          "type": "mc",
+          "q": "Please don't interrupt me ___ I'm speaking.",
+          "opts": "while,during,for,at",
+          "ans": "A",
+          "exp": "while + clause (I'm speaking) → đồng thời"
+        },
+        {
+          "type": "mc",
+          "q": "He met his wife ___ his time at university.",
+          "opts": "during,while,for,in",
+          "ans": "A",
+          "exp": "during + noun phrase (his time at university) → thời điểm"
+        },
+        {
+          "type": "mc",
+          "q": "I read two books ___ the summer holidays.",
+          "opts": "during,while,for,at",
+          "ans": "A",
+          "exp": "during + noun (the summer holidays) → thời điểm"
+        },
+        {
+          "type": "mc",
+          "q": "She held the door open ___ I was carrying the boxes inside.",
+          "opts": "while,during,for,as",
+          "ans": "A",
+          "exp": "while + clause = hai việc đồng thời"
+        },
+        {
+          "type": "mc",
+          "q": "They had to stay in a hotel ___ the renovation.",
+          "opts": "during,while,for,at",
+          "ans": "A",
+          "exp": "during + noun (the renovation) → thời điểm"
+        },
+        {
+          "type": "mc",
+          "q": "He studied medicine ___ six years before graduating.",
+          "opts": "for,during,while,in",
+          "ans": "A",
+          "exp": "for + khoảng thời gian (six years) → how long"
+        },
+        {
+          "type": "mc",
+          "q": "I bumped into an old friend ___ I was shopping in town.",
+          "opts": "while,during,for,at",
+          "ans": "A",
+          "exp": "while + clause = đồng thời"
+        },
+        {
+          "type": "mc",
+          "q": "Several students fell ill ___ the exam period.",
+          "opts": "during,while,for,in",
+          "ans": "A",
+          "exp": "during + noun (the exam period) → thời điểm"
+        },
+        {
+          "type": "mc",
+          "q": "We have been friends ___ almost fifteen years now.",
+          "opts": "for,during,while,since",
+          "ans": "A",
+          "exp": "for + khoảng thời gian (almost fifteen years) → how long"
+        },
+        {
+          "type": "mc",
+          "q": "She was talking on the phone ___ she was cooking dinner.",
+          "opts": "while,during,for,at",
+          "ans": "A",
+          "exp": "while + clause = hai việc đồng thời"
+        },
+        {
+          "type": "mc",
+          "q": "The audience were very quiet ___ the performance.",
+          "opts": "during,while,for,at",
+          "ans": "A",
+          "exp": "during + noun (the performance) → thời điểm"
+        },
+        {
+          "type": "mc",
+          "q": "He didn't say a single word ___ the entire journey.",
+          "opts": "during,while,for,at",
+          "ans": "A",
+          "exp": "during + noun (the entire journey) → thời điểm"
+        },
+        {
+          "type": "fill",
+          "q": "She learned a lot of French ___ (her stay in Paris).",
+          "ans": "during her stay in Paris",
+          "exp": "during + noun phrase → thời điểm"
+        },
+        {
+          "type": "fill",
+          "q": "I was listening to a podcast ___ (I / walk to work this morning).",
+          "ans": "while I was walking to work this morning",
+          "exp": "while + clause = đồng thời"
+        },
+        {
+          "type": "fill",
+          "q": "We waited ___ (nearly two hours) for the train to arrive.",
+          "ans": "for nearly two hours",
+          "exp": "for + khoảng thời gian → how long"
+        },
+        {
+          "type": "fill",
+          "q": "The children were very noisy ___ (the performance) and disturbed other audience members.",
+          "ans": "during the performance",
+          "exp": "during + noun → thời điểm"
+        },
+        {
+          "type": "fill",
+          "q": "He prepared dinner ___ (his wife / rest) on the sofa.",
+          "ans": "while his wife was resting",
+          "exp": "while + clause = đồng thời"
+        },
+        {
+          "type": "fill",
+          "q": "She lived in Japan ___ (almost four years) before returning home.",
+          "ans": "for almost four years",
+          "exp": "for + khoảng thời gian → how long"
+        },
+        {
+          "type": "fill",
+          "q": "He fell and broke his arm ___ (the match).",
+          "ans": "during the match",
+          "exp": "during + noun → thời điểm"
+        },
+        {
+          "type": "fill",
+          "q": "Please try not to make noise ___ (the baby / sleep).",
+          "ans": "while the baby is sleeping",
+          "exp": "while + clause = đồng thời"
+        },
+        {
+          "type": "fill",
+          "q": "The factory closed ___ (several weeks) due to a strike.",
+          "ans": "for several weeks",
+          "exp": "for + khoảng thời gian → how long"
+        },
+        {
+          "type": "fill",
+          "q": "She met some wonderful people ___ (her trip to South America).",
+          "ans": "during her trip to South America",
+          "exp": "during + noun phrase → thời điểm"
+        },
+        {
+          "type": "fill",
+          "q": "She broke her leg ___ (the ski trip) last winter.",
+          "ans": "during the ski trip",
+          "exp": "during + noun → thời điểm"
+        },
+        {
+          "type": "fill",
+          "q": "He talked on the phone ___ (he / drive) to work.",
+          "ans": "while he was driving",
+          "exp": "while + clause = đồng thời"
+        },
+        {
+          "type": "fill",
+          "q": "The company expanded rapidly ___ (the 1990s).",
+          "ans": "during the 1990s",
+          "exp": "during + noun phrase → thời điểm"
+        },
+        {
+          "type": "fill",
+          "q": "They have been married ___ (over thirty years).",
+          "ans": "for over thirty years",
+          "exp": "for + khoảng thời gian → how long"
+        },
+        {
+          "type": "fill",
+          "q": "I usually check my emails ___ (I / have breakfast).",
+          "ans": "while I am having breakfast",
+          "exp": "while + clause = đồng thời"
+        },
+        {
+          "type": "fill",
+          "q": "She felt very lonely ___ (the lockdown period).",
+          "ans": "during the lockdown period",
+          "exp": "during + noun phrase → thời điểm"
+        },
+        {
+          "type": "fill",
+          "q": "We chatted ___ (about an hour) while waiting for the results.",
+          "ans": "for about an hour",
+          "exp": "for + khoảng thời gian → how long"
+        },
+        {
+          "type": "fill",
+          "q": "He learned a great deal ___ (he / live abroad).",
+          "ans": "while he was living abroad",
+          "exp": "while + clause = đồng thời"
+        },
+        {
+          "type": "fill",
+          "q": "She read three novels ___ (the long flight).",
+          "ans": "during the long flight",
+          "exp": "during + noun → thời điểm"
+        },
+        {
+          "type": "fill",
+          "q": "The project took ___ (two full years) to complete.",
+          "ans": "for two full years",
+          "exp": "for + khoảng thời gian → how long"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "I fell asleep during the film and missed the ending",
+            "extra": [
+              "while",
+              "for"
+            ]
+          },
+          {
+            "words": "She waited for over an hour before the doctor called her",
+            "extra": [
+              "during",
+              "while"
+            ]
+          },
+          {
+            "words": "You should not use your phone while you are driving",
+            "extra": [
+              "during",
+              "for"
+            ]
+          },
+          {
+            "words": "Most of the damage happened during the storm last night",
+            "extra": [
+              "while",
+              "for"
+            ]
+          },
+          {
+            "words": "He has been living in that city for more than three years",
+            "extra": [
+              "during",
+              "while"
+            ]
+          },
+          {
+            "words": "I always listen to music while I am cooking dinner",
+            "extra": [
+              "during",
+              "for"
+            ]
+          },
+          {
+            "words": "The power went out during the night and we had no electricity",
+            "extra": [
+              "while",
+              "for"
+            ]
+          },
+          {
+            "words": "She worked at that school for more than twenty years",
+            "extra": [
+              "during",
+              "while"
+            ]
+          },
+          {
+            "words": "Please do not interrupt me while I am speaking to someone",
+            "extra": [
+              "during",
+              "for"
+            ]
+          },
+          {
+            "words": "He met his wife during his time at university",
+            "extra": [
+              "while",
+              "for"
+            ]
+          },
+          {
+            "words": "I read several books during the summer holidays last year",
+            "extra": [
+              "while",
+              "for"
+            ]
+          },
+          {
+            "words": "She held the door open while I was carrying the boxes inside",
+            "extra": [
+              "during",
+              "for"
+            ]
+          },
+          {
+            "words": "They had to stay in a hotel during the renovation of their house",
+            "extra": [
+              "while",
+              "for"
+            ]
+          },
+          {
+            "words": "He studied medicine for six years before finally graduating",
+            "extra": [
+              "during",
+              "while"
+            ]
+          },
+          {
+            "words": "I bumped into an old friend while I was shopping in town",
+            "extra": [
+              "during",
+              "for"
+            ]
+          },
+          {
+            "words": "Several students felt ill during the exam period this year",
+            "extra": [
+              "while",
+              "for"
+            ]
+          },
+          {
+            "words": "We have been close friends for almost fifteen years now",
+            "extra": [
+              "during",
+              "while"
+            ]
+          },
+          {
+            "words": "She was talking on the phone while she was cooking dinner",
+            "extra": [
+              "during",
+              "for"
+            ]
+          },
+          {
+            "words": "The audience remained very quiet during the entire performance",
+            "extra": [
+              "while",
+              "for"
+            ]
+          },
+          {
+            "words": "He did not say a single word during the whole journey home",
+            "extra": [
+              "while",
+              "for"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Last summer, I spent three weeks in the mountains with my family. {{1}} the first few days, we walked and explored the local trails. It rained heavily {{2}} the second night, so we stayed inside and played board games {{3}} the storm passed. Afterwards, we hiked {{4}} several hours every day. My younger sister fell and twisted her ankle {{5}} one of the hikes, so she rested {{6}} the next two days. She read her book {{7}} the rest of us continued exploring. By the end of the trip, we had all made wonderful memories. {{8}} the journey home, we talked about everything we had experienced. We had been away {{9}} exactly twenty-one days, and {{10}} we drove home, we were already planning the next trip.",
+            "blanks": {
+              "1": "During",
+              "2": "during",
+              "3": "while",
+              "4": "for",
+              "5": "during",
+              "6": "for",
+              "7": "while",
+              "8": "During",
+              "9": "for",
+              "10": "while"
+            },
+            "wordbank": [
+              "during",
+              "for",
+              "while",
+              "when",
+              "in",
+              "at",
+              "as",
+              "after",
+              "before",
+              "since"
+            ]
+          },
+          {
+            "text": "Maria worked as a nurse {{1}} over fifteen years before deciding to change her career. She had trained {{2}} four years at university and then spent the following decade working in busy hospitals. {{3}} that time, she helped thousands of patients and worked incredibly hard. However, {{4}} her final year in the job, she began to feel very tired and stressed. She found herself checking her phone {{5}} she was supposed to be relaxing, and she couldn't switch off. She took a break {{6}} several weeks to rest and think about her future. {{7}} that period, she realised she wanted to work with people in a different way. She has since retrained as a life coach and now runs workshops {{8}} the weekends. She spends {{9}} about two hours {{10}} each session helping people find clarity.",
+            "blanks": {
+              "1": "for",
+              "2": "for",
+              "3": "During",
+              "4": "during",
+              "5": "while",
+              "6": "for",
+              "7": "During",
+              "8": "during",
+              "9": "for",
+              "10": "during"
+            },
+            "wordbank": [
+              "during",
+              "for",
+              "while",
+              "when",
+              "in",
+              "at",
+              "since",
+              "after",
+              "over",
+              "throughout"
+            ]
+          },
+          {
+            "text": "The earthquake struck {{1}} the early morning, when most people were still asleep. It lasted {{2}} about forty seconds, but caused enormous damage. {{3}} the earthquake, many people ran outside in fear. Emergency services worked tirelessly {{4}} the following seventy-two hours to search {{10}} survivors. Volunteers from around the country arrived {{5}} the first week to help with the rescue efforts. {{6}} they were working, local authorities set up temporary shelters. The town had to remain without electricity {{7}} nearly five days. {{8}} that difficult period, the community showed remarkable resilience. People helped each other {{9}} the crisis and formed bonds that lasted long after things returned to normal.",
+            "blanks": {
+              "1": "during",
+              "2": "for",
+              "3": "During",
+              "4": "for",
+              "5": "during",
+              "6": "While",
+              "7": "for",
+              "8": "During",
+              "9": "during",
+              "10": "for"
+            },
+            "wordbank": [
+              "during",
+              "for",
+              "while",
+              "when",
+              "in",
+              "at",
+              "after",
+              "before",
+              "since",
+              "over"
+            ]
+          },
+          {
+            "text": "I have been learning to play the piano {{1}} almost two years now. I practise {{2}} about an hour every day, usually {{3}} my lunch break at home. {{4}} my first few months, I found it very frustrating. My teacher encouraged me to keep going even {{5}} I felt like giving up. She said that the progress happens gradually, {{6}} a long period of consistent effort. I noticed a big improvement {{7}} the last concert I attended — I could finally understand what the pianist was doing technically. I now enjoy practising {{8}} I listen to my favourite pieces. I hope to be able to perform in public {{9}} the next year or so, {{10}} she told me I was ready.",
+            "blanks": {
+              "1": "for",
+              "2": "for",
+              "3": "during",
+              "4": "During",
+              "5": "while",
+              "6": "over",
+              "7": "during",
+              "8": "while",
+              "9": "during",
+              "10": "once"
+            },
+            "wordbank": [
+              "during",
+              "for",
+              "while",
+              "when",
+              "in",
+              "over",
+              "after",
+              "since",
+              "at",
+              "throughout"
+            ]
+          },
+          {
+            "text": "The conference took place {{1}} three days in central London. Delegates from over forty countries attended and shared research {{2}} each session. {{3}} the opening ceremony, the director spoke about the importance of international collaboration. Participants had to remain silent {{4}} the keynote speeches, which each lasted {{5}} about thirty minutes. {{6}} the lunch breaks, people networked and exchanged business cards. Some delegates visited local museums {{7}} their free time in the evenings. The event was considered a great success, and many useful connections were made {{8}} the whole conference. Organisers plan to hold the next edition {{9}} a similar period next year, and many delegates have already expressed interest {{10}} attending.",
+            "blanks": {
+              "1": "for",
+              "2": "during",
+              "3": "During",
+              "4": "during",
+              "5": "for",
+              "6": "During",
+              "7": "during",
+              "8": "during",
+              "9": "during",
+              "10": "in"
+            },
+            "wordbank": [
+              "during",
+              "for",
+              "while",
+              "when",
+              "in",
+              "at",
+              "after",
+              "over",
+              "since",
+              "throughout"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Kể về một chuyến đi hoặc kỳ nghỉ bạn đã có – những điều đã xảy ra trong suốt chuyến đi, bạn làm gì trong khi đang đợi hoặc di chuyển, và bạn đã ở đó bao lâu",
+          "grammar_focus": "during, for, while – all three in a travel narrative",
+          "hint_words": [
+            "during the trip",
+            "for several days",
+            "while we were waiting",
+            "during the journey",
+            "for the whole summer",
+            "while I was exploring"
+          ],
+          "min_words": 30,
+          "example": "Last year I spent two weeks in Vietnam, which was one of the most exciting experiences of my life. During the first few days, I visited the old town of Hoi An and ate incredible street food. While I was walking along the river one evening, I watched lanterns floating across the water. For the entire week I was in the north, I explored mountain villages and rice fields. During the long bus journeys between cities, I listened to podcasts and watched the landscape change outside the window. I made some wonderful friends while I was staying at a small guesthouse near Hoan Kiem Lake."
+        },
+        {
+          "vi": "Mô tả một sự kiện quan trọng bạn đã tham dự – điều gì đã xảy ra trong sự kiện đó, bạn làm gì trong khi đang ở đó và sự kiện kéo dài bao lâu",
+          "grammar_focus": "during + noun, while + clause, for + time expression",
+          "hint_words": [
+            "during the event",
+            "while I was listening",
+            "for about two hours",
+            "during the break",
+            "while everyone was",
+            "for the whole afternoon"
+          ],
+          "min_words": 30,
+          "example": "Last month I attended a music festival in the city centre that lasted for an entire weekend. During the first evening, there were five different bands playing on the main stage. While I was watching the headline act, it started to rain heavily, but nobody left. The crowd stayed for the whole performance and sang along to every song. During the interval between acts, I bought some food and talked to people standing nearby. I made a new friend while we were sheltering under a tree. For the rest of the weekend, we watched the remaining acts together. It was a wonderful event and I was sad when it finally ended."
+        },
+        {
+          "vi": "Kể về một thói quen hàng ngày của bạn – bạn thường làm gì trong khi đang làm việc khác (multitasking), và mỗi hoạt động thường kéo dài bao lâu",
+          "grammar_focus": "while + clause (simultaneous actions), for + time expression (duration), during + noun",
+          "hint_words": [
+            "while I am commuting",
+            "for about thirty minutes",
+            "during my lunch break",
+            "while I cook",
+            "for an hour",
+            "while I wait"
+          ],
+          "min_words": 30,
+          "example": "My daily routine involves a lot of multitasking. Every morning, I listen to a language learning podcast for about forty-five minutes while I am getting ready for work. During my commute, which lasts for almost an hour, I read or review vocabulary flashcards. I usually exercise for thirty minutes during my lunch break, and I often listen to music while I am running on the treadmill. In the evenings, I like to cook something new while I listen to the radio. I find that doing two things at once helps me feel more productive, and I seem to learn more easily while my hands are busy with something else."
+        },
+        {
+          "vi": "Kể về một thời điểm khó khăn trong cuộc sống của bạn – điều gì đã xảy ra trong suốt thời gian đó, bạn làm gì để đối phó và nó kéo dài bao lâu",
+          "grammar_focus": "during + noun (period of difficulty), for + time (duration), while + clause (coping strategies)",
+          "hint_words": [
+            "during that period",
+            "for several months",
+            "while I was going through",
+            "during the hardest weeks",
+            "for a long time",
+            "while things were difficult"
+          ],
+          "min_words": 30,
+          "example": "Two years ago, I went through a very difficult period after losing my job unexpectedly. For the first few weeks, I felt lost and did not know what to do next. During that time, I tried to stay busy by learning new skills and updating my qualifications. While I was studying, I felt more in control and less anxious about the future. I also kept a journal for several months, which helped me process my feelings and track my progress. During the evenings, I started cooking new recipes and taking long walks, which were both calming activities. After nearly five months, I finally found a new position that I actually enjoy more than my previous role."
+        },
+        {
+          "vi": "Kể về một bộ phim, cuốn sách hoặc chương trình TV mà bạn xem/đọc gần đây – điều gì xảy ra trong suốt câu chuyện, bạn cảm thấy gì trong khi xem/đọc và bạn mất bao lâu để xem/đọc xong",
+          "grammar_focus": "during + noun, while + clause, for + time expression",
+          "hint_words": [
+            "during the first episode",
+            "while I was watching",
+            "for three hours",
+            "during the most intense scenes",
+            "while the characters were",
+            "for the whole series"
+          ],
+          "min_words": 30,
+          "example": "Recently I watched a gripping crime series that took me four evenings to finish. During the first episode, I was immediately hooked by the complex characters and tense storyline. While I was watching, I kept trying to guess who the culprit was, but the writers kept surprising me. During the most dramatic scenes, I found myself holding my breath without realising it. I watched for about two hours each evening while I was eating dinner, which made the meals feel much more entertaining. I felt genuinely sad while I was watching the final episode, knowing that the story was about to end. It is one of the best things I have watched in a long time."
+        }
+      ]
+    },
+    {
+      "icon": "📅",
+      "title": "For, Since, From: What's the Difference?",
+      "level": "intermediate",
+      "badge": "📘 B1",
+      "badgeClass": "badge-green",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 FOR + khoảng thời gian (period of time)</div>Dùng <b>for</b> + khoảng thời gian để nói <b>hành động kéo dài bao lâu</b>. Dùng được với nhiều thì.<br><br><i>We've been here <b>for a few hours</b>.</i> (Present Perfect — vẫn đang ở đây)<br><i>He's been studying <b>for a long time</b>.</i> (Present Perfect Continuous)<br><i>When I met them, they had been married <b>for ten years</b>.</i> (Past Perfect)<br><i>I lived in London <b>for 20 years</b>.</i> (Past Simple — đã kết thúc)<br><br>✦ Ví dụ về khoảng thời gian: for two weeks, for ten years, for a few hours, for a long time, for ages</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 SINCE + mốc thời gian (starting point)</div>Dùng <b>since</b> + mốc thời gian cụ thể để chỉ <b>thời điểm bắt đầu</b> của một hành động kéo dài đến hiện tại. Thường dùng với Present Perfect hoặc Past Perfect.<br><br><i>I've lived here <b>since 2010</b>.</i><br><i>She has been working there <b>since January</b>.</i><br><i>He hadn't eaten <b>since the previous morning</b>.</i><br><br>✦ Ví dụ về mốc thời gian: since 2010, since Monday, since last year, since I was a child, since I arrived, since the beginning of the year<br><br>⚠️ <b>Since có thể đi với mệnh đề:</b> since + subject + verb<br><i>She's been much happier <b>since she changed her job</b>.</i><br><i>Everything has changed <b>since we last met</b>.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📌 FROM + mốc bắt đầu (thường đi với TO/UNTIL)</div>Dùng <b>from</b> để nói về <b>thời điểm bắt đầu</b> khi đề cập cả thời điểm kết thúc, hoặc khi nói về tương lai.<br><br><i>The shop is open <b>from 9am to 6pm</b>.</i><br><i>The course runs <b>from January to March</b>.</i><br><i>I'll be available <b>from Monday</b>.</i><br><br>⚠️ KHÔNG dùng <b>from</b> với Present Perfect:<br>❌ <s>I've lived here from 2010.</s> → ✅ I've lived here <b>since</b> 2010.<br>❌ <s>She's worked there from January.</s> → ✅ She's worked there <b>since</b> January.</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Bảng so sánh nhanh</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Từ</th><th style=\"padding:4px 8px;text-align:left\">Đi với</th><th style=\"padding:4px 8px;text-align:left\">Trả lời</th><th style=\"padding:4px 8px;text-align:left\">Ví dụ</th></tr><tr><td style=\"padding:4px 8px\"><b>for</b></td><td style=\"padding:4px 8px\">khoảng thời gian</td><td style=\"padding:4px 8px\">How long?</td><td style=\"padding:4px 8px\">for two years</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><b>since</b></td><td style=\"padding:4px 8px\">mốc thời gian / mệnh đề</td><td style=\"padding:4px 8px\">Since when?</td><td style=\"padding:4px 8px\">since 2020 / since I arrived</td></tr><tr><td style=\"padding:4px 8px\"><b>from</b></td><td style=\"padding:4px 8px\">thường đi với to/until</td><td style=\"padding:4px 8px\">From when to when?</td><td style=\"padding:4px 8px\">from 9am to 5pm</td></tr></table></div><div class=\"ex-sent\">I have lived here <b>since</b> 2015 — that's <b>for</b> about ten years.<span>since = mốc thời gian | for = tổng thời gian</span></div><div class=\"ex-sent\">The office is open <b>from</b> Monday <b>to</b> Friday, 9am <b>to</b> 6pm.<span>from...to = khoảng từ...đến</span></div><div class=\"ex-sent\">She's been much happier <b>since</b> she changed her job.<span>since + clause (subject + verb)</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "I've lived in this city ___ 2018.",
+          "opts": "since,for,from,in",
+          "ans": "A",
+          "exp": "2018 = mốc thời gian → since; dùng với Present Perfect"
+        },
+        {
+          "type": "mc",
+          "q": "She has been studying medicine ___ six years.",
+          "opts": "for,since,from,during",
+          "ans": "A",
+          "exp": "six years = khoảng thời gian → for"
+        },
+        {
+          "type": "mc",
+          "q": "The library is open ___ 8am to 8pm every day.",
+          "opts": "from,since,for,during",
+          "ans": "A",
+          "exp": "from...to = từ...đến, nói về lịch hoạt động"
+        },
+        {
+          "type": "mc",
+          "q": "He hasn't eaten anything ___ this morning.",
+          "opts": "since,for,from,in",
+          "ans": "A",
+          "exp": "this morning = mốc thời gian → since; với Present Perfect"
+        },
+        {
+          "type": "mc",
+          "q": "They've been together ___ almost three years now.",
+          "opts": "for,since,from,during",
+          "ans": "A",
+          "exp": "almost three years = khoảng thời gian → for"
+        },
+        {
+          "type": "mc",
+          "q": "She's been much happier ___ she changed her job last year.",
+          "opts": "since,for,from,after",
+          "ans": "A",
+          "exp": "since + clause (she changed her job) → since"
+        },
+        {
+          "type": "mc",
+          "q": "The summer course runs ___ June to August.",
+          "opts": "from,since,for,during",
+          "ans": "A",
+          "exp": "from...to = khoảng từ...đến với thời gian cụ thể"
+        },
+        {
+          "type": "mc",
+          "q": "I haven't seen her ___ last Christmas.",
+          "opts": "since,for,from,in",
+          "ans": "A",
+          "exp": "last Christmas = mốc thời gian → since"
+        },
+        {
+          "type": "mc",
+          "q": "We waited ___ over two hours before anyone helped us.",
+          "opts": "for,since,from,during",
+          "ans": "A",
+          "exp": "over two hours = khoảng thời gian → for"
+        },
+        {
+          "type": "mc",
+          "q": "He had been waiting ___ the previous evening when we finally arrived.",
+          "opts": "since,for,from,during",
+          "ans": "A",
+          "exp": "the previous evening = mốc → since (dùng với Past Perfect)"
+        },
+        {
+          "type": "mc",
+          "q": "The new regulations will be in effect ___ next Monday.",
+          "opts": "from,since,for,during",
+          "ans": "A",
+          "exp": "from + thời điểm tương lai = bắt đầu từ lúc đó"
+        },
+        {
+          "type": "mc",
+          "q": "I've been trying to contact her ___ ages but she never replies.",
+          "opts": "for,since,from,during",
+          "ans": "A",
+          "exp": "ages = khoảng thời gian (không xác định) → for"
+        },
+        {
+          "type": "mc",
+          "q": "She lived in Paris ___ three years before moving back to London.",
+          "opts": "for,since,from,during",
+          "ans": "A",
+          "exp": "three years = khoảng thời gian, hành động đã kết thúc → for + Past Simple"
+        },
+        {
+          "type": "mc",
+          "q": "Everything has changed ___ we were last here together.",
+          "opts": "since,for,from,after",
+          "ans": "A",
+          "exp": "since + clause (we were last here) → since"
+        },
+        {
+          "type": "mc",
+          "q": "Working hours are ___ 9am ___ 5pm with an hour for lunch.",
+          "opts": "from/to,since/until,for/to,during/until",
+          "ans": "A",
+          "exp": "from...to = lịch làm việc có điểm đầu và điểm cuối"
+        },
+        {
+          "type": "mc",
+          "q": "They had been married ___ twenty years when they finally divorced.",
+          "opts": "for,since,from,during",
+          "ans": "A",
+          "exp": "twenty years = khoảng thời gian → for (Past Perfect)"
+        },
+        {
+          "type": "mc",
+          "q": "I've been playing the violin ___ I was seven years old.",
+          "opts": "since,for,from,during",
+          "ans": "A",
+          "exp": "I was seven = mốc thời gian + clause → since"
+        },
+        {
+          "type": "mc",
+          "q": "The road will be closed ___ three weeks due to construction work.",
+          "opts": "for,since,from,during",
+          "ans": "A",
+          "exp": "three weeks = khoảng thời gian → for"
+        },
+        {
+          "type": "mc",
+          "q": "She hasn't called ___ the argument they had last month.",
+          "opts": "since,for,from,after",
+          "ans": "A",
+          "exp": "the argument = mốc sự kiện → since"
+        },
+        {
+          "type": "mc",
+          "q": "The festival takes place ___ the 14th to the 18th of July.",
+          "opts": "from,since,for,during",
+          "ans": "A",
+          "exp": "from...to = khoảng thời gian cụ thể có điểm đầu và cuối"
+        },
+        {
+          "type": "fill",
+          "q": "I've known her ___ we were in primary school together.",
+          "ans": "since",
+          "exp": "we were in primary school = mốc thời gian dạng clause → since"
+        },
+        {
+          "type": "fill",
+          "q": "The exhibition runs ___ the 1st to the 30th of October.",
+          "ans": "from",
+          "exp": "from...to = điểm đầu đến điểm cuối → from"
+        },
+        {
+          "type": "fill",
+          "q": "She worked as a journalist ___ almost fifteen years before retiring.",
+          "ans": "for",
+          "exp": "almost fifteen years = khoảng thời gian → for"
+        },
+        {
+          "type": "fill",
+          "q": "He hasn't slept properly ___ last Tuesday.",
+          "ans": "since",
+          "exp": "last Tuesday = mốc thời gian → since"
+        },
+        {
+          "type": "fill",
+          "q": "The office will be closed ___ the 24th to the 28th of December.",
+          "ans": "from",
+          "exp": "from...to = khoảng thời gian với điểm đầu và cuối"
+        },
+        {
+          "type": "fill",
+          "q": "We've been waiting ___ ages. Where have you been?",
+          "ans": "for",
+          "exp": "ages = khoảng thời gian (không xác định) → for"
+        },
+        {
+          "type": "fill",
+          "q": "She's felt much better ___ she started taking the new medication.",
+          "ans": "since",
+          "exp": "since + clause → since"
+        },
+        {
+          "type": "fill",
+          "q": "I lived in the same house ___ my entire childhood.",
+          "ans": "for",
+          "exp": "my entire childhood = khoảng thời gian → for"
+        },
+        {
+          "type": "fill",
+          "q": "The programme is available ___ Monday to Friday on the streaming platform.",
+          "ans": "from",
+          "exp": "from...to = từ thứ Hai đến thứ Sáu → from"
+        },
+        {
+          "type": "fill",
+          "q": "He had been working at that factory ___ 1998 when it finally closed down.",
+          "ans": "since",
+          "exp": "1998 = mốc → since (dùng với Past Perfect had been working)"
+        },
+        {
+          "type": "fill",
+          "q": "The shop has been closed ___ over a week now.",
+          "ans": "for",
+          "exp": "over a week = khoảng thời gian → for"
+        },
+        {
+          "type": "fill",
+          "q": "New rules will be in place ___ next month onwards.",
+          "ans": "from",
+          "exp": "from + future time point = bắt đầu từ thời điểm đó"
+        },
+        {
+          "type": "fill",
+          "q": "The concert hall is open ___ (Tuesday) ___ (Sunday) each week.",
+          "ans": "from Tuesday to Sunday",
+          "exp": "from...to = từ...đến với lịch cố định"
+        },
+        {
+          "type": "fill",
+          "q": "I haven't eaten anything ___ (lunchtime).",
+          "ans": "since lunchtime",
+          "exp": "lunchtime = mốc thời gian → since"
+        },
+        {
+          "type": "fill",
+          "q": "She has been my best friend ___ (almost twenty years).",
+          "ans": "for almost twenty years",
+          "exp": "almost twenty years = khoảng thời gian → for"
+        },
+        {
+          "type": "fill",
+          "q": "The new law will apply ___ (next January).",
+          "ans": "from next January",
+          "exp": "from + future time point = bắt đầu từ đó"
+        },
+        {
+          "type": "fill",
+          "q": "He has not visited his parents ___ (he moved to the capital).",
+          "ans": "since he moved to the capital",
+          "exp": "since + clause → since"
+        },
+        {
+          "type": "fill",
+          "q": "She practised piano ___ (four hours) every day in her youth.",
+          "ans": "for four hours",
+          "exp": "four hours = khoảng thời gian → for"
+        },
+        {
+          "type": "fill",
+          "q": "Nothing has been the same ___ (the accident happened).",
+          "ans": "since the accident happened",
+          "exp": "since + clause → since"
+        },
+        {
+          "type": "fill",
+          "q": "The museum is open ___ (10am) ___ (5pm) on weekdays.",
+          "ans": "from 10am to 5pm",
+          "exp": "from...to = lịch mở cửa"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "I have lived in this city since two thousand and eighteen",
+            "extra": [
+              "for",
+              "from"
+            ]
+          },
+          {
+            "words": "She has been studying medicine for almost six years",
+            "extra": [
+              "since",
+              "from"
+            ]
+          },
+          {
+            "words": "The library is open from eight in the morning to eight in the evening",
+            "extra": [
+              "since",
+              "for"
+            ]
+          },
+          {
+            "words": "He has not eaten anything since this morning",
+            "extra": [
+              "for",
+              "from"
+            ]
+          },
+          {
+            "words": "They have been together for almost three years now",
+            "extra": [
+              "since",
+              "from"
+            ]
+          },
+          {
+            "words": "She has been much happier since she changed her job",
+            "extra": [
+              "for",
+              "from"
+            ]
+          },
+          {
+            "words": "The summer course runs from June to the end of August",
+            "extra": [
+              "since",
+              "for"
+            ]
+          },
+          {
+            "words": "I have not seen her since last Christmas",
+            "extra": [
+              "for",
+              "from"
+            ]
+          },
+          {
+            "words": "We waited for over two hours before anyone helped us",
+            "extra": [
+              "since",
+              "from"
+            ]
+          },
+          {
+            "words": "Everything has changed since we were last here together",
+            "extra": [
+              "for",
+              "from"
+            ]
+          },
+          {
+            "words": "The new regulations will be in effect from next Monday",
+            "extra": [
+              "since",
+              "for"
+            ]
+          },
+          {
+            "words": "I have been trying to contact her for ages but she never replies",
+            "extra": [
+              "since",
+              "from"
+            ]
+          },
+          {
+            "words": "She lived in Paris for three years before moving back to London",
+            "extra": [
+              "since",
+              "from"
+            ]
+          },
+          {
+            "words": "He had been waiting since the previous evening when we finally arrived",
+            "extra": [
+              "for",
+              "from"
+            ]
+          },
+          {
+            "words": "I have been playing the violin since I was seven years old",
+            "extra": [
+              "for",
+              "from"
+            ]
+          },
+          {
+            "words": "The road will be closed for three weeks because of construction work",
+            "extra": [
+              "since",
+              "from"
+            ]
+          },
+          {
+            "words": "She has not called since the argument they had last month",
+            "extra": [
+              "for",
+              "from"
+            ]
+          },
+          {
+            "words": "They had been married for twenty years when they finally separated",
+            "extra": [
+              "since",
+              "from"
+            ]
+          },
+          {
+            "words": "The festival takes place from the fourteenth to the eighteenth of July",
+            "extra": [
+              "since",
+              "for"
+            ]
+          },
+          {
+            "words": "He has not spoken to his brother since they had that argument years ago",
+            "extra": [
+              "for",
+              "from"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Maria has been working as a teacher {{1}} over fifteen years. She started her career in 2009, so she has been in the profession {{2}} more than a decade and a half. She has taught at the same school {{3}} 2014, which means she has built strong relationships with the community there. The school's summer term runs {{4}} the beginning of April {{5}} the end of July. {{6}} she joined the school, she has introduced many new teaching methods. She says that teaching has changed enormously {{7}} she first started, {{10}} many new tools now available, and she loves the challenge. She hasn't taken a long holiday {{8}} almost two years and is planning a big trip {{9}} next summer.",
+            "blanks": {
+              "1": "for",
+              "2": "for",
+              "3": "since",
+              "4": "from",
+              "5": "to",
+              "6": "Since",
+              "7": "since",
+              "8": "for",
+              "9": "from",
+              "10": "with"
+            },
+            "wordbank": [
+              "for",
+              "since",
+              "from",
+              "to",
+              "during",
+              "while",
+              "until",
+              "after",
+              "before",
+              "in"
+            ]
+          },
+          {
+            "text": "The historic building on Market Street has been closed {{1}} renovation {{2}} over eight months. Workmen have been on site {{3}} early February, when the project officially began. The restoration work is scheduled to run {{4}} February {{5}} the end of October. Local residents have been frustrated by the disruption {{6}} the work started, as the road outside has been partially blocked {{7}} several months. However, the building's owner says the results will be worth the wait. The building has stood on that street {{8}} the eighteenth century, and {{9}} the renovations are complete, it will look more beautiful than ever, and the owner has promised to open it {{10}} the public.",
+            "blanks": {
+              "1": "for",
+              "2": "for",
+              "3": "since",
+              "4": "from",
+              "5": "to",
+              "6": "since",
+              "7": "for",
+              "8": "since",
+              "9": "once",
+              "10": "to"
+            },
+            "wordbank": [
+              "for",
+              "since",
+              "from",
+              "to",
+              "during",
+              "while",
+              "until",
+              "after",
+              "before",
+              "once"
+            ]
+          },
+          {
+            "text": "Jack has been passionate about astronomy {{1}} he was a teenager. He has owned a telescope {{2}} almost twenty years and spends several nights a week studying the sky. He joined an astronomy club {{3}} 2008 and has been an active member {{4}} then. The club meets regularly {{5}} September {{6}} May each year, taking a break over the summer months. Jack says he hasn't missed a single meeting {{7}} he first joined. He has been writing a blog about his observations {{8}} the past five years and has gained a large following online. He plans to attend a major astronomy conference {{9}} next spring and has been preparing {{10}} several months.",
+            "blanks": {
+              "1": "since",
+              "2": "for",
+              "3": "in",
+              "4": "since",
+              "5": "from",
+              "6": "to",
+              "7": "since",
+              "8": "for",
+              "9": "from",
+              "10": "for"
+            },
+            "wordbank": [
+              "for",
+              "since",
+              "from",
+              "to",
+              "during",
+              "while",
+              "until",
+              "after",
+              "in",
+              "before"
+            ]
+          },
+          {
+            "text": "The two friends had not spoken {{1}} nearly five years when they finally met at a school reunion. They had been close {{2}} their early childhood, and had stayed in touch {{3}} they were teenagers, but gradually lost contact after university. One of them, Sara, had lived abroad {{4}} 2015 {{5}} 2019. {{6}} she returned, she had been so busy with work that she hadn't had time to reach out to old friends. But {{7}} they saw each other at the reunion, it felt as if no time had passed at all. They have been meeting regularly {{8}} that evening, and both say their friendship has been stronger than ever {{9}} they reconnected, and they plan to meet regularly {{10}} now on.",
+            "blanks": {
+              "1": "for",
+              "2": "since",
+              "3": "until",
+              "4": "from",
+              "5": "to",
+              "6": "Since",
+              "7": "once",
+              "8": "since",
+              "9": "since",
+              "10": "from"
+            },
+            "wordbank": [
+              "for",
+              "since",
+              "from",
+              "to",
+              "until",
+              "after",
+              "once",
+              "during",
+              "while",
+              "before"
+            ]
+          },
+          {
+            "text": "The community garden project has been running {{1}} just over three years. It was set up {{2}} a small group of neighbours in the spring and has grown significantly {{3}} then. Volunteers work in the garden every weekend {{4}} morning until early afternoon. The project has been supported by the local council {{5}} its very first year. {{6}} the project began, over two hundred families have taken part. The garden is open {{7}} the public {{8}} Tuesday {{9}} Sunday, and entry is always free, and the garden has been thriving {{10}} it opened.",
+            "blanks": {
+              "1": "for",
+              "2": "by",
+              "3": "since",
+              "4": "from",
+              "5": "since",
+              "6": "Since",
+              "7": "to",
+              "8": "from",
+              "9": "to",
+              "10": "since"
+            },
+            "wordbank": [
+              "for",
+              "since",
+              "from",
+              "to",
+              "by",
+              "during",
+              "while",
+              "until",
+              "after",
+              "before"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Kể về một người bạn, thành viên gia đình hoặc chính bạn – họ đã làm một công việc, sống ở một nơi, hoặc theo đuổi một sở thích trong bao lâu và bắt đầu từ khi nào",
+          "grammar_focus": "for + duration, since + starting point, from + starting point (with to/until)",
+          "hint_words": [
+            "has lived here since",
+            "has worked there for",
+            "has been studying since",
+            "from Monday to Friday",
+            "since she was a child",
+            "for more than ten years"
+          ],
+          "min_words": 30,
+          "example": "My uncle has been a professional chef for over twenty years. He has worked at the same restaurant since 2006, which means he has been there for nearly two decades. He decided to pursue cooking as a career since he was a teenager, when he used to help his mother in the kitchen every evening. The restaurant is open from Tuesday to Sunday, and my uncle works long hours every day. He has won several regional awards since he became head chef in 2010. Despite the long hours, he says he has never regretted his choice for a single day."
+        },
+        {
+          "vi": "Mô tả sự thay đổi lớn trong cuộc sống của bạn – điều đó đã xảy ra bao lâu trước đây, và mọi thứ đã thay đổi như thế nào kể từ đó",
+          "grammar_focus": "since + event/clause (things have changed since…), for + duration, from + point",
+          "hint_words": [
+            "since I moved",
+            "since that day",
+            "for the past two years",
+            "everything has changed since",
+            "since I started",
+            "from that point on"
+          ],
+          "min_words": 30,
+          "example": "My life has changed significantly since I moved to a new city two years ago. Before that, I had lived in my hometown for my entire life, so the move was a big step. Since arriving here, I have made new friends, learned to be more independent, and discovered parts of my personality I never knew existed. I have been happier since I started this new chapter, even though the first few months were challenging. My working hours are from nine to six, which gives me time to explore the city in the evenings. For the past year, I have been taking evening classes in Spanish, which has opened up a whole new world for me."
+        },
+        {
+          "vi": "Kể về một mối quan hệ bạn bè hoặc gia đình – bạn đã biết nhau từ khi nào, và tình bạn/gia đình đó đã kéo dài bao lâu",
+          "grammar_focus": "since + starting point, for + duration, from + point (often with to/until)",
+          "hint_words": [
+            "since we were children",
+            "for over ten years",
+            "since the day we met",
+            "from the very beginning",
+            "since she joined",
+            "for as long as I can remember"
+          ],
+          "min_words": 30,
+          "example": "My best friend Linh and I have known each other since we started secondary school. That means we have been friends for almost twelve years now. Since the very first day we met, we have supported each other through everything — exams, relationships, career decisions, and difficult times. She has lived in another city from 2020 to 2023, and during that period we talked on video call every week for hours. Since she returned, we have been meeting in person regularly again. For as long as I can remember, she has been the most honest and loyal person in my life, and I hope our friendship continues for many more years to come."
+        },
+        {
+          "vi": "Viết về một sự kiện hoặc chương trình thường niên mà bạn biết – nó bắt đầu từ bao giờ, kéo dài bao lâu và diễn ra trong khoảng thời gian nào",
+          "grammar_focus": "from...to (schedule), for + duration, since + starting year",
+          "hint_words": [
+            "from the first to the last day",
+            "for three days",
+            "since it was founded",
+            "from morning to evening",
+            "has been running since",
+            "for over a decade"
+          ],
+          "min_words": 30,
+          "example": "The annual lantern festival in my city has been running since 1998, which means it has been a tradition for over twenty-five years. The event takes place every year from the fifteenth to the seventeenth of January. Each day, the celebrations run from late afternoon to well past midnight, filling the streets with colour and light. Since the festival became more widely known, thousands of visitors have come from all over the country to attend. The organisers have worked for months each year to prepare the decorations and entertainment. Since I was a child, I have never missed a single year, and for me it is the highlight of the entire calendar."
+        },
+        {
+          "vi": "Kể về một dự án học tập hoặc công việc bạn đang thực hiện – bạn đã bắt đầu từ khi nào, đã làm được bao lâu và nó sẽ chạy đến khi nào",
+          "grammar_focus": "since + starting point, for + duration, from + point, from...to (schedule)",
+          "hint_words": [
+            "since I started",
+            "for the past few months",
+            "from the beginning of the year",
+            "since last September",
+            "from January to June",
+            "for about a year"
+          ],
+          "min_words": 30,
+          "example": "I have been working on a research project since last September, which means I have been involved in it for over eight months. The project runs from September to June each academic year and focuses on language learning strategies among university students. Since I joined the team, I have collected survey data from more than two hundred participants and have been analysing the results for the past two months. We meet as a group from ten to twelve every Thursday morning to discuss our progress. Since the project began, we have already published one article in an academic journal and are working on a second. I hope to have completed my individual section for the final report within the next three weeks."
+        }
+      ]
+    }
+  ]
+}

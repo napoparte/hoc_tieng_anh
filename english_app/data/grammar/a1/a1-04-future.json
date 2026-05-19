@@ -1,0 +1,1392 @@
+{
+  "beginner": [
+    {
+      "icon": "🔮",
+      "title": "Future: Will / Won't / Shall",
+      "level": "A1",
+      "badge": "🌱 A1",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Khi nào dùng WILL / SHALL</div>\n<b>Will</b> được dùng để diễn đạt:<br>\n• <b>Quyết định tức thì</b> (ngay lúc nói): \"It's cold.\" – \"I'll close the window.\"<br>\n• <b>Dự đoán / tin tưởng về tương lai</b>: I think it will rain tomorrow.<br>\n• <b>Lời hứa / cam kết</b>: I'll call you tonight. I promise.<br>\n• <b>Đề nghị giúp đỡ</b>: I'll carry that bag for you.<br>\n• <b>Yêu cầu / đề nghị lịch sự</b>: Will you help me, please?<br><br>\n<b>Shall</b> (trang trọng hơn, dùng với I/We):<br>\n• <b>Đề nghị / gợi ý</b>: Shall I open the window? Shall we go?<br>\n• <b>Hỏi ý kiến về kế hoạch</b>: What shall we do tonight?</div>\n\n<div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Công thức đầy đủ</div>\n<table style=\"width:100%;font-size:12px;border-collapse:collapse\">\n<tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Loại câu</th><th style=\"padding:4px 8px;text-align:left\">Công thức</th><th style=\"padding:4px 8px;text-align:left\">Ví dụ</th></tr>\n<tr><td style=\"padding:4px 8px\">Khẳng định</td><td style=\"padding:4px 8px\">S + <b>will</b> + V</td><td style=\"padding:4px 8px\">I <b>will help</b> you. / She <b>'ll come</b>.</td></tr>\n<tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">Phủ định</td><td style=\"padding:4px 8px\">S + <b>won't</b> + V</td><td style=\"padding:4px 8px\">He <b>won't be</b> late. They <b>won't come</b>.</td></tr>\n<tr><td style=\"padding:4px 8px\">Câu hỏi Yes/No</td><td style=\"padding:4px 8px\"><b>Will</b> + S + V?</td><td style=\"padding:4px 8px\"><b>Will</b> she call? <b>Will</b> it rain?</td></tr>\n<tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">Câu hỏi Wh-</td><td style=\"padding:4px 8px\"><b>Wh- + will</b> + S + V?</td><td style=\"padding:4px 8px\"><b>Where will</b> you go? <b>What will</b> she do?</td></tr>\n</table></div>\n\n<div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">✅ Rút gọn thường dùng</div>\nI will → <b>I'll</b> &nbsp;|&nbsp; you will → <b>you'll</b> &nbsp;|&nbsp; he will → <b>he'll</b> &nbsp;|&nbsp; she will → <b>she'll</b><br>\nit will → <b>it'll</b> &nbsp;|&nbsp; we will → <b>we'll</b> &nbsp;|&nbsp; they will → <b>they'll</b><br>\nwill not → <b>won't</b></div>\n\n<div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">✅ Trả lời ngắn</div>\n<b>Will you help me?</b> – Yes, I <b>will</b>. / No, I <b>won't</b>.<br>\n<b>Will it rain?</b> – Yes, it <b>will</b>. / No, it <b>won't</b>.</div>\n\n<div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Lỗi thường gặp</div>\n❌ <s>I will to go.</s> → ✅ I <b>will go</b>. (sau will không có \"to\")<br>\n❌ <s>She wills come.</s> → ✅ She <b>will come</b>. (will không chia theo chủ ngữ)<br>\n❌ <s>I will go not.</s> → ✅ I <b>won't go</b>.<br>\n❌ <s>Will she comes?</s> → ✅ Will she <b>come</b>? (sau will dùng V nguyên thể)</div>\n\n<div class=\"ex-sent\">Don't worry — I<b>'ll help</b> you with your homework later.<span>Đừng lo — tôi sẽ giúp bạn làm bài tập sau.</span></div>\n<div class=\"ex-sent\">I think it <b>will be</b> cold tomorrow. You should bring a coat.<span>Tôi nghĩ ngày mai trời sẽ lạnh. Bạn nên mang áo khoác.</span></div>\n<div class=\"ex-sent\"><b>Shall</b> I open the window? It's very hot in here.<span>Tôi mở cửa sổ nhé? Trong này nóng lắm.</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "It's very hot in here. I ___ open the window.",
+          "opts": "'ll,'m going to,would,shall",
+          "ans": "A",
+          "exp": "Quyết định tức thì → will ('ll)"
+        },
+        {
+          "type": "mc",
+          "q": "I promise I ___ call you as soon as I arrive.",
+          "opts": "'ll,am going to,would,shall",
+          "ans": "A",
+          "exp": "Lời hứa → will"
+        },
+        {
+          "type": "mc",
+          "q": "___ you help me carry these heavy bags, please?",
+          "opts": "Will,Shall,Would,Are",
+          "ans": "A",
+          "exp": "Yêu cầu lịch sự → Will you…?"
+        },
+        {
+          "type": "mc",
+          "q": "I think it ___ rain later. The sky looks very dark.",
+          "opts": "will,is going to,would,shall",
+          "ans": "A",
+          "exp": "Dự đoán chung → will"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ come to the party. She has other plans.",
+          "opts": "won't,isn't going to,wouldn't,shan't",
+          "ans": "A",
+          "exp": "Phủ định → won't"
+        },
+        {
+          "type": "mc",
+          "q": "___ I help you with that heavy suitcase?",
+          "opts": "Shall,Will,Would,Am going to",
+          "ans": "A",
+          "exp": "Đề nghị giúp đỡ lịch sự → Shall I…?"
+        },
+        {
+          "type": "mc",
+          "q": "Don't worry — he ___ be late. He's already on his way.",
+          "opts": "won't,isn't going to,wouldn't,shan't",
+          "ans": "A",
+          "exp": "Dự đoán phủ định → won't"
+        },
+        {
+          "type": "mc",
+          "q": "Will she pass the exam? – Yes, she ___.",
+          "opts": "will,shall,does,is",
+          "ans": "A",
+          "exp": "Short answer: Yes, she will."
+        },
+        {
+          "type": "mc",
+          "q": "I ___ have the soup, please. (ordering in a restaurant)",
+          "opts": "'ll,am going to,would,shall",
+          "ans": "A",
+          "exp": "Quyết định tức thì → I'll have…"
+        },
+        {
+          "type": "mc",
+          "q": "___ we go for a walk after dinner?",
+          "opts": "Shall,Will,Would,Are",
+          "ans": "A",
+          "exp": "Gợi ý → Shall we…?"
+        },
+        {
+          "type": "mc",
+          "q": "The weather forecast says it ___ be sunny all weekend.",
+          "opts": "will,is going to,would,shall",
+          "ans": "A",
+          "exp": "Dự đoán → will"
+        },
+        {
+          "type": "mc",
+          "q": "I don't think they ___ arrive before midnight.",
+          "opts": "will,are going to,would,shall",
+          "ans": "A",
+          "exp": "Dự đoán phủ định → won't/will not"
+        },
+        {
+          "type": "mc",
+          "q": "___ you be at home this evening? I'd like to visit.",
+          "opts": "Will,Shall,Are,Would",
+          "ans": "A",
+          "exp": "Hỏi kế hoạch → Will you…?"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ probably forget to bring his passport again.",
+          "opts": "'ll,is going to,would,shall",
+          "ans": "A",
+          "exp": "Dự đoán → will / 'll"
+        },
+        {
+          "type": "mc",
+          "q": "Will it snow tomorrow? – No, it ___.",
+          "opts": "won't,isn't,doesn't,shan't",
+          "ans": "A",
+          "exp": "Short answer phủ định: No, it won't."
+        },
+        {
+          "type": "mc",
+          "q": "___ what time shall we meet at the station?",
+          "opts": "What time will,What time shall,When will,When would",
+          "ans": "B",
+          "exp": "Gợi ý / hỏi ý kiến → Shall we…?"
+        },
+        {
+          "type": "tf",
+          "q": "She wills come to the party tomorrow. → Correct or Wrong?",
+          "ans": "Wrong – correct: She <b>will come</b> to the party",
+          "exp": "Will không chia theo chủ ngữ — luôn là will"
+        },
+        {
+          "type": "tf",
+          "q": "I'll help you with that. → Correct or Wrong?",
+          "ans": "Correct",
+          "exp": "I'll = I will — rút gọn đúng ✔"
+        },
+        {
+          "type": "tf",
+          "q": "Will she comes to the meeting? → Correct or Wrong?",
+          "ans": "Wrong – correct: Will she <b>come</b> to the meeting?",
+          "exp": "Sau will dùng V nguyên thể, không thêm -s"
+        },
+        {
+          "type": "tf",
+          "q": "Shall I open the door for you? → Correct or Wrong?",
+          "ans": "Correct",
+          "exp": "Shall I…? = đề nghị giúp đỡ lịch sự ✔"
+        },
+        {
+          "type": "fill",
+          "q": "Don't worry — I ___ help you with your project tonight.",
+          "ans": "'ll / will",
+          "exp": "Lời hứa/quyết định tức thì → will"
+        },
+        {
+          "type": "fill",
+          "q": "It's very stuffy in here. ___ I open a window?",
+          "ans": "Shall",
+          "exp": "Đề nghị lịch sự → Shall I…?"
+        },
+        {
+          "type": "fill",
+          "q": "I think the weather ___ be nice at the weekend.",
+          "ans": "will",
+          "exp": "Dự đoán → will"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (not) come to class tomorrow — she's feeling ill.",
+          "ans": "won't",
+          "exp": "Phủ định → won't"
+        },
+        {
+          "type": "fill",
+          "q": "___ you be at the meeting this afternoon?",
+          "ans": "Will",
+          "exp": "Hỏi → Will you…?"
+        },
+        {
+          "type": "fill",
+          "q": "I'm hungry. I think I ___ have the pasta, please.",
+          "ans": "'ll / will",
+          "exp": "Quyết định tức thì → I'll"
+        },
+        {
+          "type": "fill",
+          "q": "___ we go to the cinema or stay at home tonight?",
+          "ans": "Shall",
+          "exp": "Gợi ý → Shall we…?"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (not) forget — I've already reminded him three times.",
+          "ans": "won't",
+          "exp": "Dự đoán phủ định → won't"
+        },
+        {
+          "type": "fill",
+          "q": "Will they arrive on time? – Yes, they ___.",
+          "ans": "will",
+          "exp": "Short answer: Yes, they will."
+        },
+        {
+          "type": "fill",
+          "q": "I promise I ___ be back before midnight.",
+          "ans": "'ll / will",
+          "exp": "Lời hứa → will"
+        },
+        {
+          "type": "fill",
+          "q": "___ I carry that heavy box for you?",
+          "ans": "Shall",
+          "exp": "Đề nghị giúp đỡ → Shall I…?"
+        },
+        {
+          "type": "fill",
+          "q": "The meeting ___ (not) start until everyone arrives.",
+          "ans": "won't",
+          "exp": "won't = will not"
+        },
+        {
+          "type": "fill",
+          "q": "What time ___ the train leave tomorrow morning?",
+          "ans": "will",
+          "exp": "What time will + S + V?"
+        },
+        {
+          "type": "fill",
+          "q": "I don't think it ___ snow this winter — it's too warm.",
+          "ans": "will",
+          "exp": "Dự đoán → will (trong câu phủ định với I don't think)"
+        },
+        {
+          "type": "fill",
+          "q": "___ you please pass me the salt?",
+          "ans": "Will",
+          "exp": "Yêu cầu lịch sự → Will you…?"
+        },
+        {
+          "type": "fill",
+          "q": "She's very clever — I'm sure she ___ pass the exam easily.",
+          "ans": "'ll / will",
+          "exp": "Dự đoán tích cực → will"
+        },
+        {
+          "type": "fill",
+          "q": "___ we order a taxi now or wait a bit longer?",
+          "ans": "Shall",
+          "exp": "Gợi ý → Shall we…?"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (not) tell anyone. I promise to keep it secret.",
+          "ans": "won't",
+          "exp": "Lời hứa phủ định → won't"
+        },
+        {
+          "type": "fill",
+          "q": "Will the shops be open on Sunday? – No, they ___.",
+          "ans": "won't",
+          "exp": "Short answer phủ định: No, they won't."
+        },
+        {
+          "type": "fill",
+          "q": "It's getting dark. I think she ___ be home soon.",
+          "ans": "'ll / will",
+          "exp": "Dự đoán → will"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "I'll help you with your homework this evening",
+            "extra": [
+              "will",
+              "help",
+              "homework"
+            ]
+          },
+          {
+            "words": "Will you be at home later this afternoon",
+            "extra": [
+              "will",
+              "home",
+              "afternoon"
+            ]
+          },
+          {
+            "words": "She won't come to the party because she's busy",
+            "extra": [
+              "won't",
+              "party",
+              "busy"
+            ]
+          },
+          {
+            "words": "I think it will rain later so bring an umbrella",
+            "extra": [
+              "will",
+              "rain",
+              "umbrella"
+            ]
+          },
+          {
+            "words": "Shall I make you a cup of tea",
+            "extra": [
+              "shall",
+              "make",
+              "tea"
+            ]
+          },
+          {
+            "words": "He'll probably be late because of the traffic",
+            "extra": [
+              "will",
+              "late",
+              "traffic"
+            ]
+          },
+          {
+            "words": "Will the exam be difficult this year",
+            "extra": [
+              "will",
+              "exam",
+              "difficult"
+            ]
+          },
+          {
+            "words": "I promise I won't tell anyone about this",
+            "extra": [
+              "won't",
+              "tell",
+              "anyone"
+            ]
+          },
+          {
+            "words": "Shall we go for a walk after dinner tonight",
+            "extra": [
+              "shall",
+              "walk",
+              "dinner"
+            ]
+          },
+          {
+            "words": "Don't worry she will call you when she arrives",
+            "extra": [
+              "will",
+              "call",
+              "arrives"
+            ]
+          },
+          {
+            "words": "I'll have the chicken salad please",
+            "extra": [
+              "will",
+              "chicken",
+              "please"
+            ]
+          },
+          {
+            "words": "Will they arrive on time for the meeting",
+            "extra": [
+              "will",
+              "arrive",
+              "meeting"
+            ]
+          },
+          {
+            "words": "I don't think it will snow this winter",
+            "extra": [
+              "will",
+              "snow",
+              "winter"
+            ]
+          },
+          {
+            "words": "Shall I open the window it's very hot in here",
+            "extra": [
+              "shall",
+              "open",
+              "window"
+            ]
+          },
+          {
+            "words": "She'll be a great doctor one day I'm sure",
+            "extra": [
+              "will",
+              "doctor",
+              "sure"
+            ]
+          },
+          {
+            "words": "We won't be able to finish the project by Friday",
+            "extra": [
+              "won't",
+              "finish",
+              "Friday"
+            ]
+          },
+          {
+            "words": "What time will the train arrive at the station",
+            "extra": [
+              "will",
+              "train",
+              "station"
+            ]
+          },
+          {
+            "words": "I'll send you the details as soon as I know",
+            "extra": [
+              "will",
+              "send",
+              "details"
+            ]
+          },
+          {
+            "words": "Will you help me move this heavy furniture please",
+            "extra": [
+              "will",
+              "help",
+              "furniture"
+            ]
+          },
+          {
+            "words": "Shall we meet at the café at seven o'clock",
+            "extra": [
+              "shall",
+              "meet",
+              "café"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Next summer, our school {{1}} (organise) a trip to London. We {{2}} (visit) the British Museum and the National Gallery. I think it {{3}} (be) an incredible experience. Our teacher says we {{4}} (not/have) much free time because the schedule is packed. {{5}} (we/see) Buckingham Palace? Yes, we {{6}} — it is on the itinerary. My friend Ana says she {{7}} (not/enjoy) the long bus journey, but I think she {{8}} (change) her mind once we arrive. I {{9}} (buy) a small gift for my parents. Shall {{10}} (I/take) a lot of photos? Of course — I {{11}} (not/forget) my camera this time!",
+            "blanks": {
+              "1": "will organise",
+              "2": "will visit",
+              "3": "will be",
+              "4": "won't have",
+              "5": "Will we see",
+              "6": "will",
+              "7": "won't enjoy",
+              "8": "will change",
+              "9": "will buy",
+              "10": "I take",
+              "11": "won't forget"
+            },
+            "wordbank": [
+              "organise",
+              "visit",
+              "be",
+              "have",
+              "see",
+              "enjoy",
+              "change",
+              "buy",
+              "take",
+              "forget",
+              "museum",
+              "gallery",
+              "incredible",
+              "schedule",
+              "itinerary",
+              "journey",
+              "camera",
+              "palace",
+              "packed",
+              "gift"
+            ]
+          },
+          {
+            "text": "My little brother is only six years old but he already knows what he {{1}} (do) when he grows up. He says he {{2}} (be) an astronaut. He {{3}} (not/work) in an office — he {{4}} (travel) to space. {{5}} (he/live) on the moon? Probably not, but he {{6}} (try) his best. My parents think it {{7}} (take) a lot of hard work and study. He {{8}} (not/give up) easily though — he is very determined. {{9}} (he/start) by studying science at university? I think he {{10}} (need) to. I {{11}} (support) him whatever he decides to do.",
+            "blanks": {
+              "1": "will do",
+              "2": "will be",
+              "3": "won't work",
+              "4": "will travel",
+              "5": "Will he live",
+              "6": "will try",
+              "7": "will take",
+              "8": "won't give up",
+              "9": "Will he start",
+              "10": "will need",
+              "11": "will support"
+            },
+            "wordbank": [
+              "do",
+              "be",
+              "work",
+              "travel",
+              "live",
+              "try",
+              "take",
+              "give",
+              "start",
+              "need",
+              "support",
+              "astronaut",
+              "office",
+              "space",
+              "moon",
+              "determined",
+              "university",
+              "science",
+              "probably",
+              "whatever"
+            ]
+          },
+          {
+            "text": "A: I have a terrible headache. I think I {{1}} (go) home early today.\nB: {{2}} (I/get) you some water and painkillers?\nA: Yes please. I don't think I {{3}} (be) able to finish the report today.\nB: Don't worry — I {{4}} (help) you with it tomorrow morning.\nA: Are you sure? {{5}} (you/have) time?\nB: Yes, I {{6}}. I {{7}} (not/have) any meetings until the afternoon.\nA: That's so kind. I {{8}} (not/forget) this.\nB: {{9}} (I/call) you a taxi? You look really pale.\nA: Please. I {{10}} (not/drive) home like this — it's not safe.\nB: I {{11}} (wait) with you until the taxi arrives.",
+            "blanks": {
+              "1": "will go",
+              "2": "Shall I get",
+              "3": "will be",
+              "4": "will help",
+              "5": "Will you have",
+              "6": "will",
+              "7": "won't have",
+              "8": "won't forget",
+              "9": "Shall I call",
+              "10": "won't drive",
+              "11": "will wait"
+            },
+            "wordbank": [
+              "go",
+              "get",
+              "be",
+              "help",
+              "have",
+              "forget",
+              "call",
+              "drive",
+              "wait",
+              "come",
+              "headache",
+              "painkiller",
+              "report",
+              "morning",
+              "meeting",
+              "taxi",
+              "pale",
+              "kind",
+              "safe",
+              "terrible"
+            ]
+          },
+          {
+            "text": "The weather forecast for the weekend says it {{1}} (be) cold and windy on Saturday. It {{2}} (not/rain), but there {{3}} (be) strong winds. Sunday {{4}} (be) much better — the sun {{5}} (come) out and temperatures {{6}} (rise) slightly. I think we {{7}} (be) able to go to the beach on Sunday. {{8}} (you/come) with us? It {{9}} (not/be) too cold if we bring warm clothes. I think it {{10}} (be) fun. My sister says she {{11}} (not/come) because she doesn't like beaches. That's a shame — she {{12}} (enjoy) it, I'm sure.",
+            "blanks": {
+              "1": "will be",
+              "2": "won't rain",
+              "3": "will be",
+              "4": "will be",
+              "5": "will come",
+              "6": "will rise",
+              "7": "will be",
+              "8": "Will you come",
+              "9": "won't be",
+              "10": "will be",
+              "11": "won't come",
+              "12": "will enjoy"
+            },
+            "wordbank": [
+              "be",
+              "rain",
+              "come",
+              "rise",
+              "enjoy",
+              "bring",
+              "forecast",
+              "windy",
+              "temperature",
+              "beach",
+              "warm",
+              "shame",
+              "slightly",
+              "weekend",
+              "Saturday",
+              "Sunday",
+              "strong",
+              "cold",
+              "sunny",
+              "fun"
+            ]
+          },
+          {
+            "text": "After the film tonight, we {{1}} (go) to a café for something to eat. I {{2}} (have) the pasta — I'm already decided. Tom says he {{3}} (not/know) what to order until he sees the menu. {{4}} (we/walk) or take a taxi? I think we {{5}} (walk) — it's not far. Anna says she {{6}} (not/come) because she has work early tomorrow. That's a pity — it {{7}} (not/be) the same without her. {{8}} (I/text) her later to check she got home safely. I think the evening {{9}} (be) really enjoyable. What time {{10}} (you/be) ready to leave? I think we {{11}} (need) to leave by nine at the latest.",
+            "blanks": {
+              "1": "will go",
+              "2": "will have",
+              "3": "won't know",
+              "4": "Will we walk",
+              "5": "will walk",
+              "6": "won't come",
+              "7": "won't be",
+              "8": "Shall I text",
+              "9": "will be",
+              "10": "will you be",
+              "11": "will need"
+            },
+            "wordbank": [
+              "go",
+              "have",
+              "know",
+              "walk",
+              "come",
+              "be",
+              "text",
+              "need",
+              "order",
+              "leave",
+              "decide",
+              "menu",
+              "taxi",
+              "pity",
+              "safely",
+              "enjoyable",
+              "ready",
+              "latest",
+              "pasta",
+              "evening"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Viết về những gì bạn nghĩ sẽ xảy ra vào cuối tuần tới (dự đoán, kế hoạch chưa chắc chắn).",
+          "grammar_focus": "will – predictions and decisions",
+          "hint_words": [
+            "I think it will",
+            "probably",
+            "I'll",
+            "I won't",
+            "maybe",
+            "I'm sure"
+          ],
+          "min_words": 35,
+          "example": "I think it will be sunny this weekend, so I'll probably go to the park with my friends. I won't stay at home all day — that would be boring. I'll maybe try a new café nearby. I'm sure it will be a relaxing day."
+        },
+        {
+          "vi": "Viết lời hứa hoặc đề nghị giúp đỡ dùng will và shall.",
+          "grammar_focus": "will – promises and offers; shall – suggestions",
+          "hint_words": [
+            "I'll help",
+            "I'll do",
+            "I promise I'll",
+            "Shall I",
+            "I won't forget",
+            "I'll make sure"
+          ],
+          "min_words": 35,
+          "example": "I promise I'll tidy my room this weekend. I'll do the washing up after dinner too. Shall I make a shopping list? I won't forget to buy milk this time. I'll also call my grandmother — I haven't spoken to her in weeks."
+        },
+        {
+          "vi": "Viết hội thoại ngắn giữa 2 người đang lên kế hoạch cho một buổi tối dùng will và shall.",
+          "grammar_focus": "will / shall – plans and suggestions",
+          "hint_words": [
+            "Shall we",
+            "Will you",
+            "I'll",
+            "won't",
+            "What shall we",
+            "I think we'll"
+          ],
+          "min_words": 40,
+          "example": "A: Shall we go out for dinner tonight?\nB: Yes! I'll book a table at that new Italian place.\nA: Will it be expensive?\nB: I don't think it will. Shall I check the menu online first?\nA: Good idea. I won't be ready until seven — is that okay?\nB: Perfect. I'll meet you there."
+        },
+        {
+          "vi": "Dự đoán về tương lai của bạn hoặc thế giới dùng will/won't.",
+          "grammar_focus": "will – future predictions",
+          "hint_words": [
+            "I think … will",
+            "I don't think … will",
+            "probably",
+            "won't",
+            "in the future",
+            "one day"
+          ],
+          "min_words": 40,
+          "example": "I think technology will change our lives a lot in the next ten years. People probably won't use cash much — everything will be digital. I don't think cars will disappear, but many will be electric. In my own life, I hope I'll travel more and I won't have to work too many hours."
+        },
+        {
+          "vi": "Viết email ngắn hứa sẽ làm gì và đề nghị giúp đỡ người nhận, dùng will/won't/shall.",
+          "grammar_focus": "will – promises, offers, future plans",
+          "hint_words": [
+            "I'll send",
+            "I won't be late",
+            "I'll make sure",
+            "Shall I",
+            "I promise",
+            "I'll let you know"
+          ],
+          "min_words": 40,
+          "example": "Hi Maria,\nI'll send you the report by Friday morning. I promise I won't forget this time! Shall I include the data from last month as well? I'll make sure everything is ready before our meeting. I won't be late on Thursday — I'll leave home early. Let me know if you need anything else and I'll help straight away."
+        }
+      ]
+    },
+    {
+      "icon": "📅",
+      "title": "Future: Be Going To",
+      "level": "A1",
+      "badge": "🌱 A1",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Khi nào dùng BE GOING TO</div>\nDùng <b>be going to</b> để nói về:<br>\n• <b>Kế hoạch / dự định đã quyết định từ trước</b>: I'm going to study medicine. (đã quyết định)<br>\n• <b>Dự đoán dựa trên bằng chứng hiện tại</b>: Look at those clouds — it's going to rain! (nhìn thấy mây)<br><br>\n<b>So sánh will vs be going to:</b><br>\n• <b>Will</b>: quyết định tức thì / dự đoán chung → \"The phone's ringing.\" \"I'll get it!\"<br>\n• <b>Be going to</b>: kế hoạch đã chuẩn bị sẵn → \"I'm going to call her later.\" (đã có ý định từ trước)</div>\n\n<div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Công thức đầy đủ</div>\n<table style=\"width:100%;font-size:12px;border-collapse:collapse\">\n<tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Loại câu</th><th style=\"padding:4px 8px;text-align:left\">Công thức</th><th style=\"padding:4px 8px;text-align:left\">Ví dụ</th></tr>\n<tr><td style=\"padding:4px 8px\">Khẳng định</td><td style=\"padding:4px 8px\">S + <b>am/is/are going to</b> + V</td><td style=\"padding:4px 8px\">I<b>'m going to travel</b>. She<b>'s going to study</b>.</td></tr>\n<tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">Phủ định</td><td style=\"padding:4px 8px\">S + <b>am/is/are not going to</b> + V</td><td style=\"padding:4px 8px\">I<b>'m not going to</b> eat. He<b>'s not going to</b> come.</td></tr>\n<tr><td style=\"padding:4px 8px\">Câu hỏi Yes/No</td><td style=\"padding:4px 8px\"><b>Am/Is/Are</b> + S + <b>going to</b> + V?</td><td style=\"padding:4px 8px\"><b>Are</b> you <b>going to</b> come? <b>Is</b> she <b>going to</b> call?</td></tr>\n<tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">Câu hỏi Wh-</td><td style=\"padding:4px 8px\"><b>Wh-</b> + am/is/are + S + <b>going to</b> + V?</td><td style=\"padding:4px 8px\"><b>What are</b> you <b>going to</b> do? <b>Where is</b> she <b>going to</b> go?</td></tr>\n</table></div>\n\n<div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">✅ Trả lời ngắn</div>\n<b>Are you going to come?</b> – Yes, I <b>am</b>. / No, I<b>'m not</b>.<br>\n<b>Is she going to call?</b> – Yes, she <b>is</b>. / No, she<b>'s not</b> / she <b>isn't</b>.<br>\n<b>Are they going to stay?</b> – Yes, they <b>are</b>. / No, they<b>'re not</b> / they <b>aren't</b>.</div>\n\n<div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Lỗi thường gặp</div>\n❌ <s>She is go to study.</s> → ✅ She is <b>going to study</b>.<br>\n❌ <s>I am going to studied.</s> → ✅ I am going to <b>study</b>. (sau going to → V nguyên thể)<br>\n❌ <s>Are you go to come?</s> → ✅ Are you <b>going to</b> come?<br>\n❌ <s>He going to leave soon.</s> → ✅ He <b>is going to</b> leave soon.</div>\n\n<div class=\"ex-sent\">I<b>'m going to visit</b> my grandmother this weekend — I already bought the train ticket.<span>Tôi sẽ thăm bà ngoại cuối tuần này — tôi đã mua vé tàu rồi.</span></div>\n<div class=\"ex-sent\">Look at that car — it<b>'s going to crash</b>!<span>Nhìn chiếc xe kia — nó sắp đâm vào đó!</span></div>\n<div class=\"ex-sent\"><b>Are</b> you <b>going to apply</b> for that new job? – Yes, I <b>am</b>.<span>Bạn có định xin việc đó không? – Có.</span></div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "She ___ study medicine at university next year. She's already applied.",
+          "opts": "is going to,will,is go to,goes to",
+          "ans": "A",
+          "exp": "Kế hoạch đã quyết định → be going to"
+        },
+        {
+          "type": "mc",
+          "q": "Look at those black clouds! It ___ rain very soon.",
+          "opts": "'s going to,will,is go to,rains",
+          "ans": "A",
+          "exp": "Dự đoán có bằng chứng → is going to"
+        },
+        {
+          "type": "mc",
+          "q": "Are you going to come to the party? – No, I ___.",
+          "opts": "'m not,won't,don't,am not going",
+          "ans": "A",
+          "exp": "Short answer phủ định: No, I'm not."
+        },
+        {
+          "type": "mc",
+          "q": "They ___ move to a new flat next month — the lease is already signed.",
+          "opts": "are going to,will,going to,are go to",
+          "ans": "A",
+          "exp": "Kế hoạch đã sắp xếp → are going to"
+        },
+        {
+          "type": "mc",
+          "q": "___ she going to take the entrance exam this year?",
+          "opts": "Is,Are,Will,Does",
+          "ans": "A",
+          "exp": "Câu hỏi → Is she going to…?"
+        },
+        {
+          "type": "mc",
+          "q": "Be careful — you ___ fall if you run on that wet floor.",
+          "opts": "'re going to,will,are go to,going to",
+          "ans": "A",
+          "exp": "Dự đoán có bằng chứng → are going to"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ quit his job. He told me his decision last week.",
+          "opts": "is going to,will,going to,is go to",
+          "ans": "A",
+          "exp": "Kế hoạch đã quyết định → is going to"
+        },
+        {
+          "type": "mc",
+          "q": "Is the team going to win? – Yes, they ___.",
+          "opts": "are,will,do,is",
+          "ans": "A",
+          "exp": "Short answer: Yes, they are."
+        },
+        {
+          "type": "mc",
+          "q": "What ___ you going to do after you graduate?",
+          "opts": "are,is,will,do",
+          "ans": "A",
+          "exp": "What are you going to…?"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ not going to eat meat anymore — I've made my decision.",
+          "opts": "am,is,are,will",
+          "ans": "A",
+          "exp": "I am not going to… (phủ định)"
+        },
+        {
+          "type": "mc",
+          "q": "She looks exhausted. She ___ faint if she doesn't sit down.",
+          "opts": "'s going to,will,is go to,going to",
+          "ans": "A",
+          "exp": "Dự đoán có bằng chứng → is going to"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ paint the living room next weekend. We've already bought the paint.",
+          "opts": "are going to,will,going to,are go to",
+          "ans": "A",
+          "exp": "Kế hoạch đã chuẩn bị → are going to"
+        },
+        {
+          "type": "mc",
+          "q": "___ your parents going to visit you this summer?",
+          "opts": "Are,Is,Will,Do",
+          "ans": "A",
+          "exp": "Are + they + going to…?"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ apply for the job. He already sent his CV yesterday.",
+          "opts": "is going to,will,going to,is go to",
+          "ans": "A",
+          "exp": "Kế hoạch đã thực hiện → is going to"
+        },
+        {
+          "type": "mc",
+          "q": "Is she going to call back? – No, she ___.",
+          "opts": "isn't,won't,doesn't,aren't",
+          "ans": "A",
+          "exp": "Short answer phủ định: No, she isn't."
+        },
+        {
+          "type": "mc",
+          "q": "Watch out! That vase ___ fall!",
+          "opts": "'s going to,will,is go to,falls",
+          "ans": "A",
+          "exp": "Dự đoán tức thì có bằng chứng → is going to"
+        },
+        {
+          "type": "tf",
+          "q": "She is go to study in London next year. → Correct or Wrong?",
+          "ans": "Wrong – correct: She is <b>going to</b> study in London",
+          "exp": "Phải dùng 'going to', không phải 'go to'"
+        },
+        {
+          "type": "tf",
+          "q": "Are they going to move to a new city? – Yes, they are. → Correct or Wrong?",
+          "ans": "Correct",
+          "exp": "Are + they + going to…? → Yes, they are. ✔"
+        },
+        {
+          "type": "tf",
+          "q": "I am going to studied abroad next year. → Correct or Wrong?",
+          "ans": "Wrong – correct: I am going to <b>study</b> abroad",
+          "exp": "Sau 'going to' dùng V nguyên thể"
+        },
+        {
+          "type": "tf",
+          "q": "Look! It's going to snow — the sky is getting very grey. → Correct or Wrong?",
+          "ans": "Correct",
+          "exp": "Dự đoán có bằng chứng hiện tại → is going to ✔"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (go) to the gym three times a week from now on. I've decided.",
+          "ans": "am going to go",
+          "exp": "Kế hoạch đã quyết định → am going to go"
+        },
+        {
+          "type": "fill",
+          "q": "Look at that player — he ___ (score) any second now!",
+          "ans": "is going to score",
+          "exp": "Dự đoán có bằng chứng → is going to score"
+        },
+        {
+          "type": "fill",
+          "q": "___ (they/move) to a new house next month?",
+          "ans": "Are they going to move",
+          "exp": "Are + they + going to + V?"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (not/study) law — she changed her mind last week.",
+          "ans": "isn't going to study",
+          "exp": "Phủ định → isn't going to + V"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (visit) Paris this summer. We've already booked the flights.",
+          "ans": "are going to visit",
+          "exp": "Kế hoạch đã sắp xếp → are going to visit"
+        },
+        {
+          "type": "fill",
+          "q": "Careful! You ___ (spill) that coffee!",
+          "ans": "are going to spill",
+          "exp": "Dự đoán tức thì → are going to spill"
+        },
+        {
+          "type": "fill",
+          "q": "___ (she/take) the job offer? She has until Friday to decide.",
+          "ans": "Is she going to take",
+          "exp": "Is + she + going to + V?"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (not/come) to the dinner — he has a prior engagement.",
+          "ans": "isn't going to come",
+          "exp": "isn't going to + V"
+        },
+        {
+          "type": "fill",
+          "q": "What ___ (you/study) when you start university?",
+          "ans": "are you going to study",
+          "exp": "What + are + you + going to + V?"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (open) a new branch of the restaurant downtown.",
+          "ans": "are going to open",
+          "exp": "Kế hoạch đã quyết định → are going to open"
+        },
+        {
+          "type": "fill",
+          "q": "Is she going to apply for the scholarship? – Yes, she ___.",
+          "ans": "is",
+          "exp": "Short answer: Yes, she is."
+        },
+        {
+          "type": "fill",
+          "q": "___ (he/retire) next year? He's been talking about it for ages.",
+          "ans": "Is he going to retire",
+          "exp": "Is + he + going to + V?"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (not/eat) any more sweets this month. Doctor's orders!",
+          "ans": "am not going to eat",
+          "exp": "am not going to + V"
+        },
+        {
+          "type": "fill",
+          "q": "Look at the sky — it ___ (storm) tonight for sure.",
+          "ans": "is going to storm",
+          "exp": "Dự đoán có bằng chứng → is going to storm"
+        },
+        {
+          "type": "fill",
+          "q": "Where ___ (they/go) for their honeymoon?",
+          "ans": "are they going to go",
+          "exp": "Where + are + they + going to + V?"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (learn) Japanese — she's already enrolled in a class.",
+          "ans": "is going to learn",
+          "exp": "Kế hoạch đã thực hiện → is going to learn"
+        },
+        {
+          "type": "fill",
+          "q": "Are you going to finish the report tonight? – No, I ___.",
+          "ans": "'m not / am not",
+          "exp": "Short answer phủ định: No, I'm not."
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (not/take) the motorway — there are roadworks.",
+          "ans": "aren't going to take",
+          "exp": "aren't going to + V"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (buy) a new laptop — he saved up enough money.",
+          "ans": "is going to buy",
+          "exp": "Kế hoạch đã chuẩn bị → is going to buy"
+        },
+        {
+          "type": "fill",
+          "q": "___ (you/tell) her the news or shall I?",
+          "ans": "Are you going to tell",
+          "exp": "Are + you + going to + V?"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "She is going to study medicine at university",
+            "extra": [
+              "going",
+              "study",
+              "university"
+            ]
+          },
+          {
+            "words": "Look at those clouds it is going to rain",
+            "extra": [
+              "going",
+              "rain",
+              "clouds"
+            ]
+          },
+          {
+            "words": "Are you going to come to the party tonight",
+            "extra": [
+              "going",
+              "party",
+              "tonight"
+            ]
+          },
+          {
+            "words": "They are going to move to a new flat next month",
+            "extra": [
+              "going",
+              "move",
+              "month"
+            ]
+          },
+          {
+            "words": "He is not going to quit his job after all",
+            "extra": [
+              "going",
+              "quit",
+              "after"
+            ]
+          },
+          {
+            "words": "What are you going to do after you graduate",
+            "extra": [
+              "going",
+              "graduate",
+              "after"
+            ]
+          },
+          {
+            "words": "We are going to paint the living room this weekend",
+            "extra": [
+              "going",
+              "paint",
+              "weekend"
+            ]
+          },
+          {
+            "words": "Is she going to take the exam in June",
+            "extra": [
+              "going",
+              "take",
+              "exam"
+            ]
+          },
+          {
+            "words": "I am not going to eat meat anymore",
+            "extra": [
+              "going",
+              "meat",
+              "anymore"
+            ]
+          },
+          {
+            "words": "Be careful you are going to drop that glass",
+            "extra": [
+              "going",
+              "drop",
+              "glass"
+            ]
+          },
+          {
+            "words": "Are your parents going to visit you this summer",
+            "extra": [
+              "going",
+              "visit",
+              "summer"
+            ]
+          },
+          {
+            "words": "He is going to apply for a new job next week",
+            "extra": [
+              "going",
+              "apply",
+              "week"
+            ]
+          },
+          {
+            "words": "Where are they going to go for their holiday",
+            "extra": [
+              "going",
+              "holiday",
+              "where"
+            ]
+          },
+          {
+            "words": "She is not going to accept that offer it is too low",
+            "extra": [
+              "going",
+              "accept",
+              "offer"
+            ]
+          },
+          {
+            "words": "Is he going to retire at the end of the year",
+            "extra": [
+              "going",
+              "retire",
+              "year"
+            ]
+          },
+          {
+            "words": "We are not going to take the motorway because of roadworks",
+            "extra": [
+              "going",
+              "motorway",
+              "roadworks"
+            ]
+          },
+          {
+            "words": "Look out that car is going to crash",
+            "extra": [
+              "going",
+              "crash",
+              "look"
+            ]
+          },
+          {
+            "words": "I am going to learn Spanish when I have more time",
+            "extra": [
+              "going",
+              "learn",
+              "Spanish"
+            ]
+          },
+          {
+            "words": "Are they going to open a new café in town",
+            "extra": [
+              "going",
+              "open",
+              "town"
+            ]
+          },
+          {
+            "words": "She is going to be a brilliant teacher one day",
+            "extra": [
+              "going",
+              "teacher",
+              "brilliant"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "My best friend Linh has big plans for next year. She {{1}} (study) environmental science at university — she already received her acceptance letter. After that, she {{2}} (work) for a conservation charity. She {{3}} (not/take) a gap year because she wants to start as soon as possible. {{4}} (she/move) to another city for her studies? Yes, she {{5}} — she's already found a flat. Her parents {{6}} (help) her move. Look at her schedule — she {{7}} (be) very busy! She {{8}} (not/have) much free time at first. {{9}} (she/miss) her hometown? I think she {{10}}, but she's very excited. She {{11}} (make) the most of every opportunity.",
+            "blanks": {
+              "1": "is going to study",
+              "2": "is going to work",
+              "3": "isn't going to take",
+              "4": "Is she going to move",
+              "5": "is",
+              "6": "are going to help",
+              "7": "is going to be",
+              "8": "isn't going to have",
+              "9": "Is she going to miss",
+              "10": "is",
+              "11": "is going to make"
+            },
+            "wordbank": [
+              "study",
+              "work",
+              "take",
+              "move",
+              "help",
+              "be",
+              "have",
+              "miss",
+              "make",
+              "accept",
+              "university",
+              "conservation",
+              "charity",
+              "schedule",
+              "hometown",
+              "opportunity",
+              "excited",
+              "flat",
+              "letter",
+              "environmental"
+            ]
+          },
+          {
+            "text": "This Saturday, our football team {{1}} (play) in the regional final. The coach {{2}} (make) some important changes to the team. Our star player {{3}} (not/start) because of an injury. {{4}} (the team/use) a different formation? Yes, they {{5}}. The supporters {{6}} (travel) from all over the region to watch. Look at the ticket sales — the stadium {{7}} (be) completely full. {{8}} (the weather/cause) any problems? The forecast says it {{9}} (rain), so the pitch {{10}} (be) slippery. Our captain says the team {{11}} (give) everything they have. {{12}} (we/win)? I hope so!",
+            "blanks": {
+              "1": "is going to play",
+              "2": "is going to make",
+              "3": "isn't going to start",
+              "4": "Is the team going to use",
+              "5": "are",
+              "6": "are going to travel",
+              "7": "is going to be",
+              "8": "Is the weather going to cause",
+              "9": "is going to rain",
+              "10": "is going to be",
+              "11": "is going to give",
+              "12": "Are we going to win"
+            },
+            "wordbank": [
+              "play",
+              "make",
+              "start",
+              "use",
+              "travel",
+              "be",
+              "cause",
+              "rain",
+              "give",
+              "win",
+              "regional",
+              "formation",
+              "supporter",
+              "stadium",
+              "forecast",
+              "slippery",
+              "captain",
+              "injury",
+              "ticket",
+              "pitch"
+            ]
+          },
+          {
+            "text": "I have been feeling stressed recently, so I {{1}} (make) some changes to my lifestyle. First, I {{2}} (join) a yoga class — I already registered online. I {{3}} (not/work) late every evening anymore. {{4}} (I/also/try) to sleep eight hours a night. My doctor says I {{5}} (feel) much better if I reduce stress. I {{6}} (not/check) my emails after seven in the evening. {{7}} (I/cook) healthy meals at home instead of ordering takeaway. Am I {{8}} (give up) all my bad habits? Yes, I {{9}}! Look at my plan — I {{10}} (be) very disciplined. My friend says I {{11}} (not/last) more than a week. I'll prove her wrong!",
+            "blanks": {
+              "1": "am going to make",
+              "2": "am going to join",
+              "3": "am not going to work",
+              "4": "Am I also going to try",
+              "5": "is going to feel",
+              "6": "am not going to check",
+              "7": "Am I going to cook",
+              "8": "going to",
+              "9": "am",
+              "10": "am going to be",
+              "11": "is not going to last"
+            },
+            "wordbank": [
+              "make",
+              "join",
+              "work",
+              "try",
+              "feel",
+              "check",
+              "cook",
+              "give",
+              "be",
+              "last",
+              "lifestyle",
+              "register",
+              "reduce",
+              "stress",
+              "disciplined",
+              "takeaway",
+              "evening",
+              "healthy",
+              "habit",
+              "yoga"
+            ]
+          },
+          {
+            "text": "Our city {{1}} (build) a new metro line starting next spring. The construction {{2}} (take) about three years to complete. Several major roads {{3}} (close) during the work. {{4}} (the project/cause) much disruption? The mayor says it {{5}} (not/be) as bad as people think. New stations {{6}} (open) in the suburbs. {{7}} (the new line/connect) the airport to the city centre? Yes, it {{8}}. Thousands of commuters {{9}} (benefit) from faster travel times. The government {{10}} (also/invest) in new buses. {{11}} (the old tram line/stay) open? No, it {{12}} — it is going to close permanently.",
+            "blanks": {
+              "1": "is going to build",
+              "2": "is going to take",
+              "3": "are going to close",
+              "4": "Is the project going to cause",
+              "5": "isn't going to be",
+              "6": "are going to open",
+              "7": "Is the new line going to connect",
+              "8": "is",
+              "9": "are going to benefit",
+              "10": "is also going to invest",
+              "11": "Is the old tram line going to stay",
+              "12": "isn't"
+            },
+            "wordbank": [
+              "build",
+              "take",
+              "close",
+              "cause",
+              "be",
+              "open",
+              "connect",
+              "benefit",
+              "invest",
+              "stay",
+              "metro",
+              "construction",
+              "disruption",
+              "suburb",
+              "commuter",
+              "government",
+              "permanently",
+              "airport",
+              "mayor",
+              "tram"
+            ]
+          },
+          {
+            "text": "Next month, my family {{1}} (celebrate) my grandparents' fiftieth wedding anniversary. My aunt {{2}} (organise) a big party at a local restaurant. She {{3}} (not/tell) my grandparents in advance — it {{4}} (be) a surprise. {{5}} (all the relatives/come) from different parts of the country? Yes, they {{6}}. My cousin {{7}} (make) a special cake. {{8}} (we/show) old photographs and videos? Yes, definitely — my uncle {{9}} (prepare) a slideshow. My grandmother {{10}} (not/know) anything about it. When she walks in, everyone {{11}} (shout) surprise! {{12}} (she/cry)? Probably — she always does at emotional moments!",
+            "blanks": {
+              "1": "is going to celebrate",
+              "2": "is going to organise",
+              "3": "isn't going to tell",
+              "4": "is going to be",
+              "5": "Are all the relatives going to come",
+              "6": "are",
+              "7": "is going to make",
+              "8": "Are we going to show",
+              "9": "is going to prepare",
+              "10": "isn't going to know",
+              "11": "is going to shout",
+              "12": "Is she going to cry"
+            },
+            "wordbank": [
+              "celebrate",
+              "organise",
+              "tell",
+              "be",
+              "come",
+              "make",
+              "show",
+              "prepare",
+              "know",
+              "shout",
+              "cry",
+              "anniversary",
+              "surprise",
+              "relative",
+              "slideshow",
+              "emotional",
+              "cousin",
+              "advance",
+              "restaurant",
+              "photograph"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Viết về kế hoạch của bạn cho kỳ nghỉ hè tới dùng be going to.",
+          "grammar_focus": "be going to – future plans",
+          "hint_words": [
+            "I'm going to",
+            "I'm not going to",
+            "Are you going to",
+            "I've already",
+            "I've decided to"
+          ],
+          "min_words": 35,
+          "example": "This summer I'm going to travel around Vietnam with my family. We're going to visit Hoi An and Ha Long Bay. I'm not going to stay at home all summer — that would be a waste. I've already booked the tickets. Are you going to do anything special?"
+        },
+        {
+          "vi": "Mô tả kế hoạch của một người bạn hoặc thành viên gia đình dùng be going to.",
+          "grammar_focus": "be going to – third person plans",
+          "hint_words": [
+            "She's going to",
+            "He's going to",
+            "They're going to",
+            "He isn't going to",
+            "She's already"
+          ],
+          "min_words": 35,
+          "example": "My brother is going to start a new job next month. He's going to work for a technology company. He isn't going to live at home anymore — he's going to rent a flat near his office. He's already signed the contract. His girlfriend is going to help him move."
+        },
+        {
+          "vi": "Nhìn vào các tình huống và dự đoán điều sắp xảy ra dùng be going to.",
+          "grammar_focus": "be going to – predictions based on evidence",
+          "hint_words": [
+            "is going to",
+            "are going to",
+            "It's going to",
+            "He's going to",
+            "She looks like she's going to"
+          ],
+          "min_words": 35,
+          "example": "Look at those dark clouds — it's going to storm soon. That runner looks exhausted — she's going to stop any minute. The car ahead is going very fast — it's going to crash! The baby is crying a lot — she's going to need feeding. The team is playing badly — they're going to lose."
+        },
+        {
+          "vi": "Viết về mục tiêu hoặc quyết định cá nhân dùng be going to.",
+          "grammar_focus": "be going to – personal decisions and resolutions",
+          "hint_words": [
+            "I'm going to",
+            "I've decided",
+            "I'm not going to",
+            "From now on",
+            "I'm also going to"
+          ],
+          "min_words": 40,
+          "example": "I've made some important decisions for this year. I'm going to study English every day for at least thirty minutes. I'm not going to spend so much time on social media — it's a real time-waster. I'm also going to exercise three times a week. From now on, I'm going to cook at home more instead of eating out."
+        },
+        {
+          "vi": "Viết đoạn hội thoại giữa hai người hỏi và trả lời về kế hoạch tương lai dùng be going to.",
+          "grammar_focus": "be going to – questions and answers",
+          "hint_words": [
+            "Are you going to",
+            "What are you going to",
+            "Is she going to",
+            "Yes I am",
+            "No I'm not",
+            "We're going to"
+          ],
+          "min_words": 40,
+          "example": "A: Are you going to apply for that scholarship?\nB: Yes, I am. I'm going to submit my application this week.\nA: What are you going to study?\nB: I'm going to study computer science.\nA: Is your sister going to apply too?\nB: No, she isn't. She's going to take a gap year instead.\nA: Where is she going to go?\nB: She's going to volunteer in Thailand."
+        }
+      ]
+    }
+  ]
+}

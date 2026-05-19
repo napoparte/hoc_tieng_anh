@@ -1,0 +1,694 @@
+{
+  "elementary": [
+    {
+      "icon": "👤",
+      "title": "A2 Subject pronouns, object pronouns, possessive pronouns, possessive adjectives",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Pronouns & Adjectives</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Subject</th><th style=\"padding:4px 8px;text-align:left\">Object</th><th style=\"padding:4px 8px;text-align:left\">Possessive Adj</th><th style=\"padding:4px 8px;text-align:left\">Possessive Pron</th></tr><tr><td style=\"padding:4px 8px\">I</td><td style=\"padding:4px 8px\">me</td><td style=\"padding:4px 8px\">my</td><td style=\"padding:4px 8px\">mine</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">you</td><td style=\"padding:4px 8px\">you</td><td style=\"padding:4px 8px\">your</td><td style=\"padding:4px 8px\">yours</td></tr><tr><td style=\"padding:4px 8px\">he</td><td style=\"padding:4px 8px\">him</td><td style=\"padding:4px 8px\">his</td><td style=\"padding:4px 8px\">his</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">she</td><td style=\"padding:4px 8px\">her</td><td style=\"padding:4px 8px\">her</td><td style=\"padding:4px 8px\">hers</td></tr><tr><td style=\"padding:4px 8px\">it</td><td style=\"padding:4px 8px\">it</td><td style=\"padding:4px 8px\">its</td><td style=\"padding:4px 8px\">-</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">we</td><td style=\"padding:4px 8px\">us</td><td style=\"padding:4px 8px\">our</td><td style=\"padding:4px 8px\">ours</td></tr><tr><td style=\"padding:4px 8px\">they</td><td style=\"padding:4px 8px\">them</td><td style=\"padding:4px 8px\">their</td><td style=\"padding:4px 8px\">theirs</td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">💡 Cách dùng</div>• <b>Subject:</b> Đứng trước động từ (<b>I</b> like it).<br>• <b>Object:</b> Đứng sau động từ/giới từ (Help <b>me</b>, wait for <b>us</b>).<br>• <b>Possessive Adj:</b> Đứng trước danh từ (<b>My</b> car).<br>• <b>Possessive Pron:</b> Không có danh từ theo sau (It's <b>mine</b>).<br>• <b>Whose:</b> Dùng để hỏi sở hữu (<b>Whose</b> is this?).</div>",
+      "exercises": [
+        { "type": "mc", "q": "Can you help ___? I'm lost.", "opts": "I,me,my,mine", "ans": "B", "exp": "Object pronoun after verb" },
+        { "type": "mc", "q": "That is not your book. It's ___.", "opts": "my,me,mine,I", "ans": "C", "exp": "Possessive pronoun (no noun)" },
+        { "type": "mc", "q": "___ are going to the cinema tonight.", "opts": "We,Us,Our,Ours", "ans": "A", "exp": "Subject pronoun" },
+        { "type": "mc", "q": "I saw her, but she didn't see ___.", "opts": "I,my,me,mine", "ans": "C", "exp": "Object pronoun" },
+        { "type": "mc", "q": "Is this ___ umbrella?", "opts": "you,your,yours,you're", "ans": "B", "exp": "Possessive adjective before noun" },
+        { "type": "mc", "q": "They live in London. ___ house is very big.", "opts": "Them,Their,Theirs,They", "ans": "B", "exp": "Possessive adjective" },
+        { "type": "mc", "q": "Give it to ___. It belongs to him.", "opts": "he,his,him,himself", "ans": "C", "exp": "Object pronoun after preposition" },
+        { "type": "mc", "q": "Whose car is this? It's ___.", "opts": "her,hers,she,it", "ans": "B", "exp": "Possessive pronoun" },
+        { "type": "mc", "q": "She is my friend. I like ___ a lot.", "opts": "she,her,hers,it", "ans": "B", "exp": "Object pronoun" },
+        { "type": "mc", "q": "___ is raining outside.", "opts": "It,Its,It's,He", "ans": "A", "exp": "Subject pronoun for weather" },
+        { "type": "mc", "q": "This is my pen. Where is ___?", "opts": "your,yours,you,you're", "ans": "B", "exp": "Possessive pronoun" },
+        { "type": "mc", "q": "We are waiting for ___.", "opts": "they,them,their,theirs", "ans": "B", "exp": "Object pronoun after preposition" },
+        { "type": "mc", "q": "___ dog is very friendly.", "opts": "Our,Ours,Us,We", "ans": "A", "exp": "Possessive adjective" },
+        { "type": "mc", "q": "He forgot ___ keys at home.", "opts": "him,his,he,himself", "ans": "B", "exp": "Possessive adjective" },
+        { "type": "mc", "q": "Is that bag ___?", "opts": "her,hers,she,it", "ans": "B", "exp": "Possessive pronoun" },
+        { "type": "mc", "q": "Please tell ___ the truth.", "opts": "we,us,our,ours", "ans": "B", "exp": "Object pronoun" },
+        { "type": "mc", "q": "___ sister is a doctor.", "opts": "My,Me,Mine,I", "ans": "A", "exp": "Possessive adjective" },
+        { "type": "mc", "q": "I don't know ___ address.", "opts": "they,them,their,theirs", "ans": "C", "exp": "Possessive adjective" },
+        { "type": "mc", "q": "This seat is ___. I was here first.", "opts": "my,me,mine,I", "ans": "C", "exp": "Possessive pronoun" },
+        { "type": "mc", "q": "___ is a very intelligent student.", "opts": "He,Him,His,Himself", "ans": "A", "exp": "Subject pronoun" },
+        { "type": "fill", "q": "I can't find my keys. Have you seen ___ (they)?", "ans": "them", "exp": "Object pronoun" },
+        { "type": "fill", "q": "This is my book, and that one is ___ (you).", "ans": "yours", "exp": "Possessive pronoun" },
+        { "type": "fill", "q": "___ (we) are going to the park.", "ans": "We", "exp": "Subject pronoun" },
+        { "type": "fill", "q": "She is looking for ___ (she) bag.", "ans": "her", "exp": "Possessive adjective" },
+        { "type": "fill", "q": "Can you give this to ___ (he)?", "ans": "him", "exp": "Object pronoun" },
+        { "type": "fill", "q": "___ (they) house is beautiful.", "ans": "Their", "exp": "Possessive adjective" },
+        { "type": "fill", "q": "Is this car ___ (they)?", "ans": "theirs", "exp": "Possessive pronoun" },
+        { "type": "fill", "q": "He likes ___ (he) new job.", "ans": "his", "exp": "Possessive adjective" },
+        { "type": "fill", "q": "Wait for ___ (I)!", "ans": "me", "exp": "Object pronoun" },
+        { "type": "fill", "q": "___ (it) is a sunny day.", "ans": "It", "exp": "Subject pronoun" },
+        { "type": "fill", "q": "This is ___ (I) sister.", "ans": "my", "exp": "Possessive adjective" },
+        { "type": "fill", "q": "The cat is washing ___ (it) face.", "ans": "its", "exp": "Possessive adjective" },
+        { "type": "fill", "q": "Are these shoes ___ (you)?", "ans": "yours", "exp": "Possessive pronoun" },
+        { "type": "fill", "q": "I don't like ___ (he).", "ans": "him", "exp": "Object pronoun" },
+        { "type": "fill", "q": "___ (she) is my best friend.", "ans": "She", "exp": "Subject pronoun" },
+        { "type": "fill", "q": "We love ___ (we) parents.", "ans": "our", "exp": "Possessive adjective" },
+        { "type": "fill", "q": "The blue car is ___ (we).", "ans": "ours", "exp": "Possessive pronoun" },
+        { "type": "fill", "q": "Did you see ___ (she) at the party?", "ans": "her", "exp": "Object pronoun" },
+        { "type": "fill", "q": "___ (they) are very happy.", "ans": "They", "exp": "Subject pronoun" },
+        { "type": "fill", "q": "Is this ___ (you) pen?", "ans": "your", "exp": "Possessive adjective" }
+      ],
+      "practice": {
+        "reorder": [
+          { "words": "I can see you now", "extra": ["me", "my"] },
+          { "words": "She is waiting for me", "extra": ["I", "mine"] },
+          { "words": "Is this your book ?", "extra": ["yours", "you"] },
+          { "words": "The red car is mine", "extra": ["my", "me"] },
+          { "words": "We saw them yesterday", "extra": ["they", "their"] },
+          { "words": "He likes his new car", "extra": ["him", "his"] },
+          { "words": "They are our friends", "extra": ["us", "ours"] },
+          { "words": "Whose bag is this ?", "extra": ["who", "whom"] },
+          { "words": "Give it to him please", "extra": ["he", "his"] },
+          { "words": "I don't know her name", "extra": ["she", "hers"] },
+          { "words": "This house is theirs", "extra": ["their", "them"] },
+          { "words": "Can you help us ?", "extra": ["we", "our"] },
+          { "words": "It is raining today", "extra": ["its", "it's"] },
+          { "words": "Where are my keys ?", "extra": ["mine", "me"] },
+          { "words": "She lost her phone", "extra": ["hers", "she"] },
+          { "words": "They invited me to dinner", "extra": ["I", "my"] },
+          { "words": "Is that yours or mine ?", "extra": ["your", "my"] },
+          { "words": "We love our new house", "extra": ["ours", "us"] },
+          { "words": "He is my brother", "extra": ["him", "his"] },
+          { "words": "Tell them the truth", "extra": ["they", "their"] }
+        ],
+        "passage": [
+          {
+            "text": "Hi! My name is Tom. {{1}} (I) am a student. This is {{2}} (I) friend, Anna. {{3}} (she) is very kind. We are in the library. {{4}} (we) are studying for {{5}} (we) exams. Anna has a laptop. The laptop is {{6}} (she). I don't have a laptop, so she is sharing {{7}} (she) with {{8}} (I). I really like {{9}} (she). She always helps {{10}} (I) with my homework.",
+            "blanks": { "1": "I", "2": "my", "3": "She", "4": "We", "5": "our", "6": "hers", "7": "hers", "8": "me", "9": "her", "10": "me" },
+            "wordbank": ["I", "my", "She", "We", "our", "hers", "me", "her", "mine", "ours", "they", "them", "his"]
+          },
+          {
+            "text": "Look at that dog! {{1}} (it) is chasing {{2}} (it) tail. The owners are over there. {{3}} (they) are calling {{4}} (they) dog. The dog doesn't hear {{5}} (they). A man is helping {{6}} (they). He is {{7}} (they) neighbor. He has a ball in {{8}} (he) hand. He throws it. The dog runs to {{9}} (he). Now the dog is {{10}} (they) again.",
+            "blanks": { "1": "It", "2": "its", "3": "They", "4": "their", "5": "them", "6": "them", "7": "their", "8": "his", "9": "him", "10": "theirs" },
+            "wordbank": ["It", "its", "They", "their", "them", "his", "him", "theirs", "she", "her", "we", "us", "ours"]
+          },
+          {
+            "text": "Yesterday, I met my old friends. {{1}} (we) went to a cafe. The cafe is {{2}} (they) favorite place. I ordered a coffee. The waiter brought {{3}} (it) to {{4}} (I). My friends ordered tea. The tea was {{5}} (they). We talked about {{6}} (we) lives. One friend told {{7}} (us) about {{8}} (he) new job. We were happy for {{9}} (he). It was a great day for {{10}} (we).",
+            "blanks": { "1": "We", "2": "their", "3": "it", "4": "me", "5": "theirs", "6": "our", "7": "us", "8": "his", "9": "him", "10": "us" },
+            "wordbank": ["We", "their", "it", "me", "theirs", "our", "us", "his", "him", "I", "my", "they", "them"]
+          },
+          {
+            "text": "This is a photo of my family. {{1}} (they) are in the garden. My father is standing near {{2}} (he) car. The car is {{3}} (he). My mother is holding {{4}} (she) cat. The cat is {{5}} (she). My brother and I are playing with {{6}} (we) toys. The toys are {{7}} (we). Our grandparents are visiting {{8}} (us). We love {{9}} (they) very much. They always bring gifts for {{10}} (I) and my brother.",
+            "blanks": { "1": "They", "2": "his", "3": "his", "4": "her", "5": "hers", "6": "our", "7": "ours", "8": "us", "9": "them", "10": "me" },
+            "wordbank": ["They", "his", "her", "hers", "our", "ours", "us", "them", "me", "my", "she", "he", "we"]
+          },
+          {
+            "text": "Excuse me, is this {{1}} (you) bag? No, it isn't {{2}} (I). I think it belongs to that lady. Can you ask {{3}} (she)? She is sitting with {{4}} (she) husband. Maybe it is {{5}} (they). They are looking for {{6}} (something). I will go to {{7}} (they) and ask. If it is not {{8}} (they), I will take it to the office. The manager will help {{9}} (we) find the owner. It is {{10}} (he) job.",
+            "blanks": { "1": "your", "2": "mine", "3": "her", "4": "her", "5": "theirs", "6": "something", "7": "them", "8": "theirs", "9": "us", "10": "his" },
+            "wordbank": ["your", "mine", "her", "theirs", "something", "them", "us", "his", "my", "I", "she", "they", "we"]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy mô tả về gia đình của bạn. Sử dụng các đại từ chủ ngữ, tân ngữ và tính từ sở hữu để nói về các thành viên, công việc của họ và những đồ vật họ yêu thích (ví dụ: xe của bố tôi, mèo của mẹ tôi).",
+          "grammar_focus": "Pronouns & Possessives",
+          "hint_words": ["my family", "four people", "my father", "his car", "my mother", "her hobby", "we love", "them very much", "our house", "quality time"],
+          "min_words": 30,
+          "example": "There are four people in my family. My father is an engineer and his car is blue. My mother is a teacher and her hobby is gardening. We live in a small house and we love it very much. I have a younger brother and I often help him with his homework. We spend a lot of quality time together."
+        },
+        {
+          "vi": "Hãy kể về một người bạn thân của bạn. Bạn gặp người đó khi nào? Tại sao bạn lại thích họ? Hãy sử dụng các đại từ để thay thế tên người đó và nói về những sở thích chung của hai bạn.",
+          "grammar_focus": "Pronouns",
+          "hint_words": ["best friend", "met her", "at school", "five years ago", "she is", "very kind", "help me", "our hobbies", "playing sports", "visit her"],
+          "min_words": 30,
+          "example": "My best friend is Lan. I met her at school five years ago. She is very kind and always helps me when I have problems. We have many common hobbies like playing sports and listening to music. I often visit her on weekends and we talk about our lives for hours."
+        },
+        {
+          "vi": "Hãy viết về một món đồ vật quan trọng đối với bạn. Đó là gì? Bạn có nó từ khi nào? Tại sao nó lại quan trọng? Sử dụng các tính từ và đại từ sở hữu (my, mine, its...).",
+          "grammar_focus": "Possessives",
+          "hint_words": ["important object", "my laptop", "birthday gift", "my parents", "its color", "use it", "for studying", "it is mine", "take care of it"],
+          "min_words": 30,
+          "example": "An important object for me is my laptop. It was a birthday gift from my parents last year. Its color is silver and it is very fast. I use it every day for studying and playing games. It is mine and I always take care of it carefully because it helps me a lot."
+        },
+        {
+          "vi": "Hãy kể về một chuyến đi chơi với bạn bè. Các bạn đã đi đâu? Các bạn đã làm gì? Hãy sử dụng các đại từ 'we', 'us', 'our', 'ours' để kể về trải nghiệm của cả nhóm.",
+          "grammar_focus": "Plural Pronouns",
+          "hint_words": ["last weekend", "went to the beach", "with my friends", "we swam", "our hotel", "near the sea", "brought us", "delicious food", "the trip was ours"],
+          "min_words": 30,
+          "example": "Last weekend, I went to the beach with my friends. We swam in the sea and played volleyball on the sand. Our hotel was very near the sea, so we could hear the waves at night. The waiter brought us delicious seafood for dinner. The trip was ours to enjoy and we had a wonderful time together."
+        },
+        {
+          "vi": "Hãy viết một đoạn văn ngắn về việc mượn đồ của người khác. Bạn đã mượn cái gì? Của ai? Bạn đã trả lại chưa? Sử dụng các đại từ sở hữu để phân biệt đồ của bạn và của họ.",
+          "grammar_focus": "Possessive Pronouns",
+          "hint_words": ["borrowed a pen", "from my classmate", "his pen", "was blue", "mine was broken", "returned it", "to him", "thanked him", "yours and mine"],
+          "min_words": 30,
+          "example": "Yesterday, I borrowed a pen from my classmate because mine was broken. His pen was blue and wrote very smoothly. I used it to finish my test and then I returned it to him. I thanked him for his help. It is important to distinguish between what is yours and what is mine."
+        }
+      ]
+    },
+    {
+      "icon": "❓",
+      "title": "A2 Something, anything, nothing, etc.",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Indefinite Pronouns</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Type</th><th style=\"padding:4px 8px;text-align:left\">People</th><th style=\"padding:4px 8px;text-align:left\">Things</th><th style=\"padding:4px 8px;text-align:left\">Places</th></tr><tr><td style=\"padding:4px 8px\"><b>Some-</b> (+)</td><td style=\"padding:4px 8px\">somebody/someone</td><td style=\"padding:4px 8px\">something</td><td style=\"padding:4px 8px\">somewhere</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><b>Any-</b> (?) (-)</td><td style=\"padding:4px 8px\">anybody/anyone</td><td style=\"padding:4px 8px\">anything</td><td style=\"padding:4px 8px\">anywhere</td></tr><tr><td style=\"padding:4px 8px\"><b>No-</b> (-)</td><td style=\"padding:4px 8px\">nobody/no one</td><td style=\"padding:4px 8px\">nothing</td><td style=\"padding:4px 8px\">nowhere</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><b>Every-</b> (all)</td><td style=\"padding:4px 8px\">everybody/everyone</td><td style=\"padding:4px 8px\">everything</td><td style=\"padding:4px 8px\">everywhere</td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">💡 Lưu ý quan trọng</div>• Luôn dùng <b>động từ số ít</b> (Everything <b>is</b> ready).<br>• <b>Some-</b> dùng trong câu hỏi khi mời/yêu cầu (Would you like <b>something</b>?).<br>• <b>No-</b> dùng với động từ khẳng định (I saw <b>nobody</b> = I didn't see anyone).<br>• Có thể thêm tính từ phía sau (Something <b>nice</b>).</div>",
+      "exercises": [
+        { "type": "mc", "q": "I'm hungry. I want ___ to eat.", "opts": "something,anything,nothing,everything", "ans": "A", "exp": "Affirmative sentence" },
+        { "type": "mc", "q": "Is there ___ in the box? No, it's empty.", "opts": "something,anything,nothing,someone", "ans": "B", "exp": "Question" },
+        { "type": "mc", "q": "I looked for my keys ___, but I couldn't find them.", "opts": "somewhere,anywhere,everywhere,nowhere", "ans": "C", "exp": "Meaning 'all places'" },
+        { "type": "mc", "q": "___ is waiting for you at the door.", "opts": "Someone,Anyone,No one,Everyone", "ans": "A", "exp": "Affirmative sentence" },
+        { "type": "mc", "q": "I didn't see ___ at the party.", "opts": "somebody,anybody,nobody,everybody", "ans": "B", "exp": "Negative sentence" },
+        { "type": "mc", "q": "The room was empty. There was ___ there.", "opts": "somebody,anybody,nobody,everybody", "ans": "C", "exp": "Affirmative verb with negative meaning" },
+        { "type": "mc", "q": "Does ___ know the answer?", "opts": "someone,anyone,no one,everyone", "ans": "B", "exp": "Question" },
+        { "type": "mc", "q": "I want to go ___ quiet this weekend.", "opts": "somewhere,anywhere,nowhere,everywhere", "ans": "A", "exp": "Affirmative sentence" },
+        { "type": "mc", "q": "___ is expensive in this shop.", "opts": "Something,Anything,Nothing,Everything", "ans": "D", "exp": "Meaning 'all things'" },
+        { "type": "mc", "q": "Would you like ___ to drink?", "opts": "something,anything,nothing,everything", "ans": "A", "exp": "Offer in a question" },
+        { "type": "mc", "q": "I have ___ to do. I'm bored.", "opts": "something,anything,nothing,everything", "ans": "C", "exp": "Negative meaning" },
+        { "type": "mc", "q": "___ was happy with the news.", "opts": "Someone,Anyone,No one,Everyone", "ans": "D", "exp": "Meaning 'all people'" },
+        { "type": "mc", "q": "I can't find my phone ___. Have you seen it?", "opts": "somewhere,anywhere,nowhere,everywhere", "ans": "B", "exp": "Negative sentence" },
+        { "type": "mc", "q": "There is ___ wrong with my computer.", "opts": "something,anything,nothing,everything", "ans": "A", "exp": "Affirmative sentence" },
+        { "type": "mc", "q": "___ called while you were out, but they didn't leave a name.", "opts": "Someone,Anyone,No one,Everyone", "ans": "A", "exp": "Affirmative sentence" },
+        { "type": "mc", "q": "I have ___ to wear for the wedding!", "opts": "something,anything,nothing,everything", "ans": "C", "exp": "Negative meaning" },
+        { "type": "mc", "q": "Is ___ coming to the meeting?", "opts": "someone,anyone,no one,everyone", "ans": "B", "exp": "Question" },
+        { "type": "mc", "q": "We went ___ beautiful last summer.", "opts": "somewhere,anywhere,nowhere,everywhere", "ans": "A", "exp": "Affirmative sentence" },
+        { "type": "mc", "q": "___ knows that the earth is round.", "opts": "Someone,Anyone,No one,Everyone", "ans": "D", "exp": "General truth" },
+        { "type": "mc", "q": "I didn't do ___ wrong.", "opts": "something,anything,nothing,everything", "ans": "B", "exp": "Negative sentence" },
+        { "type": "fill", "q": "I'm looking for ___ (someone) to help me.", "ans": "someone", "exp": "Affirmative" },
+        { "type": "fill", "q": "There isn't ___ (anything) in the fridge.", "ans": "anything", "exp": "Negative" },
+        { "type": "fill", "q": "___ (everyone) is ready for the trip.", "ans": "Everyone", "exp": "Singular verb" },
+        { "type": "fill", "q": "I have ___ (nothing) to say to you.", "ans": "nothing", "exp": "Negative meaning" },
+        { "type": "fill", "q": "Did you go ___ (anywhere) interesting?", "ans": "anywhere", "exp": "Question" },
+        { "type": "fill", "q": "___ (somebody) left their umbrella here.", "ans": "Somebody", "exp": "Affirmative" },
+        { "type": "fill", "q": "I want to buy ___ (something) nice for her.", "ans": "something", "exp": "Affirmative" },
+        { "type": "fill", "q": "There is ___ (nobody) in the office now.", "ans": "nobody", "exp": "Negative meaning" },
+        { "type": "fill", "q": "Can ___ (anyone) hear me?", "ans": "anyone", "exp": "Question" },
+        { "type": "fill", "q": "We can go ___ (anywhere) you want.", "ans": "anywhere", "exp": "Positive meaning in choice" },
+        { "type": "fill", "q": "___ (everything) was perfect.", "ans": "Everything", "exp": "All things" },
+        { "type": "fill", "q": "I didn't see ___ (anybody) I knew.", "ans": "anybody", "exp": "Negative" },
+        { "type": "fill", "q": "Is there ___ (something) I can do for you?", "ans": "something", "exp": "Offer" },
+        { "type": "fill", "q": "He lives ___ (somewhere) near London.", "ans": "somewhere", "exp": "Affirmative" },
+        { "type": "fill", "q": "___ (no one) liked the movie.", "ans": "No one", "exp": "Negative meaning" },
+        { "type": "fill", "q": "I've lost my glasses. I've looked ___ (everywhere).", "ans": "everywhere", "exp": "All places" },
+        { "type": "fill", "q": "There is ___ (nothing) better than a cold drink.", "ans": "nothing", "exp": "Negative meaning" },
+        { "type": "fill", "q": "Does ___ (anybody) have a pen?", "ans": "anybody", "exp": "Question" },
+        { "type": "fill", "q": "I need ___ (something) to open this bottle.", "ans": "something", "exp": "Affirmative" },
+        { "type": "fill", "q": "___ (everybody) enjoyed the party.", "ans": "Everybody", "exp": "All people" }
+      ],
+      "practice": {
+        "reorder": [
+          { "words": "I want something to eat", "extra": ["anything", "nothing"] },
+          { "words": "Is there anyone at home ?", "extra": ["someone", "no one"] },
+          { "words": "I have nothing to say", "extra": ["anything", "something"] },
+          { "words": "Everything is ready for you", "extra": ["are", "anything"] },
+          { "words": "Did you go anywhere yesterday ?", "extra": ["somewhere", "nowhere"] },
+          { "words": "Someone is waiting for you", "extra": ["anyone", "everyone"] },
+          { "words": "I didn't see anybody there", "extra": ["somebody", "nobody"] },
+          { "words": "We went somewhere quiet today", "extra": ["anywhere", "everywhere"] },
+          { "words": "Everybody likes this new song", "extra": ["anybody", "nobody"] },
+          { "words": "There is nothing in the box", "extra": ["anything", "something"] },
+          { "words": "Can anyone help me please ?", "extra": ["someone", "everyone"] },
+          { "words": "I looked everywhere for it", "extra": ["anywhere", "somewhere"] },
+          { "words": "Would you like something to drink ?", "extra": ["anything", "nothing"] },
+          { "words": "Nobody knows the secret yet", "extra": ["anybody", "somebody"] },
+          { "words": "There is something wrong here", "extra": ["anything", "nothing"] },
+          { "words": "I didn't do anything wrong", "extra": ["something", "nothing"] },
+          { "words": "Everyone was happy at the party", "extra": ["anyone", "no one"] },
+          { "words": "He lives somewhere in Spain", "extra": ["anywhere", "nowhere"] },
+          { "words": "Is anything the matter ?", "extra": ["something", "nothing"] },
+          { "words": "I have nowhere to go", "extra": ["anywhere", "somewhere"] }
+        ],
+        "passage": [
+          {
+            "text": "Last night, I was home alone. Suddenly, I heard {{1}} (something) in the kitchen. I was scared because I thought {{2}} (someone) was there. I didn't have {{3}} (anything) to protect myself. I looked {{4}} (everywhere) for a flashlight. Finally, I found one. I went to the kitchen, but there was {{5}} (nobody). I checked the window, but {{6}} (nothing) was broken. Then I saw {{7}} (something) moving. It was just a cat! I felt relieved. {{8}} (everyone) says I am too nervous. I need {{9}} (somewhere) to relax. Maybe I will go {{10}} (nowhere) tonight and just sleep.",
+            "blanks": { "1": "something", "2": "someone", "3": "anything", "4": "everywhere", "5": "nobody", "6": "nothing", "7": "something", "8": "Everyone", "9": "somewhere", "10": "nowhere" },
+            "wordbank": ["something", "someone", "anything", "everywhere", "nobody", "nothing", "Everyone", "somewhere", "nowhere", "anyone", "anybody", "everything", "anywhere"]
+          },
+          {
+            "text": "Planning a party is hard. I have to buy {{1}} (everything) for the guests. I asked {{2}} (everyone) in my office to come. I hope {{3}} (someone) can help me with the food. Is there {{4}} (anybody) who likes cooking? I don't have {{5}} (anything) ready yet. I need to find {{6}} (somewhere) to hold the party. {{7}} (Everywhere) I look is too expensive. I have {{8}} (nothing) booked so far. If {{9}} (no one) helps me, I will be in trouble. I need {{10}} (something) to happen soon!",
+            "blanks": { "1": "everything", "2": "everyone", "3": "someone", "4": "anybody", "5": "anything", "6": "somewhere", "7": "Everywhere", "8": "nothing", "9": "no one", "10": "something" },
+            "wordbank": ["everything", "everyone", "someone", "anybody", "anything", "somewhere", "Everywhere", "nothing", "no one", "something", "anywhere", "somebody", "anybody"]
+          },
+          {
+            "text": "I went to the mall today. {{1}} (Everybody) was shopping for the holidays. I wanted to buy {{2}} (something) special for my mom. I looked in many shops, but I found {{3}} (nothing). I didn't see {{4}} (anything) she would like. I asked {{5}} (someone) for advice, but they didn't know {{6}} (anything) about her style. I went {{7}} (everywhere) in the mall. Finally, I saw a beautiful scarf {{8}} (somewhere) in a small corner. It was perfect! Now I don't need {{9}} (anything) else. {{10}} (Everything) is ready now.",
+            "blanks": { "1": "Everybody", "2": "something", "3": "nothing", "4": "anything", "5": "someone", "6": "anything", "7": "everywhere", "8": "somewhere", "9": "anything", "10": "Everything" },
+            "wordbank": ["Everybody", "something", "nothing", "anything", "someone", "everywhere", "somewhere", "Everything", "anybody", "anywhere", "no one", "nobody", "somebody"]
+          },
+          {
+            "text": "The detective arrived at the house. {{1}} (Nobody) was there. He looked for {{2}} (something) that could be a clue. He didn't find {{3}} (anything) at first. He checked {{4}} (everywhere) - the garden, the rooms, and the basement. Suddenly, he heard {{5}} (someone) coughing. He asked, 'Is {{6}} (anybody) there?' But there was {{7}} (no one) in sight. He felt that {{8}} (something) was wrong. He had {{9}} (nowhere) else to look. Then he found a hidden door. {{10}} (Everything) became clear.",
+            "blanks": { "1": "Nobody", "2": "something", "3": "anything", "4": "everywhere", "5": "someone", "6": "anybody", "7": "no one", "8": "something", "9": "nowhere", "10": "Everything" },
+            "wordbank": ["Nobody", "something", "anything", "everywhere", "someone", "anybody", "no one", "nowhere", "Everything", "somebody", "anywhere", "nothing", "everyone"]
+          },
+          {
+            "text": "I'm so bored. I have {{1}} (nothing) to do today. {{2}} (Everyone) is busy except me. I called {{3}} (somebody), but they didn't answer. I want to go {{4}} (somewhere) fun, but I don't have {{5}} (anywhere) to go. Is there {{6}} (anything) interesting on TV? No, there is {{7}} (nothing) good. I wish {{8}} (someone) would call me. I've looked {{9}} (everywhere) for my book, but it's gone. I have {{10}} (nothing) to read.",
+            "blanks": { "1": "nothing", "2": "Everyone", "3": "somebody", "4": "somewhere", "5": "anywhere", "6": "anything", "7": "nothing", "8": "someone", "9": "everywhere", "10": "nothing" },
+            "wordbank": ["nothing", "Everyone", "somebody", "somewhere", "anywhere", "anything", "someone", "everywhere", "anybody", "no one", "something", "everything", "anywhere"]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy kể về một lần bạn nghe thấy một tiếng động lạ khi đang ở nhà một mình. Bạn đã cảm thấy thế nào? Bạn đã làm gì để kiểm tra? Sử dụng các từ như something, someone, nothing, nowhere.",
+          "grammar_focus": "Indefinite Pronouns",
+          "hint_words": ["home alone", "heard something", "strange noise", "kitchen", "someone was there", "scared", "looked everywhere", "found nothing", "just a cat", "relieved"],
+          "min_words": 30,
+          "example": "One night, I was home alone and I heard something strange in the kitchen. I thought someone was trying to break in, so I was very scared. I looked everywhere for a weapon but found nothing. Finally, I went to the kitchen and saw it was just a cat. I felt very relieved."
+        },
+        {
+          "vi": "Hãy mô tả một bữa tiệc mà tất cả mọi người đều vui vẻ. Có những hoạt động gì? Mọi người đã làm gì? Sử dụng các từ như everybody, everything, everywhere, something.",
+          "grammar_focus": "Indefinite Pronouns",
+          "hint_words": ["birthday party", "everybody was happy", "everything was perfect", "music everywhere", "something to eat", "dancing", "singing", "great time", "everyone enjoyed"],
+          "min_words": 30,
+          "example": "Last week, I went to a birthday party and everybody was happy. Everything was perfect, from the food to the music. There were decorations everywhere in the room. We had something to eat and then we started dancing. Everyone enjoyed the party and we had a great time together."
+        },
+        {
+          "vi": "Hãy viết về một ngày bạn cảm thấy cực kỳ nhàm chán vì không có gì để làm. Bạn đã thử làm gì? Kết quả ra sao? Sử dụng các từ như nothing, nowhere, no one, anything.",
+          "grammar_focus": "Negative Indefinite Pronouns",
+          "hint_words": ["boring day", "nothing to do", "no one to talk", "nowhere to go", "tried to call", "didn't find anything", "stayed home", "felt lonely", "boring weekend"],
+          "min_words": 30,
+          "example": "Yesterday was a very boring day because I had nothing to do. No one was at home to talk to me, and I had nowhere to go. I tried to watch TV but I didn't find anything interesting. I just stayed home all day and felt a bit lonely. It was the most boring weekend ever."
+        },
+        {
+          "vi": "Hãy kể về một lần bạn bị mất đồ và phải tìm kiếm khắp nơi. Bạn đã tìm ở đâu? Cuối cùng bạn có tìm thấy không? Sử dụng các từ như everywhere, somewhere, anyone, something.",
+          "grammar_focus": "Indefinite Pronouns",
+          "hint_words": ["lost my wallet", "looked everywhere", "somewhere in the house", "asked anyone", "found something", "under the sofa", "very happy", "be careful"],
+          "min_words": 30,
+          "example": "I lost my wallet yesterday and I looked everywhere for it. I thought I left it somewhere in the house, so I checked every room. I asked anyone I saw if they had seen it. Finally, I found something under the sofa, and it was my wallet! I was very happy and promised to be more careful."
+        },
+        {
+          "vi": "Hãy viết về một địa điểm lý tưởng mà bạn muốn đến nghỉ dưỡng. Nơi đó có gì đặc biệt? Tại sao bạn lại chọn nơi đó? Sử dụng các từ như somewhere, everything, everyone, something.",
+          "grammar_focus": "Indefinite Pronouns",
+          "hint_words": ["ideal place", "somewhere quiet", "near the sea", "everything is beautiful", "everyone is friendly", "something to relax", "fresh air", "peaceful", "dream vacation"],
+          "min_words": 30,
+          "example": "My ideal place for a vacation is somewhere quiet near the sea. In that place, everything is beautiful and everyone is friendly. I want to find something to relax and enjoy the fresh air. It is a peaceful place where I can forget all my problems. That is my dream vacation."
+        }
+      ]
+    },
+    {
+      "icon": "📊",
+      "title": "A2 Much, many, little, few, some, any: Quantifiers",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Quantifiers</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Quantifier</th><th style=\"padding:4px 8px;text-align:left\">Countable (Plural)</th><th style=\"padding:4px 8px;text-align:left\">Uncountable</th></tr><tr><td style=\"padding:4px 8px\"><b>Many / Much</b></td><td style=\"padding:4px 8px\">many (?) (-)</td><td style=\"padding:4px 8px\">much (?) (-)</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><b>A lot of / Lots of</b></td><td style=\"padding:4px 8px\">a lot of (+)</td><td style=\"padding:4px 8px\">a lot of (+)</td></tr><tr><td style=\"padding:4px 8px\"><b>(A) few / (A) little</b></td><td style=\"padding:4px 8px\">a few (some) / few (none)</td><td style=\"padding:4px 8px\">a little (some) / little (none)</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><b>Some / Any</b></td><td style=\"padding:4px 8px\">some (+) / any (?) (-)</td><td style=\"padding:4px 8px\">some (+) / any (?) (-)</td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">💡 Cách dùng</div>• <b>Many/Much:</b> Dùng trong câu hỏi và phủ định.<br>• <b>A lot of:</b> Dùng trong câu khẳng định cho cả 2 loại danh từ.<br>• <b>A few/A little:</b> Mang nghĩa tích cực (có một ít, đủ dùng).<br>• <b>Few/Little:</b> Mang nghĩa tiêu cực (hầu như không có, không đủ).<br>• <b>Some:</b> Dùng trong câu hỏi khi mời hoặc yêu cầu.</div>",
+      "exercises": [
+        { "type": "mc", "q": "How ___ money do you have?", "opts": "many,much,few,little", "ans": "B", "exp": "Money is uncountable" },
+        { "type": "mc", "q": "There are ___ people in the park today.", "opts": "much,a lot of,any,little", "ans": "B", "exp": "Affirmative sentence" },
+        { "type": "mc", "q": "I have ___ friends in this city.", "opts": "a little,a few,much,any", "ans": "B", "exp": "Friends is countable" },
+        { "type": "mc", "q": "We don't have ___ time left.", "opts": "many,much,few,some", "ans": "B", "exp": "Negative sentence, uncountable" },
+        { "type": "mc", "q": "Would you like ___ coffee?", "opts": "any,some,many,few", "ans": "B", "exp": "Offer in a question" },
+        { "type": "mc", "q": "I speak very ___ English, so I need a translator.", "opts": "few,little,a few,a little", "ans": "B", "exp": "Negative meaning, uncountable" },
+        { "type": "mc", "q": "Are there ___ students in the classroom?", "opts": "much,any,some,little", "ans": "B", "exp": "Question, countable" },
+        { "type": "mc", "q": "He has ___ work to do this weekend.", "opts": "many,a lot of,few,any", "ans": "B", "exp": "Affirmative sentence" },
+        { "type": "mc", "q": "I have ___ sugar. Is it enough for the cake?", "opts": "a few,a little,few,little", "ans": "B", "exp": "Positive meaning, uncountable" },
+        { "type": "mc", "q": "How ___ books did you buy?", "opts": "much,many,any,some", "ans": "B", "exp": "Countable question" },
+        { "type": "mc", "q": "There isn't ___ milk in the fridge.", "opts": "many,any,some,few", "ans": "B", "exp": "Negative sentence" },
+        { "type": "mc", "q": "I have ___ questions to ask you.", "opts": "much,some,any,little", "ans": "B", "exp": "Affirmative sentence" },
+        { "type": "mc", "q": "She spends ___ money on clothes.", "opts": "many,too much,too many,few", "ans": "B", "exp": "Uncountable, affirmative" },
+        { "type": "mc", "q": "There are ___ cars on the road today.", "opts": "too much,too many,much,any", "ans": "B", "exp": "Countable, affirmative" },
+        { "type": "mc", "q": "Can I have ___ water, please?", "opts": "any,some,many,few", "ans": "B", "exp": "Request" },
+        { "type": "mc", "q": "I have very ___ money left. I can't buy lunch.", "opts": "few,little,a few,a little", "ans": "B", "exp": "Negative meaning, uncountable" },
+        { "type": "mc", "q": "There are only ___ biscuits in the tin.", "opts": "a little,a few,much,any", "ans": "B", "exp": "Countable, small amount" },
+        { "type": "mc", "q": "I don't have ___ news for you.", "opts": "many,any,some,few", "ans": "B", "exp": "Negative sentence" },
+        { "type": "mc", "q": "He has ___ experience in this field.", "opts": "many,a lot of,few,any", "ans": "B", "exp": "Affirmative sentence" },
+        { "type": "mc", "q": "Do you have ___ brothers or sisters?", "opts": "much,any,some,little", "ans": "B", "exp": "Question" },
+        { "type": "fill", "q": "How ___ (much) does this cost?", "ans": "much", "exp": "Price/Uncountable" },
+        { "type": "fill", "q": "I have ___ (some) good news for you.", "ans": "some", "exp": "Affirmative" },
+        { "type": "fill", "q": "There aren't ___ (many) people here.", "ans": "many", "exp": "Negative, countable" },
+        { "type": "fill", "q": "Can you give me ___ (a little) help?", "ans": "a little", "exp": "Positive, uncountable" },
+        { "type": "fill", "q": "I have ___ (a few) ideas for the project.", "ans": "a few", "exp": "Positive, countable" },
+        { "type": "fill", "q": "There is ___ (too much) salt in this soup.", "ans": "too much", "exp": "Uncountable, excessive" },
+        { "type": "fill", "q": "Do you have ___ (any) milk?", "ans": "any", "exp": "Question" },
+        { "type": "fill", "q": "He has ___ (little) patience with children.", "ans": "little", "exp": "Negative, uncountable" },
+        { "type": "fill", "q": "I have ___ (few) friends in this town.", "ans": "few", "exp": "Negative, countable" },
+        { "type": "fill", "q": "She has ___ (a lot of) work today.", "ans": "a lot of", "exp": "Affirmative" },
+        { "type": "fill", "q": "How ___ (many) apples did you eat?", "ans": "many", "exp": "Countable question" },
+        { "type": "fill", "q": "I don't have ___ (any) money.", "ans": "any", "exp": "Negative" },
+        { "type": "fill", "q": "Would you like ___ (some) tea?", "ans": "some", "exp": "Offer" },
+        { "type": "fill", "q": "There is ___ (a bit of) cake left.", "ans": "a bit of", "exp": "Uncountable" },
+        { "type": "fill", "q": "I have ___ (too many) things to do.", "ans": "too many", "exp": "Countable, excessive" },
+        { "type": "fill", "q": "There isn't ___ (much) traffic today.", "ans": "much", "exp": "Negative, uncountable" },
+        { "type": "fill", "q": "I have ___ (some) questions.", "ans": "some", "exp": "Affirmative" },
+        { "type": "fill", "q": "He has ___ (lots of) friends.", "ans": "lots of", "exp": "Affirmative" },
+        { "type": "fill", "q": "Is there ___ (any) sugar in my coffee?", "ans": "any", "exp": "Question" },
+        { "type": "fill", "q": "I have ___ (a little) time before the meeting.", "ans": "a little", "exp": "Positive, uncountable" }
+      ],
+      "practice": {
+        "reorder": [
+          { "words": "How much money do you have ?", "extra": ["many", "few"] },
+          { "words": "I have a lot of work", "extra": ["many", "much"] },
+          { "words": "There are a few apples left", "extra": ["little", "much"] },
+          { "words": "Would you like some coffee ?", "extra": ["any", "many"] },
+          { "words": "I don't have any friends here", "extra": ["some", "much"] },
+          { "words": "There is too much salt here", "extra": ["many", "few"] },
+          { "words": "How many books did you buy ?", "extra": ["much", "any"] },
+          { "words": "I have a little time now", "extra": ["few", "many"] },
+          { "words": "There isn't much milk left", "extra": ["many", "any"] },
+          { "words": "He has too many problems", "extra": ["much", "little"] },
+          { "words": "Can I have some water please ?", "extra": ["any", "many"] },
+          { "words": "I have very little money", "extra": ["few", "many"] },
+          { "words": "Are there any students here ?", "extra": ["much", "some"] },
+          { "words": "She spends a lot of money", "extra": ["many", "few"] },
+          { "words": "I have some questions for you", "extra": ["any", "much"] },
+          { "words": "There are too many cars today", "extra": ["much", "little"] },
+          { "words": "I have a few ideas", "extra": ["little", "much"] },
+          { "words": "Is there any sugar in it ?", "extra": ["some", "many"] },
+          { "words": "We have lots of time", "extra": ["many", "any"] },
+          { "words": "He has very few friends", "extra": ["little", "much"] }
+        ],
+        "passage": [
+          {
+            "text": "I'm going to the supermarket. We don't have {{1}} (much) food in the house. We need {{2}} (some) milk and {{3}} (a few) eggs. I also want to buy {{4}} (a lot of) fruit because it's healthy. Do we have {{5}} (any) bread? No, we have very {{6}} (little) left. I will buy {{7}} (some) more. How {{8}} (many) bottles of water do we need? Just {{9}} (a few). I don't have {{10}} (much) money, so I must be careful.",
+            "blanks": { "1": "much", "2": "some", "3": "a few", "4": "a lot of", "5": "any", "6": "little", "7": "some", "8": "many", "9": "a few", "10": "much" },
+            "wordbank": ["much", "some", "a few", "a lot of", "any", "little", "many", "few", "a little", "lots of", "too much", "too many"]
+          },
+          {
+            "text": "My city has {{1}} (too many) people and {{2}} (too much) traffic. There are {{3}} (a lot of) cars on the road every day. I have {{4}} (very little) time to relax because I work {{5}} (too much). I have {{6}} (a few) friends who live near me, but we don't have {{7}} (many) opportunities to meet. We need {{8}} (some) more parks in the city. There is {{9}} (very little) green space left. I hope things change {{10}} (a lot) soon.",
+            "blanks": { "1": "too many", "2": "too much", "3": "a lot of", "4": "very little", "5": "too much", "6": "a few", "7": "many", "8": "some", "9": "very little", "10": "a lot" },
+            "wordbank": ["too many", "too much", "a lot of", "very little", "a few", "many", "some", "a lot", "much", "any", "few", "little"]
+          },
+          {
+            "text": "I'm making a cake. I need {{1}} (some) flour and {{2}} (a little) sugar. Do we have {{3}} (any) butter? Yes, we have {{4}} (a lot of) it. I also need {{5}} (a few) strawberries for the top. How {{6}} (much) milk should I add? Not {{7}} (much), just {{8}} (a little). I have {{9}} (too many) recipes, but this one is my favorite. It doesn't take {{10}} (much) time to bake.",
+            "blanks": { "1": "some", "2": "a little", "3": "any", "4": "a lot of", "5": "a few", "6": "much", "7": "much", "8": "a little", "9": "too many", "10": "much" },
+            "wordbank": ["some", "a little", "any", "a lot of", "a few", "much", "too many", "many", "few", "little", "lots of", "any"]
+          },
+          {
+            "text": "Last night at the party, there were {{1}} (too many) people. I didn't know {{2}} (many) of them. I had {{3}} (a few) drinks and {{4}} (some) snacks. There wasn't {{5}} (much) music I liked. I spent {{6}} (a lot of) time talking to a new friend. She has {{7}} (lots of) interesting stories. We had {{8}} (a little) conversation about travel. I don't have {{9}} (many) hobbies, but she has {{10}} (a lot).",
+            "blanks": { "1": "too many", "2": "many", "3": "a few", "4": "some", "5": "much", "6": "a lot of", "7": "lots of", "8": "a little", "9": "many", "10": "a lot" },
+            "wordbank": ["too many", "many", "a few", "some", "much", "a lot of", "lots of", "a little", "a lot", "any", "few", "little"]
+          },
+          {
+            "text": "I'm planning a trip. I have {{1}} (a few) places in mind. I don't have {{2}} (much) money, so I need {{3}} (some) cheap options. Are there {{4}} (any) good hotels near the beach? I found {{5}} (a few), but they are {{6}} (too) expensive. I have {{7}} (very little) experience in traveling alone. I need {{8}} (a lot of) advice from my friends. How {{9}} (many) days should I stay? Maybe {{10}} (a few) days is enough.",
+            "blanks": { "1": "a few", "2": "much", "3": "some", "4": "any", "5": "a few", "6": "too", "7": "very little", "8": "a lot of", "9": "many", "10": "a few" },
+            "wordbank": ["a few", "much", "some", "any", "too", "very little", "a lot of", "many", "few", "little", "lots of", "a little"]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy viết về thói quen ăn uống của bạn. Bạn ăn bao nhiêu trái cây và rau quả? Bạn có uống nhiều nước không? Hãy sử dụng các từ như much, many, a lot of, some, a few.",
+          "grammar_focus": "Quantifiers",
+          "hint_words": ["healthy diet", "a lot of vegetables", "some fruit", "not much junk food", "many glasses of water", "a few snacks", "too much sugar", "try to eat", "every day"],
+          "min_words": 30,
+          "example": "I try to have a healthy diet every day. I eat a lot of vegetables and some fruit for breakfast. I don't eat much junk food, but I have a few snacks in the afternoon. I drink many glasses of water to stay hydrated. I also avoid too much sugar in my coffee."
+        },
+        {
+          "vi": "Hãy mô tả thành phố nơi bạn đang sống. Có nhiều xe cộ hay công viên không? Bạn có thích sống ở đó không? Sử dụng các từ như too much, too many, a lot of, few, little.",
+          "grammar_focus": "Quantifiers",
+          "hint_words": ["live in a big city", "too many cars", "too much noise", "a lot of shops", "very few parks", "little fresh air", "many people", "busy life", "convenient"],
+          "min_words": 30,
+          "example": "I live in a big city where there are too many cars and too much noise. There are a lot of shops and restaurants, but very few parks for children. We have little fresh air because of the traffic. Many people have a busy life here, but it is very convenient for work."
+        },
+        {
+          "vi": "Hãy kể về một lần bạn đi mua sắm. Bạn đã mua những gì? Bạn có tốn nhiều tiền không? Sử dụng các từ như some, any, much, many, a lot of.",
+          "grammar_focus": "Quantifiers",
+          "hint_words": ["went shopping", "last weekend", "bought some clothes", "didn't find any shoes", "spent a lot of money", "too many things", "not much time", "mall", "expensive"],
+          "min_words": 30,
+          "example": "Last weekend, I went shopping at the mall. I bought some clothes for my new job, but I didn't find any shoes I liked. I spent a lot of money because everything was quite expensive. I bought too many things and I didn't have much time to look at everything."
+        },
+        {
+          "vi": "Hãy viết về kế hoạch cho một bữa tiệc nhỏ. Bạn cần chuẩn bị những gì? Bạn sẽ mời bao nhiêu người? Sử dụng các từ như some, a few, a little, many, much.",
+          "grammar_focus": "Quantifiers",
+          "hint_words": ["small party", "invite a few friends", "some music", "a little wine", "many snacks", "not much space", "prepare food", "next Saturday", "have fun"],
+          "min_words": 30,
+          "example": "I'm planning a small party for next Saturday. I will invite a few friends to my house. I need to prepare some music and buy a little wine. I will also make many snacks for everyone. My apartment has not much space, but we will have fun together."
+        },
+        {
+          "vi": "Hãy kể về một sở thích của bạn. Bạn dành bao nhiêu thời gian cho nó? Bạn có cần nhiều dụng cụ không? Sử dụng các từ như much, many, a lot of, a few, some.",
+          "grammar_focus": "Quantifiers",
+          "hint_words": ["hobby is photography", "a lot of time", "take many photos", "a few cameras", "some lenses", "not much money", "beautiful places", "every weekend", "enjoy it"],
+          "min_words": 30,
+          "example": "My hobby is photography and I spend a lot of time on it every weekend. I take many photos of beautiful places in my city. I have a few cameras and some expensive lenses. It costs a lot of money, but I enjoy it very much. I don't have much free time, but I always try to practice."
+        }
+      ]
+    },
+    {
+      "icon": "⚖️",
+      "title": "A2 Too, too much, too many, enough",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Too & Enough</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Word</th><th style=\"padding:4px 8px;text-align:left\">Position</th><th style=\"padding:4px 8px;text-align:left\">Meaning</th></tr><tr><td style=\"padding:4px 8px\"><b>Too</b></td><td style=\"padding:4px 8px\">Trước Adj/Adv</td><td style=\"padding:4px 8px\">Quá (hơn mức cần thiết)</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><b>Too much</b></td><td style=\"padding:4px 8px\">Trước Uncountable Noun</td><td style=\"padding:4px 8px\">Quá nhiều (không đếm được)</td></tr><tr><td style=\"padding:4px 8px\"><b>Too many</b></td><td style=\"padding:4px 8px\">Trước Plural Noun</td><td style=\"padding:4px 8px\">Quá nhiều (đếm được)</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><b>Enough</b></td><td style=\"padding:4px 8px\">Trước Noun / Sau Adj-Adv</td><td style=\"padding:4px 8px\">Đủ</td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">💡 Lưu ý quan trọng</div>• <b>Too + Adj:</b> Too hot (Quá nóng).<br>• <b>Adj + Enough:</b> Hot enough (Đủ nóng).<br>• <b>Enough + Noun:</b> Enough money (Đủ tiền).<br>• <b>Too much/many</b> cũng có thể đứng sau động từ (He talks too much).<br>• Cấu trúc: <b>Too/Enough + to-infinitive</b> (Too tired to go).</div>",
+      "exercises": [
+        { "type": "mc", "q": "I can't drink this tea. It's ___ hot.", "opts": "too,enough,too much,too many", "ans": "A", "exp": "Too before adjective" },
+        { "type": "mc", "q": "We don't have ___ money to buy a new car.", "opts": "too,enough,too much,too many", "ans": "B", "exp": "Enough before noun" },
+        { "type": "mc", "q": "You eat ___ sweets. It's bad for your teeth.", "opts": "too,enough,too much,too many", "ans": "D", "exp": "Too many before plural noun" },
+        { "type": "mc", "q": "Is the water warm ___ for a swim?", "opts": "too,enough,too much,too many", "ans": "B", "exp": "Enough after adjective" },
+        { "type": "mc", "q": "There is ___ salt in this soup.", "opts": "too,enough,too much,too many", "ans": "C", "exp": "Too much before uncountable noun" },
+        { "type": "mc", "q": "I'm ___ tired to go out tonight.", "opts": "too,enough,too much,too many", "ans": "A", "exp": "Too before adjective" },
+        { "type": "mc", "q": "He doesn't study ___ to pass the exam.", "opts": "too,enough,too much,too many", "ans": "B", "exp": "Enough after verb" },
+        { "type": "mc", "q": "There were ___ people at the party. It was crowded.", "opts": "too,enough,too much,too many", "ans": "D", "exp": "Too many before plural noun" },
+        { "type": "mc", "q": "This shirt is ___ big for me.", "opts": "too,enough,too much,too many", "ans": "A", "exp": "Too before adjective" },
+        { "type": "mc", "q": "Do we have ___ eggs to make a cake?", "opts": "too,enough,too much,too many", "ans": "B", "exp": "Enough before noun" },
+        { "type": "mc", "q": "You work ___ . You need a holiday.", "opts": "too,enough,too much,too many", "ans": "C", "exp": "Too much after verb" },
+        { "type": "mc", "q": "She isn't old ___ to drive a car.", "opts": "too,enough,too much,too many", "ans": "B", "exp": "Enough after adjective" },
+        { "type": "mc", "q": "I've spent ___ money this month.", "opts": "too,enough,too much,too many", "ans": "C", "exp": "Too much before uncountable noun" },
+        { "type": "mc", "q": "The room isn't bright ___ . I can't read.", "opts": "too,enough,too much,too many", "ans": "B", "exp": "Enough after adjective" },
+        { "type": "mc", "q": "There are ___ mistakes in your essay.", "opts": "too,enough,too much,too many", "ans": "D", "exp": "Too many before plural noun" },
+        { "type": "mc", "q": "I'm ___ busy to talk to you right now.", "opts": "too,enough,too much,too many", "ans": "A", "exp": "Too before adjective" },
+        { "type": "mc", "q": "We have ___ time to finish the project.", "opts": "too,enough,too much,too many", "ans": "B", "exp": "Enough before noun" },
+        { "type": "mc", "q": "He talks ___ . I can't listen to him anymore.", "opts": "too,enough,too much,too many", "ans": "C", "exp": "Too much after verb" },
+        { "type": "mc", "q": "Is your coffee sweet ___ ?", "opts": "too,enough,too much,too many", "ans": "B", "exp": "Enough after adjective" },
+        { "type": "mc", "q": "There is ___ noise in this room.", "opts": "too,enough,too much,too many", "ans": "C", "exp": "Too much before uncountable noun" },
+        { "type": "fill", "q": "This box is ___ (too) heavy for me to lift.", "ans": "too", "exp": "Too + Adj" },
+        { "type": "fill", "q": "I don't have ___ (enough) money for the bus.", "ans": "enough", "exp": "Enough + Noun" },
+        { "type": "fill", "q": "You drink ___ (too much) coffee.", "ans": "too much", "exp": "Too much + Uncountable" },
+        { "type": "fill", "q": "Is the room warm ___ (enough)?", "ans": "enough", "exp": "Adj + Enough" },
+        { "type": "fill", "q": "There are ___ (too many) cars in the city.", "ans": "too many", "exp": "Too many + Plural" },
+        { "type": "fill", "q": "He isn't tall ___ (enough) to play basketball.", "ans": "enough", "exp": "Adj + Enough" },
+        { "type": "fill", "q": "I've eaten ___ (too much). I feel sick.", "ans": "too much", "exp": "After verb" },
+        { "type": "fill", "q": "We have ___ (enough) time to catch the train.", "ans": "enough", "exp": "Enough + Noun" },
+        { "type": "fill", "q": "The music is ___ (too) loud. Turn it down!", "ans": "too", "exp": "Too + Adj" },
+        { "type": "fill", "q": "She doesn't sleep ___ (enough).", "ans": "enough", "exp": "After verb" },
+        { "type": "fill", "q": "There is ___ (too much) sugar in my tea.", "ans": "too much", "exp": "Too much + Uncountable" },
+        { "type": "fill", "q": "Are you old ___ (enough) to vote?", "ans": "enough", "exp": "Adj + Enough" },
+        { "type": "fill", "q": "I have ___ (too many) emails to answer.", "ans": "too many", "exp": "Too many + Plural" },
+        { "type": "fill", "q": "The water isn't deep ___ (enough) for diving.", "ans": "enough", "exp": "Adj + Enough" },
+        { "type": "fill", "q": "It's ___ (too) cold to go outside.", "ans": "too", "exp": "Too + Adj" },
+        { "type": "fill", "q": "I didn't study ___ (enough) for the test.", "ans": "enough", "exp": "After verb" },
+        { "type": "fill", "q": "There are ___ (too many) people on the bus.", "ans": "too many", "exp": "Too many + Plural" },
+        { "type": "fill", "q": "Is your soup hot ___ (enough)?", "ans": "enough", "exp": "Adj + Enough" },
+        { "type": "fill", "q": "You spend ___ (too much) time on your phone.", "ans": "too much", "exp": "Too much + Uncountable" },
+        { "type": "fill", "q": "We have ___ (enough) chairs for everyone.", "ans": "enough", "exp": "Enough + Noun" }
+      ],
+      "practice": {
+        "reorder": [
+          { "words": "This tea is too hot to drink", "extra": ["enough", "much"] },
+          { "words": "I don't have enough money now", "extra": ["too", "many"] },
+          { "words": "You eat too many sweets today", "extra": ["much", "enough"] },
+          { "words": "Is the water warm enough ?", "extra": ["too", "much"] },
+          { "words": "There is too much salt here", "extra": ["many", "enough"] },
+          { "words": "I am too tired to go", "extra": ["enough", "much"] },
+          { "words": "He doesn't study enough for exams", "extra": ["too", "many"] },
+          { "words": "There are too many people here", "extra": ["much", "enough"] },
+          { "words": "This shirt is too big for me", "extra": ["enough", "many"] },
+          { "words": "Do we have enough eggs ?", "extra": ["too", "much"] },
+          { "words": "You work too much every day", "extra": ["many", "enough"] },
+          { "words": "She isn't old enough to drive", "extra": ["too", "many"] },
+          { "words": "I've spent too much money", "extra": ["many", "enough"] },
+          { "words": "The room isn't bright enough", "extra": ["too", "much"] },
+          { "words": "There are too many mistakes here", "extra": ["much", "enough"] },
+          { "words": "I'm too busy to talk now", "extra": ["enough", "many"] },
+          { "words": "We have enough time to finish", "extra": ["too", "much"] },
+          { "words": "He talks too much sometimes", "extra": ["many", "enough"] },
+          { "words": "Is your coffee sweet enough ?", "extra": ["too", "much"] },
+          { "words": "There is too much noise outside", "extra": ["many", "enough"] }
+        ],
+        "passage": [
+          {
+            "text": "I wanted to go to the cinema last night, but I was {{1}} (too) tired. I didn't have {{2}} (enough) energy to leave the house. Also, the tickets were {{3}} (too) expensive for me. I have spent {{4}} (too much) money this month. I don't have {{5}} (enough) money in my bank account. There are {{6}} (too many) things I want to buy. I think I don't work {{7}} (enough) to earn more. My job is {{8}} (too) difficult sometimes. I have {{9}} (too much) work and not {{10}} (enough) free time.",
+            "blanks": { "1": "too", "2": "enough", "3": "too", "4": "too much", "5": "enough", "6": "too many", "7": "enough", "8": "too", "9": "too much", "10": "enough" },
+            "wordbank": ["too", "enough", "too much", "too many", "much", "many", "little", "few", "a lot of", "some", "any"]
+          },
+          {
+            "text": "This apartment is {{1}} (too) small for us. We don't have {{2}} (enough) space for our furniture. There are {{3}} (too many) boxes in the living room. The kitchen isn't big {{4}} (enough) to cook comfortably. I have {{5}} (too much) stuff and I don't know where to put it. The rent is {{6}} (too) high as well. We don't earn {{7}} (enough) to live here. There is {{8}} (too much) noise from the street. It's {{9}} (too) loud to sleep at night. We need to find a place that is quiet {{10}} (enough).",
+            "blanks": { "1": "too", "2": "enough", "3": "too many", "4": "enough", "5": "too much", "6": "too", "7": "enough", "8": "too much", "9": "too", "10": "enough" },
+            "wordbank": ["too", "enough", "too many", "too much", "much", "many", "big", "small", "loud", "quiet", "high", "low"]
+          },
+          {
+            "text": "I'm trying to learn English, but it's {{1}} (too) hard. I don't have {{2}} (enough) time to practice every day. There are {{3}} (too many) grammar rules to remember. I make {{4}} (too many) mistakes when I speak. I think I don't listen {{5}} (enough) to English podcasts. My vocabulary isn't large {{6}} (enough) yet. I have {{7}} (too much) homework from my English class. Sometimes the teacher speaks {{8}} (too) fast. I'm not brave {{9}} (enough) to ask questions. I need {{10}} (enough) patience to continue.",
+            "blanks": { "1": "too", "2": "enough", "3": "too many", "4": "too many", "5": "enough", "6": "enough", "7": "too much", "8": "too", "9": "enough", "10": "enough" },
+            "wordbank": ["too", "enough", "too many", "too much", "much", "many", "hard", "easy", "fast", "slow", "brave", "patience"]
+          },
+          {
+            "text": "The party was okay, but there was {{1}} (too much) food and not {{2}} (enough) drinks. There were {{3}} (too many) people in a small room. It was {{4}} (too) hot inside. I didn't stay long {{5}} (enough) to meet everyone. The music was {{6}} (too) loud for me. I'm {{7}} (too) old for these kinds of parties! I didn't have {{8}} (enough) fun. There was {{9}} (too much) talking and not {{10}} (enough) dancing.",
+            "blanks": { "1": "too much", "2": "enough", "3": "too many", "4": "too", "5": "enough", "6": "too", "7": "too", "8": "enough", "9": "too much", "10": "enough" },
+            "wordbank": ["too much", "enough", "too many", "too", "much", "many", "hot", "cold", "loud", "quiet", "old", "young"]
+          },
+          {
+            "text": "I want to bake a cake, but I don't have {{1}} (enough) flour. I have {{2}} (too much) sugar, but not {{3}} (enough) butter. The oven is {{4}} (too) old and it doesn't get hot {{5}} (enough). I have {{6}} (too many) recipes and I can't choose one. This recipe is {{7}} (too) complicated for me. I don't have {{8}} (enough) experience in baking. I've spent {{9}} (too much) time trying to decide. I think I'll just buy a cake. It's {{10}} (enough) for today.",
+            "blanks": { "1": "enough", "2": "too much", "3": "enough", "4": "too", "5": "enough", "6": "too many", "7": "too", "8": "enough", "9": "too much", "10": "enough" },
+            "wordbank": ["enough", "too much", "too", "too many", "much", "many", "old", "new", "hot", "cold", "complicated", "simple"]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy viết về một ngày bận rộn của bạn. Bạn có quá nhiều việc phải làm không? Bạn có đủ thời gian để nghỉ ngơi không? Sử dụng các từ như too much, too many, enough, too.",
+          "grammar_focus": "Too & Enough",
+          "hint_words": ["busy day", "too much work", "too many emails", "not enough time", "too tired", "enough sleep", "too busy", "finish everything", "relax"],
+          "min_words": 30,
+          "example": "Yesterday was a very busy day for me. I had too much work at the office and too many emails to answer. I didn't have enough time to eat lunch properly. By the evening, I was too tired to cook dinner. I hope I can get enough sleep tonight because I am too busy again tomorrow."
+        },
+        {
+          "vi": "Hãy mô tả ngôi nhà hoặc căn hộ của bạn. Nó có đủ lớn không? Có quá nhiều đồ đạc không? Sử dụng các từ như enough, too, too many, too much.",
+          "grammar_focus": "Too & Enough",
+          "hint_words": ["my apartment", "big enough", "too small", "too many books", "enough space", "too much furniture", "bright enough", "comfortable", "live here"],
+          "min_words": 30,
+          "example": "I live in a small apartment. It is not big enough for my family, but it is very comfortable. I have too many books and not enough space to put them all. There is too much furniture in the living room, so it feels a bit crowded. However, the windows are large enough to make the room bright."
+        },
+        {
+          "vi": "Hãy kể về một lần bạn đi ăn ở nhà hàng nhưng không hài lòng. Đồ ăn có quá mặn không? Phục vụ có đủ nhanh không? Sử dụng các từ như too, enough, too much, too many.",
+          "grammar_focus": "Too & Enough",
+          "hint_words": ["went to a restaurant", "too expensive", "too much salt", "not enough food", "too many people", "not fast enough", "disappointed", "service", "wait"],
+          "min_words": 30,
+          "example": "Last night, I went to a new restaurant but I was disappointed. The food was too expensive and there was too much salt in my soup. The portion was not big enough, so I was still hungry. There were too many people and the service was not fast enough. I had to wait for an hour."
+        },
+        {
+          "vi": "Hãy viết về việc học tiếng Anh của bạn. Bạn có thấy nó quá khó không? Bạn có đủ tài liệu để học không? Sử dụng các từ như too, enough, too many, too much.",
+          "grammar_focus": "Too & Enough",
+          "hint_words": ["learning English", "too difficult", "too many rules", "enough books", "not enough practice", "too much homework", "brave enough", "speak English", "improve"],
+          "min_words": 30,
+          "example": "Learning English is sometimes too difficult for me. There are too many grammar rules to remember and I have too much homework every day. I have enough books to study, but I don't have enough practice in speaking. I need to be brave enough to talk to foreigners to improve my skills."
+        },
+        {
+          "vi": "Hãy kể về một chuyến đi du lịch mà bạn đã chuẩn bị quá nhiều đồ. Bạn có đủ chỗ trong vali không? Sử dụng các từ như too many, too much, enough, too.",
+          "grammar_focus": "Too & Enough",
+          "hint_words": ["last trip", "too many clothes", "too much luggage", "not enough space", "suitcase", "too heavy", "enough things", "carry", "travel light"],
+          "min_words": 30,
+          "example": "On my last trip, I packed too many clothes and too much luggage. My suitcase was not big enough for everything, so it was too heavy to carry. I realized that I didn't need enough things for just three days. Next time, I will try to travel light and not bring too much stuff with me."
+        }
+      ]
+    },
+    {
+      "icon": "🏆",
+      "title": "A2 Most, most of, the most",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Most, Most of, The most</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Cấu trúc</th><th style=\"padding:4px 8px;text-align:left\">Cách dùng</th><th style=\"padding:4px 8px;text-align:left\">Ví dụ</th></tr><tr><td style=\"padding:4px 8px\"><b>Most + Noun</b></td><td style=\"padding:4px 8px\">Đa số (nói chung)</td><td style=\"padding:4px 8px\"><b>Most people</b> like music.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><b>Most of + the/my...</b></td><td style=\"padding:4px 8px\">Đa số (nhóm cụ thể)</td><td style=\"padding:4px 8px\"><b>Most of my friends</b> are here.</td></tr><tr><td style=\"padding:4px 8px\"><b>The most + Adj/Adv</b></td><td style=\"padding:4px 8px\">So sánh nhất</td><td style=\"padding:4px 8px\">She is <b>the most beautiful</b>.</td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">💡 Lưu ý quan trọng</div>• <b>Most of</b> cũng dùng với đại từ tân ngữ (Most of <b>us</b>, most of <b>them</b>).<br>• KHÔNG dùng \"The most\" khi nói về đa số (❌ The most people like... -> ✅ Most people like...).<br>• <b>Most</b> có thể đứng một mình nếu danh từ đã được nhắc đến trước đó.</div>",
+      "exercises": [
+        { "type": "mc", "q": "___ people like to travel during summer.", "opts": "Most,Most of,The most,Mostly", "ans": "A", "exp": "Most + noun (general)" },
+        { "type": "mc", "q": "___ my friends live in this city.", "opts": "Most,Most of,The most,Mostly", "ans": "B", "exp": "Most of + possessive" },
+        { "type": "mc", "q": "This is ___ beautiful place I've ever seen.", "opts": "most,most of,the most,mostly", "ans": "C", "exp": "Superlative form" },
+        { "type": "mc", "q": "___ the students passed the exam.", "opts": "Most,Most of,The most,Mostly", "ans": "B", "exp": "Most of + the" },
+        { "type": "mc", "q": "___ of us are going to the party.", "opts": "Most,Most of,The most,Mostly", "ans": "B", "exp": "Most of + object pronoun" },
+        { "type": "mc", "q": "___ children love chocolate.", "opts": "Most,Most of,The most,Mostly", "ans": "A", "exp": "Most + noun (general)" },
+        { "type": "mc", "q": "Which city is ___ expensive in your country?", "opts": "most,most of,the most,mostly", "ans": "C", "exp": "Superlative form" },
+        { "type": "mc", "q": "___ of this information is useful.", "opts": "Most,Most of,The most,Mostly", "ans": "B", "exp": "Most of + demonstrative" },
+        { "type": "mc", "q": "I have some bad days, but ___ days are good.", "opts": "most,most of,the most,mostly", "ans": "A", "exp": "Most + noun" },
+        { "type": "mc", "q": "___ of them were late for the meeting.", "opts": "Most,Most of,The most,Mostly", "ans": "B", "exp": "Most of + object pronoun" },
+        { "type": "mc", "q": "He is ___ intelligent person I know.", "opts": "most,most of,the most,mostly", "ans": "C", "exp": "Superlative form" },
+        { "type": "mc", "q": "___ cars have four wheels.", "opts": "Most,Most of,The most,Mostly", "ans": "A", "exp": "Most + noun (general)" },
+        { "type": "mc", "q": "___ the time, I stay at home on Sundays.", "opts": "Most,Most of,The most,Mostly", "ans": "B", "exp": "Most of + the" },
+        { "type": "mc", "q": "This is ___ interesting book in the library.", "opts": "most,most of,the most,mostly", "ans": "C", "exp": "Superlative form" },
+        { "type": "mc", "q": "___ of my time is spent on studying.", "opts": "Most,Most of,The most,Mostly", "ans": "B", "exp": "Most of + possessive" },
+        { "type": "mc", "q": "___ animals are afraid of fire.", "opts": "Most,Most of,The most,Mostly", "ans": "A", "exp": "Most + noun (general)" },
+        { "type": "mc", "q": "Who is ___ famous singer in your country?", "opts": "most,most of,the most,mostly", "ans": "C", "exp": "Superlative form" },
+        { "type": "mc", "q": "___ of the cake has been eaten.", "opts": "Most,Most of,The most,Mostly", "ans": "B", "exp": "Most of + the" },
+        { "type": "mc", "q": "___ students like online learning.", "opts": "Most,Most of,The most,Mostly", "ans": "A", "exp": "Most + noun (general)" },
+        { "type": "mc", "q": "___ of these books are mine.", "opts": "Most,Most of,The most,Mostly", "ans": "B", "exp": "Most of + these" },
+        { "type": "fill", "q": "___ (Most) people enjoy music.", "ans": "Most", "exp": "Most + Noun" },
+        { "type": "fill", "q": "___ (Most of) the students are here.", "ans": "Most of", "exp": "Most of + the" },
+        { "type": "fill", "q": "This is ___ (the most) difficult task.", "ans": "the most", "exp": "Superlative" },
+        { "type": "fill", "q": "___ (Most of) us like pizza.", "ans": "Most of", "exp": "Most of + us" },
+        { "type": "fill", "q": "___ (Most) children like toys.", "ans": "Most", "exp": "Most + Noun" },
+        { "type": "fill", "q": "___ (Most of) my friends are students.", "ans": "Most of", "exp": "Most of + my" },
+        { "type": "fill", "q": "He is ___ (the most) famous actor.", "ans": "the most", "exp": "Superlative" },
+        { "type": "fill", "q": "___ (Most of) the time, he is busy.", "ans": "Most of", "exp": "Most of + the" },
+        { "type": "fill", "q": "___ (Most) animals live in the forest.", "ans": "Most", "exp": "Most + Noun" },
+        { "type": "fill", "q": "___ (Most of) them are from Spain.", "ans": "Most of", "exp": "Most of + them" },
+        { "type": "fill", "q": "This is ___ (the most) expensive car.", "ans": "the most", "exp": "Superlative" },
+        { "type": "fill", "q": "___ (Most of) this work is easy.", "ans": "Most of", "exp": "Most of + this" },
+        { "type": "fill", "q": "___ (Most) students pass the exam.", "ans": "Most", "exp": "Most + Noun" },
+        { "type": "fill", "q": "___ (Most of) the people I know are kind.", "ans": "Most of", "exp": "Most of + the" },
+        { "type": "fill", "q": "She is ___ (the most) intelligent girl.", "ans": "the most", "exp": "Superlative" },
+        { "type": "fill", "q": "___ (Most of) our neighbors are friendly.", "ans": "Most of", "exp": "Most of + our" },
+        { "type": "fill", "q": "___ (Most) birds can fly.", "ans": "Most", "exp": "Most + Noun" },
+        { "type": "fill", "q": "___ (Most of) the information is correct.", "ans": "Most of", "exp": "Most of + the" },
+        { "type": "fill", "q": "It was ___ (the most) exciting day.", "ans": "the most", "exp": "Superlative" },
+        { "type": "fill", "q": "___ (Most of) you know the answer.", "ans": "Most of", "exp": "Most of + you" }
+      ],
+      "practice": {
+        "reorder": [
+          { "words": "Most people like to travel", "extra": ["of", "the"] },
+          { "words": "Most of my friends are here", "extra": ["the", "mostly"] },
+          { "words": "This is the most beautiful place", "extra": ["of", "mostly"] },
+          { "words": "Most of the students passed", "extra": ["mostly", "the"] },
+          { "words": "Most of us are going", "extra": ["the", "mostly"] },
+          { "words": "Most children love playing games", "extra": ["of", "the"] },
+          { "words": "Which is the most expensive city ?", "extra": ["of", "mostly"] },
+          { "words": "Most of this information is true", "extra": ["the", "mostly"] },
+          { "words": "Most days are good for me", "extra": ["of", "the"] },
+          { "words": "Most of them were late today", "extra": ["the", "mostly"] },
+          { "words": "He is the most intelligent person", "extra": ["of", "mostly"] },
+          { "words": "Most cars have four wheels now", "extra": ["of", "the"] },
+          { "words": "Most of the time I stay home", "extra": ["mostly", "the"] },
+          { "words": "This is the most interesting book", "extra": ["of", "mostly"] },
+          { "words": "Most of my time is spent studying", "extra": ["the", "mostly"] },
+          { "words": "Most animals are afraid of fire", "extra": ["of", "the"] },
+          { "words": "Who is the most famous singer ?", "extra": ["of", "mostly"] },
+          { "words": "Most of the cake was eaten", "extra": ["mostly", "the"] },
+          { "words": "Most students like online learning now", "extra": ["of", "the"] },
+          { "words": "Most of these books are mine", "extra": ["the", "mostly"] }
+        ],
+        "passage": [
+          {
+            "text": "In my country, {{1}} (most) people live in cities. {{2}} (Most of) the young people want to work in big companies. This is {{3}} (the most) popular choice for them. {{4}} (Most of) my friends are engineers or doctors. {{5}} (Most) students study very hard to get a good job. {{6}} (Most of) the time, they don't have much free time. For me, {{7}} (the most) important thing is to be happy. {{8}} (Most of) us agree that family is important. {{9}} (Most) families spend weekends together. It is {{10}} (the most) wonderful time of the week.",
+            "blanks": { "1": "most", "2": "Most of", "3": "the most", "4": "Most of", "5": "Most", "6": "Most of", "7": "the most", "8": "Most of", "9": "Most", "10": "the most" },
+            "wordbank": ["most", "Most of", "the most", "mostly", "the", "of", "us", "them", "all", "every", "many", "much"]
+          },
+          {
+            "text": "I love reading books. {{1}} (Most) books I read are about history. {{2}} (Most of) the books in my library are old. {{3}} (The most) interesting book I have is about ancient Rome. {{4}} (Most of) my time in the evening is spent reading. {{5}} (Most) people prefer watching TV, but I think reading is {{6}} (the most) relaxing activity. {{7}} (Most of) my friends don't read much. {{8}} (Most of) them prefer playing video games. For them, it is {{9}} (the most) exciting thing to do. But for me, books are {{10}} (the most) valuable things.",
+            "blanks": { "1": "Most", "2": "Most of", "3": "The most", "4": "Most of", "5": "Most", "6": "the most", "7": "Most of", "8": "Most of", "9": "the most", "10": "the most" },
+            "wordbank": ["Most", "Most of", "The most", "mostly", "the", "of", "us", "them", "all", "every", "many", "much"]
+          },
+          {
+            "text": "Traveling is my passion. {{1}} (Most) travelers like to visit famous cities. {{2}} (Most of) the tourists go to Paris or Rome. These are {{3}} (the most) visited places in the world. {{4}} (Most of) my trips are to quiet places. {{5}} (Most) people think I am strange. But for me, {{6}} (the most) beautiful views are in the mountains. {{7}} (Most of) the time, I travel alone. {{8}} (Most of) us need some time to be with ourselves. It is {{9}} (the most) peaceful experience. {{10}} (Most) trips I take are unforgettable.",
+            "blanks": { "1": "Most", "2": "Most of", "3": "the most", "4": "Most of", "5": "Most", "6": "the most", "7": "Most of", "8": "Most of", "9": "the most", "10": "Most" },
+            "wordbank": ["Most", "Most of", "the most", "mostly", "the", "of", "us", "them", "all", "every", "many", "much"]
+          },
+          {
+            "text": "Technology is everywhere. {{1}} (Most) people have a smartphone. {{2}} (Most of) the children know how to use a tablet. This is {{3}} (the most) common thing nowadays. {{4}} (Most of) my work is done on a computer. {{5}} (Most) companies use the internet for everything. It is {{6}} (the most) efficient way to work. {{7}} (Most of) us can't live without technology. {{8}} (Most of) the information we need is online. It is {{9}} (the most) powerful tool we have. {{10}} (Most) people agree with this.",
+            "blanks": { "1": "Most", "2": "Most of", "3": "the most", "4": "Most of", "5": "Most", "6": "the most", "7": "Most of", "8": "Most of", "9": "the most", "10": "Most" },
+            "wordbank": ["Most", "Most of", "the most", "mostly", "the", "of", "us", "them", "all", "every", "many", "much"]
+          },
+          {
+            "text": "Learning a language is a challenge. {{1}} (Most) students find grammar difficult. {{2}} (Most of) the learners struggle with pronunciation. This is {{3}} (the most) common problem. {{4}} (Most of) my students are very dedicated. {{5}} (Most) people want to learn English for their career. It is {{6}} (the most) useful language in the world. {{7}} (Most of) us know that practice is key. {{8}} (Most of) the time, I encourage my students to speak. It is {{9}} (the most) effective way to learn. {{10}} (Most) learners improve quickly with practice.",
+            "blanks": { "1": "Most", "2": "Most of", "3": "the most", "4": "Most of", "5": "Most", "6": "the most", "7": "Most of", "8": "Most of", "9": "the most", "10": "Most" },
+            "wordbank": ["Most", "Most of", "the most", "mostly", "the", "of", "us", "them", "all", "every", "many", "much"]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy viết về những hoạt động phổ biến nhất ở đất nước của bạn. Đa số mọi người thích làm gì vào cuối tuần? Sử dụng các từ như most, most of, the most.",
+          "grammar_focus": "Most & The most",
+          "hint_words": ["my country", "most people", "most of the time", "the most popular", "football", "most of my friends", "the most beautiful", "weekends", "enjoy"],
+          "min_words": 30,
+          "example": "In my country, most people love playing football. It is the most popular sport and most of the time, you can see people playing it in the parks. Most of my friends go to the stadium on weekends. The most beautiful thing is the atmosphere during a big match."
+        },
+        {
+          "vi": "Hãy mô tả về những người bạn của bạn. Đa số họ làm nghề gì? Ai là người thú vị nhất? Sử dụng các từ như most of, the most, most.",
+          "grammar_focus": "Most & The most",
+          "hint_words": ["my friends", "most of them", "students", "most people", "the most interesting", "funny", "most of the time", "hang out", "best friend"],
+          "min_words": 30,
+          "example": "I have many friends and most of them are students at my university. Most people think we are very serious, but we are actually quite funny. The most interesting person in my group is Nam because he tells great stories. Most of the time, we hang out at a cafe after class."
+        },
+        {
+          "vi": "Hãy viết về những cuốn sách hoặc bộ phim bạn yêu thích. Đa số chúng thuộc thể loại nào? Cái nào là ấn tượng nhất? Sử dụng các từ như most, most of, the most.",
+          "grammar_focus": "Most & The most",
+          "hint_words": ["love movies", "most movies", "action", "most of the time", "the most exciting", "Inception", "most of my collection", "recommend", "watch"],
+          "min_words": 30,
+          "example": "I love movies and most movies I watch are action films. Most of the time, I go to the cinema with my brother. The most exciting movie I have ever seen is 'Inception'. Most of my collection consists of sci-fi films and I highly recommend them to everyone."
+        },
+        {
+          "vi": "Hãy kể về những món ăn ở thành phố của bạn. Đa số mọi người thích ăn gì? Món nào là ngon nhất? Sử dụng các từ như most, most of, the most.",
+          "grammar_focus": "Most & The most",
+          "hint_words": ["my city", "most people", "street food", "most of the restaurants", "the most delicious", "Pho", "most of the time", "breakfast", "famous"],
+          "min_words": 30,
+          "example": "In my city, most people enjoy eating street food for breakfast. Most of the restaurants serve traditional dishes, but Pho is the most delicious one. Most of the time, the shops are very crowded in the morning. It is the most famous dish in my country and tourists love it."
+        },
+        {
+          "vi": "Hãy viết về những môn học ở trường của bạn. Đa số học sinh thích môn nào? Môn nào là khó nhất? Sử dụng các từ như most, most of, the most.",
+          "grammar_focus": "Most & The most",
+          "hint_words": ["at school", "most students", "English", "most of the teachers", "the most difficult", "Math", "most of my time", "study", "important"],
+          "min_words": 30,
+          "example": "At my school, most students like learning English because it is very useful. Most of the teachers are very helpful and kind. However, Math is the most difficult subject for me. I spend most of my time studying it, but it is still a big challenge. It is very important for my future."
+        }
+      ]
+    }
+  ]
+}

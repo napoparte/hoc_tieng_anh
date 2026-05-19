@@ -1,0 +1,328 @@
+{
+  "elementary": [
+    {
+      "icon": "🔀",
+      "title": "A2 First conditional and future time clauses",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 First Conditional – Điều kiện loại 1</div>Câu điều kiện loại 1 dùng để nói về những tình huống <b>có thể xảy ra</b> trong tương lai.<br><br><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Mệnh đề if (If clause)</th><th style=\"padding:4px 8px;text-align:left\">Mệnh đề chính (Main clause)</th></tr><tr><td style=\"padding:4px 8px\">If + <b>present simple</b></td><td style=\"padding:4px 8px\"><b>will / can / must / should / may / might</b> + V nguyên mẫu</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">If it <b>rains</b>,</td><td style=\"padding:4px 8px\">we <b>will</b> stay home.</td></tr><tr><td style=\"padding:4px 8px\">If you <b>don't study</b>,</td><td style=\"padding:4px 8px\">you <b>might</b> fail the exam.</td></tr></table><br>⚠️ <b>KHÔNG dùng will trong mệnh đề if!</b><br>❌ <s>If it will rain, we will stay home.</s><br>✅ If it <b>rains</b>, we will stay home.<br><br>Khi mệnh đề if đứng <b>trước</b>, dùng dấu phẩy. Khi đứng <b>sau</b>, không cần dấu phẩy.<br>✅ <i>If I'm late, I'll call you.</i> / <i>I'll call you if I'm late.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⏰ Future Time Clauses – Mệnh đề thời gian tương lai</div>Dùng <b>when, after, before, until, as soon as</b> + <b>present simple</b> để nói về tương lai (KHÔNG dùng will sau các từ này).<br><br><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Từ nối</th><th style=\"padding:4px 8px;text-align:left\">Nghĩa</th><th style=\"padding:4px 8px;text-align:left\">Ví dụ</th></tr><tr><td style=\"padding:4px 8px\"><b>when</b></td><td style=\"padding:4px 8px\">khi</td><td style=\"padding:4px 8px\">I'll call you <b>when</b> I <b>arrive</b>.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><b>as soon as</b></td><td style=\"padding:4px 8px\">ngay khi</td><td style=\"padding:4px 8px\"><b>As soon as</b> she <b>finishes</b>, she'll call.</td></tr><tr><td style=\"padding:4px 8px\"><b>before</b></td><td style=\"padding:4px 8px\">trước khi</td><td style=\"padding:4px 8px\">Say goodbye <b>before</b> you <b>leave</b>.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><b>after</b></td><td style=\"padding:4px 8px\">sau khi</td><td style=\"padding:4px 8px\"><b>After</b> you <b>eat</b>, we'll go out.</td></tr><tr><td style=\"padding:4px 8px\"><b>until</b></td><td style=\"padding:4px 8px\">cho đến khi</td><td style=\"padding:4px 8px\">Wait here <b>until</b> I <b>come</b> back.</td></tr></table><br>❌ <s>I'll call you when I will arrive.</s> ✅ I'll call you when I <b>arrive</b>.</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">🔗 Unless = If ... not</div><b>Unless</b> = <b>if ... not</b> (trừ khi / nếu không)<br>• I won't go <b>unless</b> you come. = I won't go <b>if you don't come</b>.<br>• She'll be late <b>unless</b> she hurries. = She'll be late <b>if she doesn't hurry</b>.</div>",
+      "exercises": [
+        {"type":"mc","q":"If it ___ tomorrow, we will cancel the picnic.","opts":"rains,will rain,rained,is raining","ans":"A","exp":"Mệnh đề if dùng present simple"},
+        {"type":"mc","q":"I'll call you as soon as I ___ home.","opts":"get,will get,am getting,got","ans":"A","exp":"As soon as + present simple"},
+        {"type":"mc","q":"If you ___ hard, you will pass the exam.","opts":"study,will study,studied,are studying","ans":"A","exp":"If clause → present simple"},
+        {"type":"mc","q":"She'll be happy ___ she hears the news.","opts":"when,while,although,because","ans":"A","exp":"When + present simple cho tương lai"},
+        {"type":"mc","q":"We won't leave ___ everyone is ready.","opts":"until,when,after,before","ans":"A","exp":"Until = cho đến khi"},
+        {"type":"mc","q":"If he doesn't hurry, he ___ the bus.","opts":"will miss,misses,missed,is missing","ans":"A","exp":"Main clause → will + V"},
+        {"type":"mc","q":"I'll start cooking ___ you arrive.","opts":"before,until,unless,although","ans":"A","exp":"Before = trước khi"},
+        {"type":"mc","q":"___ she studies more, she might not pass.","opts":"Unless,If,When,After","ans":"A","exp":"Unless = if not"},
+        {"type":"mc","q":"After you ___ your homework, you can watch TV.","opts":"finish,will finish,finished,are finishing","ans":"A","exp":"After + present simple"},
+        {"type":"mc","q":"If I ___ free tomorrow, I'll come to your party.","opts":"am,will be,was,be","ans":"A","exp":"If clause → present simple"},
+        {"type":"mc","q":"We'll play football if the weather ___.","opts":"is good,will be good,was good,would be good","ans":"A","exp":"Present simple sau if"},
+        {"type":"mc","q":"Call me ___ you need help.","opts":"if,unless,until,before","ans":"A","exp":"If = nếu"},
+        {"type":"mc","q":"As soon as the film ___, we'll go home.","opts":"ends,will end,ended,is ending","ans":"A","exp":"As soon as + present simple"},
+        {"type":"mc","q":"I won't eat anything ___ she comes.","opts":"until,when,unless,after","ans":"A","exp":"Until = cho đến khi"},
+        {"type":"mc","q":"If you ___ the answer, raise your hand.","opts":"know,will know,knew,would know","ans":"A","exp":"If clause → present simple"},
+        {"type":"mc","q":"She'll send you the report ___ she finishes it.","opts":"as soon as,until,unless,although","ans":"A","exp":"As soon as = ngay khi"},
+        {"type":"mc","q":"You ___ sick if you eat too much.","opts":"will feel,feel,felt,are feeling","ans":"A","exp":"Main clause → will + V"},
+        {"type":"mc","q":"I'll wait here ___ you come back.","opts":"until,when,as soon as,after","ans":"A","exp":"Until = cho đến khi"},
+        {"type":"mc","q":"If she ___ the job, she'll move to London.","opts":"gets,will get,got,would get","ans":"A","exp":"Present simple trong mệnh đề if"},
+        {"type":"mc","q":"Before you ___, don't forget to lock the door.","opts":"leave,will leave,left,are leaving","ans":"A","exp":"Before + present simple"},
+        {"type":"fill","q":"If you ___ (not/hurry), you will be late.","ans":"don't hurry","exp":"Phủ định present simple trong if clause"},
+        {"type":"fill","q":"I'll text you when I ___ (arrive) at the station.","ans":"arrive","exp":"When + present simple"},
+        {"type":"fill","q":"She ___ (be) angry if you don't apologize.","ans":"will be","exp":"Main clause → will + V"},
+        {"type":"fill","q":"We'll have dinner after he ___ (come) home.","ans":"comes","exp":"After + present simple"},
+        {"type":"fill","q":"If it ___ (not/rain), we'll go for a walk.","ans":"doesn't rain","exp":"If + present simple phủ định"},
+        {"type":"fill","q":"As soon as class ___ (finish), I'll call you.","ans":"finishes","exp":"As soon as + present simple"},
+        {"type":"fill","q":"Unless you ___ (study), you won't pass.","ans":"study","exp":"Unless + present simple"},
+        {"type":"fill","q":"He ___ (can/leave) when he finishes his work.","ans":"can leave","exp":"Modal verb trong main clause"},
+        {"type":"fill","q":"I'll stay here until she ___ (call) me.","ans":"calls","exp":"Until + present simple"},
+        {"type":"fill","q":"If he ___ (not/be) careful, he will have an accident.","ans":"isn't","exp":"If + present simple phủ định"},
+        {"type":"fill","q":"Before you ___ (go) to bed, brush your teeth.","ans":"go","exp":"Before + present simple"},
+        {"type":"fill","q":"She ___ (might/feel) better if she rests.","ans":"might feel","exp":"Might + V trong main clause"},
+        {"type":"fill","q":"When I ___ (be) older, I'll travel the world.","ans":"am","exp":"When + present simple"},
+        {"type":"fill","q":"We ___ (not/go) out unless it stops raining.","ans":"won't go","exp":"Main clause phủ định với will"},
+        {"type":"fill","q":"If she ___ (pass) the test, she'll celebrate.","ans":"passes","exp":"If + present simple"},
+        {"type":"fill","q":"I'll call you as soon as I ___ (get) the results.","ans":"get","exp":"As soon as + present simple"},
+        {"type":"fill","q":"If you ___ (eat) too much sugar, you'll get a toothache.","ans":"eat","exp":"If + present simple"},
+        {"type":"fill","q":"He ___ (must/study) harder if he wants to improve.","ans":"must study","exp":"Must + V trong main clause"},
+        {"type":"fill","q":"After you ___ (finish) eating, please wash the dishes.","ans":"finish","exp":"After + present simple"},
+        {"type":"fill","q":"Unless she ___ (apologize), I won't talk to her.","ans":"apologizes","exp":"Unless + present simple"}
+      ],
+      "practice": {
+        "reorder": [
+          {"words":"If it rains , we will stay inside","extra":["rained","would"]},
+          {"words":"I will call you when I arrive","extra":["will arrive","arrived"]},
+          {"words":"She will be late unless she hurries","extra":["hurried","would hurry"]},
+          {"words":"As soon as he finishes , he will call me","extra":["finished","will finish"]},
+          {"words":"Before you leave , say goodbye to everyone","extra":["will leave","left"]},
+          {"words":"If you study hard , you will pass the exam","extra":["studied","will study"]},
+          {"words":"We will wait here until she comes back","extra":["will come","came"]},
+          {"words":"After we eat dinner , we will go for a walk","extra":["ate","will eat"]},
+          {"words":"If he is late , we will start without him","extra":["was","will be"]},
+          {"words":"I will be happy when I hear the good news","extra":["will hear","heard"]},
+          {"words":"Unless you apologize , she will be angry","extra":["apologized","will apologize"]},
+          {"words":"She will send the report as soon as she finishes it","extra":["finished","will finish"]},
+          {"words":"If you are tired , you should go to bed","extra":["were","will be"]},
+          {"words":"He will not leave until he finishes his homework","extra":["finished","will finish"]},
+          {"words":"If the weather is nice tomorrow , we will have a picnic","extra":["was","will be"]},
+          {"words":"I will not eat unless I am really hungry","extra":["was","will be"]},
+          {"words":"Call me if you need any help","extra":["will need","needed"]},
+          {"words":"Before she goes to sleep , she will read a book","extra":["went","will go"]},
+          {"words":"If you miss the bus , you will be late","extra":["missed","will miss"]},
+          {"words":"We will not start the film until everyone arrives","extra":["arrived","will arrive"]}
+        ],
+        "passage": [
+          {
+            "text": "My family {{1}} (plan) a holiday next month. If the weather {{2}} (be) good, we {{3}} (go) to the beach. We {{4}} (leave) early in the morning before it {{5}} (get) too hot. When we {{6}} (arrive), we {{7}} (find) a good spot near the sea. If the children {{8}} (get) hungry, we {{9}} (buy) some food at the café. We {{10}} (stay) until the sun {{11}} (go) down. As soon as we {{12}} (come) home, I {{13}} (cook) dinner.",
+            "blanks": {"1":"is planning","2":"is","3":"will go","4":"will leave","5":"gets","6":"arrive","7":"will find","8":"get","9":"will buy","10":"will stay","11":"goes","12":"come","13":"will cook"},
+            "wordbank": ["is planning","is","will go","will leave","gets","arrive","will find","get","will buy","will stay","goes","come","will cook","plan","be","go"]
+          },
+          {
+            "text": "Tom {{1}} (take) his driving test next week. If he {{2}} (pass), he {{3}} (buy) a car. Before he {{4}} (take) the test, he {{5}} (practise) every day. When he {{6}} (feel) nervous, his instructor {{7}} (help) him. He {{8}} (not/give up) unless the test {{9}} (be) too difficult. As soon as the results {{10}} (come) out, he {{11}} (call) his parents.",
+            "blanks": {"1":"is taking","2":"passes","3":"will buy","4":"takes","5":"will practise","6":"feels","7":"will help","8":"won't give up","9":"is","10":"come","11":"will call"},
+            "wordbank": ["is taking","passes","will buy","takes","will practise","feels","will help","won't give up","is","come","will call","pass","buy","take","give up"]
+          },
+          {
+            "text": "If it {{1}} (snow) this winter, the children {{2}} (be) very happy. They {{3}} (play) outside as soon as they {{4}} (see) the snow. Their mother {{5}} (make) hot chocolate before they {{6}} (come) inside. If they {{7}} (catch) a cold, she {{8}} (take) them to the doctor. She {{9}} (not/let) them go out unless they {{10}} (wear) warm clothes.",
+            "blanks": {"1":"snows","2":"will be","3":"will play","4":"see","5":"will make","6":"come","7":"catch","8":"will take","9":"won't let","10":"wear"},
+            "wordbank": ["snows","will be","will play","see","will make","come","catch","will take","won't let","wear","snow","be","play","let"]
+          },
+          {
+            "text": "Anna {{1}} (start) a new job next Monday. If the work {{2}} (be) interesting, she {{3}} (stay) there for a long time. She {{4}} (work) hard until her boss {{5}} (notice) her effort. When she {{6}} (earn) enough money, she {{7}} (buy) a new laptop. If her colleagues {{8}} (be) friendly, she {{9}} (enjoy) the job. She {{10}} (call) her friend as soon as she {{11}} (finish) her first day.",
+            "blanks": {"1":"is starting","2":"is","3":"will stay","4":"will work","5":"notices","6":"earns","7":"will buy","8":"are","9":"will enjoy","10":"will call","11":"finishes"},
+            "wordbank": ["is starting","is","will stay","will work","notices","earns","will buy","are","will enjoy","will call","finishes","start","be","earn","finish"]
+          },
+          {
+            "text": "If the concert {{1}} (not/be) too expensive, we {{2}} (buy) tickets. Before we {{3}} (go), we {{4}} (check) the weather. Unless it {{5}} (rain), we {{6}} (walk) to the venue. When we {{7}} (get) there, we {{8}} (find) our seats. If the band {{9}} (play) our favourite song, we {{10}} (sing) along. After the show {{11}} (end), we {{12}} (have) dinner at a nearby restaurant.",
+            "blanks": {"1":"isn't","2":"will buy","3":"go","4":"will check","5":"rains","6":"will walk","7":"get","8":"will find","9":"plays","10":"will sing","11":"ends","12":"will have"},
+            "wordbank": ["isn't","will buy","go","will check","rains","will walk","get","will find","plays","will sing","ends","will have","be","buy","check","walk"]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {"vi":"Hãy viết về kế hoạch cuối tuần của bạn nếu thời tiết đẹp. Mô tả chi tiết bạn sẽ đi đâu, làm gì, đi với ai và bạn sẽ làm gì nếu trời mưa thay vào đó.","grammar_focus":"First conditional","hint_words":["if the weather is nice","will go to the park","have a picnic","invite friends","if it rains","will stay home","watch a film","cook together"],"min_words":30,"example":"If the weather is nice this weekend, I will go to the park with my friends and have a picnic near the lake. We will bring some homemade food and play games together. If we get hungry later, we will buy some ice cream from the vendor. However, if it rains, we will stay home and watch a film instead."},
+        {"vi":"Mô tả những gì bạn sẽ làm khi hoàn thành khóa học tiếng Anh này. Dùng when, after, as soon as để nói về kế hoạch tương lai của bạn.","grammar_focus":"Future time clauses","hint_words":["as soon as I finish","will look for a job","when I can speak fluently","will travel abroad","after I pass the exam","will celebrate","before I leave","will practise more"],"min_words":30,"example":"As soon as I finish this English course, I will look for an international job where I can use my skills every day. When I can speak English fluently, I will travel abroad and meet people from different countries. After I pass my final exam, I will celebrate with my family and friends. Before I leave my hometown, I will also practise speaking with native speakers online."},
+        {"vi":"Viết về một quyết định quan trọng bạn sắp đưa ra (thay đổi công việc, học trường mới, chuyển nhà,...). Dùng câu điều kiện loại 1 và unless để nói về các khả năng khác nhau.","grammar_focus":"First conditional, unless","hint_words":["if I get accepted","will move to another city","unless the salary is good","won't accept the offer","if everything goes well","will start next month","if I don't like it","can always go back"],"min_words":30,"example":"I am considering a new job offer in another city, and I will accept it if the salary is better than my current one. Unless the working hours are too long, I will definitely say yes to the manager. If I get the job, I will move to Ho Chi Minh City next month and find a new apartment. If everything goes well in the first three months, I will invite my parents to visit me there."},
+        {"vi":"Bạn đang lên kế hoạch cho một chuyến đi nước ngoài. Viết về những gì bạn sẽ làm trước khi đi, khi đến nơi, và sau khi về. Dùng before, when, after, as soon as.","grammar_focus":"Future time clauses","hint_words":["before I leave","will book the tickets","when I arrive at the airport","will check in","after I land","will find my hotel","as soon as I settle in","will explore the city"],"min_words":30,"example":"Before I leave for Japan next summer, I will book all my tickets and hotels carefully to avoid any problems. As soon as I land at the airport, I will exchange some money and buy a local SIM card. When I arrive at my hotel, I will unpack and take a short rest. After I feel better, I will explore the nearby streets and try authentic Japanese food at a local restaurant."},
+        {"vi":"Viết lời khuyên cho một người bạn đang chuẩn bị thi đại học. Dùng câu điều kiện loại 1 với if, unless, và when để đưa ra lời khuyên cụ thể.","grammar_focus":"First conditional advice","hint_words":["if you study every day","will feel more confident","unless you sleep enough","won't concentrate","when you feel stressed","should take a break","if you practise past papers","will know the format"],"min_words":30,"example":"If you study a little every day instead of cramming at the last minute, you will feel much more confident on exam day. Unless you get enough sleep every night, you won't be able to concentrate during the test and remember what you have studied. When you feel very stressed, you should take a short break and do some light exercise to clear your mind. If you practise with past exam papers regularly, you will know the format well and manage your time better."}
+      ]
+    },
+    {
+      "icon": "💭",
+      "title": "A2 Second conditional",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Second Conditional – Điều kiện loại 2</div>Câu điều kiện loại 2 dùng để nói về những tình huống <b>giả định, không có thật</b> hoặc <b>khó xảy ra</b> ở hiện tại hoặc tương lai.<br><br><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Mệnh đề if</th><th style=\"padding:4px 8px;text-align:left\">Mệnh đề chính</th></tr><tr><td style=\"padding:4px 8px\">If + <b>past simple</b></td><td style=\"padding:4px 8px\"><b>would / could / might</b> + V nguyên mẫu</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">If I <b>had</b> more time,</td><td style=\"padding:4px 8px\">I <b>would travel</b> the world.</td></tr><tr><td style=\"padding:4px 8px\">If she <b>were</b> taller,</td><td style=\"padding:4px 8px\">she <b>could</b> be a model.</td></tr></table><br>⚠️ <b>KHÔNG dùng would trong mệnh đề if!</b><br>❌ <s>If I would have money, I would buy a car.</s><br>✅ If I <b>had</b> money, I <b>would</b> buy a car.<br><br><b>Were</b> thay cho was với I/he/she/it trong văn viết trang trọng:<br>✅ If I <b>were</b> you, I'd apologize. (= If I was you...)</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">🔄 So sánh First vs Second Conditional</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\"></th><th style=\"padding:4px 8px;text-align:left\">First Conditional</th><th style=\"padding:4px 8px;text-align:left\">Second Conditional</th></tr><tr><td style=\"padding:4px 8px\">Khả năng</td><td style=\"padding:4px 8px\">Có thể xảy ra ✅</td><td style=\"padding:4px 8px\">Không có thật / khó xảy ra ❌</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">Cấu trúc</td><td style=\"padding:4px 8px\">if + present, will + V</td><td style=\"padding:4px 8px\">if + past, would + V</td></tr><tr><td style=\"padding:4px 8px\">Ví dụ</td><td style=\"padding:4px 8px\">If I <b>find</b> £100, I <b>will</b> buy a gift.</td><td style=\"padding:4px 8px\">If I <b>found</b> £100, I <b>would</b> save it.</td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">💡 Dùng Second Conditional để cho lời khuyên</div>Cấu trúc <b>If I were you, I would...</b> rất phổ biến để cho lời khuyên:<br>• If I were you, I <b>would</b> talk to the teacher.<br>• If I were you, I <b>wouldn't</b> worry about it.<br>• What <b>would</b> you do if you <b>won</b> the lottery?</div>",
+      "exercises": [
+        {"type":"mc","q":"If I ___ a lot of money, I would buy a big house.","opts":"had,have,will have,would have","ans":"A","exp":"If clause → past simple"},
+        {"type":"mc","q":"She would travel more if she ___ more holidays.","opts":"had,has,will have,would have","ans":"A","exp":"Past simple sau if"},
+        {"type":"mc","q":"If I were you, I ___ apologize immediately.","opts":"would,will,am going to,might","ans":"A","exp":"Would trong main clause"},
+        {"type":"mc","q":"What would you do if you ___ the lottery?","opts":"won,win,will win,have won","ans":"A","exp":"Past simple trong câu hỏi 2nd conditional"},
+        {"type":"mc","q":"If he ___ harder, he might get promoted.","opts":"worked,works,will work,would work","ans":"A","exp":"Past simple trong if clause"},
+        {"type":"mc","q":"I ___ a doctor if I could choose any job.","opts":"would be,will be,am,was","ans":"A","exp":"Would + V trong main clause"},
+        {"type":"mc","q":"If she ___ taller, she could be a basketball player.","opts":"were,is,will be,would be","ans":"A","exp":"Were = was trong 2nd conditional"},
+        {"type":"mc","q":"He wouldn't be so tired if he ___ to bed earlier.","opts":"went,goes,will go,would go","ans":"A","exp":"Past simple trong if clause"},
+        {"type":"mc","q":"If we lived near the sea, we ___ swimming every day.","opts":"could go,can go,will go,go","ans":"A","exp":"Could + V trong main clause"},
+        {"type":"mc","q":"What ___ you do if you saw a ghost?","opts":"would,will,did,do","ans":"A","exp":"Would trong câu hỏi 2nd conditional"},
+        {"type":"mc","q":"If I ___ you, I wouldn't say that.","opts":"were,was,am,would be","ans":"A","exp":"Were thay was với I"},
+        {"type":"mc","q":"She ___ happier if she had a different job.","opts":"would be,will be,is,was","ans":"A","exp":"Would + V trong main clause"},
+        {"type":"mc","q":"If they ___ in Paris, they'd visit the Eiffel Tower every week.","opts":"lived,live,will live,would live","ans":"A","exp":"Past simple trong if clause"},
+        {"type":"mc","q":"I ___ English every day if I had more free time.","opts":"would practise,will practise,practise,practised","ans":"A","exp":"Would + V trong main clause"},
+        {"type":"mc","q":"If he had a car, he ___ drive to work.","opts":"could,can,will,would can","ans":"A","exp":"Could trong main clause"},
+        {"type":"mc","q":"If you ___ the answer, you'd tell me, wouldn't you?","opts":"knew,know,will know,would know","ans":"A","exp":"Past simple trong if clause"},
+        {"type":"mc","q":"We ___ more if the food were cheaper.","opts":"would eat,will eat,eat,ate","ans":"A","exp":"Would + V trong main clause"},
+        {"type":"mc","q":"If I ___ a superhero, I would fly everywhere.","opts":"were,was,am,will be","ans":"A","exp":"Were trong 2nd conditional"},
+        {"type":"mc","q":"He ___ the exam if he studied more seriously.","opts":"might pass,may pass,passes,passed","ans":"A","exp":"Might + V trong main clause"},
+        {"type":"mc","q":"If it weren't so cold, I ___ outside.","opts":"would go,will go,go,went","ans":"A","exp":"Would + V trong main clause"},
+        {"type":"fill","q":"If I ___ (be) rich, I would donate to charity.","ans":"were","exp":"Were trong if clause"},
+        {"type":"fill","q":"She ___ (travel) more if she had more money.","ans":"would travel","exp":"Would + V"},
+        {"type":"fill","q":"If he ___ (not/be) so shy, he'd have more friends.","ans":"weren't","exp":"Phủ định weren't trong if clause"},
+        {"type":"fill","q":"What would you buy if you ___ (win) the lottery?","ans":"won","exp":"Past simple trong if clause"},
+        {"type":"fill","q":"If I were you, I ___ (not/take) that job.","ans":"wouldn't take","exp":"Wouldn't + V"},
+        {"type":"fill","q":"They ___ (could/live) abroad if they spoke another language.","ans":"could live","exp":"Could + V trong main clause"},
+        {"type":"fill","q":"If she ___ (have) more time, she'd learn to play the piano.","ans":"had","exp":"Past simple trong if clause"},
+        {"type":"fill","q":"He ___ (might/get) the job if he were more confident.","ans":"might get","exp":"Might + V trong main clause"},
+        {"type":"fill","q":"If animals ___ (can/speak), what would they say?","ans":"could speak","exp":"Could trong if clause"},
+        {"type":"fill","q":"I ___ (be) very happy if I lived by the sea.","ans":"would be","exp":"Would + V"},
+        {"type":"fill","q":"If it ___ (not/rain) so much, we'd go out more often.","ans":"didn't rain","exp":"Phủ định past simple trong if clause"},
+        {"type":"fill","q":"She ___ (not/be) so stressed if she had a shorter commute.","ans":"wouldn't be","exp":"Wouldn't + V"},
+        {"type":"fill","q":"If I ___ (know) his number, I'd call him now.","ans":"knew","exp":"Past simple trong if clause"},
+        {"type":"fill","q":"He ___ (go) to university if his grades were better.","ans":"would go","exp":"Would + V"},
+        {"type":"fill","q":"If we ___ (live) in the city, we wouldn't need a car.","ans":"lived","exp":"Past simple trong if clause"},
+        {"type":"fill","q":"What ___ (you/do) if you saw an accident?","ans":"would you do","exp":"Would trong câu hỏi"},
+        {"type":"fill","q":"She ___ (buy) a new phone if the old one broke.","ans":"would buy","exp":"Would + V"},
+        {"type":"fill","q":"If I ___ (be) taller, I could play basketball better.","ans":"were","exp":"Were trong if clause"},
+        {"type":"fill","q":"They ___ (might/move) abroad if they found the right opportunity.","ans":"might move","exp":"Might + V"},
+        {"type":"fill","q":"If he ___ (not/spend) so much money, he'd save more.","ans":"didn't spend","exp":"Didn't + V trong if clause"}
+      ],
+      "practice": {
+        "reorder": [
+          {"words":"If I had more money , I would buy a car","extra":["have","will buy"]},
+          {"words":"She would be happier if she had a better job","extra":["has","will be"]},
+          {"words":"If I were you , I would apologize","extra":["am","will apologize"]},
+          {"words":"What would you do if you won the lottery ?","extra":["win","will do"]},
+          {"words":"He could travel more if he had more holidays","extra":["has","can travel"]},
+          {"words":"If she spoke French , she would get the job","extra":["speaks","will get"]},
+          {"words":"They would move to the countryside if they could","extra":["can","will move"]},
+          {"words":"If it were not so cold , I would go swimming","extra":["is","will go"]},
+          {"words":"I would call him if I knew his number","extra":["know","will call"]},
+          {"words":"She might study abroad if she passed the exam","extra":["passes","may study"]},
+          {"words":"If we lived near the school , we would walk every day","extra":["live","will walk"]},
+          {"words":"What would you say if you met a famous person ?","extra":["meet","will say"]},
+          {"words":"He would not be tired if he slept more","extra":["sleeps","will not be"]},
+          {"words":"If I were a bird , I would fly to warm countries","extra":["am","will fly"]},
+          {"words":"She could help more if she were not so busy","extra":["is","can help"]},
+          {"words":"If they had a garden , they would grow vegetables","extra":["have","will grow"]},
+          {"words":"I would not worry if I were you","extra":["am","will not worry"]},
+          {"words":"If he studied harder , he might pass the exam","extra":["studies","may pass"]},
+          {"words":"She would feel better if she exercised regularly","extra":["exercises","will feel"]},
+          {"words":"If I could choose any job , I would be a teacher","extra":["can choose","will be"]}
+        ],
+        "passage": [
+          {
+            "text": "Maria often dreams about her ideal life. If she {{1}} (be) rich, she {{2}} (buy) a beautiful house by the sea. She {{3}} (also/travel) to many countries if she {{4}} (have) enough time and money. If she {{5}} (speak) three languages, she {{6}} (could/work) anywhere in the world. She {{7}} (not/need) to work so hard if her salary {{8}} (be) higher. If I {{9}} (be) Maria, I {{10}} (focus) on getting a better education first.",
+            "blanks": {"1":"were","2":"would buy","3":"would also travel","4":"had","5":"spoke","6":"could work","7":"wouldn't need","8":"were","9":"were","10":"would focus"},
+            "wordbank": ["were","would buy","would also travel","had","spoke","could work","wouldn't need","were","were","would focus","be","buy","have","speak","work","need","focus"]
+          },
+          {
+            "text": "Tom is unhappy with his current situation. If he {{1}} (live) in a bigger city, he {{2}} (have) more career opportunities. He {{3}} (earn) more money if he {{4}} (have) a university degree. If he {{5}} (be) more confident, he {{6}} (might/apply) for better jobs. He {{7}} (not/feel) so lonely if he {{8}} (know) more people. What {{9}} (he/do) if he {{10}} (can/start) his life again?",
+            "blanks": {"1":"lived","2":"would have","3":"would earn","4":"had","5":"were","6":"might apply","7":"wouldn't feel","8":"knew","9":"would he do","10":"could start"},
+            "wordbank": ["lived","would have","would earn","had","were","might apply","wouldn't feel","knew","would he do","could start","live","have","earn","be","apply","feel","know","start"]
+          },
+          {
+            "text": "Imagine a world without mobile phones. People {{1}} (talk) to each other more if they {{2}} (not/have) smartphones. Children {{3}} (might/play) outside more if screens {{4}} (not/exist). Families {{5}} (spend) more time together if they {{6}} (not/be) always online. If people {{7}} (read) more books, they {{8}} (could/learn) more. What {{9}} (you/do) if you {{10}} (have to) give up your phone for a week?",
+            "blanks": {"1":"would talk","2":"didn't have","3":"might play","4":"didn't exist","5":"would spend","6":"weren't","7":"read","8":"could learn","9":"would you do","10":"had to"},
+            "wordbank": ["would talk","didn't have","might play","didn't exist","would spend","weren't","read","could learn","would you do","had to","talk","have","play","exist","spend","be","learn","do"]
+          },
+          {
+            "text": "Lucy asked her friends: 'What {{1}} (you/do) if you {{2}} (can/be) anyone in the world?' Sam said: 'If I {{3}} (be) a scientist, I {{4}} (try) to cure diseases.' Anna replied: 'If I {{5}} (be) a singer, I {{6}} (record) albums and {{7}} (travel) everywhere.' Jack said: 'I {{8}} (help) poor people if I {{9}} (be) a politician. I {{10}} (not/waste) public money.'",
+            "blanks": {"1":"would you do","2":"could be","3":"were","4":"would try","5":"were","6":"would record","7":"travel","8":"would help","9":"were","10":"wouldn't waste"},
+            "wordbank": ["would you do","could be","were","would try","were","would record","travel","would help","were","wouldn't waste","do","be","try","record","help","waste"]
+          },
+          {
+            "text": "The city would be better if some things {{1}} (change). There {{2}} (be) less traffic if more people {{3}} (use) public transport. The air {{4}} (could/be) cleaner if factories {{5}} (not/produce) so much pollution. People {{6}} (feel) safer if there {{7}} (be) more police on the streets. If the government {{8}} (build) more parks, families {{9}} (have) more places to relax. Life {{10}} (be) much nicer if everyone {{11}} (follow) the rules.",
+            "blanks": {"1":"changed","2":"would be","3":"used","4":"could be","5":"didn't produce","6":"would feel","7":"were","8":"built","9":"would have","10":"would be","11":"followed"},
+            "wordbank": ["changed","would be","used","could be","didn't produce","would feel","were","built","would have","would be","followed","change","be","use","produce","feel","build","have","follow"]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {"vi":"Nếu bạn có thể sống ở bất kỳ quốc gia nào trên thế giới, bạn sẽ chọn đâu và tại sao? Mô tả cuộc sống lý tưởng của bạn ở đó: bạn sẽ làm gì, sống như thế nào và gặp những ai.","grammar_focus":"Second conditional","hint_words":["if I could live anywhere","would choose Japan","would learn the language","would eat sushi every day","would make new friends","would explore temples","life would be exciting","would feel very happy"],"min_words":30,"example":"If I could live in any country, I would choose Japan because it has a perfect mix of tradition and modern life. I would learn Japanese every day and would feel proud when I could speak with local people. I would eat sushi and ramen every day, and I would explore beautiful temples and mountains at the weekend. Life would be very exciting and different from what I have now."},
+        {"vi":"Hãy nói về điều ước của bạn nếu bạn thắng xổ số 1 triệu đô. Bạn sẽ dùng tiền như thế nào? Bạn sẽ giúp đỡ ai? Cuộc sống của bạn sẽ thay đổi như thế nào?","grammar_focus":"Second conditional","hint_words":["if I won the lottery","would buy a house","would help my family","would donate to charity","would travel the world","wouldn't have to work","would invest the money","life would change completely"],"min_words":30,"example":"If I won one million dollars in the lottery, I would first buy a comfortable house for my parents so they wouldn't have to rent anymore. I would also donate a large amount to a local children's charity because I believe education is very important. After that, I would invest some of the money wisely and use the rest to travel the world with my closest friends. Life would change completely and I would feel very grateful every single day."},
+        {"vi":"Bạn đang tư vấn cho một người bạn đang gặp vấn đề (như bị mất việc, chia tay, hoặc không đỗ đại học). Viết lời khuyên dùng 'If I were you...' và các cấu trúc điều kiện loại 2.","grammar_focus":"Second conditional advice","hint_words":["if I were you","would not give up","would look for new opportunities","would talk to someone","would take a break","would make a new plan","could try again","would feel better soon"],"min_words":30,"example":"I know you feel very sad about not getting into university this year, but if I were you, I would not give up and try again next year. I would use this free time to work part-time, save some money, and improve the subjects where you had difficulties. If I were in your situation, I would also talk to a teacher or a counsellor who could give me professional advice. You could feel much better soon if you made a positive plan and focused on what you can do right now."},
+        {"vi":"Mô tả cuộc sống lý tưởng của bạn nếu bạn không phải lo lắng về tiền bạc. Bạn sẽ làm nghề gì? Bạn sẽ dành thời gian như thế nào? Bạn sẽ sống ở đâu?","grammar_focus":"Second conditional","hint_words":["if I didn't have to worry about money","would become a writer","would spend time","would live in a cottage","would read all day","would help others","would grow vegetables","life would be peaceful"],"min_words":30,"example":"If I didn't have to worry about money, I would become a full-time writer and spend my days creating stories that I truly love. I would live in a small cottage near the mountains or the sea where life would be peaceful and quiet. I would grow vegetables in my garden, read books all morning, and write in the afternoon. I would also volunteer to teach reading to children who couldn't afford private lessons, because I believe everyone deserves a chance to discover the magic of books."},
+        {"vi":"Hãy viết về một thay đổi mà bạn muốn thực hiện trong cuộc sống nếu bạn dũng cảm hơn hoặc có nhiều thời gian hơn. Dùng các cấu trúc điều kiện loại 2 để diễn đạt ước mơ và kế hoạch.","grammar_focus":"Second conditional","hint_words":["if I were braver","would start my own business","if I had more free time","would learn to paint","could meet new people","would feel more fulfilled","wouldn't regret","would make the most of life"],"min_words":30,"example":"If I were a little braver, I would leave my current office job and start my own small bakery business, because baking has always been my true passion. If I had more free time, I would also learn to paint and take long evening walks to clear my mind. I would feel much more fulfilled if I could do things that I genuinely love every day. I wouldn't regret any decision if I knew I was working towards my dreams and making the most of the life I have."}
+      ]
+    },
+    {
+      "icon": "🔄",
+      "title": "A2 Present and past simple passive: be + past participle",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Câu bị động (Passive Voice) là gì?</div>Khi <b>A làm B</b>, ta có 2 cách diễn đạt:<br>• <b>Chủ động (Active):</b> A là chủ ngữ – nói về người/vật <i>thực hiện</i> hành động<br>• <b>Bị động (Passive):</b> B là chủ ngữ – nói về người/vật <i>nhận</i> hành động<br><br>✅ <i>Somebody cleans the classroom every day.</i> → Active<br>✅ <i>The classroom <b>is cleaned</b> every day.</i> → Passive<br><br>✅ <i>Somebody broke the window.</i> → Active<br>✅ <i>The window <b>was broken</b>.</i> → Passive</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Cấu trúc câu bị động</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px;text-align:left\">Thì</th><th style=\"padding:4px 8px;text-align:left\">Cấu trúc</th><th style=\"padding:4px 8px;text-align:left\">Ví dụ</th></tr><tr><td style=\"padding:4px 8px\"><b>Hiện tại</b><br>Present Simple</td><td style=\"padding:4px 8px\">am / is / are + <b>past participle</b></td><td style=\"padding:4px 8px\">English <b>is spoken</b> in many countries.<br>The rooms <b>are cleaned</b> daily.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><b>Quá khứ</b><br>Past Simple</td><td style=\"padding:4px 8px\">was / were + <b>past participle</b></td><td style=\"padding:4px 8px\">The match <b>was cancelled</b>.<br>The emails <b>weren't sent</b>.</td></tr><tr><td style=\"padding:4px 8px\"><b>Phủ định</b></td><td style=\"padding:4px 8px\">am/is/are/was/were + <b>not</b> + past participle</td><td style=\"padding:4px 8px\">The report <b>isn't written</b> yet.<br>We <b>weren't told</b> the truth.</td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\"><b>Câu hỏi</b></td><td style=\"padding:4px 8px\"><b>Am/Is/Are/Was/Were</b> + S + past participle?</td><td style=\"padding:4px 8px\"><b>Is</b> this product <b>made</b> in Vietnam?<br><b>Was</b> the letter <b>sent</b> yesterday?</td></tr></table></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">🎯 Khi nào dùng câu bị động?</div>• Khi <b>không biết</b> ai thực hiện hành động: <i>A bank was robbed yesterday.</i><br>• Khi <b>rõ ràng</b> ai thực hiện: <i>The robber was arrested.</i> (by police – hiển nhiên)<br>• Khi <b>không muốn nói</b> ai làm: <i>I was told that you were late.</i><br>• Khi <b>chủ đề chính</b> là vật/người nhận hành động: <i>Penicillin was invented by Fleming.</i><br><br>Dùng <b>by</b> để nói ai thực hiện hành động:<br>✅ <i>The painting was bought <b>by</b> a rich collector.</i></div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Past Participle bất quy tắc thường gặp</div><table style=\"width:100%;font-size:12px;border-collapse:collapse\"><tr style=\"background:var(--bg2)\"><th style=\"padding:4px 8px\">Verb</th><th style=\"padding:4px 8px\">Past Participle</th><th style=\"padding:4px 8px\">Verb</th><th style=\"padding:4px 8px\">Past Participle</th></tr><tr><td style=\"padding:4px 8px\">make</td><td style=\"padding:4px 8px\"><b>made</b></td><td style=\"padding:4px 8px\">build</td><td style=\"padding:4px 8px\"><b>built</b></td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">write</td><td style=\"padding:4px 8px\"><b>written</b></td><td style=\"padding:4px 8px\">take</td><td style=\"padding:4px 8px\"><b>taken</b></td></tr><tr><td style=\"padding:4px 8px\">sell</td><td style=\"padding:4px 8px\"><b>sold</b></td><td style=\"padding:4px 8px\">speak</td><td style=\"padding:4px 8px\"><b>spoken</b></td></tr><tr style=\"background:var(--bg2)\"><td style=\"padding:4px 8px\">give</td><td style=\"padding:4px 8px\"><b>given</b></td><td style=\"padding:4px 8px\">find</td><td style=\"padding:4px 8px\"><b>found</b></td></tr><tr><td style=\"padding:4px 8px\">know</td><td style=\"padding:4px 8px\"><b>known</b></td><td style=\"padding:4px 8px\">break</td><td style=\"padding:4px 8px\"><b>broken</b></td></tr></table></div>",
+      "exercises": [
+        {"type":"mc","q":"English ___ all over the world.","opts":"is spoken,speaks,spoke,is speaking","ans":"A","exp":"Present simple passive: is + past participle"},
+        {"type":"mc","q":"The letter ___ yesterday.","opts":"was sent,is sent,sent,were sent","ans":"A","exp":"Past simple passive: was + past participle"},
+        {"type":"mc","q":"These cars ___ in Japan.","opts":"are made,make,are making,made","ans":"A","exp":"Present passive with are"},
+        {"type":"mc","q":"The ancient temple ___ hundreds of years ago.","opts":"was built,is built,built,were built","ans":"A","exp":"Past passive: was built"},
+        {"type":"mc","q":"My wallet ___ on the bus yesterday.","opts":"was stolen,is stolen,stole,were stolen","ans":"A","exp":"Past passive: was stolen"},
+        {"type":"mc","q":"___ this phone made in Korea?","opts":"Is,Are,Was,Were","ans":"A","exp":"Present passive question với singular subject"},
+        {"type":"mc","q":"The rooms ___ every morning by the hotel staff.","opts":"are cleaned,clean,is cleaned,cleaned","ans":"A","exp":"Present passive với plural subject"},
+        {"type":"mc","q":"The match ___ because of heavy rain.","opts":"was cancelled,is cancelled,cancelled,were cancelled","ans":"A","exp":"Past passive: was cancelled"},
+        {"type":"mc","q":"Spanish ___ in most of South America.","opts":"is spoken,speaks,was spoken,are spoken","ans":"A","exp":"Present passive – fact"},
+        {"type":"mc","q":"The injured player ___ to the hospital.","opts":"was taken,is taken,took,were taken","ans":"A","exp":"Past passive: was taken"},
+        {"type":"mc","q":"The report ___ yet. It's still being prepared.","opts":"hasn't been written,isn't written,wasn't written,weren't written","ans":"B","exp":"Present passive negative: isn't written"},
+        {"type":"mc","q":"Thousands of tourists ___ to the museum every year.","opts":"are attracted,attract,attracted,is attracted","ans":"A","exp":"Present passive: are attracted"},
+        {"type":"mc","q":"___ the emails sent this morning?","opts":"Were,Was,Are,Is","ans":"A","exp":"Past passive question với plural: Were"},
+        {"type":"mc","q":"The Eiffel Tower ___ in Paris in 1889.","opts":"was built,is built,built,were built","ans":"A","exp":"Past passive: was built"},
+        {"type":"mc","q":"This book ___ into 30 different languages.","opts":"has been translated,is translating,translated,translate","ans":"A","exp":"Passive: has been translated"},
+        {"type":"mc","q":"The flowers ___ by a florist every week.","opts":"are arranged,arrange,is arranged,arranged","ans":"A","exp":"Present passive: are arranged"},
+        {"type":"mc","q":"We ___ not told about the meeting yesterday.","opts":"were,was,are,is","ans":"A","exp":"Past passive với we: were"},
+        {"type":"mc","q":"The award ___ to the best student at the end of the year.","opts":"is given,gives,is give,was give","ans":"A","exp":"Present passive: is given"},
+        {"type":"mc","q":"A new hospital ___ in our city last year.","opts":"was opened,is opened,opened,were opened","ans":"A","exp":"Past passive: was opened"},
+        {"type":"mc","q":"Rice ___ in many Asian countries.","opts":"is grown,grows,is grow,was grow","ans":"A","exp":"Present passive – general fact"},
+        {"type":"fill","q":"Millions of smartphones ___ (sell) every year.","ans":"are sold","exp":"Present passive: are + past participle"},
+        {"type":"fill","q":"The Great Wall of China ___ (build) over many centuries.","ans":"was built","exp":"Past passive: was + past participle"},
+        {"type":"fill","q":"This newspaper ___ (not/print) on Sundays.","ans":"isn't printed","exp":"Present passive negative"},
+        {"type":"fill","q":"___ (the windows/clean) every week?","ans":"Are the windows cleaned","exp":"Present passive question"},
+        {"type":"fill","q":"The actor ___ (interview) by a famous journalist last night.","ans":"was interviewed","exp":"Past passive: was + past participle"},
+        {"type":"fill","q":"French ___ (speak) in parts of Canada.","ans":"is spoken","exp":"Present passive – fact"},
+        {"type":"fill","q":"___ the car ___ (repair) yesterday?","ans":"Was / repaired","exp":"Past passive question"},
+        {"type":"fill","q":"The stolen jewellery ___ (find) by the police last week.","ans":"was found","exp":"Past passive: was found"},
+        {"type":"fill","q":"These products ___ (not/make) in this country.","ans":"aren't made","exp":"Present passive negative"},
+        {"type":"fill","q":"The old bridge ___ (destroy) in the storm.","ans":"was destroyed","exp":"Past passive: was destroyed"},
+        {"type":"fill","q":"Cheese ___ (produce) in large quantities in France.","ans":"is produced","exp":"Present passive"},
+        {"type":"fill","q":"The students ___ (tell) about the exam last Friday.","ans":"were told","exp":"Past passive: were told"},
+        {"type":"fill","q":"The new law ___ (approve) by the government last month.","ans":"was approved","exp":"Past passive"},
+        {"type":"fill","q":"Hundreds of films ___ (release) every year in Hollywood.","ans":"are released","exp":"Present passive: are released"},
+        {"type":"fill","q":"The children ___ (not/give) enough information.","ans":"weren't given","exp":"Past passive negative: weren't given"},
+        {"type":"fill","q":"This song ___ (write) by a famous Vietnamese composer.","ans":"was written","exp":"Past passive: was written"},
+        {"type":"fill","q":"Fresh vegetables ___ (deliver) to the restaurant every morning.","ans":"are delivered","exp":"Present passive"},
+        {"type":"fill","q":"The painting ___ (steal) from the museum two days ago.","ans":"was stolen","exp":"Past passive: was stolen"},
+        {"type":"fill","q":"The instructions ___ (not/explain) clearly to the new workers.","ans":"weren't explained","exp":"Past passive negative"},
+        {"type":"fill","q":"A lot of coffee ___ (grow) in Vietnam and Brazil.","ans":"is grown","exp":"Present passive – fact"}
+      ],
+      "practice": {
+        "reorder": [
+          {"words":"English is spoken in many countries around the world","extra":["speaks","spoke"]},
+          {"words":"The letter was sent by the manager yesterday","extra":["sends","is sent"]},
+          {"words":"These shoes are made in Italy","extra":["made","were made"]},
+          {"words":"The window was broken by a ball","extra":["breaks","is broken"]},
+          {"words":"Is this product sold in supermarkets ?","extra":["was sold","sells"]},
+          {"words":"The old building was destroyed in the storm last year","extra":["is destroyed","destroys"]},
+          {"words":"Rice is eaten by millions of people every day","extra":["ate","was eaten"]},
+          {"words":"Were the emails sent this morning ?","extra":["are sent","send"]},
+          {"words":"The robber was arrested by the police last night","extra":["is arrested","arrests"]},
+          {"words":"Fresh fruit is delivered to the shop every morning","extra":["delivers","was delivered"]},
+          {"words":"The book was written by a famous author","extra":["writes","is written"]},
+          {"words":"The students were told about the test on Monday","extra":["are told","tell"]},
+          {"words":"The new hospital was opened by the mayor last month","extra":["opens","is opened"]},
+          {"words":"Are these phones made in South Korea ?","extra":["made","were made"]},
+          {"words":"The match was cancelled because of bad weather","extra":["is cancelled","cancels"]},
+          {"words":"Thousands of cars are produced in this factory every year","extra":["produce","were produced"]},
+          {"words":"The painting was bought by a rich collector","extra":["is bought","buys"]},
+          {"words":"Spanish is spoken in most countries in South America","extra":["spoke","speaks"]},
+          {"words":"The injured people were taken to hospital immediately","extra":["is taken","take"]},
+          {"words":"The concert was watched by over ten thousand people","extra":["is watched","watches"]}
+        ],
+        "passage": [
+          {
+            "text": "The Rosetta Stone is one of the most famous objects in the world. It {{1}} (write) in three different languages around 196 BC. The stone {{2}} (find) in 1799 by French soldiers in Egypt. After the war, it {{3}} (take) to England. Most of the words on the stone {{4}} (translate) over many years, but the Egyptian picture-writing remained a mystery. That mystery {{5}} (not/solve) until 1822, when a French scholar called Champollion translated them. Today, the stone {{6}} (keep) in the British Museum in London. It {{7}} (visit) by millions of tourists every year. The stone {{8}} (consider) very important for our understanding of ancient Egypt. Without it, ancient Egyptian writing {{9}} (might/not/understand) today. The stone {{10}} (protect) very carefully by museum staff.",
+            "blanks": {"1":"was written","2":"was found","3":"was taken","4":"were translated","5":"wasn't solved","6":"is kept","7":"is visited","8":"is considered","9":"might not be understood","10":"is protected"},
+            "wordbank": ["was written","was found","was taken","were translated","wasn't solved","is kept","is visited","is considered","might not be understood","is protected","write","find","take","translate","solve","keep","visit","consider","protect"]
+          },
+          {
+            "text": "Coffee is one of the most popular drinks in the world. It {{1}} (grow) mainly in tropical countries. The best coffee {{2}} (produce) in Brazil, Vietnam, and Colombia. Coffee beans {{3}} (pick) by hand in many places. After picking, the beans {{4}} (dry) in the sun. Then they {{5}} (roast) at very high temperatures. The roasted beans {{6}} (grind) into powder before use. In Vietnam, coffee {{7}} (often/serve) with ice and condensed milk. Every year, billions of cups of coffee {{8}} (drink) around the world. Coffee shops {{9}} (find) in almost every city today. Coffee {{10}} (export) to countries all over the world.",
+            "blanks": {"1":"is grown","2":"is produced","3":"are picked","4":"are dried","5":"are roasted","6":"is ground","7":"is often served","8":"are drunk","9":"are found","10":"is exported"},
+            "wordbank": ["is grown","is produced","are picked","are dried","are roasted","is ground","is often served","are drunk","are found","is exported","grow","produce","pick","dry","roast","grind","serve","drink","find","export"]
+          },
+          {
+            "text": "Last week, a valuable painting {{1}} (steal) from the city museum. The alarm {{2}} (not/activate) because someone {{3}} (cut) the wires. The police {{4}} (call) immediately and the area {{5}} (close) off. Several people {{6}} (question) by detectives. CCTV cameras {{7}} (check) and useful images {{8}} (find). A suspect {{9}} (arrest) on Tuesday morning. The painting {{10}} (discover) in an old warehouse and {{11}} (return) to the museum. The public {{12}} (inform) through the local news.",
+            "blanks": {"1":"was stolen","2":"wasn't activated","3":"was cut","4":"was called","5":"was closed","6":"were questioned","7":"were checked","8":"were found","9":"was arrested","10":"was discovered","11":"was returned","12":"was informed"},
+            "wordbank": ["was stolen","wasn't activated","was cut","was called","was closed","were questioned","were checked","were found","was arrested","was discovered","was returned","was informed","steal","activate","cut","call","close","question","check","find"]
+          },
+          {
+            "text": "Mobile phones {{1}} (use) by almost everyone today. They {{2}} (make) in factories in Asia and {{3}} (sell) in shops all over the world. New models {{4}} (launch) every year by big companies. The first mobile phone {{5}} (invent) by Martin Cooper in 1973. It {{6}} (call) a 'brick phone' because it was so large and heavy. Since then, phones {{7}} (design) to be smaller and more powerful. Today, phones {{8}} (fill) with amazing features. Apps {{9}} (download) by billions of users daily. Personal data {{10}} (store) inside the phone, so phones should {{11}} (protect) with a password.",
+            "blanks": {"1":"are used","2":"are made","3":"are sold","4":"are launched","5":"was invented","6":"was called","7":"have been designed","8":"are filled","9":"are downloaded","10":"is stored","11":"be protected"},
+            "wordbank": ["are used","are made","are sold","are launched","was invented","was called","have been designed","are filled","are downloaded","is stored","be protected","use","make","sell","launch","invent","call","design","fill","download","store","protect"]
+          },
+          {
+            "text": "The Olympic Games {{1}} (hold) every four years. They {{2}} (first/organise) in ancient Greece. The modern Olympics {{3}} (introduce) in 1896 in Athens. The Games {{4}} (watch) by billions of people around the world on television. Athletes {{5}} (select) through national competitions before the Games. Gold medals {{6}} (award) to the best performers in each sport. The opening ceremony {{7}} (always/broadcast) live around the world. Host cities {{8}} (choose) by the Olympic Committee years before the event. In recent years, new sports {{9}} (add) to the programme. The Olympic flag {{10}} (carry) into the stadium by athletes from different countries.",
+            "blanks": {"1":"are held","2":"were first organised","3":"were introduced","4":"are watched","5":"are selected","6":"are awarded","7":"is always broadcast","8":"are chosen","9":"have been added","10":"is carried"},
+            "wordbank": ["are held","were first organised","were introduced","are watched","are selected","are awarded","is always broadcast","are chosen","have been added","is carried","hold","organise","introduce","watch","select","award","broadcast","choose","add","carry"]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {"vi":"Hãy mô tả chi tiết quy trình sản xuất một sản phẩm mà bạn yêu thích (cà phê, chocolate, điện thoại, áo quần,...). Dùng câu bị động để giải thích mỗi bước trong quy trình, từ nguyên liệu đến sản phẩm hoàn chỉnh.","grammar_focus":"Present simple passive","hint_words":["is grown","are picked","are transported","is processed","are mixed","is heated","is packaged","is sold","are enjoyed","is exported"],"min_words":30,"example":"Chocolate is made from cacao beans which are grown mainly in countries in West Africa and South America. First, the beans are picked by hand and are left to dry in the sun for several days. Then they are transported to factories where they are roasted at high temperatures. After roasting, the beans are ground into a thick liquid called cocoa mass. Sugar and milk are added to this mixture and everything is stirred together. Finally, the chocolate is poured into moulds, cooled, and packaged before it is sold in shops all over the world."},
+        {"vi":"Viết về một sự kiện hoặc tai nạn đã xảy ra ở địa phương bạn (như một vụ cướp, tai nạn giao thông, hỏa hoạn). Dùng câu bị động để mô tả những gì đã xảy ra và những gì đã được thực hiện sau đó.","grammar_focus":"Past simple passive","hint_words":["was robbed","was called","were questioned","was arrested","was taken to hospital","were found","was reported","were told","was closed","was investigated"],"min_words":30,"example":"Last Tuesday evening, a local convenience store on my street was robbed by two men wearing masks. The police were called immediately by the shop owner and the area was closed off within minutes. Several witnesses were questioned by detectives and CCTV footage was examined carefully throughout the night. One of the suspects was identified from the video and was arrested the following morning at his home. The stolen money was found in his bag. The local community was informed about the incident through the neighbourhood news app, and people were advised to stay alert."},
+        {"vi":"Viết về một danh lam thắng cảnh hoặc công trình nổi tiếng ở Việt Nam hoặc trên thế giới. Mô tả khi nào nó được xây dựng, ai xây dựng nó, và hiện tại nó được sử dụng như thế nào.","grammar_focus":"Present and past simple passive","hint_words":["was built","was designed","is visited","is known","is listed","is considered","was constructed","are offered","is maintained","was opened"],"min_words":30,"example":"Hoi An Ancient Town is one of the most beautiful places in Vietnam and is visited by millions of tourists every year. It was built during the 15th century and was used as an important trading port for centuries. The town is known for its well-preserved architecture which is influenced by Japanese, Chinese, and Vietnamese styles. In 1999, it was listed as a UNESCO World Heritage Site. Today, the ancient streets are lit with colourful lanterns every evening and many cultural events are organised throughout the year. Visitors are offered boat trips on the Thu Bon River and are often amazed by the beauty of the old town."},
+        {"vi":"Viết một bài báo ngắn về một phát minh quan trọng trong lịch sử (điện, điện thoại, máy tính,...). Dùng câu bị động để mô tả lịch sử của phát minh đó và ảnh hưởng của nó ngày nay.","grammar_focus":"Present and past simple passive","hint_words":["was invented","was developed","is used","are connected","was introduced","are sent","is stored","was created","are produced","is considered"],"min_words":30,"example":"The internet is considered one of the most important inventions in human history. It was first developed by scientists in the United States in the late 1960s and was originally used only by the military and universities. The World Wide Web was created by Tim Berners-Lee in 1989 and was introduced to the public in the early 1990s. Today, billions of people are connected to the internet every day. Emails are sent, videos are watched, and products are bought and sold online every second. Vast amounts of data are stored in cloud servers around the world. It is impossible to imagine modern life without this incredible technology."},
+        {"vi":"Bạn đang viết bài đăng mạng xã hội về một chuyến tham quan nhà máy hoặc cơ sở sản xuất. Mô tả chi tiết những gì bạn thấy, những công đoạn sản xuất nào được thực hiện, và bạn cảm thấy thế nào. Dùng câu bị động.","grammar_focus":"Present and past simple passive","hint_words":["were shown","was explained","is controlled","are checked","is monitored","were given","are sorted","was produced","is tested","were impressed"],"min_words":30,"example":"Yesterday, our class was taken on a fascinating tour of a local food processing factory. We were shown around the entire facility by a friendly guide who explained every step of the production process. First, fresh vegetables are washed and sorted by machines. Then they are cut into the right sizes and are cooked at exactly the right temperature. Every product is carefully checked and tested before it is packaged. The temperature in each section is constantly monitored by computers. At the end, we were given free samples of the products and were really impressed by how everything was so clean and organised. It was a very educational experience."}
+      ]
+    }
+  ]
+}

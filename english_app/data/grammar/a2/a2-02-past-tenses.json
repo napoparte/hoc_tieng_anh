@@ -1,0 +1,1963 @@
+{
+  "elementary": [
+    {
+      "icon": "📜",
+      "title": "A2 Past simple: Form and use",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Cách dùng chính</div>• <b>Hành động đã kết thúc:</b> I saw Jim yesterday.<br>• <b>Thói quen trong quá khứ:</b> I often played in the park when I was a child.<br>• <b>Tình huống trong quá khứ:</b> My grandfather had two brothers.<br>• <b>Thứ tự thời gian:</b> I arrived home, took off my shoes and relaxed.</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Công thức</div><b>Khẳng định:</b> S + V2/ed (I worked / I went)<br><b>Phủ định:</b> S + didn't + V (I didn't work / I didn't go)<br><b>Câu hỏi:</b> Did + S + V? (Did you work? / Did you go?)</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Quy tắc thêm -ed</div>• Thông thường: walk -> walked<br>• Kết thúc bằng -e: live -> lived<br>• Kết thúc bằng phụ âm + y: study -> studied<br>• Kết thúc bằng 1 nguyên âm + 1 phụ âm: stop -> stopped</div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "We ___ to Vancouver on holiday last year.",
+          "opts": "went,goed,did go,was go",
+          "ans": "A",
+          "exp": "Past simple of go is went"
+        },
+        {
+          "type": "mc",
+          "q": "___ you go by plane?",
+          "opts": "Did,Do,Were,Was",
+          "ans": "A",
+          "exp": "Question in past simple"
+        },
+        {
+          "type": "mc",
+          "q": "Jack ___ with us.",
+          "opts": "didn't come,didn't came,wasn't come,not came",
+          "ans": "A",
+          "exp": "Negative: didn't + infinitive"
+        },
+        {
+          "type": "mc",
+          "q": "The car suddenly ___.",
+          "opts": "stopped,stoped,did stop,was stop",
+          "ans": "A",
+          "exp": "Double 'p' in stopped"
+        },
+        {
+          "type": "mc",
+          "q": "When she arrived, he ___ at home.",
+          "opts": "wasn't,weren't,didn't was,not was",
+          "ans": "A",
+          "exp": "Past of be (he wasn't)"
+        },
+        {
+          "type": "mc",
+          "q": "The police ___ the robber yesterday.",
+          "opts": "caught,catched,was catch,did catch",
+          "ans": "A",
+          "exp": "Irregular: catch -> caught"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ a black shirt for the gala.",
+          "opts": "chose,choosed,did choose,was choose",
+          "ans": "A",
+          "exp": "Irregular: choose -> chose"
+        },
+        {
+          "type": "mc",
+          "q": "The meeting ___ well.",
+          "opts": "didn't go,went not,didn't went,not went",
+          "ans": "A",
+          "exp": "Negative: didn't + infinitive"
+        },
+        {
+          "type": "mc",
+          "q": "Manchester United ___ the final.",
+          "opts": "lost,losed,did lose,was lose",
+          "ans": "A",
+          "exp": "Irregular: lose -> lost"
+        },
+        {
+          "type": "mc",
+          "q": "How much ___ for the car?",
+          "opts": "did you pay,payed you,did you payed,you paid",
+          "ans": "A",
+          "exp": "Question: Did + S + V"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ my keys this morning.",
+          "opts": "found,finded,did find,was find",
+          "ans": "A",
+          "exp": "Irregular: find -> found"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ a nurse for ten years.",
+          "opts": "was,were,did be,is",
+          "ans": "A",
+          "exp": "Past of be (she was)"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ at the party last night.",
+          "opts": "were,was,did be,are",
+          "ans": "A",
+          "exp": "Past of be (they were)"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ a movie yesterday.",
+          "opts": "watched,watch,did watch,was watch",
+          "ans": "A",
+          "exp": "Regular verb + ed"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ his homework before dinner.",
+          "opts": "finished,finish,did finish,was finish",
+          "ans": "A",
+          "exp": "Regular verb + ed"
+        },
+        {
+          "type": "mc",
+          "q": "___ they enjoy the trip?",
+          "opts": "Did,Do,Were,Was",
+          "ans": "A",
+          "exp": "Question in past simple"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ breakfast at 7 AM.",
+          "opts": "had,haved,did have,was have",
+          "ans": "A",
+          "exp": "Irregular: have -> had"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ to the radio on the way to work.",
+          "opts": "listened,listen,did listen,was listen",
+          "ans": "A",
+          "exp": "Regular verb + ed"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ a new house in 2015.",
+          "opts": "bought,buyed,did buy,was buy",
+          "ans": "A",
+          "exp": "Irregular: buy -> bought"
+        },
+        {
+          "type": "mc",
+          "q": "It ___ a lot last night.",
+          "opts": "rained,rain,did rain,was rain",
+          "ans": "A",
+          "exp": "Regular verb + ed"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (see) Jim yesterday.",
+          "ans": "saw",
+          "exp": "Past simple of see"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (not/go) out last Saturday.",
+          "ans": "didn't go",
+          "exp": "Negative past simple"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (move) to Chester three years ago.",
+          "ans": "moved",
+          "exp": "Regular verb + ed"
+        },
+        {
+          "type": "fill",
+          "q": "___ you ___ (play) in the park when you were a child?",
+          "ans": "Did / play",
+          "exp": "Question past simple"
+        },
+        {
+          "type": "fill",
+          "q": "My grandfather ___ (have) two brothers.",
+          "ans": "had",
+          "exp": "Past simple of have"
+        },
+        {
+          "type": "fill",
+          "q": "When I ___ (arrive) home, I took off my shoes.",
+          "ans": "arrived",
+          "exp": "Regular verb + ed"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (write) a letter this morning.",
+          "ans": "wrote",
+          "exp": "Irregular: write -> wrote"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (not/be) at home last night.",
+          "ans": "were not",
+          "exp": "Past of be (they)"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (buy) a new car last week.",
+          "ans": "bought",
+          "exp": "Irregular: buy -> bought"
+        },
+        {
+          "type": "fill",
+          "q": "___ she ___ (finish) her work on time?",
+          "ans": "Did / finish",
+          "exp": "Question past simple"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (eat) dinner at a restaurant.",
+          "ans": "ate",
+          "exp": "Irregular: eat -> ate"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (not/know) the answer.",
+          "ans": "didn't know",
+          "exp": "Negative past simple"
+        },
+        {
+          "type": "fill",
+          "q": "The sun ___ (shine) all day yesterday.",
+          "ans": "shone",
+          "exp": "Irregular: shine -> shone"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (stay) in a hotel.",
+          "ans": "stayed",
+          "exp": "Regular verb + ed"
+        },
+        {
+          "type": "fill",
+          "q": "___ you ___ (see) that movie?",
+          "ans": "Did / see",
+          "exp": "Question past simple"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (tell) me a secret.",
+          "ans": "told",
+          "exp": "Irregular: tell -> told"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (not/like) the food.",
+          "ans": "didn't like",
+          "exp": "Negative past simple"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (run) five miles this morning.",
+          "ans": "ran",
+          "exp": "Irregular: run -> ran"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (visit) our grandparents.",
+          "ans": "visited",
+          "exp": "Regular verb + ed"
+        },
+        {
+          "type": "fill",
+          "q": "___ they ___ (arrive) late?",
+          "ans": "Did / arrive",
+          "exp": "Question past simple"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "I saw yesterday Jim",
+            "extra": [
+              "see",
+              "does"
+            ]
+          },
+          {
+            "words": "We go didn't out Saturday last",
+            "extra": [
+              "went",
+              "does"
+            ]
+          },
+          {
+            "words": "She to moved three ago years Chester",
+            "extra": [
+              "move",
+              "does"
+            ]
+          },
+          {
+            "words": "Did play you in park the ?",
+            "extra": [
+              "played",
+              "does"
+            ]
+          },
+          {
+            "words": "My had grandfather brothers two",
+            "extra": [
+              "has",
+              "is"
+            ]
+          },
+          {
+            "words": "I home arrived when I off took shoes my",
+            "extra": [
+              "arrive",
+              "is"
+            ]
+          },
+          {
+            "words": "They not were home at night last",
+            "extra": [
+              "was",
+              "are"
+            ]
+          },
+          {
+            "words": "He a bought car new week last",
+            "extra": [
+              "buy",
+              "has"
+            ]
+          },
+          {
+            "words": "Did finish she work her time on ?",
+            "extra": [
+              "finished",
+              "going"
+            ]
+          },
+          {
+            "words": "We dinner ate at restaurant a",
+            "extra": [
+              "eat",
+              "was"
+            ]
+          },
+          {
+            "words": "I not did know answer the",
+            "extra": [
+              "knew",
+              "was"
+            ]
+          },
+          {
+            "words": "The shone sun day all yesterday",
+            "extra": [
+              "shine",
+              "being"
+            ]
+          },
+          {
+            "words": "They in stayed hotel a",
+            "extra": [
+              "stay",
+              "going"
+            ]
+          },
+          {
+            "words": "Did see you movie that ?",
+            "extra": [
+              "saw",
+              "being"
+            ]
+          },
+          {
+            "words": "She me told secret a",
+            "extra": [
+              "tell",
+              "does"
+            ]
+          },
+          {
+            "words": "I not did like food the",
+            "extra": [
+              "liked",
+              "been"
+            ]
+          },
+          {
+            "words": "He five ran miles morning this",
+            "extra": [
+              "run",
+              "does"
+            ]
+          },
+          {
+            "words": "We our visited grandparents",
+            "extra": [
+              "visit",
+              "been"
+            ]
+          },
+          {
+            "words": "Did arrive they late ?",
+            "extra": [
+              "arrived",
+              "do"
+            ]
+          },
+          {
+            "words": "It a rained last lot night",
+            "extra": [
+              "rain",
+              "did"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Last summer, I {{1}} (go) to Paris. I {{2}} (stay) in a small hotel. Every morning, I {{3}} (eat) a croissant. I {{4}} (visit) many museums. I {{5}} (see) the Eiffel Tower. I {{6}} (not/speak) much French, but I {{7}} (learn) some words. The weather {{8}} (be) beautiful. I {{9}} (meet) some nice people. I {{10}} (have) a great time.",
+            "blanks": {
+              "1": "went",
+              "2": "stayed",
+              "3": "ate",
+              "4": "visited",
+              "5": "saw",
+              "6": "didn't speak",
+              "7": "learned",
+              "8": "was",
+              "9": "met",
+              "10": "had"
+            },
+            "wordbank": [
+              "go",
+              "stay",
+              "eat",
+              "visit",
+              "see",
+              "speak",
+              "learn",
+              "be",
+              "meet",
+              "have",
+              "take",
+              "buy",
+              "run",
+              "sleep"
+            ]
+          },
+          {
+            "text": "Yesterday {{1}} (be) a busy day. I {{2}} (wake up) at 6 AM. I {{3}} (make) breakfast. Then I {{4}} (drive) to work. I {{5}} (finish) my report. At noon, I {{6}} (have) lunch with a friend. We {{7}} (talk) about our plans. I {{8}} (leave) the office at 5 PM. I {{9}} (buy) some groceries. I {{10}} (cook) dinner at home.",
+            "blanks": {
+              "1": "was",
+              "2": "woke up",
+              "3": "made",
+              "4": "drove",
+              "5": "finished",
+              "6": "had",
+              "7": "talked",
+              "8": "left",
+              "9": "bought",
+              "10": "cooked"
+            },
+            "wordbank": [
+              "be",
+              "wake up",
+              "make",
+              "drive",
+              "finish",
+              "have",
+              "talk",
+              "leave",
+              "buy",
+              "cook",
+              "see",
+              "hear",
+              "run",
+              "jump"
+            ]
+          },
+          {
+            "text": "When I {{1}} (be) a child, I {{2}} (live) in a small village. I {{3}} (go) to a local school. I {{4}} (have) many friends. We {{5}} (play) football every day. Sometimes we {{6}} (climb) trees. I {{7}} (not/like) studying, but I {{8}} (love) reading. My teacher {{9}} (be) very kind. She {{10}} (give) me many books.",
+            "blanks": {
+              "1": "was",
+              "2": "lived",
+              "3": "go",
+              "4": "had",
+              "5": "played",
+              "6": "climbed",
+              "7": "didn't like",
+              "8": "loved",
+              "9": "was",
+              "10": "gave"
+            },
+            "wordbank": [
+              "be",
+              "live",
+              "go",
+              "had",
+              "play",
+              "climb",
+              "like",
+              "love",
+              "be",
+              "give",
+              "take",
+              "bring",
+              "send",
+              "find"
+            ]
+          },
+          {
+            "text": "Last weekend, we {{1}} (visit) London. We {{2}} (take) the train. The journey {{3}} (be) two hours. We {{4}} (arrive) at noon. First, we {{5}} (find) our hotel. Then we {{6}} (walk) to the river. We {{7}} (see) Big Ben. We {{8}} (not/have) much money, so we {{9}} (eat) sandwiches. We {{10}} (return) home on Sunday.",
+            "blanks": {
+              "1": "visited",
+              "2": "took",
+              "3": "was",
+              "4": "arrived",
+              "5": "found",
+              "6": "walked",
+              "7": "saw",
+              "8": "didn't have",
+              "9": "ate",
+              "10": "returned"
+            },
+            "wordbank": [
+              "visit",
+              "take",
+              "be",
+              "arrive",
+              "find",
+              "walk",
+              "see",
+              "have",
+              "eat",
+              "return",
+              "stay",
+              "sleep",
+              "drink",
+              "write"
+            ]
+          },
+          {
+            "text": "My grandfather {{1}} (be) a sailor. He {{2}} (travel) all over the world. He {{3}} (see) many amazing things. He {{4}} (tell) us many stories. He {{5}} (not/be) afraid of storms. He {{6}} (love) the sea. He {{7}} (have) a big ship. He {{8}} (meet) many people. He {{9}} (bring) us gifts. We {{10}} (listen) to him for hours.",
+            "blanks": {
+              "1": "was",
+              "2": "travelled",
+              "3": "saw",
+              "4": "told",
+              "5": "wasn't",
+              "6": "loved",
+              "7": "had",
+              "8": "met",
+              "9": "brought",
+              "10": "listened"
+            },
+            "wordbank": [
+              "be",
+              "travel",
+              "see",
+              "tell",
+              "be",
+              "love",
+              "have",
+              "meet",
+              "bring",
+              "listen",
+              "work",
+              "build",
+              "sail",
+              "catch"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy kể chi tiết về kỳ nghỉ hè đáng nhớ nhất của bạn (bạn đã đi đâu, đi cùng ai, những hoạt động chính bạn đã tham gia và cảm xúc của bạn sau chuyến đi đó).",
+          "grammar_focus": "Past Simple",
+          "hint_words": [
+            "last summer",
+            "went to",
+            "travelled with",
+            "visited",
+            "stayed at",
+            "enjoyed",
+            "memorable",
+            "felt happy"
+          ],
+          "min_words": 30,
+          "example": "Last summer, I went to Da Nang with my family for a five-day vacation. We stayed in a beautiful hotel near the beach and visited many famous places like Ba Na Hills and Hoi An Ancient Town. I enjoyed the delicious local food and felt very happy because we spent a lot of quality time together."
+        },
+        {
+          "vi": "Hãy mô tả về một ngày bận rộn của bạn trong tuần vừa qua (bạn đã thức dậy lúc mấy giờ, bạn đã làm những công việc gì và bạn đã kết thúc ngày hôm đó như thế nào).",
+          "grammar_focus": "Past Simple",
+          "hint_words": [
+            "last Monday",
+            "woke up early",
+            "prepared breakfast",
+            "went to work",
+            "finished report",
+            "had a meeting",
+            "felt tired",
+            "relaxed at home"
+          ],
+          "min_words": 30,
+          "example": "Last Monday was a very busy day for me as I woke up at 6 AM to prepare for an important presentation. I went to the office early, had several meetings with my team, and finally finished my report by 5 PM. Although I felt quite tired, I was satisfied with my work and relaxed at home with a good book."
+        },
+        {
+          "vi": "Hãy kể về một kỷ niệm thời thơ ấu mà bạn nhớ nhất (bạn đang ở đâu, bạn đang làm gì, ai đã ở đó cùng bạn và tại sao kỷ niệm đó lại quan trọng với bạn).",
+          "grammar_focus": "Past Simple",
+          "hint_words": [
+            "when I was a child",
+            "lived in",
+            "played with",
+            "remember",
+            "happened",
+            "important",
+            "felt excited",
+            "hometown"
+          ],
+          "min_words": 30,
+          "example": "When I was a child, I lived in a small village and I remember playing football with my friends every afternoon in the local field. One day, we won a small tournament and I felt so excited that I couldn't sleep that night. This memory is important to me because it reminds me of my happy and simple childhood."
+        },
+        {
+          "vi": "Hãy mô tả về một người mà bạn đã gặp trong quá khứ và để lại ấn tượng sâu sắc (người đó là ai, bạn gặp họ ở đâu, họ đã nói hoặc làm gì khiến bạn nhớ mãi).",
+          "grammar_focus": "Past Simple",
+          "hint_words": [
+            "met",
+            "years ago",
+            "teacher",
+            "inspired",
+            "told me",
+            "encouraged",
+            "impressed",
+            "never forget"
+          ],
+          "min_words": 30,
+          "example": "I met an old teacher ten years ago at my high school who inspired me to pursue my dream of becoming a writer. She told me that I had a special talent for storytelling and encouraged me to practice every day. I was deeply impressed by her kindness and I will never forget her valuable advice."
+        },
+        {
+          "vi": "Hãy kể về một sự kiện quan trọng đã xảy ra trong cuộc đời bạn (sự kiện đó là gì, nó đã thay đổi cuộc sống của bạn như thế nào và bạn đã học được điều gì từ đó).",
+          "grammar_focus": "Past Simple",
+          "hint_words": [
+            "important event",
+            "happened",
+            "changed my life",
+            "graduated",
+            "started job",
+            "learned",
+            "experience",
+            "future"
+          ],
+          "min_words": 30,
+          "example": "An important event happened in my life when I graduated from university and moved to a big city to start my first job. This experience changed my life completely because I had to learn how to live independently and manage my own finances. I learned that hard work and perseverance are the keys to success in the future."
+        }
+      ]
+    },
+    {
+      "icon": "🔄",
+      "title": "A2 Past continuous and past simple",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Phân biệt</div>• <b>Past Continuous:</b> Hành động đang diễn ra tại một thời điểm xác định trong quá khứ (I was studying at 9).<br>• <b>Past Simple:</b> Hành động đã hoàn thành (I studied yesterday).</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">🔗 Kết hợp (When/While)</div>• Hành động dài (Continuous) bị cắt ngang bởi hành động ngắn (Simple).<br>• <i>Example:</i> He <b>was playing</b> football when he <b>broke</b> his arm.<br>• <i>Example:</i> While I <b>was walking</b>, it <b>started</b> to rain.</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Công thức Past Continuous</div><b>Khẳng định:</b> S + was/were + V-ing<br><b>Phủ định:</b> S + wasn't/weren't + V-ing<br><b>Câu hỏi:</b> Was/Were + S + V-ing?</div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "I ___ down while I ___ down the stairs.",
+          "opts": "fell / was going,was falling / went,fell / went,was falling / was going",
+          "ans": "A",
+          "exp": "Short action interrupts long action"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ very fast when he ___ the accident.",
+          "opts": "was driving / had,drove / was having,drove / had,was driving / was having",
+          "ans": "A",
+          "exp": "Long action (driving) interrupted by short action (accident)"
+        },
+        {
+          "type": "mc",
+          "q": "It ___ when we ___ home.",
+          "opts": "was snowing / left,snowed / were leaving,snowed / left,was snowing / were leaving",
+          "ans": "A",
+          "exp": "Background scene (snowing) vs completed action (left)"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ your call because I ___.",
+          "opts": "didn't answer / was working,wasn't answering / worked,didn't answer / worked,wasn't answering / was working",
+          "ans": "A",
+          "exp": "Completed action (didn't answer) vs action in progress (working)"
+        },
+        {
+          "type": "mc",
+          "q": "This morning I ___ up and I ___ breakfast.",
+          "opts": "got / made,was getting / was making,got / was making,was getting / made",
+          "ans": "A",
+          "exp": "Series of completed actions"
+        },
+        {
+          "type": "mc",
+          "q": "When I ___ her, she ___ a nice dress.",
+          "opts": "saw / was wearing,was seeing / wore,saw / wore,was seeing / was wearing",
+          "ans": "A",
+          "exp": "Short action (saw) vs background state (wearing)"
+        },
+        {
+          "type": "mc",
+          "q": "Last Saturday we ___ up late and we ___ the train.",
+          "opts": "got / missed,were getting / were missing,got / were missing,were getting / missed",
+          "ans": "A",
+          "exp": "Series of completed actions"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ hello because you ___ very fast.",
+          "opts": "didn't say / were walking,wasn't saying / walked,didn't say / walked,wasn't saying / was walking",
+          "ans": "A",
+          "exp": "Completed action vs action in progress"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ when a loud noise ___ me up.",
+          "opts": "was sleeping / woke,slept / was waking,slept / woke,was sleeping / was waking",
+          "ans": "A",
+          "exp": "Long action interrupted by short action"
+        },
+        {
+          "type": "mc",
+          "q": "___ you paying attention when you ___ your car?",
+          "opts": "Were / crashed,Did / crashed,Were / were crashing,Did / were crashing",
+          "ans": "A",
+          "exp": "Action in progress vs short event"
+        },
+        {
+          "type": "mc",
+          "q": "While I ___ for the bus, I ___ my friend.",
+          "opts": "was waiting / met,waited / was meeting,waited / met,was waiting / was meeting",
+          "ans": "A",
+          "exp": "While + Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "What ___ you ___ at 8 PM last night?",
+          "opts": "were / doing,did / do,was / doing,do / do",
+          "ans": "A",
+          "exp": "Action in progress at specific time"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ a book when the phone ___.",
+          "opts": "was reading / rang,read / was ringing,read / rang,was reading / was ringing",
+          "ans": "A",
+          "exp": "Long action interrupted by short action"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ dinner when the lights ___ out.",
+          "opts": "were having / went,had / were going,had / went,were having / were going",
+          "ans": "A",
+          "exp": "Long action interrupted by short action"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ a shower when you ___.",
+          "opts": "was having / knocked,had / was knocking,had / knocked,was having / was knocking",
+          "ans": "A",
+          "exp": "Long action interrupted by short action"
+        },
+        {
+          "type": "mc",
+          "q": "The children ___ in the garden when it ___ to rain.",
+          "opts": "were playing / started,played / was starting,played / started,were playing / was starting",
+          "ans": "A",
+          "exp": "Long action interrupted by short action"
+        },
+        {
+          "type": "mc",
+          "q": "We ___ TV when we ___ a loud bang.",
+          "opts": "were watching / heard,watched / were hearing,watched / heard,were watching / were hearing",
+          "ans": "A",
+          "exp": "Long action interrupted by short action"
+        },
+        {
+          "type": "mc",
+          "q": "While she ___ the room, she ___ a gold ring.",
+          "opts": "was cleaning / found,cleaned / was finding,cleaned / found,was cleaning / was finding",
+          "ans": "A",
+          "exp": "While + Continuous"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ to music so he ___ the doorbell.",
+          "opts": "was listening / didn't hear,listened / wasn't hearing,listened / didn't hear,was listening / wasn't hearing",
+          "ans": "A",
+          "exp": "Action in progress vs completed action"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ a cake when I ___ my finger.",
+          "opts": "was making / cut,made / was cutting,made / cut,was making / was cutting",
+          "ans": "A",
+          "exp": "Long action interrupted by short action"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (fall) down while I ___ (go) down the stairs.",
+          "ans": "fell / was going",
+          "exp": "Short action interrupts long action"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (drive) very fast when he ___ (have) the accident.",
+          "ans": "was driving / had",
+          "exp": "Long action interrupted by short action"
+        },
+        {
+          "type": "fill",
+          "q": "It ___ (snow) when we ___ (leave) home.",
+          "ans": "was snowing / left",
+          "exp": "Background scene vs completed action"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (not/answer) your call because I ___ (work).",
+          "ans": "didn't answer / was working",
+          "exp": "Completed action vs action in progress"
+        },
+        {
+          "type": "fill",
+          "q": "This morning I ___ (get up) and I ___ (make) breakfast.",
+          "ans": "got up / made",
+          "exp": "Series of completed actions"
+        },
+        {
+          "type": "fill",
+          "q": "When I ___ (see) her, she ___ (wear) a nice dress.",
+          "ans": "saw / was wearing",
+          "exp": "Short action vs background state"
+        },
+        {
+          "type": "fill",
+          "q": "Last Saturday we ___ (get up) late and we ___ (miss) the train.",
+          "ans": "got up / missed",
+          "exp": "Series of completed actions"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (not/say) hello because you ___ (walk) very fast.",
+          "ans": "didn't say / were walking",
+          "exp": "Completed action vs action in progress"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (sleep) happily when a loud noise ___ (wake) me up.",
+          "ans": "was sleeping / woke",
+          "exp": "Long action interrupted by short action"
+        },
+        {
+          "type": "fill",
+          "q": "___ you ___ (pay) attention when you ___ (crash) your car?",
+          "ans": "Were / paying / crashed",
+          "exp": "Action in progress vs short event"
+        },
+        {
+          "type": "fill",
+          "q": "While I ___ (wait) for the bus, I ___ (meet) my friend.",
+          "ans": "was waiting / met",
+          "exp": "While + Continuous"
+        },
+        {
+          "type": "fill",
+          "q": "What ___ you ___ (do) at 8 PM last night?",
+          "ans": "were / doing",
+          "exp": "Action in progress at specific time"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (read) a book when the phone ___ (rang).",
+          "ans": "was reading / rang",
+          "exp": "Long action interrupted by short action"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (have) dinner when the lights ___ (go) out.",
+          "ans": "were having / went",
+          "exp": "Long action interrupted by short action"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (have) a shower when you ___ (knock).",
+          "ans": "was having / knocked",
+          "exp": "Long action interrupted by short action"
+        },
+        {
+          "type": "fill",
+          "q": "The children ___ (play) in the garden when it ___ (start) to rain.",
+          "ans": "were playing / started",
+          "exp": "Long action interrupted by short action"
+        },
+        {
+          "type": "fill",
+          "q": "We ___ (watch) TV when we ___ (hear) a loud bang.",
+          "ans": "were watching / heard",
+          "exp": "Long action interrupted by short action"
+        },
+        {
+          "type": "fill",
+          "q": "While she ___ (clean) the room, she ___ (find) a gold ring.",
+          "ans": "was cleaning / found",
+          "exp": "While + Continuous"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (listen) to music so he ___ (not/hear) the doorbell.",
+          "ans": "was listening / didn't hear",
+          "exp": "Action in progress vs completed action"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (make) a cake when I ___ (cut) my finger.",
+          "ans": "was making / cut",
+          "exp": "Long action interrupted by short action"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "I fell down while I was going stairs the down",
+            "extra": [
+              "fall",
+              "does"
+            ]
+          },
+          {
+            "words": "He was driving fast when he had accident the",
+            "extra": [
+              "drove",
+              "did"
+            ]
+          },
+          {
+            "words": "It was snowing when we left home",
+            "extra": [
+              "snowed",
+              "did"
+            ]
+          },
+          {
+            "words": "I didn't answer because I was working",
+            "extra": [
+              "answering",
+              "going"
+            ]
+          },
+          {
+            "words": "I got up and I made breakfast",
+            "extra": [
+              "getting",
+              "have"
+            ]
+          },
+          {
+            "words": "When I saw her she was wearing a dress",
+            "extra": [
+              "see",
+              "did"
+            ]
+          },
+          {
+            "words": "We got up late and missed the train",
+            "extra": [
+              "missing",
+              "are"
+            ]
+          },
+          {
+            "words": "I didn't say hello because you were walking fast",
+            "extra": [
+              "saying",
+              "was"
+            ]
+          },
+          {
+            "words": "I was sleeping when a noise woke me up",
+            "extra": [
+              "sleep",
+              "will"
+            ]
+          },
+          {
+            "words": "Were you paying attention when you crashed ?",
+            "extra": [
+              "did",
+              "going"
+            ]
+          },
+          {
+            "words": "While I was waiting I met my friend",
+            "extra": [
+              "wait",
+              "do"
+            ]
+          },
+          {
+            "words": "What were you doing at 8 PM ?",
+            "extra": [
+              "did",
+              "going"
+            ]
+          },
+          {
+            "words": "She was reading when the phone rang",
+            "extra": [
+              "read",
+              "were"
+            ]
+          },
+          {
+            "words": "They were having dinner when lights went out",
+            "extra": [
+              "had",
+              "do"
+            ]
+          },
+          {
+            "words": "I was having a shower when you knocked",
+            "extra": [
+              "had",
+              "have"
+            ]
+          },
+          {
+            "words": "Children were playing when it started to rain",
+            "extra": [
+              "play",
+              "being"
+            ]
+          },
+          {
+            "words": "We were watching TV when we heard a bang",
+            "extra": [
+              "watch",
+              "been"
+            ]
+          },
+          {
+            "words": "While she was cleaning she found a ring",
+            "extra": [
+              "clean",
+              "will"
+            ]
+          },
+          {
+            "words": "He was listening to music so he didn't hear",
+            "extra": [
+              "listen",
+              "being"
+            ]
+          },
+          {
+            "words": "I was making a cake when I cut my finger",
+            "extra": [
+              "make",
+              "is"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "Last night at 8 PM, I {{1}} (sit) in my living room. I {{2}} (watch) a movie when suddenly I {{3}} (hear) a strange noise outside. I {{4}} (get up) and {{5}} (look) through the window. It {{6}} (rain) heavily. A man {{7}} (run) down the street. He {{8}} (not/wear) a coat. While I {{9}} (watch) him, he {{10}} (disappear) around the corner.",
+            "blanks": {
+              "1": "was sitting",
+              "2": "was watching",
+              "3": "heard",
+              "4": "got up",
+              "5": "looked",
+              "6": "was raining",
+              "7": "was running",
+              "8": "wasn't wearing",
+              "9": "was watching",
+              "10": "disappeared"
+            },
+            "wordbank": [
+              "sit",
+              "watch",
+              "hear",
+              "get up",
+              "look",
+              "rain",
+              "run",
+              "wear",
+              "watch",
+              "disappear",
+              "jump",
+              "shout",
+              "sleep",
+              "eat"
+            ]
+          },
+          {
+            "text": "Yesterday morning, while I {{1}} (walk) to work, I {{2}} (see) an old friend. He {{3}} (wait) for a bus. We {{4}} (stop) and {{5}} (talk) for a few minutes. While we {{6}} (chat), the bus {{7}} (arrive). He {{8}} (say) goodbye and {{9}} (get) on the bus. I {{10}} (continue) my walk to the office.",
+            "blanks": {
+              "1": "was walking",
+              "2": "saw",
+              "3": "was waiting",
+              "4": "stopped",
+              "5": "talked",
+              "6": "were chatting",
+              "7": "arrived",
+              "8": "said",
+              "9": "got",
+              "10": "continued"
+            },
+            "wordbank": [
+              "walk",
+              "see",
+              "wait",
+              "stop",
+              "talk",
+              "chat",
+              "arrive",
+              "say",
+              "get",
+              "continue",
+              "run",
+              "jump",
+              "sing",
+              "dance"
+            ]
+          },
+          {
+            "text": "When the teacher {{1}} (enter) the classroom, the students {{2}} (not/study). Some {{3}} (talk) loudly, and others {{4}} (draw) on the board. One boy {{5}} (look) out of the window. He {{6}} (watch) some birds. The teacher {{7}} (shout) 'Quiet!'. Everyone {{8}} (sit) down immediately. While she {{9}} (open) her book, the bell {{10}} (ring).",
+            "blanks": {
+              "1": "entered",
+              "2": "were not studying",
+              "3": "were talking",
+              "4": "were drawing",
+              "5": "was looking",
+              "6": "was watching",
+              "7": "shouted",
+              "8": "sat",
+              "9": "was opening",
+              "10": "rang"
+            },
+            "wordbank": [
+              "enter",
+              "study",
+              "talk",
+              "draw",
+              "look",
+              "watch",
+              "shout",
+              "sit",
+              "open",
+              "ring",
+              "play",
+              "eat",
+              "sleep",
+              "run"
+            ]
+          },
+          {
+            "text": "I {{1}} (have) a very strange dream last night. I {{2}} (walk) in a dark forest. The sun {{3}} (not/shine). Suddenly, I {{4}} (see) a giant bird. It {{5}} (fly) above the trees. While I {{6}} (hide) behind a bush, the bird {{7}} (land) on the ground. It {{8}} (look) at me. I {{9}} (scream) and then I {{10}} (wake up).",
+            "blanks": {
+              "1": "had",
+              "2": "was walking",
+              "3": "wasn't shining",
+              "4": "saw",
+              "5": "was flying",
+              "6": "was hiding",
+              "7": "landed",
+              "8": "looked",
+              "9": "screamed",
+              "10": "woke up"
+            },
+            "wordbank": [
+              "have",
+              "walk",
+              "shine",
+              "see",
+              "fly",
+              "hide",
+              "land",
+              "look",
+              "scream",
+              "wake up",
+              "run",
+              "jump",
+              "eat",
+              "drink"
+            ]
+          },
+          {
+            "text": "While my mother {{1}} (cook) dinner, my father {{2}} (read) the newspaper. My sister {{3}} (do) her homework. Suddenly, the lights {{4}} (go) out. We {{5}} (not/know) what to do. My father {{6}} (find) a candle. While he {{7}} (light) it, we {{8}} (hear) a knock at the door. It {{9}} (be) our neighbor. He {{10}} (want) to borrow a flashlight.",
+            "blanks": {
+              "1": "was cooking",
+              "2": "was reading",
+              "3": "was doing",
+              "4": "went",
+              "5": "didn't know",
+              "6": "found",
+              "7": "was lighting",
+              "8": "heard",
+              "9": "was",
+              "10": "wanted"
+            },
+            "wordbank": [
+              "cook",
+              "read",
+              "do",
+              "go",
+              "know",
+              "find",
+              "light",
+              "hear",
+              "be",
+              "want",
+              "eat",
+              "sleep",
+              "play",
+              "shout"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy mô tả một sự việc bất ngờ xảy ra khi bạn đang làm một việc gì đó (bạn đang làm gì, sự việc đó là gì, nó đã cắt ngang hoạt động của bạn như thế nào và bạn đã xử lý ra sao).",
+          "grammar_focus": "Past Continuous & Simple",
+          "hint_words": [
+            "was walking",
+            "suddenly",
+            "saw",
+            "happened",
+            "interrupted",
+            "while I was",
+            "felt surprised",
+            "dealt with"
+          ],
+          "min_words": 30,
+          "example": "While I was walking to the park yesterday, I suddenly saw a small kitten stuck in a tree. I stopped my walk and tried to help it get down safely. It was a very surprising moment, but I felt happy when the kitten finally reached the ground and ran back to its owner."
+        },
+        {
+          "vi": "Hãy kể về một tai nạn nhỏ hoặc một tình huống hài hước đã xảy ra khi bạn đang làm việc nhà hoặc nấu ăn (bạn đang làm gì, điều gì đã xảy ra và kết quả thế nào).",
+          "grammar_focus": "Past Continuous & Simple",
+          "hint_words": [
+            "was cooking",
+            "dropped",
+            "funny situation",
+            "happened",
+            "while I was",
+            "laughed",
+            "result",
+            "kitchen"
+          ],
+          "min_words": 30,
+          "example": "I was cooking dinner for my friends last night when I accidentally dropped a whole bowl of flour on the floor. My face was completely white, and everyone started laughing at my funny appearance. We had to spend thirty minutes cleaning the kitchen, but it was a memorable and hilarious evening."
+        },
+        {
+          "vi": "Hãy mô tả khung cảnh khi bạn bước vào một căn phòng hoặc một bữa tiệc (mọi người đang làm gì, không khí lúc đó ra sao và bạn đã làm gì tiếp theo).",
+          "grammar_focus": "Past Continuous & Simple",
+          "hint_words": [
+            "entered the room",
+            "were dancing",
+            "was playing",
+            "atmosphere",
+            "saw",
+            "joined",
+            "while they were",
+            "felt excited"
+          ],
+          "min_words": 30,
+          "example": "When I entered the room, everyone was dancing and the music was playing very loudly. The atmosphere was incredibly energetic and I saw my friends laughing and having a great time. I joined them immediately and we spent the rest of the night celebrating and enjoying the wonderful party."
+        },
+        {
+          "vi": "Hãy kể về một lần bạn gặp lại một người quen cũ một cách tình cờ (bạn đang ở đâu, bạn đang làm gì lúc đó và cuộc trò chuyện diễn ra như thế nào).",
+          "grammar_focus": "Past Continuous & Simple",
+          "hint_words": [
+            "was shopping",
+            "met",
+            "by chance",
+            "old friend",
+            "were talking",
+            "surprised",
+            "while I was",
+            "reminisced"
+          ],
+          "min_words": 30,
+          "example": "I was shopping at the mall last weekend when I met an old high school friend by chance. He was waiting for his wife near a coffee shop, so we decided to sit down and talk for a while. We reminisced about our school days and shared updates about our current lives and careers."
+        },
+        {
+          "vi": "Hãy mô tả một giấc mơ kỳ lạ mà bạn còn nhớ (bạn đang ở đâu trong giấc mơ, những sự kiện gì đang diễn ra và bạn cảm thấy thế nào khi thức dậy).",
+          "grammar_focus": "Past Continuous & Simple",
+          "hint_words": [
+            "was dreaming",
+            "was flying",
+            "strange dream",
+            "happened",
+            "felt scared",
+            "woke up",
+            "while I was",
+            "remember"
+          ],
+          "min_words": 30,
+          "example": "I was dreaming that I was flying over a giant ocean when suddenly a huge storm appeared in the sky. I felt very scared as the wind was blowing strongly against me, but then I woke up and realized I was safe in my bed. It was such a strange dream that I still remember every detail."
+        }
+      ]
+    },
+    {
+      "icon": "✅",
+      "title": "A2 Past perfect",
+      "level": "elementary",
+      "badge": "📗 A2",
+      "badgeClass": "badge-blue",
+      "content": "<div class=\"rule-box\"><div class=\"rule-label\">📌 Cách dùng</div>Dùng để nói về một hành động xảy ra <b>trước</b> một hành động khác trong quá khứ.<br>• <i>Example:</i> When I arrived, she <b>had left</b>. (Cô ấy đi trước khi tôi đến).</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">📐 Công thức</div><b>Khẳng định:</b> S + had + V3/ed (I'd seen)<br><b>Phủ định:</b> S + hadn't + V3/ed (I hadn't seen)<br><b>Câu hỏi:</b> Had + S + V3/ed? (Had you seen?)</div><div class=\"rule-box\" style=\"margin-top:8px\"><div class=\"rule-label\">⚠️ Phân biệt 'd</div>• 'd + infinitive = <b>would</b> (I'd love to go).<br>• 'd + past participle = <b>had</b> (I'd eaten).</div>",
+      "exercises": [
+        {
+          "type": "mc",
+          "q": "I showed him a letter that I ___.",
+          "opts": "had written,wrote,was writing,write",
+          "ans": "A",
+          "exp": "Action happened before showing"
+        },
+        {
+          "type": "mc",
+          "q": "When I looked through the window, it ___ raining.",
+          "opts": "had started,started,was starting,starts",
+          "ans": "A",
+          "exp": "Raining started before looking"
+        },
+        {
+          "type": "mc",
+          "q": "When you called, I ___ dinner.",
+          "opts": "had had,have,was having,had",
+          "ans": "A",
+          "exp": "Dinner finished before calling"
+        },
+        {
+          "type": "mc",
+          "q": "She gave me a T-shirt that she ___ in the sales.",
+          "opts": "had bought,bought,was buying,buys",
+          "ans": "A",
+          "exp": "Buying happened before giving"
+        },
+        {
+          "type": "mc",
+          "q": "When the teacher arrived, I ___ my composition.",
+          "opts": "had finished,finished,was finishing,finish",
+          "ans": "A",
+          "exp": "Finishing happened before arrival"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ there before.",
+          "opts": "hadn't been,wasn't,haven't been,not was",
+          "ans": "A",
+          "exp": "Past perfect for experience before a past time"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ never ___ before that day.",
+          "opts": "had / worked,has / worked,was / working,did / work",
+          "ans": "A",
+          "exp": "Past perfect with never"
+        },
+        {
+          "type": "mc",
+          "q": "I called him, but he ___ to a meeting.",
+          "opts": "had gone,went,was going,has gone",
+          "ans": "A",
+          "exp": "Gone before calling"
+        },
+        {
+          "type": "mc",
+          "q": "When I left work, I saw that somebody ___ my car.",
+          "opts": "had stolen,stole,was stealing,has stolen",
+          "ans": "A",
+          "exp": "Stealing happened before leaving"
+        },
+        {
+          "type": "mc",
+          "q": "Yesterday my mother told me that she ___ you.",
+          "opts": "had seen,saw,was seeing,has seen",
+          "ans": "A",
+          "exp": "Seeing happened before telling"
+        },
+        {
+          "type": "mc",
+          "q": "By the time we arrived, the film ___.",
+          "opts": "had started,started,was starting,has started",
+          "ans": "A",
+          "exp": "Started before arrival"
+        },
+        {
+          "type": "mc",
+          "q": "He ___ the book before he saw the movie.",
+          "opts": "had read,read,was reading,has read",
+          "ans": "A",
+          "exp": "Reading before seeing movie"
+        },
+        {
+          "type": "mc",
+          "q": "She ___ her homework when her mom came home.",
+          "opts": "had done,did,was doing,has done",
+          "ans": "A",
+          "exp": "Done before mom came"
+        },
+        {
+          "type": "mc",
+          "q": "They ___ lunch when I joined them.",
+          "opts": "had already had,already had,were already having,have already had",
+          "ans": "A",
+          "exp": "Lunch finished before joining"
+        },
+        {
+          "type": "mc",
+          "q": "I ___ him for years before we met again.",
+          "opts": "hadn't seen,didn't see,wasn't seeing,haven't seen",
+          "ans": "A",
+          "exp": "Duration before a past time"
+        },
+        {
+          "type": "mc",
+          "q": "The house was quiet because everyone ___ to bed.",
+          "opts": "had gone,went,was going,has gone",
+          "ans": "A",
+          "exp": "Gone to bed before arrival"
+        },
+        {
+          "type": "mc",
+          "q": "He failed the test because he ___.",
+          "opts": "hadn't studied,didn't study,wasn't studying,hasn't studied",
+          "ans": "A",
+          "exp": "Not studying before the test"
+        },
+        {
+          "type": "mc",
+          "q": "She was nervous because she ___ before.",
+          "opts": "hadn't flown,didn't fly,wasn't flying,hasn't flown",
+          "ans": "A",
+          "exp": "Experience before a past time"
+        },
+        {
+          "type": "mc",
+          "q": "We were hungry because we ___ breakfast.",
+          "opts": "hadn't had,didn't have,weren't having,haven't had",
+          "ans": "A",
+          "exp": "Not having breakfast before feeling hungry"
+        },
+        {
+          "type": "mc",
+          "q": "I recognized her because I ___ her before.",
+          "opts": "had met,met,was meeting,have met",
+          "ans": "A",
+          "exp": "Met before recognition"
+        },
+        {
+          "type": "fill",
+          "q": "I showed him a letter that I ___ (write).",
+          "ans": "had written",
+          "exp": "Action happened before showing"
+        },
+        {
+          "type": "fill",
+          "q": "When I looked through the window, it ___ (start) raining.",
+          "ans": "had started",
+          "exp": "Raining started before looking"
+        },
+        {
+          "type": "fill",
+          "q": "When you called, I ___ (have) dinner.",
+          "ans": "had had",
+          "exp": "Dinner finished before calling"
+        },
+        {
+          "type": "fill",
+          "q": "She gave me a T-shirt that she ___ (buy) in the sales.",
+          "ans": "had bought",
+          "exp": "Buying happened before giving"
+        },
+        {
+          "type": "fill",
+          "q": "When the teacher arrived, I ___ (finish) my composition.",
+          "ans": "had finished",
+          "exp": "Finishing happened before arrival"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (not/be) there before.",
+          "ans": "hadn't been",
+          "exp": "Past perfect for experience"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (never/work) before that day.",
+          "ans": "had never worked",
+          "exp": "Past perfect with never"
+        },
+        {
+          "type": "fill",
+          "q": "I called him, but he ___ (go) to a meeting.",
+          "ans": "had gone",
+          "exp": "Gone before calling"
+        },
+        {
+          "type": "fill",
+          "q": "When I left work, I saw that somebody ___ (steal) my car.",
+          "ans": "had stolen",
+          "exp": "Stealing happened before leaving"
+        },
+        {
+          "type": "fill",
+          "q": "Yesterday my mother told me that she ___ (see) you.",
+          "ans": "had seen",
+          "exp": "Seeing happened before telling"
+        },
+        {
+          "type": "fill",
+          "q": "By the time we arrived, the film ___ (start).",
+          "ans": "had started",
+          "exp": "Started before arrival"
+        },
+        {
+          "type": "fill",
+          "q": "He ___ (read) the book before he saw the movie.",
+          "ans": "had read",
+          "exp": "Reading before seeing movie"
+        },
+        {
+          "type": "fill",
+          "q": "She ___ (do) her homework when her mom came home.",
+          "ans": "had done",
+          "exp": "Done before mom came"
+        },
+        {
+          "type": "fill",
+          "q": "They ___ (already/have) lunch when I joined them.",
+          "ans": "had already had",
+          "exp": "Lunch finished before joining"
+        },
+        {
+          "type": "fill",
+          "q": "I ___ (not/see) him for years before we met again.",
+          "ans": "hadn't seen",
+          "exp": "Duration before a past time"
+        },
+        {
+          "type": "fill",
+          "q": "The house was quiet because everyone ___ (go) to bed.",
+          "ans": "had gone",
+          "exp": "Gone to bed before arrival"
+        },
+        {
+          "type": "fill",
+          "q": "He failed the test because he ___ (not/study).",
+          "ans": "hadn't studied",
+          "exp": "Not studying before the test"
+        },
+        {
+          "type": "fill",
+          "q": "She was nervous because she ___ (not/fly) before.",
+          "ans": "hadn't flown",
+          "exp": "Experience before a past time"
+        },
+        {
+          "type": "fill",
+          "q": "We were hungry because we ___ (not/have) breakfast.",
+          "ans": "hadn't had",
+          "exp": "Not having breakfast before feeling hungry"
+        },
+        {
+          "type": "fill",
+          "q": "I recognized her because I ___ (meet) her before.",
+          "ans": "had met",
+          "exp": "Met before recognition"
+        }
+      ],
+      "practice": {
+        "reorder": [
+          {
+            "words": "I showed him a letter that I had written",
+            "extra": [
+              "write",
+              "were"
+            ]
+          },
+          {
+            "words": "When I looked it had started raining",
+            "extra": [
+              "start",
+              "did"
+            ]
+          },
+          {
+            "words": "When you called I had had dinner",
+            "extra": [
+              "have",
+              "has"
+            ]
+          },
+          {
+            "words": "She gave me a T-shirt she had bought",
+            "extra": [
+              "buy",
+              "being"
+            ]
+          },
+          {
+            "words": "When teacher arrived I had finished composition my",
+            "extra": [
+              "finish",
+              "going"
+            ]
+          },
+          {
+            "words": "I hadn't been there before",
+            "extra": [
+              "was",
+              "will"
+            ]
+          },
+          {
+            "words": "She had never worked before that day",
+            "extra": [
+              "work",
+              "have"
+            ]
+          },
+          {
+            "words": "I called him but he had gone",
+            "extra": [
+              "go",
+              "being"
+            ]
+          },
+          {
+            "words": "Somebody had stolen my car when I left",
+            "extra": [
+              "steal",
+              "will"
+            ]
+          },
+          {
+            "words": "My mother told me she had seen you",
+            "extra": [
+              "saw",
+              "was"
+            ]
+          },
+          {
+            "words": "The film had started by the time we arrived",
+            "extra": [
+              "start",
+              "has"
+            ]
+          },
+          {
+            "words": "He had read the book before the movie",
+            "extra": [
+              "read",
+              "has"
+            ]
+          },
+          {
+            "words": "She had done her homework when mom came",
+            "extra": [
+              "do",
+              "been"
+            ]
+          },
+          {
+            "words": "They had already had lunch when I joined",
+            "extra": [
+              "have",
+              "been"
+            ]
+          },
+          {
+            "words": "I hadn't seen him for years",
+            "extra": [
+              "saw",
+              "do"
+            ]
+          },
+          {
+            "words": "Everyone had gone to bed so it was quiet",
+            "extra": [
+              "go",
+              "going"
+            ]
+          },
+          {
+            "words": "He failed because he hadn't studied",
+            "extra": [
+              "study",
+              "was"
+            ]
+          },
+          {
+            "words": "She was nervous because she hadn't flown",
+            "extra": [
+              "fly",
+              "do"
+            ]
+          },
+          {
+            "words": "We were hungry because we hadn't had breakfast",
+            "extra": [
+              "have",
+              "going"
+            ]
+          },
+          {
+            "words": "I recognized her because I had met her",
+            "extra": [
+              "meet",
+              "being"
+            ]
+          }
+        ],
+        "passage": [
+          {
+            "text": "When I {{1}} (arrive) at the station, the train {{2}} (already/leave). I {{3}} (be) very upset because I {{4}} (buy) my ticket online. I {{5}} (not/know) what to do. I {{6}} (call) my friend, but she {{7}} (go) to work. I {{8}} (realize) that I {{9}} (forget) my phone at home. It {{10}} (be) a terrible morning.",
+            "blanks": {
+              "1": "arrived",
+              "2": "had already left",
+              "3": "was",
+              "4": "had bought",
+              "5": "didn't know",
+              "6": "called",
+              "7": "had gone",
+              "8": "realized",
+              "9": "had forgotten",
+              "10": "was"
+            },
+            "wordbank": [
+              "arrive",
+              "leave",
+              "be",
+              "buy",
+              "know",
+              "call",
+              "go",
+              "realize",
+              "forget",
+              "be",
+              "take",
+              "bring",
+              "send",
+              "find"
+            ]
+          },
+          {
+            "text": "Yesterday, I {{1}} (go) to the library to return a book that I {{2}} (borrow) two weeks before. When I {{3}} (get) there, I {{4}} (see) that the library {{5}} (close). I {{6}} (not/check) the opening hours. I {{7}} (be) very disappointed because I {{8}} (walk) for thirty minutes. I {{9}} (decide) to come back the next day. I {{10}} (hope) it would be open.",
+            "blanks": {
+              "1": "went",
+              "2": "had borrowed",
+              "3": "got",
+              "4": "saw",
+              "5": "had closed",
+              "6": "hadn't checked",
+              "7": "was",
+              "8": "had walked",
+              "9": "decided",
+              "10": "hoped"
+            },
+            "wordbank": [
+              "go",
+              "borrow",
+              "get",
+              "see",
+              "close",
+              "check",
+              "be",
+              "walk",
+              "decide",
+              "hope",
+              "run",
+              "jump",
+              "sing",
+              "dance"
+            ]
+          },
+          {
+            "text": "Sarah {{1}} (feel) very nervous before her exam. She {{2}} (not/sleep) well the night before. She {{3}} (study) hard for months, but she {{4}} (fear) that she {{5}} (forget) everything. When she {{6}} (start) the test, she {{7}} (realize) that she {{8}} (know) most of the answers. She {{9}} (be) so relieved. She {{10}} (pass) with a high score.",
+            "blanks": {
+              "1": "felt",
+              "2": "hadn't slept",
+              "3": "had studied",
+              "4": "feared",
+              "5": "had forgotten",
+              "6": "started",
+              "7": "realized",
+              "8": "knew",
+              "9": "was",
+              "10": "passed"
+            },
+            "wordbank": [
+              "feel",
+              "sleep",
+              "study",
+              "fear",
+              "forget",
+              "start",
+              "realize",
+              "know",
+              "be",
+              "pass",
+              "fail",
+              "write",
+              "read",
+              "speak"
+            ]
+          },
+          {
+            "text": "When we {{1}} (reach) the top of the mountain, we {{2}} (be) exhausted. We {{3}} (climb) for six hours. The view {{4}} (be) amazing. We {{5}} (never/see) anything like it before. We {{6}} (take) many photos. My friend {{7}} (bring) some sandwiches that his mother {{8}} (make). We {{9}} (eat) them quickly. We {{10}} (feel) very proud of ourselves.",
+            "blanks": {
+              "1": "reached",
+              "2": "were",
+              "3": "had climbed",
+              "4": "was",
+              "5": "had never seen",
+              "6": "took",
+              "7": "brought",
+              "8": "had made",
+              "9": "ate",
+              "10": "felt"
+            },
+            "wordbank": [
+              "reach",
+              "be",
+              "climb",
+              "be",
+              "see",
+              "take",
+              "bring",
+              "make",
+              "eat",
+              "feel",
+              "run",
+              "jump",
+              "shout",
+              "sleep"
+            ]
+          },
+          {
+            "text": "I {{1}} (not/recognize) my cousin at first. I {{2}} (not/see) him for ten years. He {{3}} (change) a lot. He {{4}} (grow) a beard and he {{5}} (lose) weight. We {{6}} (start) talking about our childhood. He {{7}} (tell) me that he {{8}} (move) to Australia. He {{9}} (be) there for three years. We {{10}} (have) a lot to catch up on.",
+            "blanks": {
+              "1": "didn't recognize",
+              "2": "hadn't seen",
+              "3": "had changed",
+              "4": "had grown",
+              "5": "had lost",
+              "6": "started",
+              "7": "told",
+              "8": "had moved",
+              "9": "had been",
+              "10": "had"
+            },
+            "wordbank": [
+              "recognize",
+              "see",
+              "change",
+              "grow",
+              "lose",
+              "start",
+              "tell",
+              "move",
+              "be",
+              "have",
+              "work",
+              "live",
+              "study",
+              "play"
+            ]
+          }
+        ]
+      },
+      "writing_prompts": [
+        {
+          "vi": "Hãy kể về một lần bạn đến muộn trong một sự kiện quan trọng (bạn đã đến đâu, tại sao bạn lại muộn và khi bạn đến thì mọi chuyện đã diễn ra như thế nào).",
+          "grammar_focus": "Past Perfect",
+          "hint_words": [
+            "arrived late",
+            "had already started",
+            "missed the beginning",
+            "felt embarrassed",
+            "because I had",
+            "forgotten",
+            "traffic jam",
+            "lesson learned"
+          ],
+          "min_words": 30,
+          "example": "I arrived late for my best friend's wedding ceremony last Saturday because I had forgotten the exact location of the church. By the time I got there, the ceremony had already finished and everyone was taking photos outside. I felt very embarrassed, but I apologized and joined the celebration later."
+        },
+        {
+          "vi": "Hãy mô tả cảm giác của bạn khi hoàn thành một công việc khó khăn mà bạn đã chuẩn bị từ lâu (công việc đó là gì, bạn đã nỗ lực ra sao và kết quả đó có ý nghĩa gì).",
+          "grammar_focus": "Past Perfect",
+          "hint_words": [
+            "had prepared",
+            "finally finished",
+            "felt relieved",
+            "had worked hard",
+            "achieved",
+            "important goal",
+            "success",
+            "months of study"
+          ],
+          "min_words": 30,
+          "example": "I felt incredibly relieved when I finally finished my final university project last month because I had prepared for it for over six months. I had worked hard every night to research and write the report, and achieving a high grade was a very important goal for my future career."
+        },
+        {
+          "vi": "Hãy kể về một lần bạn nhận ra mình đã quên một thứ gì đó quan trọng (bạn đang ở đâu, bạn đã quên gì và điều đó đã gây ra rắc rối gì cho bạn).",
+          "grammar_focus": "Past Perfect",
+          "hint_words": [
+            "realized",
+            "had forgotten",
+            "important document",
+            "at home",
+            "felt worried",
+            "had to go back",
+            "trouble",
+            "meeting"
+          ],
+          "min_words": 30,
+          "example": "I was already at the airport when I suddenly realized that I had forgotten my passport at home on the kitchen table. I felt extremely worried because my flight was leaving in two hours and I had to take a taxi back to get it. Fortunately, I managed to return just in time for boarding."
+        },
+        {
+          "vi": "Hãy mô tả một nơi mà bạn đã quay lại sau nhiều năm (nơi đó đã thay đổi như thế nào so với lần cuối bạn ở đó và cảm xúc của bạn ra sao).",
+          "grammar_focus": "Past Perfect",
+          "hint_words": [
+            "returned to",
+            "had changed",
+            "many years",
+            "hometown",
+            "felt nostalgic",
+            "had built",
+            "new buildings",
+            "memories"
+          ],
+          "min_words": 30,
+          "example": "I returned to my hometown last summer after I had lived in the city for ten years, and I was surprised by how much it had changed. The local government had built many new buildings and parks, but the old school where I had studied was still there. I felt very nostalgic and happy to see my old neighbors."
+        },
+        {
+          "vi": "Hãy kể về một lần bạn gặp lại một người mà bạn đã không thấy trong một thời gian dài (người đó là ai, họ đã thay đổi như thế nào và hai bạn đã nói gì).",
+          "grammar_focus": "Past Perfect",
+          "hint_words": [
+            "met again",
+            "hadn't seen",
+            "long time",
+            "changed a lot",
+            "had grown",
+            "talked about",
+            "surprised",
+            "updates"
+          ],
+          "min_words": 30,
+          "example": "I met my cousin again last week at a family reunion after I hadn't seen him for nearly fifteen years. He had changed a lot because he had grown much taller and had started his own business in another country. We talked for hours about our lives and shared many updates about our families."
+        }
+      ]
+    }
+  ]
+}
